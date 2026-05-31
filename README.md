@@ -23,6 +23,12 @@ importador reproducible para regenerarlo cuando se añadan nuevos exámenes.
 
 Después visita [http://localhost:8000](http://localhost:8000).
 
+## Web pública
+
+La rama `develop` se publica automáticamente mediante GitHub Pages:
+
+[https://epastorc.github.io/oposici-n-tcae/](https://epastorc.github.io/oposici-n-tcae/)
+
 ## Regenerar el banco de preguntas
 
 El script crea automáticamente un entorno virtual local e instala `pypdf` la
