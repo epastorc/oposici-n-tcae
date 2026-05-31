@@ -4425,12 +4425,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-45": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Decreto 221/2008, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -8888,12 +8890,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-9": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Decreto 221/2008, artículo 2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17335,12 +17339,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-75": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 10",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17372,12 +17378,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-25": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 16",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17535,12 +17543,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-87": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 6",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17689,12 +17699,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-38": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18201,12 +18213,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20096,12 +20110,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-32": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20717,12 +20733,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-14": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22302,12 +22320,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-7": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 3 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22789,12 +22809,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-36": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23011,12 +23033,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-6": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Decreto 221/2008, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28008,12 +28032,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-2": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Título preliminar",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28121,12 +28147,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-48": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31426,12 +31454,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-26": "d",
+        "tcae_examen-38-64": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Decreto 221/2008, artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31537,12 +31568,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-71": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33791,12 +33824,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-37": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35082,12 +35117,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-39": "d",
+        "tcae_examen-38-50": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -40741,12 +40779,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-10": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 12",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -40778,12 +40818,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-17": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42365,12 +42407,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-8": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 14/1986, título I",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43393,12 +43437,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-84": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Decreto 221/2008, artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -45908,12 +45954,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-21": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 12",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46684,12 +46732,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-44": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46895,12 +46945,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-16": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -52404,12 +52456,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-86": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -57813,12 +57867,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-12": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60823,12 +60879,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Decreto 221/2008, encabezado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67210,12 +67268,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-24": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, competencias de la Junta de Extremadura",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69255,12 +69315,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-74": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69292,12 +69354,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-69": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70447,12 +70511,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-89": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 12",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73682,12 +73748,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-34": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74471,12 +74539,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-47": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, consentimiento informado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77778,12 +77848,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-11": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Decreto 221/2008, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -85990,12 +86062,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-1": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89492,12 +89566,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-52": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, competencias de la Junta de Extremadura",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93998,12 +94074,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-43": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 10",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94072,12 +94150,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-80": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 12",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -95069,12 +95149,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-58": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 3 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -95646,12 +95728,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-82": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100240,12 +100324,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-59": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, ordenación asistencial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100277,12 +100363,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-77": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -101669,12 +101757,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-3": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Artículo 2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -101951,12 +102041,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-40": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -102012,7 +102104,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-30-25": "d"
+        "tcae_examen-30-25": "d",
+        "tcae_examen-38-27": "b"
       },
       "status": "verified",
       "confidence": "high",
@@ -102087,12 +102180,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-23": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -102862,12 +102957,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-54": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Decreto 221/2008, artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -104073,12 +104170,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-4": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Decreto 221/2008, encabezado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107718,12 +107817,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-38-42": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "sourceDetail": "Ley 10/2001, artículo 10",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

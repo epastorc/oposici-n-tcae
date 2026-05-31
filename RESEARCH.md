@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `888`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `20`.
+- Soluciones verificadas: `940`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `26`.
 
 ## Criterio
 
@@ -49,6 +49,11 @@ Se ha iniciado `TCAE_EXAMEN 35.pdf`, recopilatorio sobre la Constitución Españ
 El bloque `TCAE_EXAMEN 35.pdf` queda revisado con `360` respuestas verificadas
 contra el texto consolidado publicado en el BOE. Ocho preguntas permanecen excluidas
 por ofrecer respuestas incompletas o varias opciones válidas.
+
+Se ha iniciado `TCAE_EXAMEN 38.pdf` sobre Ley de Salud de Extremadura y Estatutos
+del SES. La primera tanda incorpora respuestas estables de la Ley 10/2001 y del
+Decreto 221/2008 publicado en el DOE; las preguntas dependientes de versiones del
+organigrama quedan pendientes de revisión consolidada.
 
 ## Plantillas oficiales SES
 
