@@ -26,6 +26,12 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
+      - name: Generate deployment version
+        run: |
+          printf '{"commit":"%s","deployedAt":"%s"}\n' \
+            "$(git rev-parse --short HEAD)" \
+            "$(date -u +'%Y-%m-%d %H:%M UTC')" \
+            > web/version.json
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:

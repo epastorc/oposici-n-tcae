@@ -29,6 +29,9 @@ La rama `develop` se publica automáticamente mediante GitHub Pages:
 
 [https://epastorc.github.io/oposici-n-tcae/](https://epastorc.github.io/oposici-n-tcae/)
 
+Cada despliegue genera `web/version.json` con el commit publicado y la fecha UTC.
+La versión se muestra en el pie de página para comprobar qué subida está activa.
+
 ## Regenerar el banco de preguntas
 
 El script crea automáticamente un entorno virtual local e instala `pypdf` la

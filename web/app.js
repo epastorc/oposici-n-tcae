@@ -103,3 +103,6 @@ fetch("data/questions.json").then(response => response.json()).then(data => {
   const verified = state.bank.filter(question => question.correctAnswer).length;
   $("catalog").textContent = `${state.bank.length} preguntas disponibles procedentes de ${data.sources.length} exámenes. ${verified} soluciones verificadas en fuentes oficiales.`;
 }).catch(() => $("catalog").textContent = "No se ha encontrado el banco de preguntas. Ejecuta el importador.");
+fetch("version.json", { cache: "no-store" }).then(response => response.json()).then(version => {
+  $("version").textContent = `Versión ${version.commit} · ${version.deployedAt}`;
+}).catch(() => {});
