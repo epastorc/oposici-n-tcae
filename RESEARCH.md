@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `940`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `26`.
+- Soluciones verificadas: `961`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `28`.
 
 ## Criterio
 
@@ -54,6 +54,11 @@ Se ha iniciado `TCAE_EXAMEN 38.pdf` sobre Ley de Salud de Extremadura y Estatuto
 del SES. La primera tanda incorpora respuestas estables de la Ley 10/2001 y del
 Decreto 221/2008 publicado en el DOE; las preguntas dependientes de versiones del
 organigrama quedan pendientes de revisión consolidada.
+
+La segunda tanda del mismo examen contrasta la estructura del SES con la
+consolidación ELI del Decreto 221/2008. Se publican `76` respuestas verificadas del
+bloque y se excluyen dos preguntas de personal cuyas opciones ya no coinciden con
+la estructura orgánica consolidada.
 
 ## Plantillas oficiales SES
 

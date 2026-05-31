@@ -33,6 +33,10 @@ def main() -> None:
                 item["status"] = "verified"
                 item["confidence"] = "high"
                 item["sourceUrl"] = seeds["sourceUrl"]
+                for source_prefix, source_url in seeds.get("sourceUrls", {}).items():
+                    if seeded[1].startswith(source_prefix):
+                        item["sourceUrl"] = source_url
+                        break
                 item["sourceDetail"] = seeded[1]
                 item["reviewedAt"] = seeds["reviewedAt"]
                 updated += 1
