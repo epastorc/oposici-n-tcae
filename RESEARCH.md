@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `961`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `28`.
+- Soluciones verificadas: `971`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `23`.
 
 ## Criterio
 
@@ -59,6 +59,12 @@ La segunda tanda del mismo examen contrasta la estructura del SES con la
 consolidación ELI del Decreto 221/2008. Se publican `76` respuestas verificadas del
 bloque y se excluyen dos preguntas de personal cuyas opciones ya no coinciden con
 la estructura orgánica consolidada.
+
+La revisión final de `TCAE_EXAMEN 38.pdf` contrasta además el articulado completo de
+la Ley 10/2001 publicado en el DOE. El bloque queda cerrado con `86` respuestas
+verificadas y tres exclusiones: dos por opciones ligadas a un organigrama histórico
+y una por mezclar regímenes jurídicos distintos para extranjeros residentes y no
+residentes.
 
 ## Plantillas oficiales SES
 
