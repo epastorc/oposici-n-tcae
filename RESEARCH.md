@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.159`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `277`.
+- Soluciones verificadas: `2.208`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `295`.
 
 ## Criterio
 
@@ -226,6 +226,13 @@ respuestas verificadas y `20` exclusiones. La normativa se contrasta con la
 Constitución, la Ley 39/2006 y el Real Decreto 521/1987, además de la información
 institucional del SEPAD. Se excluyen escalas, protocolos locales y taxonomías no
 uniformes.
+
+Se ha revisado `TCAE_EXAMEN 27.pdf`, dedicado a salud mental, bioética, cuidados
+post mortem, movilización y prevención de lesiones por presión. Queda cerrado con
+`58` respuestas verificadas y `18` exclusiones. Las referencias principales son
+la Ley 41/2002, la Ley 55/2003, la Ley 14/1986 y la guía pública de GuíaSalud. Se
+excluyen contención mecánica, maniobras, escalas y dispositivos sujetos a
+protocolo.
 
 ## Plantillas oficiales SES
 

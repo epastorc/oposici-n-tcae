@@ -16124,7 +16124,7 @@
         }
       ],
       "correctAnswer": "b",
-      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
       "answerSourceDetail": "Ley 41/2002, artículo 3, documentación clínica",
       "answerReviewedAt": "2026-05-31"
     },
@@ -28164,8 +28164,8 @@
         }
       ],
       "correctAnswer": "d",
-      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
-      "answerSourceDetail": "Cuidados básicos, planificación de higiene por enfermería",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Higiene personal más allá de la piel",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -32280,7 +32280,7 @@
         }
       ],
       "correctAnswer": "b",
-      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
       "answerSourceDetail": "Ley 41/2002, artículo 3, documentación clínica",
       "answerReviewedAt": "2026-05-31"
     },
@@ -37963,10 +37963,10 @@
           "text": "El Centro de Día."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Salud mental, unidad de agudos como hospitalización completa",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-2",
@@ -37991,10 +37991,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Fisiología respiratoria, apnea",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-3",
@@ -38131,10 +38131,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Bioética, consentimiento informado como expresión de autonomía",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-8",
@@ -38159,10 +38159,10 @@
           "text": "Incluye únicamente a los familiares del paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Deontología sanitaria, secreto profesional de todo el personal con acceso",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-9",
@@ -38187,10 +38187,10 @@
           "text": "El principio activo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Farmacología, principio activo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-10",
@@ -38215,10 +38215,10 @@
           "text": "Apnea intermitente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Cuidados post mortem, cese respiratorio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-11",
@@ -38243,10 +38243,10 @@
           "text": "Beneficencia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Bioética, autonomía",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-12",
@@ -38271,10 +38271,10 @@
           "text": "Justicia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Bioética, no maleficencia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-13",
@@ -38299,10 +38299,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Bioética, límites de autonomía por falta de capacidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-14",
@@ -38327,10 +38327,10 @@
           "text": "La recuperación"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Cuidados paliativos, terminalidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-15",
@@ -38383,10 +38383,10 @@
           "text": "Fowler."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Cuidados post mortem, decúbito supino antes de rigidez",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-17",
@@ -38439,10 +38439,10 @@
           "text": "Enfermera de anestesia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Área quirúrgica, cirujano en equipo estéril",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-19",
@@ -38467,10 +38467,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 19.j, deber de reserva y confidencialidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-20",
@@ -38495,10 +38495,10 @@
           "text": "Postoperatorio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Cuidados perioperatorios, perioperatorio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-21",
@@ -38579,10 +38579,10 @@
           "text": "Necesidad de comer."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Maslow, respiración como necesidad fisiológica prioritaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-24",
@@ -38607,10 +38607,10 @@
           "text": "De autorrealización."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Maslow, autorrealización",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-25",
@@ -38635,10 +38635,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Reacciones ante enfermedad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-26",
@@ -38663,10 +38663,10 @@
           "text": "Agudos y crónicos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Cuidados post mortem, signos inmediatos y tardíos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-27",
@@ -38691,10 +38691,10 @@
           "text": "Ictus."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Urgencias, politraumatismo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-28",
@@ -38775,10 +38775,10 @@
           "text": "SOS."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Farmacología, placebo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-31",
@@ -38859,10 +38859,10 @@
           "text": "La higiene personal incluye los hábitos de cada persona."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Higiene personal más allá de la piel",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-34",
@@ -38915,10 +38915,10 @@
           "text": "Catástrofe sanitaria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Urgencias, emergencia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-36",
@@ -38943,10 +38943,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 3, documentación clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-37",
@@ -38971,10 +38971,10 @@
           "text": "Todas las respuestas son correctas"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Cuidados paliativos, confort",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-38",
@@ -38999,10 +38999,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Cuidados post mortem, midriasis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-39",
@@ -39027,10 +39027,10 @@
           "text": "El Centro de pacientes crónicos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Salud mental, centro de pacientes crónicos no es hospitalización parcial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-40",
@@ -39055,10 +39055,10 @@
           "text": "Cubrir las heridas e incisiones abiertas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Cuidados post mortem, alineación en supino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-41",
@@ -39083,10 +39083,10 @@
           "text": "24 horas después de la muerte."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Cuidados post mortem, rigor mortis inicial en primeras horas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-42",
@@ -39139,10 +39139,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, superficie alternante redistribuye presión",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-44",
@@ -39195,10 +39195,10 @@
           "text": "No asistida."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Movilización activa",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-46",
@@ -39279,10 +39279,10 @@
           "text": "Si, únicamente enfermos femeninos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Salud mental, ingreso de pacientes con toxicomanías",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-49",
@@ -39307,10 +39307,10 @@
           "text": "El Celador."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Urgencias hospitalarias, bioquímico no presta servicio regular en la unidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-50",
@@ -39335,10 +39335,10 @@
           "text": "Subjetivo, como la presión arterial."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Semiología, signo objetivo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-51",
@@ -39363,10 +39363,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Electrocardiograma, prueba incruenta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-52",
@@ -39419,10 +39419,10 @@
           "text": "Equipo multidisciplinar sanitario."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Organización sanitaria, equipo de atención primaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-54",
@@ -39503,10 +39503,10 @@
           "text": "Mantener la ropa de la cama bien estirada."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, ropa de cama estirada para reducir fricción",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-57",
@@ -39531,10 +39531,10 @@
           "text": "Trocánter."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Anatomía, acromion",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-58",
@@ -39587,10 +39587,10 @@
           "text": "Celador."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Atención primaria, traumatólogo no integra ordinariamente centro de salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-60",
@@ -39615,10 +39615,10 @@
           "text": "Nacional."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Ley 14/1986, hospital general por cada área de salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-61",
@@ -39643,10 +39643,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Ley 14/1986, consultorio local de atención primaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-62",
@@ -39671,10 +39671,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Comunicación no verbal, adaptadores",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-63",
@@ -39727,10 +39727,10 @@
           "text": "Código no lingüístico acústico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Comunicación no verbal, código acústico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-65",
@@ -39755,10 +39755,10 @@
           "text": "Nutrición rica en proteínas y vitaminas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, desbridamiento como tratamiento y no prevención",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-66",
@@ -39839,10 +39839,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Exploración física, palpación, percusión y auscultación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-69",
@@ -39867,10 +39867,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Semiología, nerviosismo como síntoma",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-70",
@@ -39895,10 +39895,10 @@
           "text": "Subjetivo, como la presión arterial."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Semiología, signo objetivo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-71",
@@ -39923,10 +39923,10 @@
           "text": "Roser."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Cuidados intestinales, posición Sims para enema",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-72",
@@ -39979,10 +39979,10 @@
           "text": "Talleres ocupacionales. RESERVA:"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Salud mental, centro de día para rehabilitación psicosocial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-74",
@@ -40063,10 +40063,10 @@
           "text": "Colon descendente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Anatomía digestiva, enema no alcanza íleon",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-28-1",
@@ -80188,8 +80188,8 @@
         }
       ],
       "correctAnswer": "d",
-      "answerSource": "https://medlineplus.gov/spanish/",
-      "answerSourceDetail": "GuíaSalud, prevención frente a tratamiento de lesión necrótica",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, desbridamiento como tratamiento y no prevención",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -80216,8 +80216,8 @@
         }
       ],
       "correctAnswer": "b",
-      "answerSource": "https://medlineplus.gov/spanish/",
-      "answerSourceDetail": "GuíaSalud, prevención frente a tratamiento de lesión necrótica",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, desbridamiento como tratamiento y no prevención",
       "answerReviewedAt": "2026-05-31"
     },
     {

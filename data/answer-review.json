@@ -483,12 +483,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-27": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Urgencias, politraumatismo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -2154,12 +2156,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-20": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados perioperatorios, perioperatorio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -2871,12 +2875,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-16": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados post mortem, decúbito supino antes de rigidez",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3186,12 +3192,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-35": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Urgencias, emergencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4174,12 +4182,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-37": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados paliativos, confort",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4673,12 +4683,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-57": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Anatomía, acromion",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5592,12 +5604,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-73": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Salud mental, centro de día para rehabilitación psicosocial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -8875,12 +8889,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-25": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Reacciones ante enfermedad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -9509,12 +9525,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-23": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Maslow, respiración como necesidad fisiológica prioritaria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -12196,12 +12214,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-59": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Atención primaria, traumatólogo no integra ordinariamente centro de salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23244,12 +23264,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-53": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Organización sanitaria, equipo de atención primaria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25087,12 +25109,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-51": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Electrocardiograma, prueba incruenta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25452,12 +25476,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-76": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Anatomía digestiva, enema no alcanza íleon",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28306,12 +28332,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-69": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Semiología, nerviosismo como síntoma",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30899,12 +30927,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-13": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Bioética, límites de autonomía por falta de capacidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31704,12 +31734,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-12": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Bioética, no maleficencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31804,12 +31836,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-41": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados post mortem, rigor mortis inicial en primeras horas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31917,12 +31951,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-8": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Deontología sanitaria, secreto profesional de todo el personal con acceso",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32334,11 +32370,12 @@
       "answer": null,
       "variantAnswers": {
         "tcae_examen-17-23": "b",
-        "tcae_examen-24-19": "b"
+        "tcae_examen-24-19": "b",
+        "tcae_examen-27-36": "b"
       },
       "status": "verified",
       "confidence": "high",
-      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
       "sourceDetail": "Ley 41/2002, artículo 3, documentación clínica",
       "reviewedAt": "2026-05-31",
       "notes": null
@@ -32912,12 +32949,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-45": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Movilización activa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33487,12 +33526,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-30": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Farmacología, placebo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36124,12 +36165,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-24": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Maslow, autorrealización",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46169,12 +46212,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-9": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Farmacología, principio activo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47375,12 +47420,13 @@
       "answer": null,
       "variantAnswers": {
         "tcae_examen-6-52": "d",
-        "tcae_examen-6-53": "b"
+        "tcae_examen-6-53": "b",
+        "tcae_examen-27-65": "b"
       },
       "status": "verified",
       "confidence": "high",
-      "sourceUrl": "https://medlineplus.gov/spanish/",
-      "sourceDetail": "GuíaSalud, prevención frente a tratamiento de lesión necrótica",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "sourceDetail": "GuíaSalud, desbridamiento como tratamiento y no prevención",
       "reviewedAt": "2026-05-31",
       "notes": null
     },
@@ -49527,12 +49573,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-71": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados intestinales, posición Sims para enema",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49564,12 +49612,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-11": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Bioética, autonomía",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49947,12 +49997,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-2": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Fisiología respiratoria, apnea",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56407,12 +56459,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-68": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Exploración física, palpación, percusión y auscultación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61575,12 +61629,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-7": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Bioética, consentimiento informado como expresión de autonomía",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61844,12 +61900,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-38": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados post mortem, midriasis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67048,12 +67106,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-14": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados paliativos, terminalidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73110,12 +73170,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-62": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Comunicación no verbal, adaptadores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -75558,12 +75620,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-26": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados post mortem, signos inmediatos y tardíos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79253,12 +79317,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-39": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Salud mental, centro de pacientes crónicos no es hospitalización parcial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79585,12 +79651,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-49": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Urgencias hospitalarias, bioquímico no presta servicio regular en la unidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79876,12 +79944,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-1": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Salud mental, unidad de agudos como hospitalización completa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -84211,12 +84281,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-48": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Salud mental, ingreso de pacientes con toxicomanías",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86089,12 +86161,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-64": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Comunicación no verbal, código acústico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86958,12 +87032,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-19": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 19.j, deber de reserva y confidencialidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -87898,12 +87974,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "sourceDetail": "GuíaSalud, ropa de cama estirada para reducir fricción",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89828,12 +89906,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-61": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "sourceDetail": "Ley 14/1986, consultorio local de atención primaria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90175,12 +90255,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "sourceDetail": "Ley 14/1986, hospital general por cada área de salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -95699,12 +95781,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-50": "a",
+        "tcae_examen-27-70": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Semiología, signo objetivo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105476,12 +105561,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-18": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Área quirúrgica, cirujano en equipo estéril",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106230,12 +106317,13 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-22-12": "d"
+        "tcae_examen-22-12": "d",
+        "tcae_examen-27-33": "b"
       },
       "status": "verified",
       "confidence": "high",
-      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
-      "sourceDetail": "Cuidados básicos, planificación de higiene por enfermería",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Higiene personal más allá de la piel",
       "reviewedAt": "2026-05-31",
       "notes": null
     },
@@ -106346,12 +106434,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-40": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados post mortem, alineación en supino",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -111580,12 +111670,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-10": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados post mortem, cese respiratorio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -111793,12 +111885,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-43": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "sourceDetail": "GuíaSalud, superficie alternante redistribuye presión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
