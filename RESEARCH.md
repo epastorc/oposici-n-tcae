@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.086`.
+- Soluciones verificadas: `1.154`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `24`.
 
 ## Criterio
@@ -80,6 +80,10 @@ Decreto 47/2023. La siguiente tanda revisará la organización territorial de la
 La segunda tanda cierra `TCAE_EXAMEN 16.pdf` con `57` respuestas verificadas. Se
 han incorporado la organización territorial del Decreto 189/2004 y las unidades de
 apoyo y órganos de la zona de salud regulados por el Decreto 47/2023.
+
+Se ha revisado íntegramente `TCAE_EXAMEN 21.pdf` contra la Ley 10/2001 y la
+consolidación ELI del Decreto 221/2008. Sus `52` respuestas quedan verificadas y la
+deduplicación propaga además las coincidencias exactas presentes en otros bloques.
 
 ## Plantillas oficiales SES
 
