@@ -1500,12 +1500,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-18": "c",
+        "tcae_examen-20-71": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure/classes-of-heart-failure",
+      "sourceDetail": "American Heart Association, dolor torácico persistente y atención urgente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -1652,12 +1655,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-56": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, diarrea y reposición de líquidos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -8399,12 +8404,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-47": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Higiene del paciente, objetivos generales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10484,12 +10491,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-2": "d",
+        "tcae_examen-20-95": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía cardiovascular, sistema de conducción",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28907,12 +28917,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-52": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure/classes-of-heart-failure",
+      "sourceDetail": "American Heart Association, clasificación funcional NYHA clase IV",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36996,12 +37008,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-23": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, patrones de fiebre",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -37033,12 +37047,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-28": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, respiración de Biot",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38848,12 +38864,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-26": "a",
+        "tcae_examen-20-59": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, estreñimiento e impactación fecal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42523,12 +42542,16 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-41": "d",
+        "tcae_examen-15-77": "d",
+        "tcae_examen-20-69": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, incontinencia y productos absorbentes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46021,12 +46044,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-31": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, complicaciones de la diarrea",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49396,12 +49421,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-6": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía cardiovascular, aorta abdominal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51215,12 +51242,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-1": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía cardiovascular, circulación pulmonar",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53177,12 +53206,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-14": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, incontinencia urinaria funcional",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -57074,12 +57105,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-16": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, coluria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58157,12 +58190,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-27": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, incontinencia urinaria transitoria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60349,12 +60384,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-37": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, maniobra de Credé",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63397,12 +63434,16 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-40": "c",
+        "tcae_examen-15-76": "c",
+        "tcae_examen-20-68": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, esteatorrea",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65902,12 +65943,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-20": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, temperatura corporal por vía timpánica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66502,12 +66545,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-66": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía cardiovascular, venas como vasos de retorno",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -68546,12 +68591,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-57": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, melena",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -75098,12 +75145,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-54": "a",
+        "tcae_examen-20-100": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, clasificación de la fiebre",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77395,12 +77445,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-4": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía cardiovascular, vasos de conducción y distribución",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78997,12 +79049,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-53": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, hallazgos urinarios asociados a infección",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86271,12 +86325,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-34": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Recogida de diuresis de 24 horas, inclusión de primera y última micción",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88698,12 +88754,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-7": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/types",
+      "sourceDetail": "NIDDK, tipos de ostomía intestinal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93378,12 +93436,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-67": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, trombocitosis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -101185,12 +101245,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-61": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículos 4 y 23",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105062,12 +105124,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-19": "d",
+        "tcae_examen-20-72": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/types",
+      "sourceDetail": "NIDDK, tipos de ostomía intestinal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -111937,12 +112002,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-9": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, leucocitosis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

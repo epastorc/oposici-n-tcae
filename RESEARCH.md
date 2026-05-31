@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.215`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `28`.
+- Soluciones verificadas: `1.253`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `29`.
 
 ## Criterio
 
@@ -95,6 +95,11 @@ han usado materiales públicos del SES y del Ministerio de Sanidad para las esca
 clínicas y educación para la salud. Cuatro preguntas quedan excluidas: una ofrece
 un máximo incorrecto para Zarit y tres no permiten fijar una respuesta única con
 la documentación institucional disponible.
+
+Se ha iniciado `TCAE_EXAMEN 1.pdf` con `29` respuestas clínicas contrastadas
+contra fuentes sanitarias públicas, normativa autonómica y materiales de la
+American Heart Association. Se excluye una indicación farmacológica general ante
+dolor torácico porque requiere valoración clínica y prescripción contextualizada.
 
 ## Plantillas oficiales SES
 

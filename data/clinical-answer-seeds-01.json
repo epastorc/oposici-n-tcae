@@ -1,0 +1,44 @@
+{
+  "source": "TCAE_EXAMEN 1.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/",
+  "sourceUrls": {
+    "American Heart Association": "https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure/classes-of-heart-failure",
+    "NIDDK": "https://www.niddk.nih.gov/health-information/digestive-diseases/ostomy-surgery-bowel/types",
+    "Ley 3/2005": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf"
+  },
+  "reviewedAt": "2026-05-31",
+  "answers": {
+    "1": ["d", "Anatomía cardiovascular, circulación pulmonar"],
+    "2": ["d", "Anatomía cardiovascular, sistema de conducción"],
+    "4": ["b", "Anatomía cardiovascular, vasos de conducción y distribución"],
+    "6": ["d", "Anatomía cardiovascular, aorta abdominal"],
+    "7": ["c", "NIDDK, tipos de ostomía intestinal"],
+    "9": ["d", "MedlinePlus, leucocitosis"],
+    "14": ["b", "MedlinePlus, incontinencia urinaria funcional"],
+    "16": ["b", "MedlinePlus, coluria"],
+    "18": ["c", "American Heart Association, dolor torácico persistente y atención urgente"],
+    "19": ["d", "NIDDK, tipos de ostomía intestinal"],
+    "20": ["c", "MedlinePlus, temperatura corporal por vía timpánica"],
+    "23": ["d", "MedlinePlus, patrones de fiebre"],
+    "26": ["a", "MedlinePlus, estreñimiento e impactación fecal"],
+    "27": ["c", "MedlinePlus, incontinencia urinaria transitoria"],
+    "28": ["a", "MedlinePlus, respiración de Biot"],
+    "31": ["c", "MedlinePlus, complicaciones de la diarrea"],
+    "34": ["b", "Recogida de diuresis de 24 horas, inclusión de primera y última micción"],
+    "37": ["a", "MedlinePlus, maniobra de Credé"],
+    "40": ["c", "MedlinePlus, esteatorrea"],
+    "41": ["d", "MedlinePlus, incontinencia y productos absorbentes"],
+    "47": ["b", "Higiene del paciente, objetivos generales"],
+    "52": ["a", "American Heart Association, clasificación funcional NYHA clase IV"],
+    "53": ["d", "MedlinePlus, hallazgos urinarios asociados a infección"],
+    "54": ["a", "MedlinePlus, clasificación de la fiebre"],
+    "56": ["a", "MedlinePlus, diarrea y reposición de líquidos"],
+    "57": ["a", "MedlinePlus, melena"],
+    "61": ["d", "Ley 3/2005, artículos 4 y 23"],
+    "66": ["b", "Anatomía cardiovascular, venas como vasos de retorno"],
+    "67": ["c", "MedlinePlus, trombocitosis"]
+  },
+  "excluded": {
+    "15": "Ante dolor torácico sospechoso se requiere valoración urgente; no debe publicarse una indicación farmacológica general sin contexto clínico y prescripción."
+  }
+}
