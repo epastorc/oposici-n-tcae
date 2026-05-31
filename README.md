@@ -57,6 +57,8 @@ y se auditan por separado en `data/answer-review.json`.
 
 ```bash
 ./.venv/bin/python scripts/build_answer_review.py
+./.venv/bin/python scripts/import_answer_seeds.py
+./.venv/bin/python scripts/import_ses_official_answers.py
 ./.venv/bin/python scripts/apply_verified_answers.py
 ```
 

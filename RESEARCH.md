@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `56`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `1`.
+- Soluciones verificadas: `361`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `4`.
 
 ## Criterio
 
@@ -30,6 +30,27 @@ La pregunta 17 no se publica como corregible: pregunta por una edad fija para la
 jubilación voluntaria, pero el artículo 26.3 remite a los requisitos de la legislación
 de Seguridad Social.
 
+También se han revisado `57` preguntas válidas de `TCAE_EXAMEN 37.pdf` contra la
+misma ley. Tres enunciados de ese bloque permanecen excluidos: dos atribuyen una
+edad fija a la jubilación voluntaria y otro pregunta por un derecho inexistente
+cuando todas sus opciones figuran en el artículo 17.
+
+## Plantillas oficiales SES
+
+El examen `TCAE_EXAMEN 30.pdf` corresponde al proceso selectivo SES del 27 de abril
+de 2019. Su plantilla oficial contiene `108` respuestas:
+
+- SES: <https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf>
+
+Los exámenes `TCAE_EXAMEN 32.pdf` y `TCAE_EXAMEN 33.pdf` son las dos versiones
+oficiales de auxiliar de enfermería de la Junta de Extremadura del 19 de diciembre
+de 2009:
+
+- Junta de Extremadura, tipo 1:
+  <https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_1.pdf/42fa2448-cef5-4249-a7ad-f66c829422ba?t=1414688042010&version=1.0>
+- Junta de Extremadura, tipo 2:
+  <https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0>
+
 ## Fuentes localizadas para las siguientes tandas
 
 - Ley 8/2011 de Extremadura:
@@ -42,5 +63,6 @@ de Seguridad Social.
 ```bash
 ./.venv/bin/python scripts/build_answer_review.py
 ./.venv/bin/python scripts/import_answer_seeds.py
+./.venv/bin/python scripts/import_ses_official_answers.py
 ./.venv/bin/python scripts/apply_verified_answers.py
 ```

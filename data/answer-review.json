@@ -806,12 +806,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-36": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 26.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -1336,7 +1338,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-14": "a"
+        "tcae_examen-11-estatuto-14": "a",
+        "tcae_examen-15-40": "a"
       },
       "status": "verified",
       "confidence": "high",
@@ -3755,12 +3758,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-10": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3977,12 +3982,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-19": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4014,12 +4021,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-104": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6007,12 +6016,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-34": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6289,12 +6300,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-53": "d",
+        "tcae_examen-33-59": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6728,12 +6742,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-53": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 18",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6875,7 +6891,8 @@
       "answer": null,
       "variantAnswers": {
         "tcae_examen-11-estatuto-19": "d",
-        "tcae_examen-11-estatuto-34": "d"
+        "tcae_examen-11-estatuto-34": "d",
+        "tcae_examen-19-50": "d"
       },
       "status": "verified",
       "confidence": "high",
@@ -9136,12 +9153,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-36": "c",
+        "tcae_examen-33-32": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -9173,12 +9193,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-74": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -9395,12 +9417,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-55": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículos 17.1 m) y 19",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -9899,12 +9923,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-18": "b",
+        "tcae_examen-33-15": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10620,12 +10647,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-11": "d",
+        "tcae_examen-33-5": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11443,12 +11473,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-58": "b",
+        "tcae_examen-33-55": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11850,12 +11883,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-1": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11998,12 +12033,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-89": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -12747,12 +12784,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-43": "c",
+        "tcae_examen-33-47": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13103,12 +13143,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-21": "a",
+        "tcae_examen-33-18": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13237,12 +13280,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-30": "d",
+        "tcae_examen-33-40": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13311,12 +13357,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-69": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13667,12 +13715,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-12": "d",
+        "tcae_examen-33-12": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13704,12 +13755,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-91": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14037,12 +14090,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-26": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14296,12 +14351,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-17": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14370,12 +14427,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-50": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14407,12 +14466,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-9": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14467,12 +14528,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-25": "b",
+        "tcae_examen-33-25": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14564,12 +14628,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-13": "a",
+        "tcae_examen-33-13": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14661,12 +14728,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-24": "c",
+        "tcae_examen-33-24": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15026,12 +15096,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-45": "b",
+        "tcae_examen-33-43": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15137,12 +15210,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-43": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17144,12 +17219,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-1": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17279,7 +17356,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-2": "d"
+        "tcae_examen-11-estatuto-2": "d",
+        "tcae_examen-22-6": "d"
       },
       "status": "verified",
       "confidence": "high",
@@ -17562,12 +17640,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-39": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17622,12 +17702,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-32": "b",
+        "tcae_examen-37-49": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 21 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17696,12 +17779,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-15": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17770,12 +17855,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-72": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17807,12 +17894,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-41": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 21 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17904,12 +17993,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-83": "b",
+        "tcae_examen-38-28": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17978,12 +18070,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-29": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 20.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18126,12 +18220,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-33": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18186,12 +18282,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-22": "a",
+        "tcae_examen-33-19": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18334,12 +18433,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-61": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18408,12 +18509,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-18": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18787,12 +18890,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-70": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18898,12 +19003,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-48": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18972,12 +19079,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-3": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19181,7 +19290,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-9": "b"
+        "tcae_examen-11-estatuto-9": "b",
+        "tcae_examen-15-19": "b"
       },
       "status": "verified",
       "confidence": "high",
@@ -19219,12 +19329,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-57": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 18 f)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19256,12 +19368,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-5": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19806,12 +19920,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-14": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20853,12 +20969,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-7": "c",
+        "tcae_examen-33-1": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20913,12 +21032,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-4": "d",
+        "tcae_examen-33-9": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23156,12 +23278,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-85": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23660,12 +23784,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-50": "c",
+        "tcae_examen-33-50": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23993,12 +24120,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-37": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -24350,7 +24479,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-3": "c"
+        "tcae_examen-11-estatuto-3": "c",
+        "tcae_examen-22-31": "c"
       },
       "status": "verified",
       "confidence": "high",
@@ -24721,12 +24851,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-15": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -24781,12 +24913,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-54": "c",
+        "tcae_examen-33-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -24952,12 +25087,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-60": "d",
+        "tcae_examen-33-57": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25174,12 +25312,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-30": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25211,12 +25351,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-2": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25470,12 +25612,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-80": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25840,12 +25984,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-51": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26321,12 +26467,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-54": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26381,12 +26529,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-55": "b",
+        "tcae_examen-33-52": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26603,12 +26754,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-22": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26714,12 +26867,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-71": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26885,12 +27040,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-5": "a",
+        "tcae_examen-33-10": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27255,12 +27413,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-107": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27292,12 +27452,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-102": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27736,12 +27898,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-38": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27847,12 +28011,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-88": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28953,7 +29119,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-13": "c"
+        "tcae_examen-11-estatuto-13": "c",
+        "tcae_examen-15-44": "c"
       },
       "status": "verified",
       "confidence": "high",
@@ -28991,12 +29158,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-28": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículos 17 y 19",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29028,12 +29197,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-45": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 6.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29104,12 +29275,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-46": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29180,12 +29353,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-22": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 51.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29721,12 +29896,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-44": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30276,12 +30453,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-20": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30313,12 +30492,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-8": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31894,12 +32075,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-92": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32634,12 +32817,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-39": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33522,12 +33707,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-47": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33693,12 +33880,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-35": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34174,12 +34363,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-90": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34442,12 +34633,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-49": "b",
+        "tcae_examen-33-49": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34590,12 +34784,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-103": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34844,12 +35040,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-45": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36823,12 +37021,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-23": "d",
+        "tcae_examen-33-23": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36860,12 +37061,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-24": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38534,12 +38737,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-76": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38608,12 +38813,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-37": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 2.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38742,12 +38949,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-53": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38839,12 +39048,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-2": "a",
+        "tcae_examen-33-7": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39144,12 +39356,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-3": "d",
+        "tcae_examen-33-8": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39204,12 +39419,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-1": "b",
+        "tcae_examen-33-6": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39687,12 +39905,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-43": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 8",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39724,12 +39944,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-35": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9 bis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39761,12 +39983,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-31": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39798,12 +40022,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-24": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 6",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39835,12 +40061,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-58": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 7",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39872,12 +40100,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-11": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39909,12 +40139,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-6": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39946,12 +40178,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-16": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39983,12 +40217,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-52": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -40020,12 +40256,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-47": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -40505,12 +40743,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-66": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -40616,12 +40856,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-101": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -41513,12 +41755,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-15": "d",
+        "tcae_examen-33-20": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -41587,12 +41832,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-7": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -41929,12 +42176,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-75": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44047,12 +44296,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-38": "a",
+        "tcae_examen-33-34": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -45300,12 +45552,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-42": "d",
+        "tcae_examen-33-42": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46280,12 +46535,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-67": "c",
+        "tcae_examen-38-51": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47302,12 +47560,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-32": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47339,12 +47599,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-77": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47376,12 +47638,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-79": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47413,12 +47677,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-57": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47450,12 +47716,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-55": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47561,12 +47829,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-94": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49369,12 +49639,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-31": "a",
+        "tcae_examen-33-27": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49614,12 +49887,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-28": "a",
+        "tcae_examen-33-38": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49711,12 +49987,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-27": "a",
+        "tcae_examen-33-37": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -50081,12 +50360,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-95": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51102,12 +51383,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-48": "d",
+        "tcae_examen-33-46": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51851,12 +52135,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-84": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -52406,12 +52692,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-106": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53229,12 +53517,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-41": "a",
+        "tcae_examen-33-41": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53696,12 +53987,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-37": "d",
+        "tcae_examen-33-33": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54075,12 +54369,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-34": "d",
+        "tcae_examen-33-30": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -55231,12 +55528,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-108": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -55809,12 +56108,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-9": "b",
+        "tcae_examen-33-3": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56322,12 +56624,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-26": "c",
+        "tcae_examen-33-26": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -57603,12 +57908,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-54": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 26",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58010,12 +58317,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-23": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58110,7 +58419,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-28": "c"
+        "tcae_examen-11-estatuto-28": "c",
+        "tcae_examen-22-49": "c"
       },
       "status": "verified",
       "confidence": "high",
@@ -58172,7 +58482,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-23": "c"
+        "tcae_examen-11-estatuto-23": "c",
+        "tcae_examen-23-51": "c"
       },
       "status": "verified",
       "confidence": "high",
@@ -58210,12 +58521,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-17": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 31",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58381,12 +58694,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-6": "a",
+        "tcae_examen-39-45": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60467,12 +60783,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-56": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61614,12 +61932,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-23": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63144,12 +63464,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-78": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64309,12 +64631,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-20": "a",
+        "tcae_examen-33-17": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64739,12 +65064,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-29": "a",
+        "tcae_examen-33-39": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64850,12 +65178,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-41": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65331,12 +65661,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-59": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65516,12 +65848,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-97": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65909,12 +66243,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-62": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66302,12 +66638,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-17": "a",
+        "tcae_examen-33-22": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67430,12 +67769,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-19": "d",
+        "tcae_examen-33-16": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70228,12 +70570,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-47": "a",
+        "tcae_examen-33-45": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73243,12 +73588,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-56": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 31.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73391,12 +73738,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-93": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73613,12 +73962,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-34": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 19 j)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73674,7 +74025,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-44": "c"
+        "tcae_examen-11-estatuto-44": "c",
+        "tcae_examen-25-60": "c"
       },
       "status": "verified",
       "confidence": "high",
@@ -76441,12 +76793,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-32": "d",
+        "tcae_examen-33-28": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76538,12 +76893,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-30": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículos 17.1 l) y 19",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76746,12 +77103,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-31": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77005,12 +77364,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-86": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77139,12 +77500,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-39": "d",
+        "tcae_examen-33-35": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77495,12 +77859,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-33": "d",
+        "tcae_examen-33-29": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78295,12 +78662,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-46": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78443,12 +78812,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-21": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79044,12 +79415,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-14": "a",
+        "tcae_examen-33-14": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79414,12 +79788,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-63": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79807,12 +80183,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-16": "b",
+        "tcae_examen-33-21": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79881,12 +80260,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-40": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79918,12 +80299,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-68": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80089,12 +80472,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-57": "a",
+        "tcae_examen-33-54": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80149,12 +80535,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-8": "a",
+        "tcae_examen-33-2": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80209,12 +80598,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-6": "d",
+        "tcae_examen-33-11": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80306,12 +80698,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-46": "a",
+        "tcae_examen-33-44": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80366,12 +80761,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-40": "c",
+        "tcae_examen-33-36": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -81536,12 +81934,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-105": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -81670,12 +82070,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-35": "d",
+        "tcae_examen-33-31": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83076,12 +83479,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-49": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83372,12 +83777,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-98": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83848,12 +84255,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-73": "b",
+        "tcae_examen-38-53": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -84093,12 +84503,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-42": "a",
+        "tcae_examen-8-35": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -84278,12 +84691,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-81": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -84798,12 +85213,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-2": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -85020,12 +85437,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-52": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -85436,12 +85855,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-56": "b",
+        "tcae_examen-33-53": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -85473,12 +85895,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-11": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86162,12 +86586,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-38": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86222,12 +86648,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-59": "d",
+        "tcae_examen-33-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86407,12 +86836,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-60": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86481,12 +86912,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-100": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86592,12 +87025,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-28": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86777,12 +87212,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-29": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -87542,12 +87979,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-13": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88550,12 +88989,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-64": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91581,12 +92022,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-51": "a",
+        "tcae_examen-33-51": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91863,12 +92307,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-10": "d",
+        "tcae_examen-33-4": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92626,12 +93073,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-40": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93050,7 +93499,8 @@
       "answer": null,
       "variantAnswers": {
         "tcae_examen-11-estatuto-8": "d",
-        "tcae_examen-11-estatuto-29": "d"
+        "tcae_examen-11-estatuto-29": "d",
+        "tcae_examen-22-42": "d"
       },
       "status": "verified",
       "confidence": "high",
@@ -93709,12 +94159,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-16": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94547,7 +94999,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-20": "c"
+        "tcae_examen-11-estatuto-20": "c",
+        "tcae_examen-19-52": "c"
       },
       "status": "verified",
       "confidence": "high",
@@ -94585,12 +95038,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-4": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94622,12 +95077,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-4": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 6.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94830,12 +95287,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-25": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 8",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94867,12 +95326,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-51": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9 bis.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94904,12 +95365,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-33": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9.1 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -95095,12 +95558,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-60": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97248,12 +97713,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-58": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97716,7 +98183,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-35": "a"
+        "tcae_examen-11-estatuto-35": "a",
+        "tcae_examen-24-1": "a"
       },
       "status": "verified",
       "confidence": "high",
@@ -97754,12 +98222,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-48": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 17.1 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97791,12 +98261,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-27": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 18 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97867,12 +98339,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-19": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 6.2 b)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97904,12 +98378,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-3": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 7.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97941,12 +98417,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-59": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 21 e)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98387,12 +98865,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-14": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 6.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98424,12 +98904,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-87": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98683,12 +99165,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-12": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99275,12 +99759,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-13": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 6.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99312,12 +99798,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-5": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 7.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99349,12 +99837,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-10": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99386,12 +99876,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-7": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 8",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99423,12 +99915,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-12": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99460,12 +99954,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-26": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 21",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99497,12 +99993,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-9": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9 bis.1 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99558,7 +100056,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-36": "c"
+        "tcae_examen-11-estatuto-36": "c",
+        "tcae_examen-24-12": "c"
       },
       "status": "verified",
       "confidence": "high",
@@ -99659,7 +100158,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-18": "a"
+        "tcae_examen-11-estatuto-18": "a",
+        "tcae_examen-19-39": "a"
       },
       "status": "verified",
       "confidence": "high",
@@ -99760,7 +100260,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-11-estatuto-33": "c"
+        "tcae_examen-11-estatuto-33": "c",
+        "tcae_examen-23-31": "c"
       },
       "status": "verified",
       "confidence": "high",
@@ -99837,12 +100338,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-42": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 31.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100045,12 +100548,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-99": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100572,12 +101077,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-25": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100942,12 +101449,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-27": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -101053,12 +101562,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-21": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 22.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -101090,12 +101601,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-20": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -101275,12 +101788,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-37-50": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Artículo 9 bis.1 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105530,12 +106045,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-96": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107899,12 +108416,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-44": "a",
+        "tcae_examen-33-48": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108033,12 +108553,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-32-52": "a",
+        "tcae_examen-33-58": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/documents/77055/314190/1212%2BRESPUESTAS_E1_1212_2.pdf/1cd30681-f7a1-439c-a1d0-9fcc17811f86?t=1414688045790&version=1.0",
+      "sourceDetail": "Plantilla Junta de Extremadura, auxiliar de enfermería, examen tipo 2, 19 de diciembre de 2009",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108708,12 +109231,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-82": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110173,12 +110698,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-65": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110395,12 +110922,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-30-36": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/bolsa/documentos/2019_04_29_002.pdf",
+      "sourceDetail": "Plantilla SES tipo 1, turno libre y discapacidad, 27 de abril de 2019",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
