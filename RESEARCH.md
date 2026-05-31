@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `525`.
+- Soluciones verificadas: `632`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `12`.
 
 ## Criterio
@@ -44,6 +44,10 @@ Se ha revisado `TCAE_EXAMEN 36.pdf` contra la Ley Orgánica 1/2011, de reforma d
 Estatuto de Autonomía de Extremadura. El bloque contiene `95` respuestas verificadas
 y cinco exclusiones por formulación defectuosa o por tratarse de una pregunta
 histórica que no debe publicarse como solución estable.
+
+Se ha iniciado `TCAE_EXAMEN 35.pdf`, recopilatorio sobre la Constitución Española.
+La primera tanda contiene `105` respuestas literales verificadas contra el texto
+consolidado publicado en el BOE.
 
 ## Plantillas oficiales SES
 
