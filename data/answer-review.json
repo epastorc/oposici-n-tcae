@@ -33700,12 +33700,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localizaciones de UPP en decúbito lateral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44356,12 +44358,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-44": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Higiene del paciente encamado con perfusión intravenosa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44393,12 +44397,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-28": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Higiene general, aseo total frente a higiene parcial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44467,12 +44473,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-10": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Instilación vesical, definición y técnica general",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44541,12 +44549,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-30": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Cuidados del cordón umbilical, higiene y secado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89501,12 +89511,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-5": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Sondaje vesical, sonda Robinson para exploración uretral o vesical",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108423,12 +108435,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-37": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Posicionamiento respiratorio, Morestin para platipnea",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
