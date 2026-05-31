@@ -9543,10 +9543,10 @@
           "text": "Los alimentos muy condimentados."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, digestibilidad de alimentos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-3",
@@ -9571,10 +9571,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, estado general y gravedad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-4",
@@ -9599,10 +9599,10 @@
           "text": "Semilíquida."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, clasificación por consistencia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-5",
@@ -9627,10 +9627,10 @@
           "text": "La fructosa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, almidón",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-6",
@@ -9655,10 +9655,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, dieta absoluta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-7",
@@ -9683,10 +9683,10 @@
           "text": "El uso de azúcares con fines terapéuticos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, oligoterapia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-8",
@@ -9711,10 +9711,10 @@
           "text": "Las proteínas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, macronutrientes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-9",
@@ -9739,10 +9739,10 @@
           "text": "Hipocalórica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, dieta hipocalórica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-10",
@@ -9767,10 +9767,10 @@
           "text": "Lisina."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, lisina como aminoácido esencial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-11",
@@ -9795,10 +9795,10 @@
           "text": "Su periodo de incubación es de 6 a 8 semanas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.cdc.gov/hepatitis-b/hcp/clinical-signs/index.html",
+      "answerSourceDetail": "Hepatitis B, incubación de 60 a 150 días",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-12",
@@ -9823,10 +9823,10 @@
           "text": "En las reacciones anabólicas los aminoácidos se transforman en proteínas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Metabolismo, anabolismo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-13",
@@ -9851,10 +9851,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002405.htm",
+      "answerSourceDetail": "Vitamina D, absorción de calcio y osteoporosis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-14",
@@ -9879,10 +9879,10 @@
           "text": "1 kilojulio equivale a 0,239 kilocalorías."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, equivalencia entre kilocaloría y kilojulio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-15",
@@ -9935,10 +9935,10 @@
           "text": "1 a 2 semanas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.cdc.gov/hepatitis-b/hcp/clinical-signs/index.html",
+      "answerSourceDetail": "Hepatitis B, incubación de 60 a 150 días",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-17",
@@ -9963,10 +9963,10 @@
           "text": "La mejor forma de prevenirla es mediante el tratamiento con antibióticos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Salud bucodental, prevención de periodontitis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-18",
@@ -9991,10 +9991,10 @@
           "text": "De 15 a 30 días."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Salud pública, salmonelosis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-19",
@@ -10019,10 +10019,10 @@
           "text": "1gr de alcohol equivale a 7kcal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, factores de Atwater",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-20",
@@ -10047,10 +10047,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Anatomía, conducto de Stenon",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-21",
@@ -10075,10 +10075,10 @@
           "text": "Gingivitis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Salud bucodental, gingivitis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-22",
@@ -10103,10 +10103,10 @@
           "text": "Ribosa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, lactosa como disacárido",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-23",
@@ -10131,10 +10131,10 @@
           "text": "Metabolismo conjugado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Metabolismo basal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-24",
@@ -10159,10 +10159,10 @@
           "text": "5000 calorías."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, proteínas y factor de Atwater",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-25",
@@ -10187,10 +10187,10 @@
           "text": "Estreñimiento."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Terminología clínica, emesis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-26",
@@ -10243,10 +10243,10 @@
           "text": "Tienen un periodo de incubación de 2 a 6 meses."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/hepatitis-a.html",
+      "answerSourceDetail": "Hepatitis A, incubación media de 28 días y rango de 15 a 50 días",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-28",
@@ -10271,10 +10271,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Técnicas culinarias, ebullición",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-29",
@@ -10327,10 +10327,10 @@
           "text": "A los 15 días."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.who.int/data/gho/data/indicators/indicator-details/GHO/exclusively-breastfed-for-the-first-two-days-after-birth",
+      "answerSourceDetail": "Lactancia materna, calostro en los primeros días",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-31",
@@ -10355,10 +10355,10 @@
           "text": "Hidratos de Carbono 55-60%, Proteínas 10-15% y Lípidos 30-35%."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.aesan.gob.es/AECOSAN/docs/documentos/nutricion/observatorio/26_2005.pdf",
+      "answerSourceDetail": "Dieta equilibrada, reparto aproximado de macronutrientes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-32",
@@ -10383,10 +10383,10 @@
           "text": "Basal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, dieta basal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-33",
@@ -10411,10 +10411,10 @@
           "text": "10."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, nueve aminoácidos esenciales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-34",
@@ -10439,10 +10439,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, dieta hipocalórica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-35",
@@ -10495,10 +10495,10 @@
           "text": "Las proteínas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, macronutrientes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-37",
@@ -10579,10 +10579,10 @@
           "text": "K."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Vitaminas liposolubles A, D, E y K",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-40",
@@ -10607,10 +10607,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Metabolismo, glucógeno",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-41",
@@ -10635,10 +10635,10 @@
           "text": "Isquemia gastrointestinal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición enteral, indicación por ingesta oral insuficiente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-42",
@@ -10663,10 +10663,10 @@
           "text": "Treonina."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, treonina como aminoácido esencial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-43",
@@ -10719,10 +10719,10 @@
           "text": "El parcialmente insaturado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, ácidos grasos poliinsaturados en aceites de semillas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-45",
@@ -10747,10 +10747,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, dieta laxante rica en residuos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-46",
@@ -10803,10 +10803,10 @@
           "text": "Autorretirada de la sonda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición enteral, deshidratación como complicación metabólica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-48",
@@ -10831,10 +10831,10 @@
           "text": "Verduras."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, dieta hiperproteica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-49",
@@ -10859,10 +10859,10 @@
           "text": "El 5%."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.aesan.gob.es/AECOSAN/docs/documentos/nutricion/observatorio/26_2005.pdf",
+      "answerSourceDetail": "Dieta equilibrada, límite aproximado de grasas saturadas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-50",
@@ -10943,10 +10943,10 @@
           "text": "La galactosa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, glucógeno como hidrato de carbono complejo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-53",
@@ -10971,10 +10971,10 @@
           "text": "Es pobre en residuos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, dieta astringente pobre en residuos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-54",
@@ -10999,10 +10999,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición enteral, administración por gravedad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-55",
@@ -11027,10 +11027,10 @@
           "text": "Saturado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, ácido graso monoinsaturado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-56",
@@ -11055,10 +11055,10 @@
           "text": "Pobre o rica en residuos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, salvado y dieta laxante",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-57",
@@ -11083,10 +11083,10 @@
           "text": "Gastrointestinal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición enteral, deshidratación como complicación metabólica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-58",
@@ -11111,10 +11111,10 @@
           "text": "Roser."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición enteral, posición Fowler",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-59",
@@ -11139,10 +11139,10 @@
           "text": "El palmítico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, ácido palmítico saturado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-60",
@@ -11167,10 +11167,10 @@
           "text": "El pescado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, grasas saturadas de origen animal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-61",
@@ -11195,10 +11195,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, clasificación por consistencia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-62",
@@ -11223,10 +11223,10 @@
           "text": "Fruta."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, proteínas de alto valor biológico del huevo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-63",
@@ -11251,10 +11251,10 @@
           "text": "Diarrea."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, enfermedad celíaca",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-64",
@@ -11279,10 +11279,10 @@
           "text": "Ácido fólico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Vitaminas, vitamina E o tocoferol",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-65",
@@ -11307,10 +11307,10 @@
           "text": "Un polisacárido."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Fisiología, glucagón como hormona",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-66",
@@ -11335,10 +11335,10 @@
           "text": "Fructosa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, ribosa como pentosa",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-67",
@@ -11363,10 +11363,10 @@
           "text": "Aminoácidos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, tubérculos e hidratos de carbono",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-68",
@@ -11391,10 +11391,10 @@
           "text": "5% del total."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.aesan.gob.es/AECOSAN/docs/documentos/nutricion/observatorio/26_2005.pdf",
+      "answerSourceDetail": "Dieta equilibrada, proteínas entre el 10 y el 15 por ciento",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-69",
@@ -11419,10 +11419,10 @@
           "text": "Más de 40."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, sobrepeso con IMC entre 25 y 29,9",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-70",
@@ -11531,10 +11531,10 @@
           "text": "Todas las respuestas son correctas. PREGUNTAS DE RESRVA:"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, glucosa, fructosa y galactosa como hexosas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-74",
@@ -11559,10 +11559,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, símbolo químico P del fósforo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-75",
@@ -11587,10 +11587,10 @@
           "text": "Hígado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Metabolismo, glucogénesis y glucogenólisis hepáticas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-76",
@@ -11615,10 +11615,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, cuantificación del aporte calórico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-14-77",
@@ -11643,10 +11643,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición enteral, administración por gravedad gota a gota",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-1",
@@ -12707,10 +12707,10 @@
           "text": "Autorretirada de la sonda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición enteral, deshidratación como complicación metabólica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-39",
@@ -12959,10 +12959,10 @@
           "text": "Los alimentos muy condimentados."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, digestibilidad de alimentos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-48",
@@ -13547,10 +13547,10 @@
           "text": "Verduras."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, dieta hiperproteica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-69",
@@ -13631,10 +13631,10 @@
           "text": "El palmítico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, ácido palmítico saturado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-72",
@@ -24019,10 +24019,10 @@
           "text": "1 kilojulio equivale a 0,239 kilocalorías."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, equivalencia entre kilocaloría y kilojulio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-20-17",

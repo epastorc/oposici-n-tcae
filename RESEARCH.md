@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.800`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `142`.
+- Soluciones verificadas: `1.868`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `154`.
 
 ## Criterio
 
@@ -177,6 +177,13 @@ El bloque queda completo con sus `69` respuestas verificadas.
 Se ha revisado `TCAE_EXAMEN 12.pdf` sobre anatomía digestiva. El bloque queda
 cerrado con `79` respuestas verificadas y una exclusión: la proyección anatómica
 del páncreas no aparece correctamente reflejada en ninguna de las opciones.
+
+Se ha revisado `TCAE_EXAMEN 14.pdf` sobre nutrición, dietoterapia y alimentación
+por sonda. El bloque queda cerrado con `65` respuestas verificadas y `12`
+exclusiones por solapamiento de opciones, criterios dietéticos dependientes de
+guía o pautas clínicas que requieren individualización. Se han contrastado
+especialmente las preguntas sobre hepatitis con CDC, las vitaminas con
+MedlinePlus, la lactancia con OMS y la dieta equilibrada con AESAN.
 
 ## Plantillas oficiales SES
 
