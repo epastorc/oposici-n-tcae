@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.208`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `295`.
+- Soluciones verificadas: `2.261`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `307`.
 
 ## Criterio
 
@@ -233,6 +233,13 @@ post mortem, movilización y prevención de lesiones por presión. Queda cerrado
 la Ley 41/2002, la Ley 55/2003, la Ley 14/1986 y la guía pública de GuíaSalud. Se
 excluyen contención mecánica, maniobras, escalas y dispositivos sujetos a
 protocolo.
+
+Se ha revisado `TCAE_EXAMEN 28.pdf`, que combina autonomía del paciente,
+Constitución, bioética, cuidados paliativos y modelos enfermeros. Queda cerrado
+con `60` respuestas verificadas y `13` exclusiones. Las fuentes principales son
+la Constitución, la Ley 3/2005, la Ley 14/1986, la Ley 41/2002 y la ficha pública
+de cuidados paliativos de la OMS. Se excluyen escalas, muestras y procedimientos
+dependientes de guía concreta.
 
 ## Plantillas oficiales SES
 

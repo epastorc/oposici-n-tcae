@@ -2388,12 +2388,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-18": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Bioética, no maleficencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3077,12 +3079,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-54": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Salud mental, estrés postraumático",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3841,12 +3845,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-17": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Ley 41/2002, artículo 4, información comprensible y adecuada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6761,12 +6767,13 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-16-54": "b"
+        "tcae_examen-16-54": "b",
+        "tcae_examen-28-7": "b"
       },
       "status": "verified",
       "confidence": "high",
-      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
-      "sourceDetail": "Ley 3/2005 autonómica, título",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/05010003.pdf",
+      "sourceDetail": "Ley 3/2005, información sanitaria y autonomía del paciente en Extremadura",
       "reviewedAt": "2026-05-31",
       "notes": null
     },
@@ -14706,12 +14713,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-67": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Higiene genital, sentido desde genitales hacia región anal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15924,12 +15933,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-4": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, cuatro disposiciones adicionales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16222,12 +16233,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-3": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Anatomía cardiovascular, válvula mitral bicúspide",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16660,12 +16673,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-73": "d",
+        "tcae_examen-26-35": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Duelo, duración variable de fase inicial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16814,12 +16830,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-20": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, título I del artículo 10 al 55",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16890,12 +16908,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-9": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, parte dogmática del artículo 1 al 55",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17446,12 +17466,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-39": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, un preámbulo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19184,12 +19206,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-13": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Anatomía vascular, femoral como continuación de ilíaca externa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29571,12 +29595,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-6": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Teoría de Orem, sistema totalmente compensador",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31198,12 +31224,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-21": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Comunicación asistencial, escucha activa no verbal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33754,12 +33782,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-16": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Urgencias, pulso carotídeo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38504,12 +38534,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-56": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Maslow, seguridad antes de amor y pertenencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39274,12 +39306,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-47": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/palliative-care",
+      "sourceDetail": "OMS, cuidados paliativos dirigidos al paciente y su familia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42234,12 +42268,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-45": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Duelo, negación e incredulidad en fase inicial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46251,12 +46287,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-65": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados paliativos, audición como último sentido conservado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -48770,12 +48808,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-36": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Terminología, iatrofobia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -48807,12 +48847,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-34": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Ley 41/2002, artículo 5.4, necesidad terapéutica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49826,12 +49868,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-15": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Ansiedad, síntoma cognitivo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53184,12 +53228,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-35": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, disposiciones adicionales, transitorias, derogatoria y final",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53533,12 +53579,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-58": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, título II, Corona",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53726,12 +53774,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-14": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/05010003.pdf",
+      "sourceDetail": "Ley 3/2005, expresión anticipada de voluntades previa a la situación clínica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53917,12 +53967,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-40": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Privacidad, ausencia de intrusión sin consentimiento",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54227,12 +54279,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-25": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Dermatología, costra por desecación de exudado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56800,12 +56854,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-42": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Duelo, fase inicial o de evitación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -62737,12 +62793,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-68": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Higiene, conservación de la salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76785,12 +76843,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-38": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Bioética, autonomía",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -81396,12 +81456,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-63": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Higiene del paciente encamado, posición Roser para cabello",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83782,12 +83844,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-52": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Bioética, beneficencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86708,12 +86772,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-37": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, referéndum de 6 de diciembre de 1978",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89333,12 +89399,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-66": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Terminología, profilaxis preventiva",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90855,12 +90923,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-53": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, título VIII, organización territorial del Estado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91564,12 +91634,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-57": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados post mortem, comunicación de defunción por médico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91601,12 +91673,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-29": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Ley 41/2002, artículo 4.3, información por profesionales que aplican técnica o procedimiento",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -95721,12 +95795,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-69": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Salud pública, Winslow",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -95895,12 +95971,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-49": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Teoría de Orem, sistema de apoyo educativo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -102572,12 +102650,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-51": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/05010003.pdf",
+      "sourceDetail": "Ley 3/2005, documento de expresión anticipada de voluntades",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105183,12 +105263,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-26": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Valoración funcional y modelos enfermeros",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106512,12 +106594,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-46": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Secreto profesional",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106727,12 +106811,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-2": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Ley 41/2002, autonomía del paciente e información y documentación clínica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106764,12 +106850,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-28": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "sourceDetail": "Ley 14/1986, de 25 de abril, General de Sanidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108878,12 +108966,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-24": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Psicología, racionalización",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -109243,12 +109333,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-12": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados urinarios, sonda Foley",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -111709,12 +111801,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-5": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Bioética, principio de justicia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -112890,12 +112984,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-31": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Psicología, evitación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -112964,12 +113060,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-8": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Comunicación verbal, disartria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -113077,12 +113175,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-30": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Nutrición enteral, oral, nasogástrica y gastrostomía",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -113926,12 +114026,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Psicología, desplazamiento",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -114802,12 +114904,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-27": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Cuidados urinarios, tenesmo vesical",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
