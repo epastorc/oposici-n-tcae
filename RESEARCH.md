@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.185`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `24`.
+- Soluciones verificadas: `1.215`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `28`.
 
 ## Criterio
 
@@ -89,6 +89,12 @@ Se ha iniciado `TCAE_EXAMEN 17.pdf` con `32` respuestas legales contrastadas con
 la Ley 3/2005, la Ley 41/2002, la Ley 10/2001 y los Decretos 47/2023 y 189/2004.
 La siguiente tanda abordará las cuestiones docentes de comunicación, bioética y
 escalas clínicas mediante guías públicas.
+
+La segunda tanda cierra `TCAE_EXAMEN 17.pdf` con `60` respuestas verificadas. Se
+han usado materiales públicos del SES y del Ministerio de Sanidad para las escalas
+clínicas y educación para la salud. Cuatro preguntas quedan excluidas: una ofrece
+un máximo incorrecto para Zarit y tres no permiten fijar una respuesta única con
+la documentación institucional disponible.
 
 ## Plantillas oficiales SES
 

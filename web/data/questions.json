@@ -15535,10 +15535,10 @@
           "text": "Autonomía."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Bioética clínica, principios de autonomía, beneficencia, no maleficencia y justicia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-3",
@@ -15563,10 +15563,10 @@
           "text": "La Gerencia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-4",
@@ -15591,10 +15591,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Modelo de autocuidado de Dorothea Orem, sistema totalmente compensador",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-5",
@@ -15731,10 +15731,10 @@
           "text": "Proxémica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Comunicación asistencial, escucha activa",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-10",
@@ -15759,10 +15759,10 @@
           "text": "No tienen en cuenta los sentimientos, ideas, emociones, pensamiento de los demás."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Comunicación asistencial, estilo sumiso",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-11",
@@ -15815,10 +15815,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Secreto profesional, excepciones legales y riesgo grave",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-13",
@@ -15871,10 +15871,10 @@
           "text": "La prevención de enfermedades que son imprevisibles."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "answerSourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, promoción y prevención",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-15",
@@ -15983,10 +15983,10 @@
           "text": "Feed-back."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Comunicación asistencial, escucha activa",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-19",
@@ -16011,10 +16011,10 @@
           "text": "A la comunidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "answerSourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-20",
@@ -16095,10 +16095,10 @@
           "text": "Confidencialidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Secreto profesional, deber de reserva del profesional",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-23",
@@ -16179,10 +16179,10 @@
           "text": "En el estilo sumiso, la persona acepta rápidamente los criterios de los demás."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Comunicación asistencial, estilos de relación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-26",
@@ -16291,10 +16291,10 @@
           "text": "Estar íntimamente unidos el estilo sumiso y el asertivo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Comunicación asistencial, estilo asertivo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-30",
@@ -16347,10 +16347,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Comunicación asistencial, código no lingüístico visual",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-32",
@@ -16375,10 +16375,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "answerSourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-33",
@@ -16403,10 +16403,10 @@
           "text": "Distenexia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Terminología clínica, afasia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-34",
@@ -16431,10 +16431,10 @@
           "text": "Un nivel secundario, no especializado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, artículo 47",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-35",
@@ -16627,10 +16627,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://saludextremadura.ses.es/filescms/web/uploaded_files/Principal/Recursos%20Sociales/Organizacion%20y%20Funcionamiento%20del%20Trabajo%20Social%20Sanitario%20en%20Atencion%20Primaria%20de%20Salud.pdf",
+      "answerSourceDetail": "SES, Organización y Funcionamiento del Trabajo Social, escala de Zarit",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-42",
@@ -16683,10 +16683,10 @@
           "text": "Gestos ilustradores."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Comunicación no verbal, emblemas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-44",
@@ -16711,10 +16711,10 @@
           "text": "Confidencialidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Protección de datos sanitarios, privacidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-45",
@@ -16795,10 +16795,10 @@
           "text": "Atanexia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Terminología clínica, apraxia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-48",
@@ -16851,10 +16851,10 @@
           "text": "No todo el mundo puede llevar a cabo este proceso."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "answerSourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-50",
@@ -16935,10 +16935,10 @@
           "text": "Sinergia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Comunicación no verbal, proxemia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-53",
@@ -17047,10 +17047,10 @@
           "text": "Ninguna de las anteriores es correcta."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Comunicación verbal, modalidades oral y escrita",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-57",
@@ -17075,10 +17075,10 @@
           "text": "Exámenes de anatomía patológica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, artículo 47",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-58",
@@ -17103,10 +17103,10 @@
           "text": "Comunicación coloquial."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Comunicación asistencial, comunicación intrapersonal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-59",
@@ -17159,10 +17159,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "answerSourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-61",
@@ -17187,10 +17187,10 @@
           "text": "Al cuidador principal de pacientes con algún tipo de trastorno psiquiátrico. PREGUNTAS DE RESERVA"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://saludextremadura.ses.es/filescms/web/uploaded_files/Principal/Recursos%20Sociales/Organizacion%20y%20Funcionamiento%20del%20Trabajo%20Social%20Sanitario%20en%20Atencion%20Primaria%20de%20Salud.pdf",
+      "answerSourceDetail": "SES, Organización y Funcionamiento del Trabajo Social, escala de Zarit",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-62",
@@ -17271,10 +17271,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "answerSourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-1",
@@ -31299,10 +31299,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "answerSourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-55",
@@ -83351,10 +83351,10 @@
           "text": "Disartria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Terminología clínica, apraxia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-9",

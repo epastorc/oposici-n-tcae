@@ -3091,12 +3091,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-58": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Comunicación asistencial, comunicación intrapersonal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5848,12 +5850,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-18": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Comunicación asistencial, escucha activa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10651,12 +10655,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-64": "d",
+        "tcae_examen-23-54": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "sourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -12206,12 +12213,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-31": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Comunicación asistencial, código no lingüístico visual",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -12317,12 +12326,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-49": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "sourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -12602,12 +12613,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-32": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "sourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13461,12 +13474,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-57": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, artículo 47",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14200,12 +14215,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-34": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, artículo 47",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19237,12 +19254,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-25": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Comunicación asistencial, estilos de relación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25997,12 +26016,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-29": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Comunicación asistencial, estilo asertivo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36543,12 +36564,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-41": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/filescms/web/uploaded_files/Principal/Recursos%20Sociales/Organizacion%20y%20Funcionamiento%20del%20Trabajo%20Social%20Sanitario%20en%20Atencion%20Primaria%20de%20Salud.pdf",
+      "sourceDetail": "SES, Organización y Funcionamiento del Trabajo Social, escala de Zarit",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43390,12 +43413,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-10": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Comunicación asistencial, estilo sumiso",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54212,12 +54237,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-52": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Comunicación no verbal, proxemia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54397,12 +54424,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-60": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "sourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54901,12 +54930,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-61": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://saludextremadura.ses.es/filescms/web/uploaded_files/Principal/Recursos%20Sociales/Organizacion%20y%20Funcionamiento%20del%20Trabajo%20Social%20Sanitario%20en%20Atencion%20Primaria%20de%20Salud.pdf",
+      "sourceDetail": "SES, Organización y Funcionamiento del Trabajo Social, escala de Zarit",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -57874,12 +57905,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-33": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Terminología clínica, afasia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -57934,12 +57967,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-47": "b",
+        "tcae_examen-8-8": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Terminología clínica, apraxia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60039,12 +60075,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-44": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Protección de datos sanitarios, privacidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67932,12 +67970,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-14": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "sourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, promoción y prevención",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -71900,12 +71940,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-43": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Comunicación no verbal, emblemas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76007,12 +76049,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-3": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77312,12 +77356,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-2": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Bioética clínica, principios de autonomía, beneficencia, no maleficencia y justicia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77668,12 +77714,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-19": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.sanidad.gob.es/areas/promocionPrevencion/entornosSaludables/escuela/docs/ganarSaludEscuela.pdf",
+      "sourceDetail": "Ministerio de Sanidad, Ganar salud en la escuela, educación para la salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89199,12 +89247,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-56": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Comunicación verbal, modalidades oral y escrita",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92776,12 +92826,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-22": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Secreto profesional, deber de reserva del profesional",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94283,12 +94335,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-4": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Modelo de autocuidado de Dorothea Orem, sistema totalmente compensador",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -104872,12 +104926,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-12": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Secreto profesional, excepciones legales y riesgo grave",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106792,12 +106848,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-9": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Comunicación asistencial, escucha activa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
