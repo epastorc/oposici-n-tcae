@@ -42135,10 +42135,10 @@
           "text": "Los hipogastrios."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía abdominal, hipocondrios",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-2",
@@ -42163,10 +42163,10 @@
           "text": "Orden ministerial del 15 de junio de 1998."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Orden Ministerial de 26 de abril de 1973, estatuto auxiliar de enfermería",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-3",
@@ -42191,10 +42191,10 @@
           "text": "Gran número de patologías asociadas con polifarmacia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cuidados paliativos, deterioro funcional y nutricional",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-4",
@@ -42219,10 +42219,10 @@
           "text": "Aerosolterapia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cuidados respiratorios, fisioterapia respiratoria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-5",
@@ -42247,10 +42247,10 @@
           "text": "Bronquios."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía respiratoria, cartílago cricoides laríngeo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-6",
@@ -42275,10 +42275,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, papilas fungiformes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-7",
@@ -42303,10 +42303,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, píloro",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-8",
@@ -42331,10 +42331,10 @@
           "text": "Vacunaciones y acciones curativas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Atención primaria, promoción, prevención, curación y rehabilitación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-9",
@@ -42359,10 +42359,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Nutrición, alimentos plásticos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-10",
@@ -42443,10 +42443,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cuidados paliativos, bienestar y atención integral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-13",
@@ -42471,10 +42471,10 @@
           "text": "Sims."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, omóplatos como apoyo en decúbito supino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-14",
@@ -42499,10 +42499,10 @@
           "text": "Obesidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Nutrición, sobrepeso con IMC entre 25 y 29,9",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-15",
@@ -42555,10 +42555,10 @@
           "text": "1 porción."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, colon ascendente, transverso, descendente y sigmoide",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-17",
@@ -42611,10 +42611,10 @@
           "text": "Ninguno."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, cuatro caninos temporales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-19",
@@ -42639,10 +42639,10 @@
           "text": "Levin."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, valoración de riesgo mediante escala Norton",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-20",
@@ -42723,10 +42723,10 @@
           "text": "Los hipogastrios."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía abdominal, flancos o vacíos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-23",
@@ -42751,10 +42751,10 @@
           "text": "36%."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Quemaduras, regla de los nueve y tronco anterior y posterior",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-24",
@@ -42835,10 +42835,10 @@
           "text": "Bradicardia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología respiratoria, taquipnea",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-27",
@@ -42863,10 +42863,10 @@
           "text": "Ortopneica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cuidados respiratorios, posición Fowler",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-28",
@@ -42919,10 +42919,10 @@
           "text": "Proteínas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.who.int/news-room/questions-and-answers/item/breastfeeding",
+      "answerSourceDetail": "OMS, lactancia, leche materna aporta hidratación suficiente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-30",
@@ -43031,10 +43031,10 @@
           "text": "Asimilación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Nutrición",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-34",
@@ -43059,10 +43059,10 @@
           "text": "12 y 24ºC."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.cdc.gov/vaccines/hcp/imz-best-practices/storage-handling-immunobiologics.html",
+      "answerSourceDetail": "CDC, vacunas refrigeradas entre 2 y 8 grados Celsius",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-35",
@@ -43087,10 +43087,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología digestiva, regurgitación desde estómago",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-36",
@@ -43143,10 +43143,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Nutrición, alimentos reguladores",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-38",
@@ -43171,10 +43171,10 @@
           "text": "Cuarto grado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, flictena en lesión por presión de estadio II",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-39",
@@ -43199,10 +43199,10 @@
           "text": "21,5."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Nutrición, IMC de 80 dividido por 1,85 al cuadrado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-40",
@@ -43255,10 +43255,10 @@
           "text": "Las inmunizaciones."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Atención especializada, inmunizaciones en atención primaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-42",
@@ -43283,10 +43283,10 @@
           "text": "El seguimiento de los problemas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Historia clínica, datos laborales en área social",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-43",
@@ -43339,10 +43339,10 @@
           "text": "Realizar actividades lúdicas"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Valoración funcional, continencia como actividad básica de vida diaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-45",
@@ -43395,10 +43395,10 @@
           "text": "Posición de Fowler."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cuidados respiratorios y cardiacos, posición Fowler",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-47",
@@ -43423,10 +43423,10 @@
           "text": "Redón."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cuidados quirúrgicos, Redón como drenaje aspirativo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-48",
@@ -43451,10 +43451,10 @@
           "text": "Manómetro"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología respiratoria, espirómetro",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-49",
@@ -43479,10 +43479,10 @@
           "text": "Pinzas de Duval y Michael."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Instrumental quirúrgico, pinzas Pean y Kocher de hemostasia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-50",
@@ -43507,10 +43507,10 @@
           "text": "Anestesia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cuidados quirúrgicos, Penrose como drenaje",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-51",
@@ -43535,10 +43535,10 @@
           "text": "Próxima y distal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía, plano frontal divide anterior y posterior",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-52",
@@ -43731,10 +43731,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cuidados perioperatorios, transoperatorio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-59",
@@ -43815,10 +43815,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Diagnóstico, electrocardiógrafo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-62",
@@ -43871,10 +43871,10 @@
           "text": "Reparadora."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cirugía reconstructiva en labio leporino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-64",
@@ -43899,10 +43899,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cuidados perioperatorios, fin del postoperatorio al alta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-65",
@@ -43927,10 +43927,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Terminología, profilaxis preventiva",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-66",
@@ -43983,10 +43983,10 @@
           "text": "La tomografía axial computerizada."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Diagnóstico, inserción de drenaje no es prueba complementaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-68",
@@ -44039,10 +44039,10 @@
           "text": "Coronal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía, plano sagital medio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-70",
@@ -44067,10 +44067,10 @@
           "text": "Genupectoral."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Cuidados respiratorios, posición Fowler",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-71",
@@ -44095,10 +44095,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Ley 14/1986, artículo 15, especializada tras primaria o por urgencia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-72",
@@ -44123,10 +44123,10 @@
           "text": "El brazo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía, radio y cúbito en antebrazo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-73",
@@ -44151,10 +44151,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Movilización, informar al paciente consciente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-74",
@@ -44179,10 +44179,10 @@
           "text": "Se tumba sobre un plano inclinado"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología, hipotensión ortostática al incorporarse",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-75",
@@ -44207,10 +44207,10 @@
           "text": "Realiza las radiografías."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Radiología, realización de radiografías no atribuida al TCAE",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-76",
@@ -44263,10 +44263,10 @@
           "text": "No, ya que en Atención Primaria no se explora a los enfermos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Atención primaria, ayuda en exploración del paciente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-78",
@@ -44291,10 +44291,10 @@
           "text": "Una mascarilla ventura."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Ventilación mecánica, gafas nasales no conectadas al ventilador",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-79",
@@ -44319,10 +44319,10 @@
           "text": "Posee escasa o nula presencia de hidratos de carbono."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.who.int/news-room/questions-and-answers/item/breastfeeding",
+      "answerSourceDetail": "OMS, lactancia, leche materna contiene hidratos de carbono",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-80",
@@ -44403,10 +44403,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, papilas caliciformes y sabor amargo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-83",
@@ -44431,10 +44431,10 @@
           "text": "34."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, 32 piezas definitivas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-84",
@@ -44459,10 +44459,10 @@
           "text": "El colon."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, hiato esofágico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-85",
@@ -44487,10 +44487,10 @@
           "text": "El bazo. RESERVA:"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía abdominal, vejiga bajo hipogastrio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-86",
@@ -44515,10 +44515,10 @@
           "text": "Pepsina."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología pancreática, jugo pancreático exocrino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-87",
@@ -44543,10 +44543,10 @@
           "text": "LHD."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología gástrica, ácido clorhídrico HCl",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-88",
@@ -44571,10 +44571,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología gástrica, factor intrínseco",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-89",
@@ -44599,10 +44599,10 @@
           "text": "Esófago."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología pancreática, glucagón endocrino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-29-90",

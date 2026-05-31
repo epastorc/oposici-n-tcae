@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.261`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `307`.
+- Soluciones verificadas: `2.320`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `338`.
 
 ## Criterio
 
@@ -240,6 +240,13 @@ con `60` respuestas verificadas y `13` exclusiones. Las fuentes principales son
 la Constitución, la Ley 3/2005, la Ley 14/1986, la Ley 41/2002 y la ficha pública
 de cuidados paliativos de la OMS. Se excluyen escalas, muestras y procedimientos
 dependientes de guía concreta.
+
+Se ha revisado `TCAE_EXAMEN 29.pdf`, centrado en anatomía digestiva, lactancia,
+quirófano y cuidados respiratorios. Queda cerrado con `59` respuestas verificadas
+y `31` exclusiones. Las preguntas sobre cadena de frío se contrastan con CDC, las
+de lactancia con OMS, las de lesiones por presión con GuíaSalud y el acceso a
+atención especializada con la Ley 14/1986. Se excluyen fórmulas pediátricas,
+circuitos locales y maniobras dependientes de protocolo.
 
 ## Plantillas oficiales SES
 
