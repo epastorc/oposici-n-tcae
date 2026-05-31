@@ -2739,12 +2739,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-76": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Ortopnea, evitar supino",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13532,12 +13534,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-2": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, decúbito supino boca arriba",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25886,12 +25890,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-79": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cuidados respiratorios, Fowler",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34060,12 +34066,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-100": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, ayuda para fetal o raquídea",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34563,12 +34571,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-45": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Prevención pie equino, ángulo de 90 grados",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38867,12 +38877,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-28": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, apoyo en lateral derecho",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38967,12 +38979,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-20": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, Fowler aproximadamente 45 grados",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39004,12 +39018,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-3": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, Roser o Proetz con hiperextensión cervical",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43168,12 +43184,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-93": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, Roser con cabeza en hiperextensión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49614,12 +49632,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-7": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, Roser o Proetz",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -50233,12 +50253,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-98": "d",
+        "tcae_examen-22-38": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Anestesia epidural, posición fetal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56134,12 +56157,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-95": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cuidados respiratorios, Fowler en EPOC",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58801,12 +58826,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, raquídea o fetal para punción lumbar",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63451,12 +63478,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-90": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cambios posturales, Sims como alternativa a prono",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63601,12 +63630,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-71": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, punción lumbar",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63675,12 +63706,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-73": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, litotomía en exploración genital y parto",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64119,12 +64152,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-14": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, prono o ventral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64195,12 +64230,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-11": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, decúbito supino con dorso apoyado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64269,12 +64306,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-38": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, Trendelenburg con pies elevados",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64619,12 +64658,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-29": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, Sims a ambos lados",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -71061,12 +71102,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-89": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, perneras en ginecológica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -71868,12 +71911,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-42": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cuidados nasogástricos, Fowler",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74470,12 +74515,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-17": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Prevención de aspiración, decúbito lateral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80400,12 +80447,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-27": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, Fowler no es decúbito",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -81348,12 +81397,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-81": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cuidados respiratorios, ortopneica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -81558,12 +81609,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-82": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cambios posturales, partir de dorsal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -81595,12 +81648,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-83": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cambios posturales, partir de dorsal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -81749,12 +81804,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-8": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cuidados, Fowler alto durante alimentación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -82602,12 +82659,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-15": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Punción lumbar, sentado en borde de mesa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -82982,12 +83041,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-10": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cuidados urinarios, dorsal para sondaje vesical masculino",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83019,12 +83080,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-4": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cuidados, Fowler para inserción nasogástrica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83913,12 +83976,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-84": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cambios posturales, giro de 90 grados de supino a lateral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86996,12 +87061,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-13": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cambios posturales, laterales derecho e izquierdo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106426,12 +106493,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-35": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Posiciones, Sims no evita universalmente broncoaspiración",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -109708,12 +109777,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-33": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/007216.htm",
+      "sourceDetail": "Cuidados, Fowler para retirada de sonda nasogástrica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.493`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `413`.
+- Soluciones verificadas: `2.529`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `471`.
 
 ## Criterio
 
@@ -266,6 +266,12 @@ anatomía y cuidados urinarios. Queda cerrado con `53` respuestas verificadas y
 `35` exclusiones. Se publican los conceptos estables de anatomía y cuidados; se
 excluyen secuencias de marcha, medidas, maniobras y dispositivos que requieren
 entrenamiento práctico o protocolo asistencial.
+
+Se ha revisado `TCAE_EXAMEN 4.pdf`, monográfico sobre posiciones del paciente.
+Queda cerrado con `41` respuestas verificadas y `59` exclusiones. Se publican las
+equivalencias posturales inequívocas y se apartan las indicaciones clínicas
+absolutas, maniobras dependientes de protocolo y preguntas vinculadas a figuras
+que no forman parte del JSON textual extraído.
 
 ## Plantillas oficiales SES
 
