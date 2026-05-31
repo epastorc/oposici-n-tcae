@@ -24259,12 +24259,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-5-45": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Unidad del paciente, pupitre",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25041,12 +25043,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-5-40": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Enemas medicamentosos, lactulosa como enema de retención",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25543,12 +25547,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-5-44": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Unidad del paciente, intercomunicación acústica y luminosa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44749,12 +44755,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-5-11": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Posición Fowler, apoyo y alineación corporal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65828,12 +65836,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-5-58": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Sondaje vesical, sonda Dufour y punta de palo de golf",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94380,12 +94390,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-5-50": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Enemas, evitar peróxido de hidrógeno",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110801,12 +110813,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-5-5": "d",
+        "tcae_examen-26-3": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Manejo de vía aérea, posición de Roser y retirada de cabecero",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -112893,12 +112908,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-5-59": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, fiebre muy alta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

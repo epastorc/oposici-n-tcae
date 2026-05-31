@@ -35835,10 +35835,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Manejo de vía aérea, posición de Roser y retirada de cabecero",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-26-4",
@@ -76939,10 +76939,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Manejo de vía aérea, posición de Roser y retirada de cabecero",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-6",
@@ -77107,10 +77107,10 @@
           "text": "Pies apoyados sobre talón o planta del pie."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posición Fowler, apoyo y alineación corporal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-12",
@@ -77919,10 +77919,10 @@
           "text": "Emoliente u oleoso."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enemas medicamentosos, lactulosa como enema de retención",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-41",
@@ -78031,10 +78031,10 @@
           "text": "Acústica siempre y, dependiendo del tipo de unidad podrá ser también luminosa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Unidad del paciente, intercomunicación acústica y luminosa",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-45",
@@ -78059,10 +78059,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Unidad del paciente, pupitre",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-46",
@@ -78199,10 +78199,10 @@
           "text": "No, nunca."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enemas, evitar peróxido de hidrógeno",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-51",
@@ -78423,10 +78423,10 @@
           "text": "Pico acodado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sondaje vesical, sonda Dufour y punta de palo de golf",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-59",
@@ -78451,10 +78451,10 @@
           "text": "Fiebre ligera."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, fiebre muy alta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-60",

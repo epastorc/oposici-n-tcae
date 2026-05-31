@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.482`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `94`.
+- Soluciones verificadas: `1.491`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `108`.
 
 ## Criterio
 
@@ -139,6 +139,10 @@ Se ha iniciado `TCAE_EXAMEN 5.pdf` con `47` respuestas verificadas sobre anatom�
 fisiología, posiciones clínicas, lesiones por presión y conceptos básicos de enemas.
 Las cifras y técnicas dependientes de protocolos específicos quedan para la revisión
 final del bloque.
+
+La revisión final cierra `TCAE_EXAMEN 5.pdf` con `55` respuestas verificadas. Se
+excluyen `14` preguntas dependientes de protocolos clínicos, simbología de gráficas
+hospitalarias o equipamiento concreto.
 
 ## Plantillas oficiales SES
 
