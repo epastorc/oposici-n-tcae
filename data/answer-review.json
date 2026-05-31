@@ -290,12 +290,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-13": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Conversión energética, kilocalorías a calorías",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -1733,12 +1735,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-40": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Lactancia, calostro y eliminación de meconio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -1807,12 +1811,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-65": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Higiene de manos rutinaria antes de alimentación oral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3755,12 +3761,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-18": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "IMC = peso dividido por talla al cuadrado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4768,12 +4776,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-45": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietas progresivas, dieta blanda",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6477,12 +6487,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-19": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "IMC, normopeso",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10181,12 +10193,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-52": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietética, dieta de protección gástrica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10255,12 +10269,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-20": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietas progresivas, dieta líquida",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10292,12 +10308,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-48": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Nutrición, osmolaridad de alimentos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -12164,12 +12182,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-32": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, síntomas gastrointestinales de toxiinfección",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13737,12 +13757,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-46": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Fisiología, electrolitos sodio, potasio y cloro",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14478,12 +14500,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-29": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Seguridad alimentaria, contaminantes químicos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22429,12 +22453,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-58": "c",
+        "tcae_examen-14-72": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Nutrición, ácidos grasos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22466,12 +22493,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-9": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "OMS, composición mayoritaria de la leche materna",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23832,12 +23861,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-5": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, vitamina A o retinol",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26294,12 +26325,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, sodio, hipertensión y retención de líquidos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26709,12 +26742,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-24": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "IMC, clasificación de Garrow",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27183,12 +27218,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-2": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "IMC, clasificación de Garrow",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31426,12 +31463,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-54": "a",
+        "tcae_examen-20-37": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, retinol liposoluble",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31785,12 +31825,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-43": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, vitamina K o filoquinona",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34815,12 +34857,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-11": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "IMC, clasificación de Garrow",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35958,12 +36002,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-39": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "OMS y UNICEF, lactancia materna exclusiva seis meses",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39295,12 +39341,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-64": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, colesterol LDL y riesgo cardiovascular",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42012,12 +42060,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-23": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Antropometría, perímetro braquial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42873,12 +42923,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-68": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Nutrición clínica, dieta hiperproteica para reparación tisular",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -45889,12 +45941,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-17": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietas progresivas, dieta blanda antes de basal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51401,12 +51455,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-63": "c",
+        "tcae_examen-22-44": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, vitamina K y coagulación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53811,12 +53868,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-67": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, niacina y pelagra",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53922,12 +53981,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-7": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietética, dieta cuantitativa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53959,12 +54020,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-44": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietética, dieta cualitativa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54056,12 +54119,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-66": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietética, dieta laxante rica en residuos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61094,12 +61159,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-35": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Seguridad alimentaria, tratamiento térmico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61763,12 +61830,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-41": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "OMS y UNICEF, alimentación complementaria desde seis meses",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61800,12 +61869,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-4": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "OMS y UNICEF, lactancia en la primera hora de vida",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -62180,12 +62251,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-21": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, niacina y pelagra",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64180,12 +64253,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-57": "b",
+        "tcae_examen-14-71": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, hipertensión y reducción de sal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70175,12 +70251,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-8": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Metabolismo, catabolismo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76447,12 +76525,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-1": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Nutrición, objetivos generales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79412,12 +79492,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-61": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Nutrición, proteínas de alto valor biológico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80606,12 +80688,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-36": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.aesan.gob.es/AECOSAN/docs/documentos/publicaciones/seguridad_alimentaria/congelar_descongelar.pdf",
+      "sourceDetail": "AESAN, congelación a -18 ºC o inferior",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -82975,12 +83059,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-42": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, lactosa como azúcar de la leche",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83835,12 +83921,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-38": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Hipertensión, no existe un mínimo recomendado de sal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86572,12 +86660,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietética, definición de dieta terapéutica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88438,12 +88528,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-47": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Nutrición, osmolaridad y concentración de solutos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93796,12 +93888,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-30": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Seguridad alimentaria, manipulador de alimentos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100612,12 +100706,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-14": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Número de Atwater, 9 kcal por gramo de lípido",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -103479,12 +103575,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-27": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietética, función plástica de carne, pescado y huevos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -104110,12 +104208,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-15": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, vitaminas y tipos de anemia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105876,12 +105976,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-22": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Nutrición, cereales como fuente de glúcidos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105913,12 +106015,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-28": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietética, verduras con función reguladora",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110353,12 +110457,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-62": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Prevención del reflujo, posición Fowler alta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

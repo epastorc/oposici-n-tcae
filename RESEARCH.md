@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.559`.
+- Soluciones verificadas: `1.614`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `121`.
 
 ## Criterio
@@ -151,6 +151,11 @@ principales son GuíaSalud, CDC, Osakidetza y la Ley 3/2005 autonómica.
 La revisión final cierra `TCAE_EXAMEN 6.pdf` con `56` respuestas verificadas. Se
 excluyen `13` preguntas sobre maniobras, dispositivos y parámetros que requieren
 protocolos asistenciales o equipamiento concreto.
+
+Se ha iniciado `TCAE_EXAMEN 13.pdf` con `51` respuestas verificadas sobre nutrición,
+vitaminas, metabolismo, lactancia y dietética. La OMS y UNICEF respaldan el bloque
+de alimentación infantil; AESAN y MedlinePlus aportan referencias públicas para
+seguridad alimentaria y conceptos clínicos.
 
 ## Plantillas oficiales SES
 
