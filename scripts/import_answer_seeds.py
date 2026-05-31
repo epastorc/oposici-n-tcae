@@ -9,7 +9,11 @@ from pathlib import Path
 
 def main() -> None:
     review_path = Path("data/answer-review.json")
-    seed_files = [Path("data/legal-answer-seeds.json"), Path("data/legal-answer-seeds-37.json")]
+    seed_files = [
+        Path("data/legal-answer-seeds.json"),
+        Path("data/legal-answer-seeds-37.json"),
+        Path("data/legal-answer-seeds-39.json"),
+    ]
     review = json.loads(review_path.read_text(encoding="utf-8"))
     updated = 0
     for seed_file in seed_files:

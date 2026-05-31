@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `361`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `4`.
+- Soluciones verificadas: `430`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `7`.
 
 ## Criterio
 
@@ -34,6 +34,11 @@ También se han revisado `57` preguntas válidas de `TCAE_EXAMEN 37.pdf` contra 
 misma ley. Tres enunciados de ese bloque permanecen excluidos: dos atribuyen una
 edad fija a la jubilación voluntaria y otro pregunta por un derecho inexistente
 cuando todas sus opciones figuran en el artículo 17.
+
+Se han revisado `70` preguntas válidas de `TCAE_EXAMEN 39.pdf` contra la Ley
+8/2011 publicada en el DOE y contra la Ley 40/2015 consolidada en el BOE. Tres
+preguntas permanecen excluidas por opciones erróneas o por incluir varias respuestas
+válidas sin opción conjunta.
 
 ## Plantillas oficiales SES
 

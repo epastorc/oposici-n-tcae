@@ -584,12 +584,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-34": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 25.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -1030,12 +1032,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-71": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 5.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -1277,12 +1281,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-47": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 40/2015, artículo 41",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3499,12 +3505,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-52": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 25.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3573,12 +3581,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-33": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 25.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5831,12 +5841,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-53": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 25.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5942,12 +5954,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-66": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 25.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11413,12 +11427,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-63": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13220,12 +13236,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-3": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 8/2011, encabezado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17492,12 +17510,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-49": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17529,12 +17549,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-43": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 10.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17566,12 +17588,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-58": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 12.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17933,12 +17957,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-36": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 40/2015, artículo 40",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18033,12 +18059,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-65": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19481,12 +19509,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-32": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 15.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20500,12 +20530,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-27": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 25.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20650,12 +20682,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-23": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26023,12 +26057,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-7": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 40/2015, capítulo V",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28050,12 +28086,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-10": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 10.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28087,12 +28125,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-68": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 12.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28124,12 +28164,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-21": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 11.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28198,12 +28240,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-57": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 15.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28235,12 +28279,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-72": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 17.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28272,12 +28318,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-55": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 14.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28309,12 +28357,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-48": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 16.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29526,12 +29576,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-18": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 25.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29563,12 +29615,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-9": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 25.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -45159,12 +45213,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-41": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 40/2015, artículo 38",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -45763,12 +45819,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-64": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículos 14 a 19",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47868,12 +47926,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-59": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 40/2015, artículo 43",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -48617,12 +48677,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-22": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 25.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51076,12 +51138,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-2": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "DOE número 59, 25 de marzo de 2011",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56527,12 +56591,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-1": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 8/2011, encabezado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58280,12 +58346,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-24": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 40/2015, artículo 2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58560,12 +58628,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-4": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58597,12 +58667,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-15": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 2.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58634,12 +58706,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-73": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58794,12 +58868,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-16": "c",
+        "tcae_examen-39-28": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 40/2015, artículo 39",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64303,12 +64380,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-25": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64340,12 +64419,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-11": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.6",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64377,12 +64458,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-8": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.7",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67957,12 +68040,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-35": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 38",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -72455,12 +72540,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-69": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 21.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79455,12 +79542,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-5": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 25.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83703,12 +83792,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-62": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 15.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -85795,12 +85886,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-17": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículos 9 y 27",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88804,12 +88897,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-31": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 16.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89361,12 +89456,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-51": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 15.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92347,12 +92444,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-14": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92384,12 +92483,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-30": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93686,12 +93787,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-6": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 22.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93822,12 +93925,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-20": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 23.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94011,12 +94116,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-26": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 26.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94235,12 +94342,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-46": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 3.11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94272,12 +94381,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-40": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 3.8",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94309,12 +94420,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-54": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 3.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94642,12 +94755,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-42": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94679,12 +94794,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-50": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94716,12 +94833,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 4.7",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99685,12 +99804,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-67": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 40/2015, artículo 39",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100377,12 +100498,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-19": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Título IV",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100414,12 +100537,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-29": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículos 10 a 13",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100549,7 +100674,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-30-99": "b"
+        "tcae_examen-30-99": "b",
+        "tcae_examen-39-37": "c"
       },
       "status": "verified",
       "confidence": "high",
@@ -100587,12 +100713,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-70": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Ley 40/2015, artículo 41.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -101640,12 +101768,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-13": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 3.14",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -101677,12 +101807,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 12.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -103946,12 +104078,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-39-44": "d",
+        "tcae_examen-39-61": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "sourceDetail": "Artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
