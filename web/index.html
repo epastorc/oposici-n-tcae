@@ -22,12 +22,22 @@
       </div>
       <button id="new-test" class="capsule-button">Nuevo reto</button>
     </header>
+    <div class="navbar-wrap">
+      <nav class="navbar" aria-label="Navegación principal">
+        <button class="nav-link active" data-view="welcome">Inicio</button>
+        <button class="nav-link" data-view="saved-tests">Tests guardados</button>
+        <button class="nav-link" data-view="wrong-questions">Preguntas incorrectas</button>
+      </nav>
+    </div>
     <main>
       <section id="welcome" class="card">
         <p class="badge">Liga TCAE</p>
         <h2>Entrena para conseguir tu plaza</h2>
         <p>Completa cada reto, revisa tus fallos y sigue avanzando por la ruta.</p>
         <p id="catalog">Cargando banco de preguntas...</p>
+        <label>Nombre único del reto
+          <input id="test-name" type="text" maxlength="60" placeholder="Ejemplo: Repaso anatomía 1">
+        </label>
         <label>Elige la dificultad del reto
           <select id="test-size">
             <option value="100">Liga maestra · 100 preguntas</option>
@@ -35,7 +45,21 @@
             <option value="25">Liga inicial · 25 preguntas</option>
           </select>
         </label>
+        <p id="start-error" class="form-error" role="alert"></p>
         <button id="start-test">Comenzar aventura</button>
+      </section>
+      <section id="saved-tests" class="card" hidden>
+        <p class="badge">Historial de aventuras</p>
+        <h2>Tests guardados</h2>
+        <p>Retoma un reto pendiente o revisa las respuestas de uno terminado.</p>
+        <div id="saved-tests-list"></div>
+      </section>
+      <section id="wrong-questions" class="card" hidden>
+        <p class="badge">Zona de entrenamiento</p>
+        <h2>Preguntas incorrectas</h2>
+        <p>Repasa tus fallos acumulados o vuelve a intentarlos como un nuevo test.</p>
+        <button id="retry-wrong">Repetir preguntas incorrectas</button>
+        <div id="wrong-questions-list"></div>
       </section>
       <section id="quiz" hidden>
         <div class="progress-row">
@@ -49,7 +73,7 @@
           <div id="options"></div>
           <label class="review"><input id="review" type="checkbox"> Guardar para entrenar después</label>
         </article>
-        <nav>
+        <nav class="quiz-controls">
           <button id="previous" class="secondary">Anterior</button>
           <button id="finish" class="secondary">Terminar reto</button>
           <button id="next">Siguiente</button>

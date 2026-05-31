@@ -1,4 +1,5 @@
-const state = { bank: [], test: [], index: 0, answers: {}, review: {} };
+const STORAGE = { tests: "tcae-saved-tests", wrong: "tcae-wrong-questions" };
+const state = { bank: [], test: [], testId: null, index: 0, answers: {}, review: {}, mode: "test" };
 const $ = (id) => document.getElementById(id);
 
 window.setTimeout(() => {
@@ -8,6 +9,18 @@ window.setTimeout(() => {
 
 function shuffle(items) {
   return [...items].sort(() => Math.random() - 0.5);
+}
+function readStorage(key, fallback) {
+  try { return JSON.parse(localStorage.getItem(key)) || fallback; } catch { return fallback; }
+}
+function writeStorage(key, value) {
+  localStorage.setItem(key, JSON.stringify(value));
+}
+function savedTests() {
+  return readStorage(STORAGE.tests, []);
+}
+function questionById(id) {
+  return state.bank.find(question => question.id === id);
 }
 function escapeHtml(value) {
   return String(value).replace(/[&<>"']/g, character => ({
@@ -28,17 +41,62 @@ function explanation(question) {
     : "La respuesta se ha contrastado con una fuente oficial.";
   return `${detail}${sourceLink(question)}`;
 }
-function show(section) {
-  ["welcome", "quiz", "results"].forEach(id => $(id).hidden = id !== section);
+function setView(section) {
+  ["welcome", "quiz", "results", "saved-tests", "wrong-questions"].forEach(id => $(id).hidden = id !== section);
+  document.querySelectorAll(".nav-link").forEach(button => button.classList.toggle("active", button.dataset.view === section));
+  if (section === "saved-tests") renderSavedTests();
+  if (section === "wrong-questions") renderWrongQuestions();
+}
+function persistCurrentTest(completed = false) {
+  if (!state.testId || state.mode !== "test") return;
+  const tests = savedTests();
+  const existing = tests.find(test => test.id === state.testId);
+  if (!existing) return;
+  Object.assign(existing, {
+    questionIds: state.test.map(question => question.id),
+    answers: state.answers,
+    review: state.review,
+    index: state.index,
+    completed,
+    updatedAt: new Date().toISOString()
+  });
+  writeStorage(STORAGE.tests, tests);
+}
+function uniqueName(name) {
+  return !savedTests().some(test => test.name.toLocaleLowerCase() === name.toLocaleLowerCase());
 }
 function start() {
+  const name = $("test-name").value.trim();
+  if (!name) {
+    $("start-error").textContent = "Pon un nombre al reto para poder recuperarlo después.";
+    return;
+  }
+  if (!uniqueName(name)) {
+    $("start-error").textContent = "Ya existe un reto con ese nombre. Elige otro distinto.";
+    return;
+  }
+  $("start-error").textContent = "";
   const size = Math.min(Number($("test-size").value), state.bank.length);
   state.test = shuffle(state.bank).slice(0, size);
-  state.index = 0; state.answers = {}; state.review = {};
-  show("quiz"); render();
+  state.testId = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+  state.index = 0; state.answers = {}; state.review = {}; state.mode = "test";
+  const now = new Date().toISOString();
+  const tests = savedTests();
+  tests.unshift({ id: state.testId, name, questionIds: state.test.map(question => question.id), answers: {}, review: {}, index: 0, completed: false, createdAt: now, updatedAt: now });
+  writeStorage(STORAGE.tests, tests);
+  setView("quiz"); render();
+}
+function loadTest(id, reviewOnly = false) {
+  const saved = savedTests().find(test => test.id === id);
+  if (!saved) return;
+  state.test = saved.questionIds.map(questionById).filter(Boolean);
+  state.testId = saved.id; state.index = saved.index || 0;
+  state.answers = saved.answers || {}; state.review = saved.review || {}; state.mode = "test";
+  if (reviewOnly) finish(false); else { setView("quiz"); render(); }
 }
 function render() {
   const question = state.test[state.index];
+  if (!question) return;
   $("progress").textContent = `Pregunta ${state.index + 1} de ${state.test.length}`;
   $("answered").textContent = `${Object.keys(state.answers).length} respondidas`;
   $("progress-fill").style.width = `${((state.index + 1) / state.test.length) * 100}%`;
@@ -47,15 +105,22 @@ function render() {
   $("options").innerHTML = question.options.map(option => `
     <label class="option"><input type="radio" name="answer" value="${option.key}"
       ${state.answers[question.id] === option.key ? "checked" : ""}>
-      <strong class="option-key">${option.key.toUpperCase()})</strong><span>${option.text}</span></label>`).join("");
+      <strong class="option-key">${option.key.toUpperCase()})</strong><span>${escapeHtml(option.text)}</span></label>`).join("");
   document.querySelectorAll('[name="answer"]').forEach(input => input.addEventListener("change", event => {
-    state.answers[question.id] = event.target.value; render();
+    state.answers[question.id] = event.target.value; persistCurrentTest(); render();
   }));
   $("review").checked = Boolean(state.review[question.id]);
   $("previous").disabled = state.index === 0;
   $("next").textContent = state.index === state.test.length - 1 ? "Terminar reto" : "Siguiente";
 }
-function finish() {
+function saveMistakes(mistakes) {
+  const wrong = readStorage(STORAGE.wrong, {});
+  mistakes.forEach(question => {
+    wrong[question.id] = { questionId: question.id, lastAnswer: state.answers[question.id], updatedAt: new Date().toISOString() };
+  });
+  writeStorage(STORAGE.wrong, wrong);
+}
+function finish(save = true) {
   const answered = Object.keys(state.answers).length;
   const pending = state.test.length - answered;
   const reviews = Object.keys(state.review).length;
@@ -66,42 +131,72 @@ function finish() {
   const unverified = state.test.length - verified.length;
   const grade = graded.length ? ((correct.length / graded.length) * 10).toFixed(2).replace(".", ",") : null;
   const score = graded.length ? `${correct.length} de ${graded.length}` : "Todavía no hay respuestas verificadas contestadas en este test";
+  if (save) { saveMistakes(mistakes); persistCurrentTest(true); }
   $("result-summary").innerHTML = `<p><strong>${answered}</strong> respondidas · <strong>${pending}</strong> sin responder · <strong>${reviews}</strong> marcadas para repasar.</p>
     <p><strong>Resultado verificable:</strong> ${score}.</p>
     <p><strong>Nota:</strong> ${grade === null ? "no disponible" : `${grade} / 10`}.</p>
     <p>La nota se calcula sobre las <strong>${graded.length}</strong> preguntas verificadas que has contestado. Este test contiene <strong>${verified.length}</strong> preguntas con solución investigada en fuentes oficiales y <strong>${unverified}</strong> pendientes de revisión.</p>`;
-  $("mistakes").innerHTML = `<section class="result-block mistakes">
-    <h3>Preguntas falladas (${mistakes.length})</h3>
-    ${mistakes.length ? `<ol>${mistakes.map(question => `<li>
-      <p><strong>${escapeHtml(question.source)} · pregunta ${question.number}</strong></p>
-      <p>${escapeHtml(question.prompt)}</p>
-      <p><strong>Tu respuesta:</strong> ${escapeHtml(optionText(question, state.answers[question.id]))}</p>
-      <p><strong>Respuesta correcta:</strong> ${escapeHtml(optionText(question, question.correctAnswer))}</p>
-      <p><strong>Explicación:</strong> ${explanation(question)}</p>
-    </li>`).join("")}</ol>` : "<p>No has fallado ninguna de las preguntas corregibles.</p>"}
-  </section>`;
-  $("solutions").innerHTML = `<section class="result-block">
-    <h3>Resolución del cuestionario</h3>
-    <ol>${state.test.map(question => `<li>
-      <p><strong>${escapeHtml(question.source)} · pregunta ${question.number}</strong></p>
-      <p>${escapeHtml(question.prompt)}</p>
-      ${question.correctAnswer
-        ? `<p><strong>Respuesta correcta:</strong> ${escapeHtml(optionText(question, question.correctAnswer))}</p>
-          <p><strong>Explicación:</strong> ${explanation(question)}</p>`
-        : "<p><strong>Solución pendiente de revisión.</strong></p>"}
-    </li>`).join("")}</ol>
-  </section>`;
-  show("results");
+  $("mistakes").innerHTML = `<section class="result-block mistakes"><h3>Preguntas falladas (${mistakes.length})</h3>
+    ${mistakes.length ? `<ol>${mistakes.map(question => resultItem(question, true)).join("")}</ol>` : "<p>No has fallado ninguna de las preguntas corregibles.</p>"}</section>`;
+  $("solutions").innerHTML = `<section class="result-block"><h3>Resolución del cuestionario</h3>
+    <ol>${state.test.map(question => resultItem(question, false)).join("")}</ol></section>`;
+  setView("results");
 }
+function resultItem(question, showUserAnswer) {
+  return `<li><p><strong>${escapeHtml(question.source)} · pregunta ${question.number}</strong></p>
+    <p>${escapeHtml(question.prompt)}</p>
+    ${showUserAnswer ? `<p><strong>Tu respuesta:</strong> ${escapeHtml(optionText(question, state.answers[question.id]))}</p>` : ""}
+    ${question.correctAnswer
+      ? `<p><strong>Respuesta correcta:</strong> ${escapeHtml(optionText(question, question.correctAnswer))}</p><p><strong>Explicación:</strong> ${explanation(question)}</p>`
+      : "<p><strong>Solución pendiente de revisión.</strong></p>"}</li>`;
+}
+function renderSavedTests() {
+  const tests = savedTests();
+  $("saved-tests-list").innerHTML = tests.length ? tests.map(test => {
+    const answered = Object.keys(test.answers || {}).length;
+    return `<article class="saved-item"><div><h3>${escapeHtml(test.name)}</h3>
+      <p>${test.questionIds.length} preguntas · ${answered} respondidas · ${test.completed ? "Terminado" : "En progreso"}</p></div>
+      <div class="item-actions">${test.completed ? `<button class="secondary" data-review-test="${test.id}">Revisar</button>` : `<button data-resume-test="${test.id}">Continuar</button>`}
+      <button class="danger" data-delete-test="${test.id}">Eliminar</button></div></article>`;
+  }).join("") : '<p class="empty-state">Todavía no has guardado ningún reto.</p>';
+}
+function renderWrongQuestions() {
+  const wrong = Object.values(readStorage(STORAGE.wrong, {}));
+  $("retry-wrong").disabled = !wrong.length;
+  $("wrong-questions-list").innerHTML = wrong.length ? `<ol class="wrong-list">${wrong.map(item => {
+    const question = questionById(item.questionId);
+    return question ? resultItem(question, false) : "";
+  }).join("")}</ol>` : '<p class="empty-state">No hay preguntas incorrectas guardadas.</p>';
+}
+function retryWrong() {
+  const ids = Object.keys(readStorage(STORAGE.wrong, {}));
+  state.test = ids.map(questionById).filter(Boolean);
+  if (!state.test.length) return;
+  state.testId = null; state.index = 0; state.answers = {}; state.review = {}; state.mode = "wrong";
+  setView("quiz"); render();
+}
+
 $("start-test").addEventListener("click", start);
-$("new-test").addEventListener("click", () => show("welcome"));
-$("restart").addEventListener("click", () => show("welcome"));
-$("previous").addEventListener("click", () => { state.index--; render(); });
-$("next").addEventListener("click", () => state.index === state.test.length - 1 ? finish() : (state.index++, render()));
-$("finish").addEventListener("click", finish);
+$("new-test").addEventListener("click", () => setView("welcome"));
+$("restart").addEventListener("click", () => setView("welcome"));
+$("previous").addEventListener("click", () => { state.index--; persistCurrentTest(); render(); });
+$("next").addEventListener("click", () => state.index === state.test.length - 1 ? finish() : (state.index++, persistCurrentTest(), render()));
+$("finish").addEventListener("click", () => finish());
 $("review").addEventListener("change", event => {
   const id = state.test[state.index].id;
   if (event.target.checked) state.review[id] = true; else delete state.review[id];
+  persistCurrentTest();
+});
+$("retry-wrong").addEventListener("click", retryWrong);
+document.addEventListener("click", event => {
+  const view = event.target.dataset.view;
+  if (view) setView(view);
+  if (event.target.dataset.resumeTest) loadTest(event.target.dataset.resumeTest);
+  if (event.target.dataset.reviewTest) loadTest(event.target.dataset.reviewTest, true);
+  if (event.target.dataset.deleteTest) {
+    writeStorage(STORAGE.tests, savedTests().filter(test => test.id !== event.target.dataset.deleteTest));
+    renderSavedTests();
+  }
 });
 fetch("data/questions.json").then(response => response.json()).then(data => {
   state.bank = data.questions;
