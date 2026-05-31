@@ -14332,8 +14332,8 @@
         }
       ],
       "correctAnswer": "a",
-      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
-      "answerSourceDetail": "Ley 14/1986, artículo 46 b)",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Atención primaria, integralidad",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -20099,10 +20099,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Posiciones quirúrgicas, Jackknife o navaja",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-2",
@@ -20127,10 +20127,10 @@
           "text": "Continua."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Atención primaria, enfoque integral biopsicosocial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-3",
@@ -20155,10 +20155,10 @@
           "text": "La ley 3/2005, de 8 de julio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-4",
@@ -20183,10 +20183,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 9",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-5",
@@ -20211,10 +20211,10 @@
           "text": "Es una sustancia jabonosa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Antisépticos, povidona iodada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-6",
@@ -20239,10 +20239,10 @@
           "text": "La cara, cuello y orejas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Higiene del paciente encamado, secuencia cefalocaudal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-7",
@@ -20267,10 +20267,10 @@
           "text": "Sistema de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-8",
@@ -20295,10 +20295,10 @@
           "text": "El Consejo de Salud de Área."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-9",
@@ -20323,10 +20323,10 @@
           "text": "Régimen de internamiento."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Atención especializada, urgencias hospitalarias",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-10",
@@ -20379,10 +20379,10 @@
           "text": "El INSALUD (Instituto Nacional de la Salud)."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, centros de salud y SES",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-12",
@@ -20407,10 +20407,10 @@
           "text": "Servir como centro de reunión entre la comunidad y los profesionales sanitarios."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Atención primaria, funciones del centro de salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-13",
@@ -20435,10 +20435,10 @@
           "text": "Todos son derechos colectivos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 19",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-14",
@@ -20463,10 +20463,10 @@
           "text": "Un deber colectivo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 17",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-15",
@@ -20519,10 +20519,10 @@
           "text": "Que aborda los problemas físicos, mentales y sociales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Atención primaria, integralidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-17",
@@ -20547,10 +20547,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, información asistencial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-18",
@@ -20575,10 +20575,10 @@
           "text": "De forma sagital."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Diagnóstico por imagen, TAC transversal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-19",
@@ -20603,10 +20603,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-20",
@@ -20659,10 +20659,10 @@
           "text": "Un deber colectivo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 19",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-22",
@@ -20687,10 +20687,10 @@
           "text": "Si, si lo solicita por escrito."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, artículo 11 f)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-23",
@@ -20715,10 +20715,10 @@
           "text": "Transversal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Anatomía descriptiva, plano coronal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-24",
@@ -20799,10 +20799,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Atención primaria, unidad básica asistencial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-27",
@@ -20911,10 +20911,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 16/2003, información a pacientes y usuarios",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-31",
@@ -21023,10 +21023,10 @@
           "text": "Divide el cuerpo en dos porciones iguales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Anatomía descriptiva, eje sagital",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-35",
@@ -21051,10 +21051,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 41/2002 y Ley 3/2005, deberes profesionales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-36",
@@ -21079,10 +21079,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, derecho a la información por representación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-37",
@@ -21191,10 +21191,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Atención primaria, cartera de servicios",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-41",
@@ -21219,10 +21219,10 @@
           "text": "Los profesionales sanitarios."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 14/1986, administración central sanitaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-42",
@@ -21247,10 +21247,10 @@
           "text": "Un mínimo de 9 meses."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 9",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-43",
@@ -21331,10 +21331,10 @@
           "text": "Realiza imágenes de cuatro planos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Diagnóstico por imagen, resonancia multiplanar",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-46",
@@ -21359,10 +21359,10 @@
           "text": "Funciones jurídico legales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 8.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-47",
@@ -21387,10 +21387,10 @@
           "text": "La gerencia del área."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, Gerencia del Área",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-48",
@@ -21499,10 +21499,10 @@
           "text": "La cirugía diagnóstica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Cirugía exploratoria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-52",
@@ -21555,10 +21555,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, consentimiento informado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-54",
@@ -21583,10 +21583,10 @@
           "text": "Las respuestas a y b son correctas. RESERVA:"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-55",
@@ -21611,10 +21611,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 4",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-56",
@@ -21639,10 +21639,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, título",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-57",
@@ -21667,10 +21667,10 @@
           "text": "Justicia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Bioética, principio de justicia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-2-1",
@@ -39447,10 +39447,10 @@
           "text": "Sistema de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-55",
@@ -53839,10 +53839,10 @@
           "text": "Todas las respuestas son falsas"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-40",
@@ -54203,10 +54203,10 @@
           "text": "Los profesionales sanitarios."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 14/1986, administración central sanitaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-53",

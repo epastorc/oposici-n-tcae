@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.619`.
+- Soluciones verificadas: `1.659`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `133`.
 
 ## Criterio
@@ -160,6 +160,11 @@ seguridad alimentaria y conceptos clínicos.
 La revisión final cierra `TCAE_EXAMEN 13.pdf` con `56` respuestas verificadas. Se
 excluyen `12` preguntas con errores de unidades o pautas dietéticas y pediátricas
 que requieren valoración individual.
+
+Se ha iniciado `TCAE_EXAMEN 19.pdf` con `41` respuestas verificadas tras propagar
+coincidencias exactas. El bloque se apoya en el Estatuto Marco, la normativa
+autonómica de atención primaria y autonomía del paciente, y el Decreto 189/2004
+sobre áreas de salud.
 
 ## Plantillas oficiales SES
 

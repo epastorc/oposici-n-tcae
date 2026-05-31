@@ -27,6 +27,7 @@ def main() -> None:
         Path("data/clinical-answer-seeds-05.json"),
         Path("data/clinical-answer-seeds-06.json"),
         Path("data/clinical-answer-seeds-13.json"),
+        Path("data/legal-answer-seeds-19.json"),
     ]
     review = json.loads(review_path.read_text(encoding="utf-8"))
     updated = 0

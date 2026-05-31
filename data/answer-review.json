@@ -7870,12 +7870,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-40": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Atención primaria, cartera de servicios",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19087,12 +19089,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-22": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, artículo 11 f)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23370,12 +23374,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-53": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, consentimiento informado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -24618,12 +24624,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-34": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Anatomía descriptiva, eje sagital",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28158,12 +28166,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-4": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 9",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28910,12 +28920,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-41": "b",
+        "tcae_examen-34-52": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 14/1986, administración central sanitaria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30232,12 +30245,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-23": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Anatomía descriptiva, plano coronal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34231,12 +34246,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-6": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Higiene del paciente encamado, secuencia cefalocaudal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35893,12 +35910,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-11": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, centros de salud y SES",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39232,12 +39251,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-54": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43561,12 +43582,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-17": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, información asistencial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46460,12 +46483,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-12": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Atención primaria, funciones del centro de salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -48241,12 +48266,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-47": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, Gerencia del Área",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -48888,12 +48915,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-14": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 17",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49149,12 +49178,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-57": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Bioética, principio de justicia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49953,12 +49984,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-9": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Atención especializada, urgencias hospitalarias",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61799,12 +61832,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-55": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63466,12 +63501,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-1": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Posiciones quirúrgicas, Jackknife o navaja",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63785,12 +63822,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-5": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Antisépticos, povidona iodada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64983,12 +65022,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-45": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Diagnóstico por imagen, resonancia multiplanar",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66513,12 +66554,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-18": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Diagnóstico por imagen, TAC transversal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66778,12 +66821,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-26": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Atención primaria, unidad básica asistencial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73515,12 +73560,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-30": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 16/2003, información a pacientes y usuarios",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76244,12 +76291,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-13": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 19",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -85286,12 +85335,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-2": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Atención primaria, enfoque integral biopsicosocial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -87372,12 +87423,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-3": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -87409,12 +87462,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-56": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, título",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88320,12 +88375,13 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-16-16": "a"
+        "tcae_examen-16-16": "a",
+        "tcae_examen-19-16": "a"
       },
       "status": "verified",
       "confidence": "high",
-      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
-      "sourceDetail": "Ley 14/1986, artículo 46 b)",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Atención primaria, integralidad",
       "reviewedAt": "2026-05-31",
       "notes": null
     },
@@ -89066,12 +89122,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-51": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Cirugía exploratoria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97551,12 +97609,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-42": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 9",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97689,12 +97749,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-19": "c",
+        "tcae_examen-34-39": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99046,12 +99109,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-7": "b",
+        "tcae_examen-27-54": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99766,12 +99832,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-46": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 8.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -103509,12 +103577,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-8": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108644,12 +108714,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-36": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, derecho a la información por representación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -109920,12 +109992,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-35": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 41/2002 y Ley 3/2005, deberes profesionales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -113709,12 +113783,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-21": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 19",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
