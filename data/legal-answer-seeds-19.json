@@ -23,6 +23,7 @@
     "12": ["c", "Atención primaria, funciones del centro de salud"],
     "13": ["c", "Ley 55/2003, artículo 19"],
     "14": ["a", "Ley 55/2003, artículo 17"],
+    "15": ["b", "Ley 10/2001, artículo 38"],
     "16": ["a", "Atención primaria, integralidad"],
     "17": ["a", "Ley 3/2005, información asistencial"],
     "18": ["b", "Diagnóstico por imagen, TAC transversal"],
@@ -30,17 +31,23 @@
     "21": ["c", "Ley 55/2003, artículo 19"],
     "22": ["a", "Ley 10/2001, artículo 11 f)"],
     "23": ["a", "Anatomía descriptiva, plano coronal"],
+    "24": ["d", "Técnica estéril, superficie externa del guante excepto muñeca"],
     "26": ["a", "Atención primaria, unidad básica asistencial"],
     "30": ["d", "Ley 16/2003, información a pacientes y usuarios"],
     "34": ["a", "Anatomía descriptiva, eje sagital"],
     "35": ["d", "Ley 41/2002 y Ley 3/2005, deberes profesionales"],
     "36": ["c", "Ley 3/2005, derecho a la información por representación"],
+    "37": ["d", "Organización hospitalaria, complejo hospitalario"],
+    "38": ["d", "Higiene del paciente encamado, secuencia de miembros superiores"],
     "40": ["d", "Atención primaria, cartera de servicios"],
     "41": ["b", "Ley 14/1986, administración central sanitaria"],
     "42": ["a", "Ley 55/2003, artículo 9"],
+    "44": ["c", "Circuito quirúrgico, limpieza en zona no limitada"],
     "45": ["a", "Diagnóstico por imagen, resonancia multiplanar"],
     "46": ["d", "Decreto 47/2023, artículo 8.2"],
     "47": ["d", "Decreto 189/2004, Gerencia del Área"],
+    "48": ["d", "Posiciones quirúrgicas, Morestin para cirugía tiroidea"],
+    "49": ["a", "Instrumental quirúrgico, sierra de Gigli"],
     "51": ["c", "Cirugía exploratoria"],
     "53": ["a", "Ley 3/2005, consentimiento informado"],
     "54": ["b", "Decreto 189/2004, artículo 2 c)"],
@@ -48,5 +55,15 @@
     "56": ["a", "Real Decreto 521/1987, título"],
     "57": ["d", "Bioética, principio de justicia"]
   },
-  "excluded": {}
+  "excluded": {
+    "20": "La clasificación por tipos de consultorio local requiere contrastar el mapa sanitario autonómico vigente y sus excepciones.",
+    "25": "La clasificación por tipos de consultorio local requiere contrastar el mapa sanitario autonómico vigente y sus excepciones.",
+    "27": "El número de soportes laterales depende de la mesa y del protocolo quirúrgico.",
+    "28": "La preparación del vello preoperatorio debe seguir el protocolo del centro; no se fuerza una técnica manual concreta.",
+    "29": "El uso de tablero quirúrgico depende de la mesa y del tipo de intervención.",
+    "31": "La colocación del arco de anestesia depende del campo quirúrgico y del montaje de mesa.",
+    "32": "La secuencia de colocación de calzas depende del protocolo de aislamiento aplicado.",
+    "33": "El manejo de camas y camillas depende del recorrido, estado clínico y protocolo de traslado.",
+    "43": "La elección de pinza para torunda depende del procedimiento y del instrumental disponible."
+  }
 }

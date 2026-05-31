@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.659`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `133`.
+- Soluciones verificadas: `1.666`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `141`.
 
 ## Criterio
 
@@ -165,6 +165,10 @@ Se ha iniciado `TCAE_EXAMEN 19.pdf` con `41` respuestas verificadas tras propaga
 coincidencias exactas. El bloque se apoya en el Estatuto Marco, la normativa
 autonómica de atención primaria y autonomía del paciente, y el Decreto 189/2004
 sobre áreas de salud.
+
+La revisión final cierra `TCAE_EXAMEN 19.pdf` con `48` respuestas verificadas. Se
+excluyen nueve preguntas dependientes de protocolos quirúrgicos, equipamiento o
+clasificaciones locales de consultorios.
 
 ## Plantillas oficiales SES
 

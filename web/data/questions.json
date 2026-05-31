@@ -20491,10 +20491,10 @@
           "text": "Decreto 67/1996 de 21 de mayo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, artículo 38",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-16",
@@ -20743,10 +20743,10 @@
           "text": "Por fuera excepto la zona de la muñeca."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Técnica estéril, superficie externa del guante excepto muñeca",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-25",
@@ -21107,10 +21107,10 @@
           "text": "Un Complejo hospitalario."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Organización hospitalaria, complejo hospitalario",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-38",
@@ -21135,10 +21135,10 @@
           "text": "El miembro superior derecho."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Higiene del paciente encamado, secuencia de miembros superiores",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-39",
@@ -21303,10 +21303,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Circuito quirúrgico, limpieza en zona no limitada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-45",
@@ -21415,10 +21415,10 @@
           "text": "Morestin."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Posiciones quirúrgicas, Morestin para cirugía tiroidea",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-49",
@@ -21443,10 +21443,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Instrumental quirúrgico, sierra de Gigli",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-50",

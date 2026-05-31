@@ -14934,12 +14934,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-37": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Organización hospitalaria, complejo hospitalario",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19457,12 +19459,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-38": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Higiene del paciente encamado, secuencia de miembros superiores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53447,12 +53451,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-15": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, artículo 38",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60725,12 +60731,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-44": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Circuito quirúrgico, limpieza en zona no limitada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65508,12 +65516,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-49": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Instrumental quirúrgico, sierra de Gigli",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -72562,12 +72572,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-24": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Técnica estéril, superficie externa del guante excepto muñeca",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -81211,12 +81223,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-19-48": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Posiciones quirúrgicas, Morestin para cirugía tiroidea",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
