@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TCAE Test</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <div>
+        <p class="eyebrow">Preparación TCAE</p>
+        <h1>Test de oposición</h1>
+      </div>
+      <button id="new-test">Nuevo test</button>
+    </header>
+    <main>
+      <section id="welcome" class="card">
+        <h2>Entrena con preguntas reales</h2>
+        <p id="catalog">Cargando banco de preguntas...</p>
+        <label>Número de preguntas
+          <select id="test-size">
+            <option value="100">100 preguntas</option>
+            <option value="50">50 preguntas</option>
+            <option value="25">25 preguntas</option>
+          </select>
+        </label>
+        <button id="start-test">Comenzar test</button>
+      </section>
+      <section id="quiz" hidden>
+        <div class="progress-row">
+          <strong id="progress"></strong>
+          <span id="answered"></span>
+        </div>
+        <div class="progress-bar"><span id="progress-fill"></span></div>
+        <article class="card">
+          <p id="source" class="eyebrow"></p>
+          <h2 id="prompt"></h2>
+          <div id="options"></div>
+          <label class="review"><input id="review" type="checkbox"> Marcar para repasar</label>
+        </article>
+        <nav>
+          <button id="previous" class="secondary">Anterior</button>
+          <button id="finish" class="secondary">Finalizar</button>
+          <button id="next">Siguiente</button>
+        </nav>
+      </section>
+      <section id="results" class="card" hidden>
+        <h2>Resumen del test</h2>
+        <div id="result-summary"></div>
+        <button id="restart">Crear otro test</button>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
