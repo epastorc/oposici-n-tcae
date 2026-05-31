@@ -45047,10 +45047,10 @@
           "text": "Periodos de hipotensión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, reevaluación del riesgo ante cambios clínicos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-16",
@@ -45103,10 +45103,10 @@
           "text": "Enfermos psiquiátricos sometidos a fuertes dosis de sedantes."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, factores de riesgo neurológicos y alteración de movilidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-18",
@@ -45243,10 +45243,10 @@
           "text": "La incontinencia fecal es un factor extrínseco relacionado con la presencia de las úlceras por presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, humedad e incontinencia como factor extrínseco",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-23",
@@ -45271,10 +45271,10 @@
           "text": "Factores iatrogénicos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, cizalla asociada a posición del paciente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-24",
@@ -45691,10 +45691,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, higiene de piel íntegra y eritema",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-39",
@@ -45775,10 +45775,10 @@
           "text": "El colapso vascular."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, presión, humedad, fricción y cizalla",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-42",
@@ -45943,10 +45943,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, prevención de UPP y calidad de cuidados",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-48",
@@ -46139,10 +46139,10 @@
           "text": "Sí, con la zona almohadillada."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, cambios posturales y alivio de presión",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-55",

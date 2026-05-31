@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.365`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `69`.
+- Soluciones verificadas: `1.373`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `80`.
 
 ## Criterio
 
@@ -120,6 +120,11 @@ Se ha iniciado `TCAE_EXAMEN 3.pdf` con `35` respuestas sobre lesiones por presi�
 contrastadas contra las guías públicas de GuíaSalud y GNEAUPP. Ocho preguntas
 dependen de figuras del PDF que no forman parte del JSON textual y quedan excluidas
 hasta una revisión visual específica.
+
+La segunda tanda cierra `TCAE_EXAMEN 3.pdf` con `43` respuestas verificadas. Once
+preguntas adicionales quedan excluidas porque mezclan denominaciones históricas de
+fases con el estadiaje clínico vigente; no se fuerza una correspondencia que las
+guías actuales no sostienen.
 
 ## Plantillas oficiales SES
 
