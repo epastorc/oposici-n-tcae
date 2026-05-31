@@ -1591,12 +1591,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-51": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 8.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -8554,12 +8556,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-63": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 30",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17445,12 +17449,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-42": "b",
+        "tcae_examen-36-44": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 26.2 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17775,12 +17782,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-64": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 23.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19483,12 +19492,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-43": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21454,12 +21465,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-68": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título V, capítulo I",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21491,12 +21504,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-99": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título II, capítulo II",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21567,12 +21582,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-59": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título V, capítulo II",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21604,12 +21621,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-94": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título II, capítulo III",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21641,12 +21660,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-48": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título V, capítulo III",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21678,12 +21699,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-86": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título II, capítulo IV",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21789,12 +21812,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-78": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título II, capítulo V",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25291,12 +25316,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-58": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 4.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25630,12 +25657,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-45": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 6",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29934,12 +29963,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-67": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 34.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42401,12 +42432,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-61": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 4.4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49840,12 +49873,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-54": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 4.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51225,12 +51260,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-84": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 9",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51262,12 +51299,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-76": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 9.1.2 y título III",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51299,12 +51338,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-65": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 15.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58038,12 +58079,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-47": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 34.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -59141,12 +59184,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-90": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Disposición final: entrada en vigor el mismo día de publicación, 29 de enero de 2011",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64164,12 +64209,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-91": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Disposición transitoria primera.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64201,12 +64248,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-97": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 17.5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64268,7 +64317,7 @@
       "status": "verified",
       "confidence": "high",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
-      "sourceDetail": "Artículo 21.1",
+      "sourceDetail": "Artículo 17.5",
       "reviewedAt": "2026-05-31",
       "notes": null
     },
@@ -67190,12 +67239,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-60": "c",
+        "tcae_examen-36-87": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 17.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70598,12 +70650,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-93": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 18",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74436,12 +74490,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83760,12 +83816,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-52": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 11.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88375,12 +88433,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-77": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título VI",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88412,12 +88472,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-75": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título III",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88488,12 +88550,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-70": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título IV",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88651,12 +88715,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-62": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Título VII",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89097,12 +89163,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-71": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 25.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89397,12 +89465,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-74": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 34.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89584,12 +89654,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-85": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 7.4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89644,12 +89716,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-50": "b",
+        "tcae_examen-36-92": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 25.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93493,12 +93568,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-72": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 16.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93773,12 +93850,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-66": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 17.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94217,12 +94296,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-73": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 26.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94254,12 +94335,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-82": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 28.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94560,12 +94643,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-98": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 31.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94597,12 +94682,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-46": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 31.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -94634,12 +94721,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-49": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 32",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97976,12 +98065,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-41": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 4.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98013,12 +98104,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-53": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 17.1 establece máximo de 65, no mínimo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98089,12 +98182,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-95": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 16.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98126,12 +98221,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-55": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 29.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98202,12 +98299,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-80": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 35.2 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99021,12 +99120,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-89": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 29.4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -104950,12 +105051,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-79": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 24.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105343,12 +105446,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-69": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 18.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107236,12 +107341,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-81": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 30",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107312,12 +107419,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-36-96": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "sourceDetail": "Artículo 16.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
