@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.429`.
+- Soluciones verificadas: `1.482`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `94`.
 
 ## Criterio
@@ -134,6 +134,11 @@ a sonda.
 La segunda tanda cierra `TCAE_EXAMEN 2.pdf` con `54` respuestas verificadas. Se
 excluyen `14` preguntas por depender de modelos de gráfica hospitalaria, protocolos
 locales o taxonomías históricas incompatibles con el estadiaje clínico vigente.
+
+Se ha iniciado `TCAE_EXAMEN 5.pdf` con `47` respuestas verificadas sobre anatomía,
+fisiología, posiciones clínicas, lesiones por presión y conceptos básicos de enemas.
+Las cifras y técnicas dependientes de protocolos específicos quedan para la revisión
+final del bloque.
 
 ## Plantillas oficiales SES
 

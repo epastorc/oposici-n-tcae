@@ -28247,10 +28247,10 @@
           "text": "Trendelemburg."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posiciones corporales, decúbito prono",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-16",
@@ -32979,10 +32979,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, hipotensión ortostática",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-45",
@@ -35919,10 +35919,10 @@
           "text": "Seguridad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Primeros auxilios, posición Trendelenburg ante lipotimia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-26-7",
@@ -74027,10 +74027,10 @@
           "text": "Seguridad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Primeros auxilios, posición Trendelenburg ante lipotimia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-4-2",
@@ -74139,10 +74139,10 @@
           "text": "Sims."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posiciones clínicas, litotomía",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-4-6",
@@ -74643,10 +74643,10 @@
           "text": "Trendelemburg."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posiciones corporales, decúbito prono",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-4-24",
@@ -76855,10 +76855,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posiciones de exploración, genupectoral para exploración rectal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-3",
@@ -76883,10 +76883,10 @@
           "text": "Mecánica corporal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cuidados básicos, cambios posturales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-4",
@@ -76967,10 +76967,10 @@
           "text": "II."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "GuíaSalud, clasificación UPP, afectación subcutánea en estadio III",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-7",
@@ -76995,10 +76995,10 @@
           "text": "Seguridad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Primeros auxilios, posición Trendelenburg ante lipotimia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-8",
@@ -77023,10 +77023,10 @@
           "text": "Pericardio parietal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía cardiovascular, pericardio visceral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-9",
@@ -77051,10 +77051,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, hemoglobina",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-10",
@@ -77079,10 +77079,10 @@
           "text": "Respiración de Bouchut."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, respiración de Biot",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-11",
@@ -77135,10 +77135,10 @@
           "text": "Morestin."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sondaje nasogástrico, posición Fowler",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-13",
@@ -77163,10 +77163,10 @@
           "text": "Sims."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posiciones clínicas, litotomía",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-14",
@@ -77191,10 +77191,10 @@
           "text": "37,6ºC."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, febrícula",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-15",
@@ -77219,10 +77219,10 @@
           "text": "Es una sonda utilizada para drenar la orina hematuria después de la resección de adenoma de próstata."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sondaje vesical, sonda Mercier",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-16",
@@ -77247,10 +77247,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, fiebre intermitente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-17",
@@ -77303,10 +77303,10 @@
           "text": "II."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, UPP estadio IV y osteomielitis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-19",
@@ -77331,10 +77331,10 @@
           "text": "Endocardio- aurícula izquierda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía cardiovascular, nódulo sinusal en aurícula derecha",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-20",
@@ -77359,10 +77359,10 @@
           "text": "Fiebre ligera."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, fiebre alta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-21",
@@ -77387,10 +77387,10 @@
           "text": "II."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, UPP estadio III",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-22",
@@ -77415,10 +77415,10 @@
           "text": "Flanco."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía abdominal, mesogastrio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-23",
@@ -77443,10 +77443,10 @@
           "text": "Disminución de eritrocitos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, policitemia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-24",
@@ -77471,10 +77471,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, glucosuria y diabetes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-25",
@@ -77555,10 +77555,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Camas hospitalarias, cama electrocircular",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-28",
@@ -77583,10 +77583,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Fisiología, potasio como catión",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-29",
@@ -77611,10 +77611,10 @@
           "text": "En el tratamiento del estreñimiento."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enemas medicamentosos, antihelmíntico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-30",
@@ -77639,10 +77639,10 @@
           "text": "Coluria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, coluria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-31",
@@ -77695,10 +77695,10 @@
           "text": "Prono."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posiciones clínicas, litotomía",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-33",
@@ -77723,10 +77723,10 @@
           "text": "Ninguna."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía cardiovascular, venas pulmonares en aurícula izquierda",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-34",
@@ -77779,10 +77779,10 @@
           "text": "Cloro."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, urea",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-36",
@@ -77807,10 +77807,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, hipotensión ortostática",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-37",
@@ -77863,10 +77863,10 @@
           "text": "Ondulante."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, fiebre ondulante",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-39",
@@ -77891,10 +77891,10 @@
           "text": "La causa es un crecimiento de la próstata que bloquea por obstrucción el chorro de la orina o a los que han sido sometidos a alguna cirugía o tienen problemas de próstata."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, incontinencia urinaria por rebosamiento",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-40",
@@ -77975,10 +77975,10 @@
           "text": "Poliuria sí, anuria y oliguria no."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, polaquiuria y volumen urinario",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-43",
@@ -78003,10 +78003,10 @@
           "text": "No afecta a la hipodermis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "GuíaSalud, clasificación UPP, estadio II superficial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-44",
@@ -78087,10 +78087,10 @@
           "text": "Disminuyen los trombocitos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, trombocitosis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-47",
@@ -78115,10 +78115,10 @@
           "text": "Limpiar colon antes de cirugía abdominal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enemas, contraindicación en obstrucción intestinal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-48",
@@ -78143,10 +78143,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Fisiología, cloro como anión extracelular",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-49",
@@ -78171,10 +78171,10 @@
           "text": "De intercambio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía cardiovascular, arterias de distribución",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-50",
@@ -78255,10 +78255,10 @@
           "text": "37,6ºC."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, febrícula",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-53",
@@ -78283,10 +78283,10 @@
           "text": "El paciente no apoya los miembros inferiores en la cama."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posiciones corporales, decúbito supino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-54",
@@ -78339,10 +78339,10 @@
           "text": "Respiración de Bouchut."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, respiración de Kussmaul",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-56",
@@ -78395,10 +78395,10 @@
           "text": "Esófago, estómago y colon."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Radiología digestiva, enema opaco de colon",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-58",
@@ -78479,10 +78479,10 @@
           "text": "Los iones."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, agua corporal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-61",
@@ -78507,10 +78507,10 @@
           "text": "Sims."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Administración rectal, posición Sims",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-62",
@@ -78535,10 +78535,10 @@
           "text": "Trendelemburg."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posiciones corporales, decúbito prono",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-63",
@@ -78563,10 +78563,10 @@
           "text": "Carminativo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enemas, carminativo para flatulencia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-64",
@@ -78591,10 +78591,10 @@
           "text": "Opsiuria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, alteraciones urinarias",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-65",
@@ -78619,10 +78619,10 @@
           "text": "La diferencia entre la máxima y la mínima es mayor de 1ºC. PREGUNTAS DE RESERVA."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, fiebre remitente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-66",
@@ -78647,10 +78647,10 @@
           "text": "Los ojos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía descriptiva, región dorsal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-67",
@@ -78675,10 +78675,10 @@
           "text": "Se encentra flexionado por la rodilla y cadera."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posiciones corporales, flexión de cadera y rodilla",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-5-68",
