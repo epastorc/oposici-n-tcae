@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.099`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `257`.
+- Soluciones verificadas: `2.159`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `277`.
 
 ## Criterio
 
@@ -219,6 +219,13 @@ verificadas y `18` exclusiones. El núcleo normativo se contrasta con el Decreto
 47/2023, la Constitución, la Ley 41/2002, la Ley 55/2003 y la Ley 14/1986. Se
 excluyen escalas, instrumental y pautas locales que requieren una guía o versión
 concreta.
+
+Se ha revisado `TCAE_EXAMEN 26.pdf`, con preguntas constitucionales, organización
+hospitalaria, dependencia, geriatría y farmacología. Queda cerrado con `58`
+respuestas verificadas y `20` exclusiones. La normativa se contrasta con la
+Constitución, la Ley 39/2006 y el Real Decreto 521/1987, además de la información
+institucional del SEPAD. Se excluyen escalas, protocolos locales y taxonomías no
+uniformes.
 
 ## Plantillas oficiales SES
 

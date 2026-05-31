@@ -1202,12 +1202,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-10": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Educación para la salud, agentes de salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -2113,12 +2115,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-53": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Movilidad, giro sobre eje longitudinal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -2226,12 +2230,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-30": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Comunicación no verbal, emblema",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4552,12 +4558,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-14": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Organización sanitaria estatal, Ministerio de Sanidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5369,12 +5377,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-24": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Envejecimiento, melanina y canicie",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5466,12 +5476,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-39": "c",
+        "tcae_examen-28-41": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Analgesia OMS, primer escalón no opioide",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5639,12 +5652,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-1": "d",
+        "tcae_examen-27-46": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Comunicación no verbal, ilustradores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -8643,12 +8659,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-27": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, áreas adscritas a dirección de enfermería",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -8818,12 +8836,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-74": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Inmovilidad, causas neurológicas y reumatológicas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10470,12 +10490,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-58": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Terminología, cacotanasia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11866,12 +11888,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-13": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Organización sanitaria, gerencia del área",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14167,12 +14191,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-52": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Movilidad articular, flexión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14393,12 +14419,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-7": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Farmacología, solución",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17435,12 +17463,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-71": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990",
+      "sourceDetail": "Ley 39/2006, artículo 26, tres grados de dependencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19296,12 +19326,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-34": "c",
+        "tcae_examen-28-72": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados paliativos, alivio sin curación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20909,12 +20942,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-37": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, atención al paciente adscrita a gerencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23790,12 +23825,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-49": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Valoración geriátrica, Pfeiffer para capacidad cognitiva",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25087,12 +25124,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-75": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Rehabilitación, cinesiterapia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26995,12 +27034,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-45": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990",
+      "sourceDetail": "Ley 39/2006, grado III o gran dependencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29617,12 +29658,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-17": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Movilidad, inmovilidad total",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30507,12 +30550,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-42": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Anatomía, plano frontal o coronal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31909,12 +31954,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-50": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.juntaex.es/lajunta/consejeria-de-salud-y-servicios-sociales/sepad",
+      "sourceDetail": "SEPAD, Servicio Extremeño de Promoción de la Autonomía y Atención a la Dependencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34998,12 +35045,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-31": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Envejecimiento, disminución visual y discriminación de colores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35443,12 +35492,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-40": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados post mortem, midriasis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36496,12 +36547,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-22": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Comunicación paraverbal, tono y timbre",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -40699,12 +40752,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-65": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, artículo 5, capital del Estado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -40736,12 +40791,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-67": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, artículo 9, sujeción al ordenamiento jurídico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42194,12 +42251,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-33": "b",
+        "tcae_examen-28-71": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Duelo de Kübler-Ross, negociación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44387,12 +44447,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-51": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Farmacología, vía rectal no evita universalmente irritación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -48353,12 +48415,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-32": "a",
+        "tcae_examen-28-70": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados post mortem, dignidad y sensibilidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58910,12 +58975,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-12": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Neurología, afasia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58947,12 +59014,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-23": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Neurología, alexia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60366,12 +60435,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-59": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990",
+      "sourceDetail": "Ley 39/2006, de 14 de diciembre",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69798,12 +69869,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-63": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Dermatología, quiste",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69835,12 +69908,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-41": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados post mortem, livideces como signo de muerte real",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74193,12 +74268,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-64": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Demografía, pirámide regresiva o de bulbo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76759,12 +76836,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-61": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Dermatología, piel no es fanera",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78406,12 +78485,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-38": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Dermatología, costra como lesión secundaria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78636,12 +78717,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-9": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados quirúrgicos, drenajes para evacuar líquidos o gases",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78749,12 +78832,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-56": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Envejecimiento, presbicia frente a miopía",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78849,12 +78934,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-46": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados quirúrgicos, drenajes con finalidad preventiva y terapéutica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79226,12 +79313,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-76": "d",
+        "tcae_examen-28-48": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Farmacología, metamizol no opioide",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79532,12 +79622,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-16": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Movilización, antropometría no es tipo de movilización",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -87919,12 +88011,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-69": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Prevención primaria, evitar aparición de enfermedad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88462,12 +88556,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-47": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Posiciones del paciente, Sims o semiprono lateral de seguridad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89274,12 +89370,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-15": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Comunicación, asertividad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89923,12 +90021,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-8": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Farmacología, sacarosa en jarabes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -101568,12 +101668,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-28": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, Junta Técnico-Asistencial presidida por director médico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -101917,12 +102019,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-21": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, artículo 3, castellano como lengua oficial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -102149,12 +102253,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-73": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Duelo de Kübler-Ross, aceptación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -102186,12 +102292,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-57": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Duelo de Kübler-Ross, depresión antes de aceptación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -103459,12 +103567,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-44": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990",
+      "sourceDetail": "Ley 39/2006, artículo 26, grado III gran dependencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107341,12 +107451,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-55": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Analgesia OMS, codeína en segundo escalón",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -113345,12 +113457,13 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-35-70": "b"
+        "tcae_examen-35-70": "b",
+        "tcae_examen-26-5": "b"
       },
       "status": "verified",
       "confidence": "high",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
-      "sourceDetail": "Artículo 8.1",
+      "sourceDetail": "Constitución Española, artículo 8, integridad territorial",
       "reviewedAt": "2026-05-31",
       "notes": null
     },
