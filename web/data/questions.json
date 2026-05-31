@@ -78983,10 +78983,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Unidad del paciente, mobiliario según tipo de unidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-10",
@@ -79207,10 +79207,10 @@
           "text": "38,6ºC."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, fiebre moderada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-18",
@@ -80019,10 +80019,10 @@
           "text": "Morestin."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cama de somier rígido, imposibilidad de semi-Fowler",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-47",
@@ -80271,10 +80271,10 @@
           "text": "Girar al paciente (45º) y se le sentará en la silla de ruedas, sillón, silla, etc."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Transferencia cama-silla, evitar tracción por cintura",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-56",
@@ -80299,10 +80299,10 @@
           "text": "Pie derecho."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Marcha con muletas de cuatro puntos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-57",
@@ -80607,10 +80607,10 @@
           "text": "7-8 cm."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Ajuste de muletas, separación axilar aproximada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-68",

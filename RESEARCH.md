@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.553`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `108`.
+- Soluciones verificadas: `1.559`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `121`.
 
 ## Criterio
 
@@ -147,6 +147,10 @@ hospitalarias o equipamiento concreto.
 Se ha iniciado `TCAE_EXAMEN 6.pdf` con `50` respuestas verificadas sobre anatomía,
 movilidad, ostomías, sondaje y prevención de lesiones por presión. Las fuentes
 principales son GuíaSalud, CDC, Osakidetza y la Ley 3/2005 autonómica.
+
+La revisión final cierra `TCAE_EXAMEN 6.pdf` con `56` respuestas verificadas. Se
+excluyen `13` preguntas sobre maniobras, dispositivos y parámetros que requieren
+protocolos asistenciales o equipamiento concreto.
 
 ## Plantillas oficiales SES
 

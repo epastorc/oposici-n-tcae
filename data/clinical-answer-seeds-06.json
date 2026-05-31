@@ -14,6 +14,7 @@
     "4": ["c", "Posición Fowler alta"],
     "5": ["a", "Manejo de vía aérea, posición de Roser"],
     "7": ["c", "Ley 3/2005, información al paciente"],
+    "9": ["b", "Unidad del paciente, mobiliario según tipo de unidad"],
     "10": ["a", "Anatomía descriptiva, caudal"],
     "11": ["d", "Anatomía descriptiva, distal"],
     "12": ["b", "Osakidetza, guía ostomías, higiene periestomal"],
@@ -21,6 +22,7 @@
     "14": ["b", "Deambulación progresiva, evitar fatiga"],
     "15": ["b", "Movilidad, necesidad de ayuda parcial"],
     "16": ["d", "MedlinePlus, disuria y estranguria"],
+    "17": ["a", "MedlinePlus, fiebre moderada"],
     "18": ["d", "Anatomía funcional, eversión del pie"],
     "19": ["c", "Higiene del paciente, elementos de protección"],
     "20": ["a", "Movilización, rotación corporal"],
@@ -43,6 +45,7 @@
     "43": ["b", "Anatomía descriptiva, región ventral de rodilla"],
     "44": ["c", "Anatomía vascular, capas arteriales"],
     "45": ["d", "Anatomía abdominal, bazo en hipocondrio izquierdo"],
+    "46": ["c", "Cama de somier rígido, imposibilidad de semi-Fowler"],
     "47": ["a", "Cinesiterapia activa, definición"],
     "49": ["a", "Anatomía abdominal, hipocondrio craneal"],
     "50": ["b", "CDC, prevención CAUTI, sistema cerrado en sondaje prolongado"],
@@ -50,6 +53,8 @@
     "52": ["d", "GuíaSalud, prevención UPP"],
     "53": ["b", "GuíaSalud, prevención frente a tratamiento de lesión necrótica"],
     "54": ["b", "GuíaSalud, localizaciones UPP en decúbito supino"],
+    "55": ["b", "Transferencia cama-silla, evitar tracción por cintura"],
+    "56": ["c", "Marcha con muletas de cuatro puntos"],
     "57": ["b", "GNEAUPP, escala EMINA, riesgo alto de 8 a 15"],
     "58": ["b", "Anatomía respiratoria, trompa de Eustaquio y rinofaringe"],
     "59": ["b", "Anatomía cardiovascular, cayado aórtico"],
@@ -58,7 +63,22 @@
     "64": ["c", "Osakidetza, guía ostomías, ileostomía de eliminación"],
     "65": ["c", "Anatomía cardiovascular, fibras de Purkinje subendocárdicas"],
     "66": ["d", "Ayudas técnicas, contera"],
+    "67": ["a", "Ajuste de muletas, separación axilar aproximada"],
     "69": ["c", "Anatomía respiratoria, orofaringe e istmo de las fauces"]
   },
-  "excluded": {}
+  "excluded": {
+    "3": "La altura del irrigador para enema depende del tipo de preparado y del protocolo asistencial.",
+    "6": "El número de profesionales para la transferencia depende de la capacidad funcional y del protocolo ergonómico.",
+    "8": "La frecuencia miccional normal varía con hidratación y contexto; las opciones no permiten una respuesta clínica única.",
+    "22": "La frecuencia de cambio de dispositivos de ostomía depende del sistema utilizado y del estado de la piel.",
+    "28": "El uso de material de tracción depende del equipamiento ortopédico concreto.",
+    "31": "El ángulo de giro para una transferencia debe adaptarse al paciente y al entorno.",
+    "33": "El traslado postoperatorio depende del estado de consciencia y del protocolo anestésico.",
+    "36": "La secuencia exacta de aseo de miembros superiores depende del manual docente aplicado.",
+    "38": "La descripción de la punta de sonda Robinson presenta variantes según catálogo y manual.",
+    "48": "Las contraindicaciones de decúbito prono requieren valoración individual; ninguna opción es universal.",
+    "60": "La maniobra para incorporar desde sillón debe adaptarse a capacidad y ayudas técnicas.",
+    "61": "La transferencia cama-camilla requiere valoración funcional; no todas las opciones son universales.",
+    "68": "La duración máxima de ducha depende del protocolo de cuidados."
+  }
 }
