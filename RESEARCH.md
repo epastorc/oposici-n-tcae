@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.048`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `239`.
+- Soluciones verificadas: `2.099`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `257`.
 
 ## Criterio
 
@@ -212,6 +212,13 @@ verificadas y `19` exclusiones. Las respuestas jurídicas se contrastan con la
 Constitución, la Ley 10/2001, la Ley 3/2005, la Ley 14/1986, la Ley 55/2003 y el
 Decreto 221/2008. Se excluyen circuitos quirúrgicos, medidas y pautas que dependen
 del centro o de la situación clínica.
+
+Se ha revisado `TCAE_EXAMEN 25.pdf`, centrado en atención primaria, Constitución,
+rehabilitación y cuidados básicos. El examen queda cerrado con `54` respuestas
+verificadas y `18` exclusiones. El núcleo normativo se contrasta con el Decreto
+47/2023, la Constitución, la Ley 41/2002, la Ley 55/2003 y la Ley 14/1986. Se
+excluyen escalas, instrumental y pautas locales que requieren una guía o versión
+concreta.
 
 ## Plantillas oficiales SES
 
