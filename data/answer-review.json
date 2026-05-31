@@ -9129,12 +9129,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-6": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, título",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -9166,12 +9168,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-30": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "sourceDetail": "Ley 14/1986, título",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13533,12 +13537,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-5": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 25",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22633,12 +22639,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-54": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Ley 41/2002, artículo 3, definición de historia clínica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22933,12 +22941,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-17": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Ley 41/2002, artículo 3, definición de centro sanitario",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23802,12 +23812,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-27": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -24245,12 +24257,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-13": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 17",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29096,12 +29110,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-51": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 6",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31802,12 +31818,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-23": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Ley 41/2002, artículo 3, definición de documentación clínica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32967,12 +32985,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-37": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -37323,12 +37343,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-11": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Ley 41/2002, artículo 15",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -41697,12 +41719,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-40": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42241,12 +42265,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-28": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 24",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49762,12 +49788,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-59": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, artículo 50",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49910,12 +49938,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-45": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, artículo 50",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51824,12 +51854,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-42": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 23",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53044,12 +53076,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-8": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58272,12 +58306,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-50": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "sourceDetail": "Ley 41/2002, artículos 3 y 15",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67933,12 +67969,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-24": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, artículo 48",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67993,12 +68031,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-15": "b",
+        "tcae_examen-28-61": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "sourceDetail": "Ley 14/1986, artículo 56",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -82710,12 +82751,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-21": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 27",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -82977,12 +83020,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-46": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, artículo 47",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90721,12 +90766,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-35": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2007/1210o/1210o.pdf",
+      "sourceDetail": "Decreto 311/2007, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97203,7 +97250,7 @@
       },
       "status": "verified",
       "confidence": "high",
-      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
       "sourceDetail": "Decreto 189/2004, artículos 2 b) y 3",
       "reviewedAt": "2026-05-31",
       "notes": null
@@ -98313,12 +98360,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-7": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98574,12 +98623,16 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-55": "d",
+        "tcae_examen-20-55": "d",
+        "tcae_examen-25-21": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 6",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100846,12 +100899,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-36": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 17",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100883,12 +100938,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-48": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100959,12 +101016,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-26": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 8",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -112679,7 +112738,7 @@
       },
       "status": "verified",
       "confidence": "high",
-      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
       "sourceDetail": "Decreto 189/2004, artículo 2 c)",
       "reviewedAt": "2026-05-31",
       "notes": null

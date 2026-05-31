@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.154`.
+- Soluciones verificadas: `1.185`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `24`.
 
 ## Criterio
@@ -84,6 +84,11 @@ apoyo y órganos de la zona de salud regulados por el Decreto 47/2023.
 Se ha revisado íntegramente `TCAE_EXAMEN 21.pdf` contra la Ley 10/2001 y la
 consolidación ELI del Decreto 221/2008. Sus `52` respuestas quedan verificadas y la
 deduplicación propaga además las coincidencias exactas presentes en otros bloques.
+
+Se ha iniciado `TCAE_EXAMEN 17.pdf` con `32` respuestas legales contrastadas contra
+la Ley 3/2005, la Ley 41/2002, la Ley 10/2001 y los Decretos 47/2023 y 189/2004.
+La siguiente tanda abordará las cuestiones docentes de comunicación, bioética y
+escalas clínicas mediante guías públicas.
 
 ## Plantillas oficiales SES
 

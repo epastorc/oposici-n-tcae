@@ -14388,7 +14388,7 @@
         }
       ],
       "correctAnswer": "c",
-      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
       "answerSourceDetail": "Decreto 189/2004, artículo 2 c)",
       "answerReviewedAt": "2026-05-31"
     },
@@ -14472,7 +14472,7 @@
         }
       ],
       "correctAnswer": "b",
-      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
       "answerSourceDetail": "Decreto 189/2004, artículos 2 b) y 3",
       "answerReviewedAt": "2026-05-31"
     },
@@ -15619,10 +15619,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 25",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-6",
@@ -15647,10 +15647,10 @@
           "text": "Ley 10/2001, de 28 de junio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, título",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-7",
@@ -15675,10 +15675,10 @@
           "text": "Las unidades de apoyo a la atención primaria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 4",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-8",
@@ -15703,10 +15703,10 @@
           "text": "La ley 10/2011, de 28 de junio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-9",
@@ -15787,10 +15787,10 @@
           "text": "Fecha de nacimiento."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 15",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-12",
@@ -15843,10 +15843,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 17",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-14",
@@ -15899,10 +15899,10 @@
           "text": "Centros de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Ley 14/1986, artículo 56",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-16",
@@ -15928,7 +15928,7 @@
         }
       ],
       "correctAnswer": "c",
-      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
       "answerSourceDetail": "Decreto 189/2004, artículo 2 c)",
       "answerReviewedAt": "2026-05-31"
     },
@@ -15955,10 +15955,10 @@
           "text": "Centro con internamiento."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 3, definición de centro sanitario",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-18",
@@ -16067,10 +16067,10 @@
           "text": "Si, en cualquier momento y por escrito."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 27",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-22",
@@ -16123,10 +16123,10 @@
           "text": "Información clínica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 3, definición de documentación clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-24",
@@ -16151,10 +16151,10 @@
           "text": "Zona de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, artículo 48",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-25",
@@ -16207,10 +16207,10 @@
           "text": "El médico que le aplique el procedimiento."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 8",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-27",
@@ -16235,10 +16235,10 @@
           "text": "Todas las anteriores son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 11",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-28",
@@ -16263,10 +16263,10 @@
           "text": "Procedimientos terapéuticos invasores."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 24",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-29",
@@ -16319,10 +16319,10 @@
           "text": "Ley 14/1986, de 25 de abril."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Ley 14/1986, título",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-31",
@@ -16459,10 +16459,10 @@
           "text": "El Servicio Público de Atención de Urgencias y Emergencias a través del Teléfono Único Europeo de Urgencias 112 siempre y cuando lo haya designado el otorgante del documento."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2007/1210o/1210o.pdf",
+      "answerSourceDetail": "Decreto 311/2007, artículo 11",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-36",
@@ -16487,10 +16487,10 @@
           "text": "Por escrito y ante notario o ante dos testigos mayores de edad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 17",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-37",
@@ -16515,10 +16515,10 @@
           "text": "El paciente y en todo caso los familiares en primer grado de consanguinidad o afinidad vinculadas al mismo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 5",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-38",
@@ -16572,7 +16572,7 @@
         }
       ],
       "correctAnswer": "b",
-      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
       "answerSourceDetail": "Decreto 189/2004, artículos 2 b) y 3",
       "answerReviewedAt": "2026-05-31"
     },
@@ -16599,10 +16599,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 4",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-41",
@@ -16655,10 +16655,10 @@
           "text": "Documento sanitario."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 23",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-43",
@@ -16739,10 +16739,10 @@
           "text": "La rehabilitación en pacientes con déficit funcional recuperable."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, artículo 50",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-46",
@@ -16767,10 +16767,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, artículo 47",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-47",
@@ -16823,10 +16823,10 @@
           "text": "En algunos casos verbal, pero generalmente escrita."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 4",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-49",
@@ -16879,10 +16879,10 @@
           "text": "Los datos de identificación y de asistencia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículos 3 y 15",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-51",
@@ -16907,10 +16907,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 6",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-52",
@@ -16991,10 +16991,10 @@
           "text": "Información clínica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 3, definición de historia clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-55",
@@ -17019,10 +17019,10 @@
           "text": "Unidades de apoyo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 6",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-56",
@@ -17131,10 +17131,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, artículo 50",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-60",
@@ -25111,10 +25111,10 @@
           "text": "Unidades de apoyo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 6",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-20-56",
@@ -34323,10 +34323,10 @@
           "text": "Unidades de apoyo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 6",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-25-22",
@@ -41771,10 +41771,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Ley 14/1986, artículo 56",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-28-62",
