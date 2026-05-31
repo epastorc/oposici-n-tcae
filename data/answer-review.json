@@ -1780,12 +1780,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-13": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Cuidados urinarios, instilación vesical",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5801,12 +5803,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-58": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Fisiología digestiva, quimo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -12607,12 +12611,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-32": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Cuidados respiratorios, posición para facilitar la respiración",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14173,12 +14179,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-1": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Fisiología cardiovascular, sístole ventricular",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30092,12 +30100,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-20": "c",
+        "tcae_examen-23-13": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Fisiología, pH sanguíneo normal entre 7,35 y 7,45",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36626,12 +36637,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-60": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Dietoterapia, dieta líquida tras dieta absoluta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -37821,12 +37834,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-55": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Cuidados intestinales, proctoclisis rectal gota a gota",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44307,12 +44322,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-69": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Nutrición, distinción entre alimentación voluntaria y nutrición",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -45149,12 +45166,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-14": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Cuidados urinarios, sonda Robinson o Nelaton para sondaje intermitente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56989,12 +57008,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-7": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Nutrición, función energética principal de los glúcidos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -57141,12 +57162,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-48": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Nutrición, glucosa como monosacárido",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -59145,12 +59168,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-42": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Cuidados de enfermería, inserción de sonda nasogástrica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -59221,12 +59246,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-17": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Fisiología pancreática, insulina y glucagón endocrinos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61692,12 +61719,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-65": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Anatomía respiratoria, nasofaringe o rinofaringe",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63940,12 +63969,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-75": "a",
+        "tcae_examen-4-40": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Posiciones del paciente, Sims en pacientes inconscientes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64177,12 +64209,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-22": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "sourceDetail": "GuíaSalud, lesión por presión en vértebra prominente y decúbito supino",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65817,12 +65851,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-67": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Metabolismo, glucogenólisis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69317,12 +69353,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-46": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Cuidados de ostomía, heces semisólidas en colostomía transversa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70528,12 +70566,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-28": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Nutrición, función estructural de las proteínas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70982,12 +71022,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-33": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Anatomía renal, corpúsculo renal formado por glomérulo y cápsula de Bowman",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -71130,12 +71172,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-50": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Higiene del paciente encamado, lavado de ojos y párpados en primer lugar",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73792,12 +73836,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-66": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Dietoterapia, reducción de grasas saturadas en aterosclerosis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77184,12 +77230,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-11": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Traumatología, fractura de cadera y rotación externa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79163,12 +79211,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-4": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Dietoterapia, principios generales de la dieta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -96185,12 +96235,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-27": "a",
+        "tcae_examen-23-19": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 22.1, renuncia con antelación mínima de 15 días",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107154,12 +107207,13 @@
       "answer": null,
       "variantAnswers": {
         "tcae_examen-11-estatuto-37": "d",
-        "tcae_examen-11-estatuto-55": "c"
+        "tcae_examen-11-estatuto-55": "c",
+        "tcae_examen-15-62": "c"
       },
       "status": "verified",
       "confidence": "high",
       "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
-      "sourceDetail": "Artículo 17.1 n)",
+      "sourceDetail": "Ley 55/2003, artículo 17.1.d, derecho individual a información sobre funciones y objetivos",
       "reviewedAt": "2026-05-31",
       "notes": null
     },
@@ -108363,12 +108417,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-64": "d",
+        "tcae_examen-23-69": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Cuidados respiratorios, recuento durante un minuto cuando el ritmo puede ser irregular",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110794,12 +110851,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-18": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Fisiología respiratoria, respiración de Cheyne-Stokes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -111117,12 +111176,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-30": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Semiología, fiebre remitente sin intervalos apiréticos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -113129,12 +113190,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-29": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Dietoterapia, legumbres en dieta cardiosaludable",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -113860,12 +113923,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-3": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "sourceDetail": "GuíaSalud, humedad como factor extrínseco de lesión por presión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -114116,12 +114181,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-34": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "sourceDetail": "Análisis de orina, pH urinario inferior al intervalo habitual",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

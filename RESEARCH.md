@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.868`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `154`.
+- Soluciones verificadas: `1.904`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `185`.
 
 ## Criterio
 
@@ -184,6 +184,13 @@ exclusiones por solapamiento de opciones, criterios dietéticos dependientes de
 guía o pautas clínicas que requieren individualización. Se han contrastado
 especialmente las preguntas sobre hepatitis con CDC, las vitaminas con
 MedlinePlus, la lactancia con OMS y la dieta equilibrada con AESAN.
+
+Se ha revisado `TCAE_EXAMEN 15.pdf`, bloque mixto de fisiología, dietoterapia,
+cuidados y normativa. Queda cerrado con `49` respuestas verificadas y `31`
+exclusiones: se apartan las pautas ligadas a protocolos locales, equipamiento,
+modelos documentales o criterios clínicos simplificados. Las respuestas
+normativas se contrastan con la Ley 55/2003 y el Decreto 47/2023; las lesiones por
+presión, con la guía pública de GuíaSalud.
 
 ## Plantillas oficiales SES
 

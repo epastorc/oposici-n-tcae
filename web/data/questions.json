@@ -4785,7 +4785,7 @@
       ],
       "correctAnswer": "d",
       "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
-      "answerSourceDetail": "Artículo 17.1 n)",
+      "answerSourceDetail": "Ley 55/2003, artículo 17.1.d, derecho individual a información sobre funciones y objetivos",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -5289,7 +5289,7 @@
       ],
       "correctAnswer": "c",
       "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
-      "answerSourceDetail": "Artículo 17.1 n)",
+      "answerSourceDetail": "Ley 55/2003, artículo 17.1.d, derecho individual a información sobre funciones y objetivos",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -11671,10 +11671,10 @@
           "text": "Sístoles o contracción auriculoventricular."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Fisiología cardiovascular, sístole ventricular",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-2",
@@ -11727,10 +11727,10 @@
           "text": "Obesidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, humedad como factor extrínseco de lesión por presión",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-4",
@@ -11755,10 +11755,10 @@
           "text": "Deben predominar los alimentos naturales y artificiales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, principios generales de la dieta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-5",
@@ -11839,10 +11839,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, función energética principal de los glúcidos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-8",
@@ -11951,10 +11951,10 @@
           "text": "Es posible que la pierna lesionada se vea más corta que la otra pierna y que esté girada hacia dentro (inversión)."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Traumatología, fractura de cadera y rotación externa",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-12",
@@ -12007,10 +12007,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Cuidados urinarios, instilación vesical",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-14",
@@ -12035,10 +12035,10 @@
           "text": "Se utiliza en la maniobra de Credé."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Cuidados urinarios, sonda Robinson o Nelaton para sondaje intermitente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-15",
@@ -12119,10 +12119,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Fisiología pancreática, insulina y glucagón endocrinos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-18",
@@ -12147,10 +12147,10 @@
           "text": "Informaría rápidamente a la enfermera circulante, responsable de dicho paciente comunicándole que el paciente presenta una respiración patológica denominada Acidótica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Fisiología respiratoria, respiración de Cheyne-Stokes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-19",
@@ -12203,10 +12203,10 @@
           "text": "7,55 a 7,65 Hidrogeniones."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Fisiología, pH sanguíneo normal entre 7,35 y 7,45",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-21",
@@ -12259,10 +12259,10 @@
           "text": "Lateral derecho o izquierdo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, lesión por presión en vértebra prominente y decúbito supino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-23",
@@ -12399,10 +12399,10 @@
           "text": "Máxima de 30 días."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 22.1, renuncia con antelación mínima de 15 días",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-28",
@@ -12427,10 +12427,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, función estructural de las proteínas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-29",
@@ -12455,10 +12455,10 @@
           "text": "Legumbres."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, legumbres en dieta cardiosaludable",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-30",
@@ -12483,10 +12483,10 @@
           "text": "Fiebre intermitente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Semiología, fiebre remitente sin intervalos apiréticos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-31",
@@ -12539,10 +12539,10 @@
           "text": "Facilitar la inserción de una sonda nasogástrica cuando existe riesgo de complicación mecánica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Cuidados respiratorios, posición para facilitar la respiración",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-33",
@@ -12567,10 +12567,10 @@
           "text": "El Glomérulo y la cápsula de Bowman."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Anatomía renal, corpúsculo renal formado por glomérulo y cápsula de Bowman",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-34",
@@ -12595,10 +12595,10 @@
           "text": "Todas las respuestas son falsas, ya que son valores normales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Análisis de orina, pH urinario inferior al intervalo habitual",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-35",
@@ -12819,10 +12819,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Cuidados de enfermería, inserción de sonda nasogástrica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-43",
@@ -12931,10 +12931,10 @@
           "text": "Sólidas y nada irritantes."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Cuidados de ostomía, heces semisólidas en colostomía transversa",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-47",
@@ -12987,10 +12987,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, glucosa como monosacárido",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-49",
@@ -13043,10 +13043,10 @@
           "text": "Conductos auditivos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Higiene del paciente encamado, lavado de ojos y párpados en primer lugar",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-51",
@@ -13183,10 +13183,10 @@
           "text": "Administrar medicamentos con sonda rectal gota a gota."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Cuidados intestinales, proctoclisis rectal gota a gota",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-56",
@@ -13267,10 +13267,10 @@
           "text": "Esquela."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Fisiología digestiva, quimo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-59",
@@ -13323,10 +13323,10 @@
           "text": "La dieta líquida."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, dieta líquida tras dieta absoluta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-61",
@@ -13379,10 +13379,10 @@
           "text": "Mantener debidamente actualizados los conocimientos y aptitudes necesarios para el correcto ejercicio de la profesión o para el desarrollo de las funciones que correspondan a su nombramiento, a cuyo fin los centros sanitarios facilitarán el desarrollo de actividades de formación continuada."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 17.1.d, derecho individual a información sobre funciones y objetivos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-63",
@@ -13435,10 +13435,10 @@
           "text": "Número de respiraciones en un minuto."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Cuidados respiratorios, recuento durante un minuto cuando el ritmo puede ser irregular",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-65",
@@ -13463,10 +13463,10 @@
           "text": "Laringofaringe."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Anatomía respiratoria, nasofaringe o rinofaringe",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-66",
@@ -13491,10 +13491,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Dietoterapia, reducción de grasas saturadas en aterosclerosis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-67",
@@ -13519,10 +13519,10 @@
           "text": "Nutrición."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Metabolismo, glucogenólisis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-68",
@@ -13575,10 +13575,10 @@
           "text": "Existen diversas formas de nutrirse, pero sólo una de alimentarse."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Nutrición, distinción entre alimentación voluntaria y nutrición",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-70",
@@ -13743,10 +13743,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Posiciones del paciente, Sims en pacientes inconscientes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-76",
@@ -30151,10 +30151,10 @@
           "text": "7,55 a 7,65 Hidrogeniones."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Fisiología, pH sanguíneo normal entre 7,35 y 7,45",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-14",
@@ -30319,10 +30319,10 @@
           "text": "Máxima de 30 días."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 22.1, renuncia con antelación mínima de 15 días",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-20",
@@ -31719,10 +31719,10 @@
           "text": "Número de respiraciones en un minuto."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Cuidados respiratorios, recuento durante un minuto cuando el ritmo puede ser irregular",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-70",
@@ -75119,10 +75119,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Posiciones del paciente, Sims en pacientes inconscientes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-4-41",
