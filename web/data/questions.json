@@ -2011,10 +2011,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Higiene del paciente encamado, lavado de extremidades",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-6",
@@ -2263,10 +2263,10 @@
           "text": "La lesión característica es el eritema y el flictema que no desaparecen cuando cesa la presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "GuíaSalud, clasificación de úlceras por presión, estadio I",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-15",
@@ -2291,10 +2291,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "GuíaSalud, cicatrización de úlceras por presión, epitelización",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-16",
@@ -2739,10 +2739,10 @@
           "text": "Esta fase corresponde al segundo y tercer estadio de la úlcera por presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "GuíaSalud, clasificación de úlceras por presión, estadio II",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-32",
@@ -3019,10 +3019,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Higiene del paciente, preservación de intimidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-42",
@@ -3187,10 +3187,10 @@
           "text": "Cuando la realización de la tarea supone algún riesgo para el paciente o para el Técnico en Cuidados Auxiliares de Enfermería, hay que solicitar la ayuda de otro profesional o de algún instrumento auxiliar (grúa o elevador)."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Mecánica corporal, principios ergonómicos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-48",
@@ -3355,10 +3355,10 @@
           "text": "Tijeras de mayo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Instrumental de cura, tijera de Iris",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-54",
@@ -3383,10 +3383,10 @@
           "text": "Músculos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "GuíaSalud, clasificación de úlceras por presión, afectación profunda",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-55",
@@ -3411,10 +3411,10 @@
           "text": "Azufre (S)"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "GuíaSalud, nutrición y úlceras por presión, zinc",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-56",
@@ -3439,10 +3439,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Disfagia, adaptación de textura con espesantes y gelatinas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-57",
@@ -3523,10 +3523,10 @@
           "text": "En el primer y tercer estadio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "GuíaSalud, apósitos hidrocoloides en lesiones superficiales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-60",
@@ -3551,10 +3551,10 @@
           "text": "Incontinencia urinaria o fecal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "GuíaSalud, escala de Norton modificada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-61",
@@ -3719,10 +3719,10 @@
           "text": "Nutrición-ingesta."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Escala Nova, alimentación y eliminación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-67",

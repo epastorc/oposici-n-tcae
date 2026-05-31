@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.317`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `49`.
+- Soluciones verificadas: `1.330`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `61`.
 
 ## Criterio
 
@@ -110,6 +110,11 @@ Se ha iniciado `TCAE_EXAMEN 10.pdf` con `42` respuestas verificadas. El núcleo
 normativo se ha contrastado literalmente con el artículo 25 del Decreto 47/2023,
 que regula las funciones del TCAE en atención primaria; se han añadido conceptos
 clínicos estándar respaldados por fuentes sanitarias públicas.
+
+La segunda tanda cierra `TCAE_EXAMEN 10.pdf` con `55` respuestas verificadas. Las
+guías de práctica clínica de GuíaSalud permiten revisar las preguntas sobre lesiones
+por presión. Se excluyen `12` preguntas cuyos parámetros dependen de dispositivos,
+protocolos locales o formulaciones docentes no unívocas.
 
 ## Plantillas oficiales SES
 

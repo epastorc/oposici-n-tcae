@@ -2865,12 +2865,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-41": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Higiene del paciente, preservación de intimidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11237,12 +11239,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-53": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Instrumental de cura, tijera de Iris",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35018,12 +35022,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "GuíaSalud, escala de Norton modificada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35564,12 +35570,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-59": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "GuíaSalud, apósitos hidrocoloides en lesiones superficiales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35864,12 +35872,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Disfagia, adaptación de textura con espesantes y gelatinas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36864,12 +36874,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-14": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "GuíaSalud, clasificación de úlceras por presión, estadio I",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36901,12 +36913,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-31": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "GuíaSalud, clasificación de úlceras por presión, estadio II",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36938,12 +36952,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-54": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "GuíaSalud, clasificación de úlceras por presión, afectación profunda",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44494,12 +44510,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-47": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Mecánica corporal, principios ergonómicos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -81049,12 +81067,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-5": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Higiene del paciente encamado, lavado de extremidades",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -87415,12 +87435,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-66": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Escala Nova, alimentación y eliminación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89365,12 +89387,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-55": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "GuíaSalud, nutrición y úlceras por presión, zinc",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93324,12 +93348,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-15": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "GuíaSalud, cicatrización de úlceras por presión, epitelización",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
