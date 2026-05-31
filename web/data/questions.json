@@ -44879,10 +44879,10 @@
           "text": "Sims."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, prevención de UPP, cizalla en posición Fowler",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-10",
@@ -44907,10 +44907,10 @@
           "text": "Primer y segundo estadio de la úlcera por presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, clasificación de UPP, estadio I",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-11",
@@ -44935,10 +44935,10 @@
           "text": "La lesión característica es el eritema que no desaparece cuando cesa la presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, clasificación de UPP, estadio I",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-12",
@@ -44963,10 +44963,10 @@
           "text": "Las respuestas a y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, desbridamiento enzimático",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-13",
@@ -44991,10 +44991,10 @@
           "text": "Sims."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, localización de UPP según posición lateral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-14",
@@ -45075,10 +45075,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, escala Norton modificada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-17",
@@ -45131,10 +45131,10 @@
           "text": "No, ya que no es una alteración o patología relacionada con las úlceras por presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, factores de riesgo de UPP",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-19",
@@ -45159,10 +45159,10 @@
           "text": "Debajo del sacro."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, cambios posturales y alivio de presión",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-20",
@@ -45187,10 +45187,10 @@
           "text": "Presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, factores de cizalla",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-21",
@@ -45215,10 +45215,10 @@
           "text": "Prevención."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, prevención de UPP",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-22",
@@ -45299,10 +45299,10 @@
           "text": "Desnutrición de los tejidos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, factores intrínsecos neurológicos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-25",
@@ -45327,10 +45327,10 @@
           "text": "Las tracciones por poleas y los enyesados."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, factores predisponentes ortopédicos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-26",
@@ -45383,10 +45383,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, factores intrínsecos neurológicos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-28",
@@ -45411,10 +45411,10 @@
           "text": "Un problema general."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, etiología multifactorial de UPP",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-29",
@@ -45467,10 +45467,10 @@
           "text": "El tratamiento general dependerá de la fase en la cual se encuentre la úlcera."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, tratamiento según estadio y valoración de lesión",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-31",
@@ -45495,10 +45495,10 @@
           "text": "Las muñecas y pies, debido a los medios de sujeción mecánica, etc."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, factores iatrogénicos por dispositivos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-32",
@@ -45523,10 +45523,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, reevaluación del riesgo ante cambios clínicos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-33",
@@ -45551,10 +45551,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, tratamiento específico según estadio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-34",
@@ -45579,10 +45579,10 @@
           "text": "Eliminación de la humedad y mantenimiento de la piel."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, prevención de UPP",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-35",
@@ -45607,10 +45607,10 @@
           "text": "Sobrepeso y delgadez."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, factores de riesgo de UPP",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-36",
@@ -45663,10 +45663,10 @@
           "text": "De 1 a 3 puntos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://gneaupp.info/wp-content/uploads/2014/12/32_pdf.pdf",
+      "answerSourceDetail": "GNEAUPP, escala EMINA, sin riesgo 0",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-38",
@@ -45719,10 +45719,10 @@
           "text": "No valora la fricción-roce y tampoco la presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, escala Braden, fricción y roce",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-40",
@@ -45831,10 +45831,10 @@
           "text": "Enzimático."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, tipos de desbridamiento",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-44",
@@ -45859,10 +45859,10 @@
           "text": "Quirúrgico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, cuidados UPP, colagenasa para desbridamiento enzimático",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-45",
@@ -45887,10 +45887,10 @@
           "text": "Tiempo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, factores intrínsecos, incontinencia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-46",
@@ -45915,10 +45915,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, alivio de presión y cambios posturales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-47",
@@ -45971,10 +45971,10 @@
           "text": "Povidona Iodada al 10%."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, cuidados UPP, ácidos grasos hiperoxigenados en estadio I",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-49",
@@ -45999,10 +45999,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, cuidados UPP, evitar antisépticos rutinarios",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-50",
@@ -46055,10 +46055,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, infección en UPP, cultivo, antibiograma y tratamiento",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-52",
@@ -46083,10 +46083,10 @@
           "text": "23 puntos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://gneaupp.info/wp-content/uploads/2014/12/32_pdf.pdf",
+      "answerSourceDetail": "GNEAUPP, escala EMINA, máximo 15",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-53",
@@ -46111,10 +46111,10 @@
           "text": "Reducir el tamaño de la úlcera por presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, prevención de UPP mediante cambios posturales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-54",
@@ -46279,10 +46279,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, clasificación de UPP, estadio II superficial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-60",
@@ -46307,10 +46307,10 @@
           "text": "Incontinencia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, escala Norton modificada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-61",
@@ -46335,10 +46335,10 @@
           "text": "Menor de 20."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "GuíaSalud, escala Norton modificada, riesgo alto menor de 14",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-3-62",
@@ -46363,10 +46363,10 @@
           "text": "Estado físico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "Escala Nova, parámetros de valoración",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-30-1",

@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.330`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `61`.
+- Soluciones verificadas: `1.365`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `69`.
 
 ## Criterio
 
@@ -115,6 +115,11 @@ La segunda tanda cierra `TCAE_EXAMEN 10.pdf` con `55` respuestas verificadas. La
 guías de práctica clínica de GuíaSalud permiten revisar las preguntas sobre lesiones
 por presión. Se excluyen `12` preguntas cuyos parámetros dependen de dispositivos,
 protocolos locales o formulaciones docentes no unívocas.
+
+Se ha iniciado `TCAE_EXAMEN 3.pdf` con `35` respuestas sobre lesiones por presión
+contrastadas contra las guías públicas de GuíaSalud y GNEAUPP. Ocho preguntas
+dependen de figuras del PDF que no forman parte del JSON textual y quedan excluidas
+hasta una revisión visual específica.
 
 ## Plantillas oficiales SES
 

@@ -9790,12 +9790,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-9": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, prevención de UPP, cizalla en posición Fowler",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10410,12 +10412,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-51": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, infección en UPP, cultivo, antibiograma y tratamiento",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29874,12 +29878,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-18": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, factores de riesgo de UPP",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32726,12 +32732,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-33": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, tratamiento específico según estadio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34440,12 +34448,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-35": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, factores de riesgo de UPP",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34888,12 +34898,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-20": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, factores de cizalla",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35061,12 +35073,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-43": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, tipos de desbridamiento",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44064,12 +44078,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-11": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, clasificación de UPP, estadio I",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46431,12 +46447,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-45": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, factores intrínsecos, incontinencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51481,12 +51499,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-44": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "sourceDetail": "GuíaSalud, cuidados UPP, colagenasa para desbridamiento enzimático",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54661,12 +54681,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-12": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, desbridamiento enzimático",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54976,12 +54998,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-62": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Escala Nova, parámetros de valoración",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -55855,12 +55879,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-10": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, clasificación de UPP, estadio I",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60740,12 +60766,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-52": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://gneaupp.info/wp-content/uploads/2014/12/32_pdf.pdf",
+      "sourceDetail": "GNEAUPP, escala EMINA, máximo 15",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64068,12 +64096,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-21": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, prevención de UPP",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66272,12 +66302,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-59": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, clasificación de UPP, estadio II superficial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66459,12 +66491,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-32": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, reevaluación del riesgo ante cambios clínicos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66533,12 +66567,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-37": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://gneaupp.info/wp-content/uploads/2014/12/32_pdf.pdf",
+      "sourceDetail": "GNEAUPP, escala EMINA, sin riesgo 0",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70148,12 +70184,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-28": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, etiología multifactorial de UPP",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74219,12 +74257,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-34": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, prevención de UPP",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76023,12 +76063,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-31": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, factores iatrogénicos por dispositivos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76618,12 +76660,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-25": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, factores predisponentes ortopédicos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79275,12 +79319,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, escala Norton modificada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80196,12 +80242,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-48": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "sourceDetail": "GuíaSalud, cuidados UPP, ácidos grasos hiperoxigenados en estadio I",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80233,12 +80281,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-49": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "sourceDetail": "GuíaSalud, cuidados UPP, evitar antisépticos rutinarios",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80344,12 +80394,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-19": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, cambios posturales y alivio de presión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -81619,12 +81671,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-61": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, escala Norton modificada, riesgo alto menor de 14",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93159,12 +93213,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-53": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, prevención de UPP mediante cambios posturales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105598,12 +105654,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-27": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, factores intrínsecos neurológicos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106506,12 +106564,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-39": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, escala Braden, fricción y roce",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107415,12 +107475,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-24": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, factores intrínsecos neurológicos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108330,12 +108392,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-46": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, alivio de presión y cambios posturales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -109314,12 +109378,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-30": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, tratamiento según estadio y valoración de lesión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110590,12 +110656,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-13": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localización de UPP según posición lateral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -112450,12 +112518,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-3-16": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, escala Norton modificada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
