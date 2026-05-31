@@ -35,8 +35,13 @@ function finish() {
   const answered = Object.keys(state.answers).length;
   const pending = state.test.length - answered;
   const reviews = Object.keys(state.review).length;
+  const verified = state.test.filter(question => question.correctAnswer);
+  const graded = verified.filter(question => state.answers[question.id]);
+  const correct = graded.filter(question => state.answers[question.id] === question.correctAnswer);
+  const score = graded.length ? `${correct.length} de ${graded.length}` : "Todavía no hay respuestas verificadas en este test";
   $("result-summary").innerHTML = `<p><strong>${answered}</strong> respondidas · <strong>${pending}</strong> sin responder · <strong>${reviews}</strong> marcadas para repasar.</p>
-    <p>Estos PDF no contienen plantilla de soluciones, así que el modo actual sirve para practicar y revisar cobertura. El importador ya admite añadir respuestas correctas al JSON más adelante.</p>`;
+    <p><strong>Resultado verificable:</strong> ${score}.</p>
+    <p>Este test contiene <strong>${verified.length}</strong> preguntas con solución investigada en fuentes oficiales. Las demás permanecen sin corregir hasta completar su revisión.</p>`;
   show("results");
 }
 $("start-test").addEventListener("click", start);
@@ -51,5 +56,6 @@ $("review").addEventListener("change", event => {
 });
 fetch("data/questions.json").then(response => response.json()).then(data => {
   state.bank = data.questions;
-  $("catalog").textContent = `${state.bank.length} preguntas disponibles procedentes de ${data.sources.length} exámenes.`;
+  const verified = state.bank.filter(question => question.correctAnswer).length;
+  $("catalog").textContent = `${state.bank.length} preguntas disponibles procedentes de ${data.sources.length} exámenes. ${verified} soluciones verificadas en fuentes oficiales.`;
 }).catch(() => $("catalog").textContent = "No se ha encontrado el banco de preguntas. Ejecuta el importador.");

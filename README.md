@@ -52,4 +52,13 @@ exactamente cuatro opciones, se excluye y queda registrado en el campo `warnings
 ## Respuestas correctas
 
 Los PDF originales no contienen plantillas de soluciones. El formato JSON incluye
-el campo opcional `correctAnswer` para incorporar corrección automática más adelante.
+el campo opcional `correctAnswer`. Las soluciones se investigan en fuentes oficiales
+y se auditan por separado en `data/answer-review.json`.
+
+```bash
+./.venv/bin/python scripts/build_answer_review.py
+./.venv/bin/python scripts/apply_verified_answers.py
+```
+
+Cada solución verificada conserva la URL oficial, el artículo o apartado consultado
+y la fecha de revisión.
