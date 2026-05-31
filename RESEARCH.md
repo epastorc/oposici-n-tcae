@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.954`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `203`.
+- Soluciones verificadas: `2.001`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `220`.
 
 ## Criterio
 
@@ -198,6 +198,13 @@ organización sanitaria, atención primaria y cuidados básicos. Queda cerrado c
 con la Ley 10/2001, la Ley 41/2002, la Ley 55/2003, el Decreto 311/2007 y el
 Decreto 47/2023. Se excluyen pautas clínicas o de equipamiento dependientes del
 protocolo local y preguntas que no ofrecen una única respuesta estable.
+
+Se ha revisado `TCAE_EXAMEN 23.pdf`, que combina atención primaria, autonomía del
+paciente, oxigenoterapia y cuidados básicos. El examen queda cerrado con `53`
+respuestas verificadas y `17` exclusiones por depender de dispositivos,
+protocolos asistenciales o normas organizativas que requieren mayor precisión.
+Las respuestas normativas se contrastan con la Ley 3/2005, la Ley 41/2002 y el
+Decreto 47/2023.
 
 ## Plantillas oficiales SES
 

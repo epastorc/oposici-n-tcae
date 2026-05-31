@@ -5316,8 +5316,8 @@
         }
       ],
       "correctAnswer": "c",
-      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
-      "answerSourceDetail": "Artículo 17.1 e)",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Ley 55/2003, artículo 17.1.e, movilidad voluntaria, promoción interna y desarrollo profesional",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -27940,8 +27940,8 @@
         }
       ],
       "correctAnswer": "d",
-      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
-      "answerSourceDetail": "Cuidados básicos, higiene durante la hospitalización",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 8.5, revocación escrita del consentimiento",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -29815,10 +29815,10 @@
           "text": "Problemas aparecidos en la mujer durante periodo de tiempo anterior al puerperio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Atención primaria, salud de la mujer",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-2",
@@ -29843,10 +29843,10 @@
           "text": "En todo tipo de prevenciones."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Atención primaria, atención integrada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-3",
@@ -29955,10 +29955,10 @@
           "text": "No maleficencia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Bioética, principio de justicia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-7",
@@ -29983,10 +29983,10 @@
           "text": "La tramitación de los correspondientes justificantes de incapacidad laboral transitoria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Atención especializada, hospitalización",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-8",
@@ -30039,10 +30039,10 @@
           "text": "Del Enfermero responsable del paciente"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Organización asistencial, alta por médico responsable",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-10",
@@ -30067,10 +30067,10 @@
           "text": "Todas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, zona, centro y equipo de atención primaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-11",
@@ -30095,10 +30095,10 @@
           "text": "Justicia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Bioética, principio de beneficencia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-12",
@@ -30179,10 +30179,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 4, información asistencial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-15",
@@ -30207,10 +30207,10 @@
           "text": "El cuidado maternal e infantil, incluyendo la planificación familiar."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Atención primaria, cirugía menor ambulatoria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-16",
@@ -30263,10 +30263,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Cuidados pediátricos, doble pesada del pañal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-18",
@@ -30347,10 +30347,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Cuidados urinarios, tenesmo vesical y micción",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-21",
@@ -30375,10 +30375,10 @@
           "text": "Pediatría."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Equipamiento clínico, fotóforo en otorrinolaringología",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-22",
@@ -30403,10 +30403,10 @@
           "text": "El flujo puede venir indicado mediante una aguja sobre una escala graduada o mediante una “bolita” que sube o baja por un cilindro que también posee una escala graduada."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Oxigenoterapia, flujómetro graduado en litros por minuto",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-23",
@@ -30431,10 +30431,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Fisiología respiratoria, capacidad vital",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-24",
@@ -30459,10 +30459,10 @@
           "text": "El Cloro (Cl)."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Fisiología, sodio como catión extracelular principal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-25",
@@ -30487,10 +30487,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Fisiología renal, urea y metabolismo proteico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-26",
@@ -30515,10 +30515,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Nutrición enteral, vías oral y por sonda u ostomía",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-27",
@@ -30571,10 +30571,10 @@
           "text": "Dos de ellos podrán tener relación de parentesco hasta el segundo grado, pero no podrán estar vinculados por relación matrimonial, de hecho, o patrimonial con el otorgante."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, expresión anticipada de voluntades y testigos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-29",
@@ -30599,10 +30599,10 @@
           "text": "Nunca, ni con el fallecimiento del enfermo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Deontología sanitaria, secreto profesional permanente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-30",
@@ -30683,10 +30683,10 @@
           "text": "Salmonela."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Infección urinaria, Escherichia coli como causa más frecuente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-33",
@@ -30739,10 +30739,10 @@
           "text": "En cualquier caso, la conservación de la documentación clínica deberá garantizar la preservación de la información y en el soporte original."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, conservación sin exigencia universal de soporte original",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-35",
@@ -30795,10 +30795,10 @@
           "text": "Al médico o equipo sanitario que atienda al paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, documento dirigido al médico o equipo sanitario",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-37",
@@ -30823,10 +30823,10 @@
           "text": "Derecho a la reunión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Ley 55/2003, artículo 17.1.e, movilidad voluntaria, promoción interna y desarrollo profesional",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-38",
@@ -30851,10 +30851,10 @@
           "text": "Pielografía."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Fisiología respiratoria, gasometría arterial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-39",
@@ -30879,10 +30879,10 @@
           "text": "En grados de saturación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Fisiología respiratoria, presión parcial en mmHg",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-40",
@@ -30907,10 +30907,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, equipo multidisciplinar",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-41",
@@ -30935,10 +30935,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Cuidados de ostomía, contenido más líquido e irritante en colostomía ascendente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-42",
@@ -30963,10 +30963,10 @@
           "text": "Escala de Bristol."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Cuidados intestinales, escala de Bristol",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-43",
@@ -30991,10 +30991,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Recogida de muestra, desechar primera micción en orina de 24 horas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-44",
@@ -31047,10 +31047,10 @@
           "text": "Asertividad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Comunicación asistencial, escucha activa no verbal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-46",
@@ -31075,10 +31075,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/druginfo/meds/a682480.html",
+      "answerSourceDetail": "Hipoglucemia grave, tratamiento de emergencia con glucagón",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-47",
@@ -31159,10 +31159,10 @@
           "text": "El paciente puede revocar su consentimiento informado de forma verbal y escrita ante cualquier facultativo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 8.5, revocación escrita del consentimiento",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-50",
@@ -31187,10 +31187,10 @@
           "text": "La reinserción del enfermo en la sociedad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Atención primaria, educación sanitaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-51",
@@ -31243,10 +31243,10 @@
           "text": "Documento de confidencialidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, expresión anticipada de voluntades",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-53",
@@ -31327,10 +31327,10 @@
           "text": "La demostración."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Educación para la salud, entrevista clínica como método directo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-56",
@@ -31383,10 +31383,10 @@
           "text": "La asistencia de urgencia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Atención especializada, internamiento como diferencia característica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-58",
@@ -31411,10 +31411,10 @@
           "text": "Las Corporaciones Locales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, delimitación autonómica de zonas de salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-59",
@@ -31467,10 +31467,10 @@
           "text": "Temor a la noche."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Terminología clínica, ablutofobia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-61",
@@ -31495,10 +31495,10 @@
           "text": "Esta técnica puede realizarse en adultos con vejigas llena."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Cuidados urinarios, punción suprapúbica en hipogastrio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-62",
@@ -31523,10 +31523,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Oxigenoterapia, toma de pared con caudalímetro y humidificador",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-63",
@@ -31551,10 +31551,10 @@
           "text": "Alterar la concentración del oxígeno, si hay presencia de sudoración."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Oxigenoterapia, modificación de concentración no atribuida al TCAE",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-64",
@@ -31579,10 +31579,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Necesidades humanas, fisiológicas para homeostasis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-65",
@@ -31607,10 +31607,10 @@
           "text": "Las respuestas a y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Nutrición, obesidad androide o abdominal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-66",
@@ -31635,10 +31635,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Cuidados de ostomía, colostomía descendente en flanco izquierdo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-67",
@@ -31663,10 +31663,10 @@
           "text": "Todas las respuestas son correctas. PREGUNTAS DE RESERVA"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/diabetestype1.html",
+      "answerSourceDetail": "Diabetes, prevención de hipoglucemia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-68",
@@ -31747,10 +31747,10 @@
           "text": "Quirófano es el lugar donde se efectúan sólo operaciones con anestesia general."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Área quirúrgica, quirófano como sala de operaciones",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-1",
@@ -39391,10 +39391,10 @@
           "text": "Quirófano es el lugar donde se efectúan sólo operaciones con anestesia general."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Área quirúrgica, quirófano como sala de operaciones",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-53",
