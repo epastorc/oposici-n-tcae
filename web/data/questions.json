@@ -219,10 +219,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente encamado, posición lateral para lavado posterior",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-9",
@@ -331,10 +331,10 @@
           "text": "Sí, si la ostomía es de alimentación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "answerSourceDetail": "Osakidetza, guía educativa para personas ostomizadas, higiene cotidiana",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-13",
@@ -695,10 +695,10 @@
           "text": "Decúbito lateral izquierdo y supino."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Colocación de cuña en paciente encamado colaborador",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-26",
@@ -835,10 +835,10 @@
           "text": "Las mejillas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente encamado, secuencia de lavado facial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-31",
@@ -975,10 +975,10 @@
           "text": "No use ningún antiséptico como el alcohol cuando desinfecte el estoma."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "answerSourceDetail": "Osakidetza, guía educativa para personas ostomizadas, autocuidado del estoma",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-36",
@@ -1003,10 +1003,10 @@
           "text": "Muslos y ano."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Colocación de cuña, protección de cama",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-37",
@@ -1171,10 +1171,10 @@
           "text": "Uno de los elementos de evacuación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente encamado, elementos de protección",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-43",
@@ -1199,10 +1199,10 @@
           "text": "Que evite zapatos con tacón y terminados en punta."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cuidado del pie diabético, calzado y horario de prueba",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-44",
@@ -1227,10 +1227,10 @@
           "text": "Seleccionar bolsa apropiada a las características de la colostomía."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "answerSourceDetail": "Osakidetza, guía educativa para personas ostomizadas, colocación del dispositivo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-45",
@@ -1339,10 +1339,10 @@
           "text": "El sondaje vesical."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "answerSourceDetail": "CDC, prevención CAUTI, evitar sondajes innecesarios",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-49",
@@ -1367,10 +1367,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cuidados del recién nacido, corte de uñas con tijera de punta roma",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-50",
@@ -1619,10 +1619,10 @@
           "text": "La higiene del paciente encamado dependiente será realizada por dos personas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente encamado, pabellón auricular sin introducir bastoncillos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-59",
@@ -1647,10 +1647,10 @@
           "text": "Trendelemburg."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Colocación de botella de diuresis en paciente masculino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-60",
@@ -1675,10 +1675,10 @@
           "text": "Glúteos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente encamado, secuencia cefalocaudal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-61",
@@ -1759,10 +1759,10 @@
           "text": "Cm de agua y color negro."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Registro de constantes vitales, presión arterial en mmHg",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-64",
@@ -1787,10 +1787,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sondas Miller-Abbott, Salem y Cantor de uso digestivo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-65",
@@ -1815,10 +1815,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Termómetro clínico, depósito o bulbo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-1-66",
@@ -13827,10 +13827,10 @@
           "text": "Uno de los elementos de evacuación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente encamado, elementos de protección",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-79",
@@ -25531,10 +25531,10 @@
           "text": "Uno de los elementos de evacuación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente encamado, elementos de protección",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-20-71",
@@ -25923,10 +25923,10 @@
           "text": "Sí, si la ostomía es de alimentación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "answerSourceDetail": "Osakidetza, guía educativa para personas ostomizadas, higiene cotidiana",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-20-85",

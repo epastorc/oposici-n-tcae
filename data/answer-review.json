@@ -7863,12 +7863,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-64": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Sondas Miller-Abbott, Salem y Cantor de uso digestivo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13345,12 +13347,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-48": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "sourceDetail": "CDC, prevención CAUTI, evitar sondajes innecesarios",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18616,12 +18620,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-44": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "sourceDetail": "Osakidetza, guía educativa para personas ostomizadas, colocación del dispositivo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18939,12 +18945,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-12": "b",
+        "tcae_examen-20-84": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "sourceDetail": "Osakidetza, guía educativa para personas ostomizadas, higiene cotidiana",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19831,12 +19840,16 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-42": "a",
+        "tcae_examen-15-78": "a",
+        "tcae_examen-20-70": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Higiene del paciente encamado, elementos de protección",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35901,12 +35914,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-36": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Colocación de cuña, protección de cama",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -37123,12 +37138,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-30": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Higiene del paciente encamado, secuencia de lavado facial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -37271,12 +37288,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-60": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Higiene del paciente encamado, secuencia cefalocaudal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43093,12 +43112,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-49": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Cuidados del recién nacido, corte de uñas con tijera de punta roma",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44180,12 +44201,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-58": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Higiene del paciente encamado, pabellón auricular sin introducir bastoncillos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -50398,12 +50421,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-59": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Colocación de botella de diuresis en paciente masculino",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51431,12 +51456,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-25": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Colocación de cuña en paciente encamado colaborador",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63549,12 +63576,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-63": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Registro de constantes vitales, presión arterial en mmHg",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66845,12 +66874,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-65": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Termómetro clínico, depósito o bulbo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80691,12 +80722,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-8": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Higiene del paciente encamado, posición lateral para lavado posterior",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110711,12 +110744,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-35": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "sourceDetail": "Osakidetza, guía educativa para personas ostomizadas, autocuidado del estoma",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -112078,12 +112113,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-1-43": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Cuidado del pie diabético, calzado y horario de prueba",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

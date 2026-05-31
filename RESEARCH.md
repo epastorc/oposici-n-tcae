@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.253`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `29`.
+- Soluciones verificadas: `1.273`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `49`.
 
 ## Criterio
 
@@ -100,6 +100,11 @@ Se ha iniciado `TCAE_EXAMEN 1.pdf` con `29` respuestas clínicas contrastadas
 contra fuentes sanitarias públicas, normativa autonómica y materiales de la
 American Heart Association. Se excluye una indicación farmacológica general ante
 dolor torácico porque requiere valoración clínica y prescripción contextualizada.
+
+La segunda tanda cierra `TCAE_EXAMEN 1.pdf` con `46` respuestas verificadas. Se han
+incorporado guías públicas de Osakidetza para ostomías y del CDC para prevención de
+infección urinaria asociada a sonda. Permanecen excluidas `21` preguntas de técnica
+asistencial cuyos parámetros dependen de protocolos o manuales docentes concretos.
 
 ## Plantillas oficiales SES
 
