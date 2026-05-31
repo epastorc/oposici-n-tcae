@@ -10232,12 +10232,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-3": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietas progresivas, dieta semilíquida o semiblanda",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20628,12 +20630,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-26": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Nutrición, aporte dietético de calcio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54195,12 +54199,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-53": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Dietas progresivas, dieta semilíquida o semiblanda",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65242,12 +65248,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-34": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Seguridad alimentaria, salmonelosis y alimentos de riesgo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -103538,12 +103546,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-13-25": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.who.int/es/health-topics/breastfeeding",
+      "sourceDetail": "Rueda de alimentos, grupo I de función plástica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

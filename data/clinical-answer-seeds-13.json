@@ -9,6 +9,7 @@
   "answers": {
     "1": ["d", "Nutrición, objetivos generales"],
     "2": ["c", "IMC, clasificación de Garrow"],
+    "3": ["d", "Dietas progresivas, dieta semilíquida o semiblanda"],
     "4": ["c", "OMS y UNICEF, lactancia en la primera hora de vida"],
     "5": ["b", "MedlinePlus, vitamina A o retinol"],
     "7": ["a", "Dietética, dieta cuantitativa"],
@@ -26,11 +27,14 @@
     "22": ["a", "Nutrición, cereales como fuente de glúcidos"],
     "23": ["a", "Antropometría, perímetro braquial"],
     "24": ["a", "IMC, clasificación de Garrow"],
+    "25": ["a", "Rueda de alimentos, grupo I de función plástica"],
+    "26": ["b", "Nutrición, aporte dietético de calcio"],
     "27": ["a", "Dietética, función plástica de carne, pescado y huevos"],
     "28": ["d", "Dietética, verduras con función reguladora"],
     "29": ["b", "Seguridad alimentaria, contaminantes químicos"],
     "30": ["d", "Seguridad alimentaria, manipulador de alimentos"],
     "32": ["d", "MedlinePlus, síntomas gastrointestinales de toxiinfección"],
+    "34": ["d", "Seguridad alimentaria, salmonelosis y alimentos de riesgo"],
     "35": ["a", "Seguridad alimentaria, tratamiento térmico"],
     "36": ["c", "AESAN, congelación a -18 ºC o inferior"],
     "38": ["d", "Hipertensión, no existe un mínimo recomendado de sal"],
@@ -45,6 +49,7 @@
     "47": ["a", "Nutrición, osmolaridad y concentración de solutos"],
     "48": ["d", "Nutrición, osmolaridad de alimentos"],
     "52": ["d", "Dietética, dieta de protección gástrica"],
+    "53": ["b", "Dietas progresivas, dieta semilíquida o semiblanda"],
     "54": ["a", "MedlinePlus, retinol liposoluble"],
     "56": ["d", "MedlinePlus, sodio, hipertensión y retención de líquidos"],
     "57": ["b", "MedlinePlus, hipertensión y reducción de sal"],
@@ -59,5 +64,18 @@
     "67": ["b", "MedlinePlus, niacina y pelagra"],
     "68": ["c", "Nutrición clínica, dieta hiperproteica para reparación tisular"]
   },
-  "excluded": {}
+  "excluded": {
+    "6": "El enunciado contiene unidades erróneas: las necesidades proteicas se expresan habitualmente en gramos por kilogramo y día, no en 70 gramos por kilogramo y día.",
+    "10": "La cantidad de leche para lactante debe individualizarse por edad, peso y valoración pediátrica; no se publica una pauta cerrada.",
+    "12": "La pregunta solicita julios, pero las opciones están expresadas en calorías y no contienen la conversión correcta.",
+    "16": "El peso total de nutrientes de una dieta equilibrada depende del aporte energético y la distribución elegida.",
+    "31": "La frecuencia de toxiinfecciones por alimento depende del sistema de vigilancia y del periodo analizado.",
+    "33": "El número de tomas de fórmula debe individualizarse según lactante y recomendación pediátrica.",
+    "37": "El número de tomas de fórmula debe individualizarse según edad, desarrollo y recomendación pediátrica.",
+    "49": "La restricción proteica debe individualizarse; la equivalencia con grupos de una rueda alimentaria no permite una pauta clínica segura.",
+    "50": "La dieta en enfermedad inflamatoria intestinal debe individualizarse según fase, tolerancia y estado nutricional.",
+    "51": "La dieta hipocalórica debe individualizarse; no se publica un rango universal cerrado.",
+    "55": "La distribución cualitativa de grasas no coincide de forma unívoca con las opciones y depende de la guía dietética aplicada.",
+    "59": "La prevención de xerostomía en mayores requiere recomendaciones individualizadas; ninguna opción aislada constituye una pauta completa."
+  }
 }

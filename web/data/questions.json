@@ -7667,10 +7667,10 @@
           "text": "Leche."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.who.int/es/health-topics/breastfeeding",
+      "answerSourceDetail": "Dietas progresivas, dieta semilíquida o semiblanda",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-13-4",
@@ -8283,10 +8283,10 @@
           "text": "Plástica y energética."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.who.int/es/health-topics/breastfeeding",
+      "answerSourceDetail": "Rueda de alimentos, grupo I de función plástica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-13-26",
@@ -8311,10 +8311,10 @@
           "text": "10 a 15 mg/día."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.who.int/es/health-topics/breastfeeding",
+      "answerSourceDetail": "Nutrición, aporte dietético de calcio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-13-27",
@@ -8535,10 +8535,10 @@
           "text": "Pescados."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.who.int/es/health-topics/breastfeeding",
+      "answerSourceDetail": "Seguridad alimentaria, salmonelosis y alimentos de riesgo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-13-35",
@@ -9067,10 +9067,10 @@
           "text": "No precisa en algunos casos masticación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.who.int/es/health-topics/breastfeeding",
+      "answerSourceDetail": "Dietas progresivas, dieta semilíquida o semiblanda",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-13-54",
