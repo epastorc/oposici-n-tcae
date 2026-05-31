@@ -142,6 +142,11 @@ function finish(save = true) {
     <ol>${state.test.map(question => resultItem(question, false)).join("")}</ol></section>`;
   setView("results");
 }
+function printCurrentResults() {
+  document.body.classList.add("is-printing-results");
+  window.print();
+  window.setTimeout(() => document.body.classList.remove("is-printing-results"), 500);
+}
 function resultItem(question, showUserAnswer) {
   return `<li><p><strong>${escapeHtml(question.source)} · pregunta ${question.number}</strong></p>
     <p>${escapeHtml(question.prompt)}</p>
@@ -156,7 +161,7 @@ function renderSavedTests() {
     const answered = Object.keys(test.answers || {}).length;
     return `<article class="saved-item"><div><h3>${escapeHtml(test.name)}</h3>
       <p>${test.questionIds.length} preguntas · ${answered} respondidas · ${test.completed ? "Terminado" : "En progreso"}</p></div>
-      <div class="item-actions">${test.completed ? `<button class="secondary" data-review-test="${test.id}">Revisar</button>` : `<button data-resume-test="${test.id}">Continuar</button>`}
+      <div class="item-actions">${test.completed ? `<button class="secondary" data-review-test="${test.id}">Revisar</button><button data-print-test="${test.id}">Imprimir PDF</button>` : `<button data-resume-test="${test.id}">Continuar</button>`}
       <button class="danger" data-delete-test="${test.id}">Eliminar</button></div></article>`;
   }).join("") : '<p class="empty-state">Todavía no has guardado ningún reto.</p>';
 }
@@ -188,11 +193,16 @@ $("review").addEventListener("change", event => {
   persistCurrentTest();
 });
 $("retry-wrong").addEventListener("click", retryWrong);
+$("print-results").addEventListener("click", printCurrentResults);
 document.addEventListener("click", event => {
   const view = event.target.dataset.view;
   if (view) setView(view);
   if (event.target.dataset.resumeTest) loadTest(event.target.dataset.resumeTest);
   if (event.target.dataset.reviewTest) loadTest(event.target.dataset.reviewTest, true);
+  if (event.target.dataset.printTest) {
+    loadTest(event.target.dataset.printTest, true);
+    printCurrentResults();
+  }
   if (event.target.dataset.deleteTest) {
     writeStorage(STORAGE.tests, savedTests().filter(test => test.id !== event.target.dataset.deleteTest));
     renderSavedTests();
