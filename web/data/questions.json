@@ -62437,7 +62437,7 @@
       ],
       "correctAnswer": "b",
       "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
-      "answerSourceDetail": "Artículo 19",
+      "answerSourceDetail": "Artículo 38 no incorpora esa mitigación",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -62549,7 +62549,7 @@
       ],
       "correctAnswer": "b",
       "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
-      "answerSourceDetail": "Artículo 43.3",
+      "answerSourceDetail": "Artículo 51.2",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -63221,7 +63221,7 @@
       ],
       "correctAnswer": "a",
       "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
-      "answerSourceDetail": "Artículo 27",
+      "answerSourceDetail": "Artículo 45.2",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -63555,10 +63555,10 @@
           "text": "Descarta la posibilidad de que ningún ser humano pueda ser sometido a trato degradante."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 15",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-318",
@@ -63583,10 +63583,10 @@
           "text": "El artículo 35."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 35",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-319",
@@ -63611,10 +63611,10 @@
           "text": "Cuando lo haga a través de representantes, estos deberán haber sido elegidos directamente por los afectados, facilitándoseles poder notarial de representación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 23.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-320",
@@ -63639,10 +63639,10 @@
           "text": "Los poderes públicos fomentarán las reclamaciones de los consumidores y usuarios."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 51.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-321",
@@ -63667,10 +63667,10 @@
           "text": "A los dieciocho años, pero no se regula en el artículo 10."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 12, no artículo 10",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-322",
@@ -63695,10 +63695,10 @@
           "text": "Podrá establecerse un servicio militar para el cumplimiento de fines de interés general."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 45.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-323",
@@ -63723,10 +63723,10 @@
           "text": "Todas las otras respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 17.3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-324",
@@ -63751,10 +63751,10 @@
           "text": "Los poderes públicos promoverán el acceso a la cultura."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 45.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-325",
@@ -63779,10 +63779,10 @@
           "text": "En los Capítulos Primero, Segundo y Tercero del Título Primero."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 53.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-326",
@@ -63807,10 +63807,10 @@
           "text": "Más del tiempo necesario para la realización de las averiguaciones necesarias tendentes al esclarecimiento de los hechos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 17.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-327",
@@ -63835,10 +63835,10 @@
           "text": "Derecho a la vida."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 55.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-328",
@@ -63863,10 +63863,10 @@
           "text": "Se realizará mediante un sistema tributario justo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 31.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-329",
@@ -63891,10 +63891,10 @@
           "text": "De acuerdo con los Tratados internacionales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 11.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-330",
@@ -63919,10 +63919,10 @@
           "text": "Comprende los artículos quince a veintinueve."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Título I, capítulo II, sección 2.ª",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-331",
@@ -63947,10 +63947,10 @@
           "text": "Cuatro."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Preámbulo, parte dogmática y parte orgánica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-332",
@@ -63975,10 +63975,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Ratificación en referéndum del pueblo español",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-333",
@@ -64003,10 +64003,10 @@
           "text": "196."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículos 1 a 169",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-334",
@@ -64031,10 +64031,10 @@
           "text": "En cumplimiento del espíritu constitucional."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 13.3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-335",
@@ -64059,10 +64059,10 @@
           "text": "Habeas Corpus."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 17.4",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-336",
@@ -64087,10 +64087,10 @@
           "text": "En caso de resolución judicial exclusivamente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 18.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-337",
@@ -64115,10 +64115,10 @@
           "text": "El desarrollo de la personalidad humana conforme a las líneas educativas marcadas por el Consejo Escolar Nacional."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 27.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-338",
@@ -64143,10 +64143,10 @@
           "text": "En cinco."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Título I, capítulos I a V",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-339",
@@ -64171,10 +64171,10 @@
           "text": "Fue abolida por nuestra Constitución, salvo lo que pudieran disponer las leyes para castigar delitos de terrorismo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 15 y abolición total posterior por Ley Orgánica 11/1995",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-340",
@@ -64199,10 +64199,10 @@
           "text": "Tres años."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Ley Orgánica 3/1981, artículo 2.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-341",
@@ -64227,10 +64227,10 @@
           "text": "El artículo 55."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 55",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-342",
@@ -64255,10 +64255,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Sanción real de 27 de diciembre de 1978",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-343",
@@ -64283,10 +64283,10 @@
           "text": "Tal tutela se recabará en el ejercicio de sus derechos e intereses legítimos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 45.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-344",
@@ -64311,10 +64311,10 @@
           "text": "Reciban formación religiosa y moral."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 27.3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-345",
@@ -64339,10 +64339,10 @@
           "text": "Los poderes públicos no están obligados a velar por la utilización racional de los recursos naturales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 45.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-346",
@@ -64367,10 +64367,10 @@
           "text": "Se reconoce la libertad de empresa en el marco de la economía de mercado mitigada por el fin social de la propiedad privada."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 38 no incorpora esa mitigación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-347",
@@ -64395,10 +64395,10 @@
           "text": "Media es gratuita."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 27.4",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-348",
@@ -64423,10 +64423,10 @@
           "text": "En el artículo 22."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 18.3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-349",
@@ -64451,10 +64451,10 @@
           "text": "En el ámbito de la Administración civil y en el de las organizaciones profesionales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 26",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-350",
@@ -64479,10 +64479,10 @@
           "text": "Podrá ser privado de ella cualquier español."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 11.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-351",
@@ -64507,10 +64507,10 @@
           "text": "Derecho al secreto de las comunicaciones."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 55.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-352",
@@ -64535,10 +64535,10 @@
           "text": "Sólo en casos excepcionalmente recogidos en la legislación vigente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 25.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-353",
@@ -64563,10 +64563,10 @@
           "text": "En el artículo 34."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 32",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-354",
@@ -64591,10 +64591,10 @@
           "text": "De los derechos fundamentales establecidos constitucionalmente, en los términos garantizados por la Ley."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 13.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-355",
@@ -64619,10 +64619,10 @@
           "text": "Se encuentra reconocido como Derecho en el art. 44 de la Constitución."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 45.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-356",
@@ -64647,10 +64647,10 @@
           "text": "9."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Título preliminar y títulos I a X",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-357",
@@ -64675,10 +64675,10 @@
           "text": "Es un deber."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 30.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-358",
@@ -64703,10 +64703,10 @@
           "text": "Por Ley ordinaria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 54",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-359",
@@ -64731,10 +64731,10 @@
           "text": "Ante los Tribunales y el Congreso de los Diputados."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 54",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-360",
@@ -64759,10 +64759,10 @@
           "text": "Mínimo de setenta y dos horas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 17.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-361",
@@ -64787,10 +64787,10 @@
           "text": "Se pierde por cometer delito contra la vida del jefe del Estado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 11.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-362",
@@ -64815,10 +64815,10 @@
           "text": "10 y 50."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Título I, artículos 10 a 55",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-363",
@@ -64843,10 +64843,10 @@
           "text": "Por resolución judicial."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 18.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-364",
@@ -64871,10 +64871,10 @@
           "text": "Las que se reúnan sin autorización previa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 22.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-365",
@@ -64899,10 +64899,10 @@
           "text": "El Derecho a la intimidad personal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 18.1 reconoce propia imagen, no imagen pública",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-366",
@@ -64927,10 +64927,10 @@
           "text": "El artículo 11."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Artículo 14",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-367",
@@ -64955,10 +64955,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Título I, capítulo I",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-368",
@@ -64983,10 +64983,10 @@
           "text": "De los principios rectores de la política social y económica"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Título I, capítulo III",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-36-1",
