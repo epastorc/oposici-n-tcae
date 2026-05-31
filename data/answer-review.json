@@ -2706,12 +2706,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-45": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 12.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3048,12 +3050,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-41": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7477,12 +7481,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-5": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7514,12 +7520,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-11": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 13.3, 13.4 y 13.5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7551,12 +7559,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-36": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 10",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7680,12 +7690,18 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-19": "d",
+        "tcae_examen-9-35": "d",
+        "tcae_examen-9-38": "d",
+        "tcae_examen-25-34": "d",
+        "tcae_examen-25-45": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 8.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19807,12 +19823,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-32": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 13.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23388,12 +23406,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-1": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, título",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26173,12 +26193,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-13": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 g)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31068,12 +31090,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-20": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 13.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31893,12 +31917,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-48": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 13.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49518,12 +49544,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-24": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 i)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49592,12 +49620,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-30": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículos 9 a) y 41.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49888,12 +49918,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-42": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 h)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56223,12 +56255,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-3": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 d)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67269,12 +67303,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-21": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 10 b)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73899,12 +73935,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-29": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 12.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73936,12 +73974,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-28": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 13.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76317,12 +76357,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-2": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículos 9 e) y 13",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76622,12 +76664,16 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-17": "b",
+        "tcae_examen-9-40": "c",
+        "tcae_examen-25-28": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículos 9 y 13.5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76719,12 +76765,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-14": "c",
+        "tcae_examen-9-34": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículos 9 b) y 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76825,12 +76874,16 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-8": "d",
+        "tcae_examen-9-16": "c",
+        "tcae_examen-9-50": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 8.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -82330,12 +82383,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-46": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 12.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91382,12 +91437,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-4": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 l)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91419,12 +91476,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-12": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 j)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91479,12 +91538,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-9": "b",
+        "tcae_examen-9-43": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 i)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91627,12 +91689,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-39": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91664,12 +91728,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-22": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91701,12 +91767,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-23": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 10 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91775,12 +91843,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-18": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 10",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91812,12 +91882,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-25": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 10 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91849,12 +91921,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-44": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 10 b)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98076,12 +98150,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-27": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 11.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98113,12 +98189,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-37": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 11.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98173,12 +98251,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-6": "d",
+        "tcae_examen-9-33": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -104477,12 +104558,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-7": "d",
+        "tcae_examen-9-10": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 d), e) y f)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106460,12 +106544,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-47": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 10",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106497,12 +106583,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-31": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106534,12 +106622,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-15": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107299,12 +107389,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-9-26": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 11.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

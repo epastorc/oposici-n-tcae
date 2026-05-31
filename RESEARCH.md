@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `971`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `23`.
+- Soluciones verificadas: `1.023`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `24`.
 
 ## Criterio
 
@@ -65,6 +65,12 @@ la Ley 10/2001 publicado en el DOE. El bloque queda cerrado con `86` respuestas
 verificadas y tres exclusiones: dos por opciones ligadas a un organigrama histórico
 y una por mezclar regímenes jurídicos distintos para extranjeros residentes y no
 residentes.
+
+Se ha revisado `TCAE_EXAMEN 9.pdf` contra el Decreto 47/2023 publicado en el DOE,
+que regula la organización y funcionamiento de la atención primaria extremeña. Se
+publican `49` de sus `50` respuestas. La pregunta restante se excluye porque el
+decreto fomenta el autocuidado, pero no lo atribuye a ninguna de las autoras
+ofrecidas como opción.
 
 ## Plantillas oficiales SES
 
