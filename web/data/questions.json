@@ -1927,10 +1927,10 @@
           "text": "Ondulante."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, fiebre recurrente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-3",
@@ -1955,10 +1955,10 @@
           "text": "De formación universitaria y de formación profesional."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 6",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-4",
@@ -1983,10 +1983,10 @@
           "text": "Los alveolos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Anatomía respiratoria, alveolos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-5",
@@ -2039,10 +2039,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 25 c), d) y e)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-7",
@@ -2067,10 +2067,10 @@
           "text": "Su objetivo es evitar la presencia de complicaciones que aparecen durante el encamamiento prolongado o la falta de movilidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Movilización pasiva, definición",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-8",
@@ -2095,10 +2095,10 @@
           "text": "mmHg."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Gasometría arterial, PaO2 en mmHg",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-9",
@@ -2151,10 +2151,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Oxigenoterapia, definición de FiO2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-11",
@@ -2179,10 +2179,10 @@
           "text": "Ley 3/2005 de 8 de julio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, título",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-12",
@@ -2235,10 +2235,10 @@
           "text": "De formación universitaria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 6.2 b)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-14",
@@ -2319,10 +2319,10 @@
           "text": "Es cerrada y de bajo flujo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Oxigenoterapia, mascarilla simple de bajo flujo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-17",
@@ -2347,10 +2347,10 @@
           "text": "Cinesiterapia activa resistida."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Cinesiterapia, clasificación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-18",
@@ -2431,10 +2431,10 @@
           "text": "Ácido fólico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, vitamina A o retinol",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-21",
@@ -2459,10 +2459,10 @@
           "text": "Atmosferas de presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Aspiración de secreciones, presión negativa en mmHg",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-22",
@@ -2487,10 +2487,10 @@
           "text": "Responsabilizarse directamente del mantenimiento, control y reposición de almacén y lencería."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 25 l)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-23",
@@ -2515,10 +2515,10 @@
           "text": "De grado superior."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21340",
+      "answerSourceDetail": "Ley 44/2003, artículo 3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-24",
@@ -2571,10 +2571,10 @@
           "text": "No definitivas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Ostomías, clasificación temporal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-26",
@@ -2599,10 +2599,10 @@
           "text": "Aurícula derecha."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Anatomía cardiovascular, latido apical",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-27",
@@ -2627,10 +2627,10 @@
           "text": "Espalda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Anatomía funcional, eversión del pie",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-28",
@@ -2655,10 +2655,10 @@
           "text": "Aumentar el bienestar del paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Higiene del paciente, objetivos generales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-29",
@@ -2683,10 +2683,10 @@
           "text": "Controladas y manuales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Ventilación mecánica, modalidades controlada y asistida",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-30",
@@ -2795,10 +2795,10 @@
           "text": "Friendo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Sondaje vesical, calibre French o Charrière",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-34",
@@ -2823,10 +2823,10 @@
           "text": "Sigmoidea."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Ostomías intestinales, colostomía ascendente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-35",
@@ -2907,10 +2907,10 @@
           "text": "RD. 521/1987, de 25 de abril."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, título",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-38",
@@ -2935,10 +2935,10 @@
           "text": "Hipocapnia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, hipercapnia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-39",
@@ -2963,10 +2963,10 @@
           "text": "Biot y Cheyne-stokes."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, respiraciones de Biot y Cheyne-Stokes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-40",
@@ -2991,10 +2991,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 25",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-41",
@@ -3047,10 +3047,10 @@
           "text": "mEq/litro."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Gasometría arterial, bicarbonato en mEq/l",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-43",
@@ -3075,10 +3075,10 @@
           "text": "Una abducción."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Fractura de cadera, acortamiento y rotación externa",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-44",
@@ -3103,10 +3103,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, personal estatutario",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-45",
@@ -3131,10 +3131,10 @@
           "text": "A la incontinencia urinaria por rebosamiento."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, vejiga hiperactiva e incontinencia de urgencia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-46",
@@ -3159,10 +3159,10 @@
           "text": "El eje sagital es aquel que atravesaría desde atrás hacia delante el cuerpo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Anatomía descriptiva, ejes corporales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-47",
@@ -3215,10 +3215,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 25 f), g) y h)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-49",
@@ -3243,10 +3243,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 25 f)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-50",
@@ -3271,10 +3271,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Somatometría, parámetros básicos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-51",
@@ -3327,10 +3327,10 @@
           "text": "Funciones de registro y gestión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 9 b)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-53",
@@ -3467,10 +3467,10 @@
           "text": "Equipo sanitario de Zona de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 5",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-58",
@@ -3495,10 +3495,10 @@
           "text": "Protección y promoción de la salud, prevención y rehabilitación, únicamente en el centro de salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 25 a)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-59",
@@ -3579,10 +3579,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 25 f), g) y h)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-62",
@@ -3635,10 +3635,10 @@
           "text": "Sonda de Tieman."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Sondaje vesical, sonda Mercier",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-64",
@@ -3663,10 +3663,10 @@
           "text": "Oliguria. PREGUNTAS DE RESERVA:"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, anuria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-65",
@@ -3691,10 +3691,10 @@
           "text": "Calcio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Radiología digestiva, enema opaco con bario",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-10-66",
@@ -3747,10 +3747,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Higiene del paciente, secado sin fricción",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-11-estatuto-1",
@@ -24047,10 +24047,10 @@
           "text": "Sonda de Tieman."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Sondaje vesical, sonda Mercier",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-20-18",
@@ -33343,10 +33343,10 @@
           "text": "Aumentar el bienestar del paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Higiene del paciente, objetivos generales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-58",

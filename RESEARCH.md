@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.273`.
+- Soluciones verificadas: `1.317`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `49`.
 
 ## Criterio
@@ -105,6 +105,11 @@ La segunda tanda cierra `TCAE_EXAMEN 1.pdf` con `46` respuestas verificadas. Se 
 incorporado guías públicas de Osakidetza para ostomías y del CDC para prevención de
 infección urinaria asociada a sonda. Permanecen excluidas `21` preguntas de técnica
 asistencial cuyos parámetros dependen de protocolos o manuales docentes concretos.
+
+Se ha iniciado `TCAE_EXAMEN 10.pdf` con `42` respuestas verificadas. El núcleo
+normativo se ha contrastado literalmente con el artículo 25 del Decreto 47/2023,
+que regula las funciones del TCAE en atención primaria; se han añadido conceptos
+clínicos estándar respaldados por fuentes sanitarias públicas.
 
 ## Plantillas oficiales SES
 

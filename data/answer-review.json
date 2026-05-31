@@ -898,12 +898,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-45": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, vejiga hiperactiva e incontinencia de urgencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3322,12 +3324,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-23": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21340",
+      "sourceDetail": "Ley 44/2003, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3359,12 +3363,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-13": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 6.2 b)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5252,12 +5258,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-63": "b",
+        "tcae_examen-20-17": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Sondaje vesical, sonda Mercier",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5423,12 +5432,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-25": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Ostomías, clasificación temporal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7789,12 +7800,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-48": "d",
+        "tcae_examen-10-61": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 25 f), g) y h)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21518,12 +21532,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-42": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Gasometría arterial, bicarbonato en mEq/l",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21555,12 +21571,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-33": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Sondaje vesical, calibre French o Charrière",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25505,12 +25523,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-57": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26152,12 +26172,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-38": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, hipercapnia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32116,12 +32138,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-44": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, personal estatutario",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32772,12 +32796,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-4": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Anatomía respiratoria, alveolos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36949,12 +36975,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-43": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Fractura de cadera, acortamiento y rotación externa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -37801,12 +37829,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-7": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Movilización pasiva, definición",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -41190,12 +41220,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-40": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 25",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47536,12 +47568,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-39": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, respiraciones de Biot y Cheyne-Stokes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47748,12 +47782,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-65": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Radiología digestiva, enema opaco con bario",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47861,12 +47897,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-26": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Anatomía cardiovascular, latido apical",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49787,12 +49825,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-52": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 9 b)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49902,12 +49942,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-37": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, título",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -50204,12 +50246,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-64": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, anuria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -55491,12 +55535,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-27": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Anatomía funcional, eversión del pie",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58443,12 +58489,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-11": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, título",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60487,12 +60535,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-16": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Oxigenoterapia, mascarilla simple de bajo flujo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63675,12 +63725,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-21": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Aspiración de secreciones, presión negativa en mmHg",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63749,12 +63801,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-8": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Gasometría arterial, PaO2 en mmHg",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69550,12 +69604,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-2": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, fiebre recurrente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -71204,12 +71260,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-50": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Somatometría, parámetros básicos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74747,12 +74805,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-29": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Ventilación mecánica, modalidades controlada y asistida",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77215,12 +77275,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-22": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 25 l)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78721,12 +78783,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-17": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Cinesiterapia, clasificación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92956,12 +93020,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-10": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Oxigenoterapia, definición de FiO2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98262,12 +98328,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-49": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 25 f)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98336,12 +98404,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-58": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 25 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98373,12 +98443,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-6": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 25 c), d) y e)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99652,12 +99724,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-3": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "sourceDetail": "Ley 55/2003, artículo 6",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -103888,12 +103962,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-28": "b",
+        "tcae_examen-24-57": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Higiene del paciente, objetivos generales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106477,12 +106554,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-46": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Anatomía descriptiva, ejes corporales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -109791,12 +109870,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-67": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Higiene del paciente, secado sin fricción",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -112076,12 +112157,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-34": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Ostomías intestinales, colostomía ascendente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -112602,12 +112685,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-10-20": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, vitamina A o retinol",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
