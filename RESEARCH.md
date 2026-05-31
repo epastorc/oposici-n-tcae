@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.904`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `185`.
+- Soluciones verificadas: `1.954`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `203`.
 
 ## Criterio
 
@@ -191,6 +191,13 @@ exclusiones: se apartan las pautas ligadas a protocolos locales, equipamiento,
 modelos documentales o criterios clínicos simplificados. Las respuestas
 normativas se contrastan con la Ley 55/2003 y el Decreto 47/2023; las lesiones por
 presión, con la guía pública de GuíaSalud.
+
+Se ha revisado `TCAE_EXAMEN 22.pdf`, con preguntas sobre autonomía del paciente,
+organización sanitaria, atención primaria y cuidados básicos. Queda cerrado con
+`52` respuestas verificadas y `18` exclusiones. El bloque normativo se contrasta
+con la Ley 10/2001, la Ley 41/2002, la Ley 55/2003, el Decreto 311/2007 y el
+Decreto 47/2023. Se excluyen pautas clínicas o de equipamiento dependientes del
+protocolo local y preguntas que no ofrecen una única respuesta estable.
 
 ## Plantillas oficiales SES
 

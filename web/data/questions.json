@@ -24299,10 +24299,10 @@
           "text": "Intrusismo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, confidencialidad de la historia clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-20-27",
@@ -24635,10 +24635,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Organización sanitaria, área de salud como estructura fundamental",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-20-39",
@@ -27855,10 +27855,10 @@
           "text": "Tiene los mismos derechos que los extremeños, pero deberá pagar el coste del servicio sanitario recibido."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, derechos y deberes de extranjeros residentes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-2",
@@ -27883,10 +27883,10 @@
           "text": "Verbalmente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 4.1 y renuncia documental a la información",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-3",
@@ -27911,10 +27911,10 @@
           "text": "Canal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Comunicación no verbal, emblema",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-4",
@@ -27939,10 +27939,10 @@
           "text": "La higiene es una medida principal durante la hospitalización de cualquier paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Cuidados básicos, higiene durante la hospitalización",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-5",
@@ -27967,10 +27967,10 @@
           "text": "El Registro de Instrucciones Previas de la Comunidad Autónoma de Extremadura y en el Registro Nacional de Instrucciones Previas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2007/1210o/1210o.pdf",
+      "answerSourceDetail": "Decreto 311/2007, verificación registral de expresión anticipada de voluntades",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-6",
@@ -28051,10 +28051,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Traumatología, protección del miembro con fractura de fémur",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-9",
@@ -28079,10 +28079,10 @@
           "text": "Decúbito prono."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Posiciones del paciente, decúbito supino para exploración general",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-10",
@@ -28135,10 +28135,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2007/1210o/1210o.pdf",
+      "answerSourceDetail": "Decreto 311/2007, incorporación y constancia en historia clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-12",
@@ -28163,10 +28163,10 @@
           "text": "El personal de enfermería no es el responsable de planificar los cuidados higiénicos que reciben los pacientes."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Cuidados básicos, planificación de higiene por enfermería",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-13",
@@ -28191,10 +28191,10 @@
           "text": "Mantener la espalda recta."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Ergonomía, evitar giros de tronco al levantar cargas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-14",
@@ -28219,10 +28219,10 @@
           "text": "Se conservar en el archivo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 17.1, conservación no necesariamente en soporte original",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-15",
@@ -28275,10 +28275,10 @@
           "text": "Zona de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, unidades de apoyo de atención primaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-17",
@@ -28303,10 +28303,10 @@
           "text": "Zona de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, zona de salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-18",
@@ -28331,10 +28331,10 @@
           "text": "Será necesario mantener una temperatura ambiente adecuada."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Cuidados básicos, preparar material antes del baño",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-19",
@@ -28359,10 +28359,10 @@
           "text": "Consentimiento expreso."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 3, definición de consentimiento informado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-20",
@@ -28443,10 +28443,10 @@
           "text": "El que impide realizar lo que es malo para el paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Bioética, principio de no maleficencia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-23",
@@ -28471,10 +28471,10 @@
           "text": "Ley 10/2001."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2007/1210o/1210o.pdf",
+      "answerSourceDetail": "Decreto 311/2007, Registro de Expresión Anticipada de Voluntades",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-24",
@@ -28499,10 +28499,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Secreto profesional, excepciones legales y protección de terceros",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-25",
@@ -28555,10 +28555,10 @@
           "text": "A disponer de servicios de prevención y de órganos representativos en materia de seguridad laboral."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 18.f, derecho colectivo a prevención y representación en seguridad laboral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-27",
@@ -28639,10 +28639,10 @@
           "text": "Zona de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, centro de salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-30",
@@ -28667,10 +28667,10 @@
           "text": "Cohesión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Trabajo en equipo, sinergia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-31",
@@ -28751,10 +28751,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, comité de dirección como órgano colegiado asesor",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-34",
@@ -28807,10 +28807,10 @@
           "text": "La sanción de separación del servicio"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 20.3, decaimiento del derecho a obtener la condición de personal fijo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-36",
@@ -28835,10 +28835,10 @@
           "text": "120 mg/dl."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Diabetes, glucemia basal en ayunas igual o superior a 126 mg/dl",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-37",
@@ -28919,10 +28919,10 @@
           "text": "Zona de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, consultorio local",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-40",
@@ -28947,10 +28947,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Secreto profesional, excepciones legales y protección de terceros",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-41",
@@ -29031,10 +29031,10 @@
           "text": "La objeción de conciencia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Deontología sanitaria, secreto profesional",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-44",
@@ -29087,10 +29087,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Nutrición enteral, hiperglucemia como complicación metabólica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-46",
@@ -29115,10 +29115,10 @@
           "text": "No se someterá al mismo control económico que uno público."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, vinculación de hospitales privados y control administrativo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-47",
@@ -29143,10 +29143,10 @@
           "text": "Zona de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023, equipo de atención primaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-48",
@@ -29227,10 +29227,10 @@
           "text": "El deber de guardar secreto profesional alcanza a la información obtenida en actos profesionales no asistenciales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Secreto profesional, deber de sigilo independiente de la relación personal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-51",
@@ -29255,10 +29255,10 @@
           "text": "Básicos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Nutrición, aminoácidos esenciales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-52",
@@ -29283,10 +29283,10 @@
           "text": "El consentimiento, por regla general, será verbal"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 8.2, consentimiento escrito para procedimientos diagnósticos invasores",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-53",
@@ -29311,10 +29311,10 @@
           "text": "No tiene consistencia médico legal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Historia clínica, evaluación asistencial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-54",
@@ -29339,10 +29339,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, promoción de la salud y educación sanitaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-55",
@@ -29367,10 +29367,10 @@
           "text": "Glucosa + glucosa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Nutrición, sacarosa formada por glucosa y fructosa",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-56",
@@ -29423,10 +29423,10 @@
           "text": "El Manorreductor."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Oxigenoterapia, flujómetro graduado en litros por minuto",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-58",
@@ -29451,10 +29451,10 @@
           "text": "Los Centros sanitarios sólo facilitaran el acceso a la Historia Clínica de los pacientes fallecidos a las personas vinculadas a él, por razones familiares o de hecho, salvo que el fallecido lo hubiese prohibido expresamente y así se acredite"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 18, acceso con reservas a la historia clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-59",
@@ -29479,10 +29479,10 @@
           "text": "Administrativa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, artículo 15.2, finalidad asistencial principal de la historia clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-60",
@@ -29535,10 +29535,10 @@
           "text": "Diabetes idiopática."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Diabetes, tipo 1 por déficit de secreción de insulina",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-62",
@@ -29591,10 +29591,10 @@
           "text": "Volumen residual."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Fisiología respiratoria, espacio muerto anatómico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-64",
@@ -29647,10 +29647,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Organización sanitaria, área de salud como estructura fundamental",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-66",
@@ -29703,10 +29703,10 @@
           "text": "Decreto ley de prestaciones garantizadas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Organización sanitaria, cartera de servicios",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-68",
@@ -29731,10 +29731,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Oxigenoterapia, almacenamiento central y en botellas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-69",
@@ -29759,10 +29759,10 @@
           "text": "Trendelemburg."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Cuidados respiratorios, posición Fowler",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-22-70",
@@ -29787,10 +29787,10 @@
           "text": "Intrusismo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+      "answerSourceDetail": "Ley 41/2002, confidencialidad de la historia clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-1",
@@ -38075,10 +38075,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2007/1210o/1210o.pdf",
+      "answerSourceDetail": "Decreto 311/2007, incorporación y constancia en historia clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-6",
@@ -38831,10 +38831,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Traumatología, protección del miembro con fractura de fémur",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-33",
