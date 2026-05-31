@@ -6,26 +6,36 @@
     <title>TCAE Test</title>
     <link rel="stylesheet" href="styles.css">
   </head>
-  <body>
+  <body class="is-loading">
+    <div id="loader" class="loader" role="status" aria-live="polite">
+      <div class="loader-scene">
+        <div class="loader-orb"></div>
+        <img src="assets/loading-pikachu.gif" alt="" width="120" height="120">
+      </div>
+      <strong>Preparando tu aventura...</strong>
+      <span>Cargando preguntas para el entrenamiento</span>
+    </div>
     <header>
       <div>
-        <p class="eyebrow">Preparación TCAE</p>
-        <h1>Test de oposición</h1>
+        <p class="eyebrow">Centro de entrenamiento TCAE</p>
+        <h1>Ruta de oposición</h1>
       </div>
-      <button id="new-test">Nuevo test</button>
+      <button id="new-test" class="capsule-button">Nuevo reto</button>
     </header>
     <main>
       <section id="welcome" class="card">
-        <h2>Entrena con preguntas reales</h2>
+        <p class="badge">Liga TCAE</p>
+        <h2>Entrena para conseguir tu plaza</h2>
+        <p>Completa cada reto, revisa tus fallos y sigue avanzando por la ruta.</p>
         <p id="catalog">Cargando banco de preguntas...</p>
-        <label>Número de preguntas
+        <label>Elige la dificultad del reto
           <select id="test-size">
-            <option value="100">100 preguntas</option>
-            <option value="50">50 preguntas</option>
-            <option value="25">25 preguntas</option>
+            <option value="100">Liga maestra · 100 preguntas</option>
+            <option value="50">Liga avanzada · 50 preguntas</option>
+            <option value="25">Liga inicial · 25 preguntas</option>
           </select>
         </label>
-        <button id="start-test">Comenzar test</button>
+        <button id="start-test">Comenzar aventura</button>
       </section>
       <section id="quiz" hidden>
         <div class="progress-row">
@@ -37,20 +47,21 @@
           <p id="source" class="eyebrow"></p>
           <h2 id="prompt"></h2>
           <div id="options"></div>
-          <label class="review"><input id="review" type="checkbox"> Marcar para repasar</label>
+          <label class="review"><input id="review" type="checkbox"> Guardar para entrenar después</label>
         </article>
         <nav>
           <button id="previous" class="secondary">Anterior</button>
-          <button id="finish" class="secondary">Finalizar</button>
+          <button id="finish" class="secondary">Terminar reto</button>
           <button id="next">Siguiente</button>
         </nav>
       </section>
       <section id="results" class="card" hidden>
-        <h2>Resumen del test</h2>
+        <p class="badge">Informe del entrenamiento</p>
+        <h2>Resultado del reto</h2>
         <div id="result-summary"></div>
         <div id="mistakes"></div>
         <div id="solutions"></div>
-        <button id="restart">Crear otro test</button>
+        <button id="restart">Comenzar otro reto</button>
       </section>
     </main>
     <footer>

@@ -32,6 +32,12 @@ La rama `develop` se publica automáticamente mediante GitHub Pages:
 Cada despliegue genera `web/version.json` con el commit publicado y la fecha UTC.
 La versión se muestra en el pie de página para comprobar qué subida está activa.
 
+## Recursos visuales
+
+El GIF animado de Pikachu utilizado durante la carga procede del repositorio público
+[PokeAPI/sprites](https://github.com/PokeAPI/sprites), en la colección `showdown`
+diseñada por la comunidad de Smogon.
+
 ## Regenerar el banco de preguntas
 
 El script crea automáticamente un entorno virtual local e instala `pypdf` la

@@ -1,6 +1,11 @@
 const state = { bank: [], test: [], index: 0, answers: {}, review: {} };
 const $ = (id) => document.getElementById(id);
 
+window.setTimeout(() => {
+  document.body.classList.remove("is-loading");
+  $("loader").setAttribute("aria-hidden", "true");
+}, 3000);
+
 function shuffle(items) {
   return [...items].sort(() => Math.random() - 0.5);
 }
@@ -48,7 +53,7 @@ function render() {
   }));
   $("review").checked = Boolean(state.review[question.id]);
   $("previous").disabled = state.index === 0;
-  $("next").textContent = state.index === state.test.length - 1 ? "Finalizar" : "Siguiente";
+  $("next").textContent = state.index === state.test.length - 1 ? "Terminar reto" : "Siguiente";
 }
 function finish() {
   const answered = Object.keys(state.answers).length;
