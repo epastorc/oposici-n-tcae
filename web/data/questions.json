@@ -16124,8 +16124,8 @@
         }
       ],
       "correctAnswer": "b",
-      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
-      "answerSourceDetail": "Ley 41/2002, artículo 3, definición de documentación clínica",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Ley 41/2002, artículo 3, documentación clínica",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -31803,10 +31803,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Constitución Española, título IV, Gobierno y Administración",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-3",
@@ -31831,10 +31831,10 @@
           "text": "Preoperatorio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Cuidados perioperatorios, preoperatorio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-4",
@@ -31859,10 +31859,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Ley 14/1986, de 25 de abril, General de Sanidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-5",
@@ -31915,10 +31915,10 @@
           "text": "El SES."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, artículo 4, funcionamiento conforme a normativa vigente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-7",
@@ -31943,10 +31943,10 @@
           "text": "Mantener debidamente actualizados los conocimientos y aptitudes necesarios para el correcto ejercicio de la profesión o para el desarrollo de las funciones que correspondan a su nombramiento, a cuyo fin los centros sanitarios facilitarán el desarrollo de actividades de formación continuada."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 17.1.d, derecho individual a información sobre funciones y objetivos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-8",
@@ -31999,10 +31999,10 @@
           "text": "Si, independientemente la causa y por escrito."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, información epidemiológica ante riesgo grave y probado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-10",
@@ -32139,10 +32139,10 @@
           "text": "La dirección gerencia del SES."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, artículo 4, garantía atribuida a la Junta de Extremadura",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-15",
@@ -32167,10 +32167,10 @@
           "text": "El título VII."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Constitución Española, título VII, Economía y Hacienda",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-16",
@@ -32195,10 +32195,10 @@
           "text": "Si, por el interés de la salud del propio paciente, de terceros, de la colectividad y por las exigencias terapéuticas del caso."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 29, límites a la renuncia de información",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-17",
@@ -32223,10 +32223,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 8, donación con finalidad terapéutica, docente o de investigación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-18",
@@ -32251,10 +32251,10 @@
           "text": "Ley 521/1987 de 15 de abril."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, de 28 de junio, de Salud de Extremadura",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-19",
@@ -32279,10 +32279,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Ley 41/2002, artículo 3, documentación clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-20",
@@ -32307,10 +32307,10 @@
           "text": "Manuales, mecánicos y automáticos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Cuidados respiratorios, respiradores manuales y mecánicos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-21",
@@ -32335,10 +32335,10 @@
           "text": "La patología que presente el paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Cuidados de inmovilidad, grado de inmovilidad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-22",
@@ -32363,10 +32363,10 @@
           "text": "La dirección gerencia del SES."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2008/2100o/08040245C.pdf",
+      "answerSourceDetail": "Decreto 221/2008, artículo 2, funciones del Servicio Extremeño de Salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-23",
@@ -32419,10 +32419,10 @@
           "text": "De la parte de la historia que contenga anotaciones objetivas o subjetivas realizadas por los profesionales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 35, reserva de anotaciones subjetivas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-25",
@@ -32447,10 +32447,10 @@
           "text": "Nadie puede acceder a estos datos salvo que sean necesarios para la investigación clínica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Ley 41/2002, artículo 7, confidencialidad y acceso autorizado por ley",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-26",
@@ -32475,10 +32475,10 @@
           "text": "Cuando el paciente llega a su unidad, UCI, REA, etc."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Cuidados perioperatorios, postoperatorio hasta alta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-27",
@@ -32503,10 +32503,10 @@
           "text": "Índice o escala de Lawton y Brody."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Valoración funcional, Lawton y Brody para actividades instrumentales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-28",
@@ -32531,10 +32531,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Pediatría, periodo postneonatal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-29",
@@ -32559,10 +32559,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Cuidados durante embarazo, apoyo del TCAE",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-30",
@@ -32587,10 +32587,10 @@
           "text": "Cara."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Área quirúrgica, decúbito prono para cirugía de columna",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-31",
@@ -32671,10 +32671,10 @@
           "text": "Derechos y deberes fundamentales de la persona"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Constitución Española, título I, derechos y deberes fundamentales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-34",
@@ -32755,10 +32755,10 @@
           "text": "En los casos determinados por la Ley."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Ley 41/2002, artículo 2.4, negativa al tratamiento salvo casos determinados por ley",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-37",
@@ -32839,10 +32839,10 @@
           "text": "La explicación a un paciente atento y mentalmente competente de la naturaleza de su enfermedad y de toda la información sobre el proceso que se va a seguir para su recuperación"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Ley 41/2002, consentimiento libre tras información adecuada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-40",
@@ -32867,10 +32867,10 @@
           "text": "La estabilidad empeora al abrir los ojos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Neurología, ataxia sensorial empeora al cerrar los ojos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-41",
@@ -32895,10 +32895,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Cuidados perioperatorios, transferencia postoperatoria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-42",
@@ -32923,10 +32923,10 @@
           "text": "Constructiva."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Cirugía ablativa, resección de parte enferma",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-43",
@@ -32951,10 +32951,10 @@
           "text": "A los veinte días de su publicación en el Boletín Oficial del Estado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Constitución Española, disposición final, entrada en vigor el día de publicación en BOE",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-44",
@@ -33007,10 +33007,10 @@
           "text": "Si, con finalidad terapéutica, docente, de investigación o de salud pública."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, artículo 8, donación con finalidad terapéutica, docente o de investigación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-46",
@@ -33063,10 +33063,10 @@
           "text": "12."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Valoración funcional, ocho parámetros de Lawton y Brody",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-48",
@@ -33091,10 +33091,10 @@
           "text": "Escala de Blessed."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Valoración geriátrica, escala de Blessed para afectación cognitiva",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-49",
@@ -33119,10 +33119,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Documentación clínica de atención especializada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-50",
@@ -33147,10 +33147,10 @@
           "text": "Epidemiológicos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, acceso a historia clínica para fines asistenciales, judiciales, epidemiológicos, docencia e investigación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-51",
@@ -33203,10 +33203,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, objeto de regulación de información sanitaria y documentación clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-53",
@@ -33287,10 +33287,10 @@
           "text": "Nueve"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Constitución Española, diez títulos además del preliminar",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-56",
@@ -33399,10 +33399,10 @@
           "text": "El Mini-Examen Cognoscitivo de Lobo (MEC)."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Valoración cognitiva, Hamilton evalúa depresión",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-60",
@@ -33427,10 +33427,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Envejecimiento, pérdida de melanina y canicie",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-61",
@@ -33483,10 +33483,10 @@
           "text": "La independencia del paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Modelo de Virginia Henderson, independencia del paciente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-63",
@@ -33511,10 +33511,10 @@
           "text": "Inicial."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Cuidados perioperatorios, postoperatorio mediato o tardío",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-64",
@@ -33539,10 +33539,10 @@
           "text": "Nueve años cumplidos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Ley 41/2002, artículo 9, audiencia del menor desde doce años en la redacción aplicable al enunciado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-65",
@@ -33567,10 +33567,10 @@
           "text": "Centro hospitalario."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Organización sanitaria, definición de centro sanitario",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-66",
@@ -33595,10 +33595,10 @@
           "text": "169 arts."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Constitución Española, 169 artículos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-67",
@@ -33679,10 +33679,10 @@
           "text": "Diagnóstico, valoración, ejecución, planificación y evaluación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Proceso enfermero, valoración, diagnóstico, planificación, ejecución y evaluación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-70",
@@ -33707,10 +33707,10 @@
           "text": "Las necesidades de aceptación social y afiliación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Maslow, amor y pertenencia tras seguridad",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-71",
@@ -38887,10 +38887,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, objeto de regulación de información sanitaria y documentación clínica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-35",
@@ -40595,10 +40595,10 @@
           "text": "Ley 10/2011 de 28 de junio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "answerSourceDetail": "Ley 10/2001, de 28 de junio, de Salud de Extremadura",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-28-20",

@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.001`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `220`.
+- Soluciones verificadas: `2.048`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `239`.
 
 ## Criterio
 
@@ -205,6 +205,13 @@ respuestas verificadas y `17` exclusiones por depender de dispositivos,
 protocolos asistenciales o normas organizativas que requieren mayor precisión.
 Las respuestas normativas se contrastan con la Ley 3/2005, la Ley 41/2002 y el
 Decreto 47/2023.
+
+Se ha revisado `TCAE_EXAMEN 24.pdf`, con preguntas constitucionales, legislación
+sanitaria, geriatría y cuidados perioperatorios. Queda cerrado con `52` respuestas
+verificadas y `19` exclusiones. Las respuestas jurídicas se contrastan con la
+Constitución, la Ley 10/2001, la Ley 3/2005, la Ley 14/1986, la Ley 55/2003 y el
+Decreto 221/2008. Se excluyen circuitos quirúrgicos, medidas y pautas que dependen
+del centro o de la situación clínica.
 
 ## Plantillas oficiales SES
 

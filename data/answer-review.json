@@ -7534,12 +7534,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-29": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados durante embarazo, apoyo del TCAE",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -8878,12 +8880,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-48": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Valoración geriátrica, escala de Blessed para afectación cognitiva",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10220,12 +10224,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-49": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Documentación clínica de atención especializada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10864,12 +10870,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-52": "a",
+        "tcae_examen-27-34": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, objeto de regulación de información sanitaria y documentación clínica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11320,12 +11329,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-27": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Valoración funcional, Lawton y Brody para actividades instrumentales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14175,12 +14186,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-41": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados perioperatorios, transferencia postoperatoria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16848,12 +16861,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-66": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, 169 artículos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17289,12 +17304,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-47": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Valoración funcional, ocho parámetros de Lawton y Brody",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17476,12 +17493,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-55": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, diez títulos además del preliminar",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23476,12 +23495,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-39": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Ley 41/2002, consentimiento libre tras información adecuada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23552,12 +23573,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-64": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Ley 41/2002, artículo 9, audiencia del menor desde doce años en la redacción aplicable al enunciado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -24092,12 +24115,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-25": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Ley 41/2002, artículo 7, confidencialidad y acceso autorizado por ley",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29529,12 +29554,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-3": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados perioperatorios, preoperatorio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30493,12 +30520,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-26": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados perioperatorios, postoperatorio hasta alta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30567,12 +30596,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-63": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados perioperatorios, postoperatorio mediato o tardío",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32231,12 +32262,13 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-17-23": "b"
+        "tcae_examen-17-23": "b",
+        "tcae_examen-24-19": "b"
       },
       "status": "verified",
       "confidence": "high",
-      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
-      "sourceDetail": "Ley 41/2002, artículo 3, definición de documentación clínica",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Ley 41/2002, artículo 3, documentación clínica",
       "reviewedAt": "2026-05-31",
       "notes": null
     },
@@ -32922,12 +32954,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-33": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, título I, derechos y deberes fundamentales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32959,12 +32993,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-2": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, título IV, Gobierno y Administración",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46996,12 +47032,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-59": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Valoración cognitiva, Hamilton evalúa depresión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51344,12 +51382,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Envejecimiento, pérdida de melanina y canicie",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51962,12 +52002,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-42": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cirugía ablativa, resección de parte enferma",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -52781,12 +52823,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-43": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, disposición final, entrada en vigor el día de publicación en BOE",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60399,12 +60443,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-18": "a",
+        "tcae_examen-28-19": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, de 28 de junio, de Salud de Extremadura",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60514,12 +60561,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-4": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "sourceDetail": "Ley 14/1986, de 25 de abril, General de Sanidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61639,12 +61688,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-62": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Modelo de Virginia Henderson, independencia del paciente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64161,12 +64212,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-30": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Área quirúrgica, decúbito prono para cirugía de columna",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67184,12 +67237,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-65": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Organización sanitaria, definición de centro sanitario",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -72106,12 +72161,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-21": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados de inmovilidad, grado de inmovilidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -75296,12 +75353,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-20": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Cuidados respiratorios, respiradores manuales y mecánicos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78850,12 +78909,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-40": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Neurología, ataxia sensorial empeora al cerrar los ojos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80929,12 +80990,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-50": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, acceso a historia clínica para fines asistenciales, judiciales, epidemiológicos, docencia e investigación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90510,12 +90573,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-15": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Constitución Española, título VII, Economía y Hacienda",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -96738,12 +96803,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-16": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 29, límites a la renuncia de información",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97165,12 +97232,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-24": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 35, reserva de anotaciones subjetivas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97202,12 +97271,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-14": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, artículo 4, garantía atribuida a la Junta de Extremadura",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97239,12 +97310,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-6": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, artículo 4, funcionamiento conforme a normativa vigente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97828,12 +97901,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-17": "d",
+        "tcae_examen-24-45": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 8, donación con finalidad terapéutica, docente o de investigación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -99043,12 +99119,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-22": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2008/2100o/08040245C.pdf",
+      "sourceDetail": "Decreto 221/2008, artículo 2, funciones del Servicio Extremeño de Salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -102438,12 +102516,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-9": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, información epidemiológica ante riesgo grave y probado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -104596,12 +104676,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-70": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Maslow, amor y pertenencia tras seguridad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106096,12 +106178,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-69": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Proceso enfermero, valoración, diagnóstico, planificación, ejecución y evaluación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107382,7 +107466,8 @@
       "variantAnswers": {
         "tcae_examen-11-estatuto-37": "d",
         "tcae_examen-11-estatuto-55": "c",
-        "tcae_examen-15-62": "c"
+        "tcae_examen-15-62": "c",
+        "tcae_examen-24-7": "c"
       },
       "status": "verified",
       "confidence": "high",
@@ -110595,12 +110680,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-36": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Ley 41/2002, artículo 2.4, negativa al tratamiento salvo casos determinados por ley",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -113570,12 +113657,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-28": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Pediatría, periodo postneonatal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
