@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `430`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `7`.
+- Soluciones verificadas: `469`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `9`.
 
 ## Criterio
 
@@ -39,6 +39,10 @@ Se han revisado `70` preguntas válidas de `TCAE_EXAMEN 39.pdf` contra la Ley
 8/2011 publicada en el DOE y contra la Ley 40/2015 consolidada en el BOE. Tres
 preguntas permanecen excluidas por opciones erróneas o por incluir varias respuestas
 válidas sin opción conjunta.
+
+Se ha iniciado la revisión de `TCAE_EXAMEN 36.pdf` contra la Ley Orgánica 1/2011,
+de reforma del Estatuto de Autonomía de Extremadura. La primera tanda contiene `38`
+respuestas literales verificadas y dos exclusiones por formulación defectuosa.
 
 ## Plantillas oficiales SES
 
