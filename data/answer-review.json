@@ -4258,12 +4258,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-60": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, cardias",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4295,12 +4297,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-40": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, píloro",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4332,12 +4336,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-1": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, esfínter esofágico superior",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5156,12 +5162,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-35": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía bucal, vestíbulo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5713,12 +5721,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-32": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, esfínter de Oddi",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5750,12 +5760,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-67": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, mucosa duodenal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -8681,12 +8693,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-47": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía gástrica, capas musculares",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13157,12 +13171,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-42": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, intestino grueso",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13194,12 +13210,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-27": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía hepática, hígado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15544,12 +15562,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-38": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía gástrica, capas musculares",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16407,12 +16427,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-9": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, longitud del intestino delgado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16991,12 +17013,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-80": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía dental, incisivos permanentes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17028,12 +17052,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-75": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía dental, molares permanentes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17352,12 +17378,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-28": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía hepática, vena porta y arteria hepática",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20260,12 +20288,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-59": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía gástrica, fundus o fórnix",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20449,12 +20479,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-11": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía abdominal, ángulo hepático",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20486,12 +20518,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-58": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía abdominal, ángulo esplénico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20583,12 +20617,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-20": "b",
+        "tcae_examen-12-36": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, apéndice y ciego",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22235,12 +22272,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-37": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía abdominal, ciego",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22387,12 +22426,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-5": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía abdominal, colon ascendente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22756,12 +22797,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-50": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía biliar, conducto cístico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22793,12 +22836,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-51": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía biliar, colédoco",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23592,12 +23637,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-56": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía biliar, vesícula",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25908,12 +25955,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-8": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, hiato esofágico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26290,12 +26339,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-25": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, capacidad gástrica aproximada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26859,12 +26910,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-76": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Fisiología gástrica, ácido clorhídrico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27626,12 +27679,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-77": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía hepática, ligamento falciforme",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29543,12 +29598,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-71": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Fisiología pancreática, glándula mixta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30541,12 +30598,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-53": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, boca",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34880,12 +34939,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-69": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía hepática, lóbulo cuadrado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38128,12 +38189,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-48": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía bucal, suelo y lengua",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38972,12 +39035,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-66": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía pancreática, transcavidad de los epiplones",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42169,12 +42234,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-4": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía bucal, istmo de las fauces",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42206,12 +42273,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-57": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía bucal, paladar duro",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42243,12 +42312,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-31": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía bucal, bóveda palatina",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42280,12 +42351,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-45": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía bucal, úvula",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -45522,12 +45595,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-21": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía lingual, papilas fungiformes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46276,12 +46351,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-18": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, colon transverso",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46350,12 +46427,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-63": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía gástrica, cuerpo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46818,12 +46897,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-68": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía respiratoria y digestiva, faringe",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -50866,12 +50947,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-17": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía pancreática",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51253,12 +51336,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-61": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, mucosa colónica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51945,12 +52030,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-70": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía gástrica, fundus",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -53695,12 +53782,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-23": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía dental, dentición permanente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61236,12 +61325,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-14": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía hepática, vena porta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -62291,12 +62382,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-10": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía dental, corona",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64791,12 +64884,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-55": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía dental, raíz",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66268,12 +66363,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-26": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía dental, cemento",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66785,12 +66882,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-64": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, recto",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -68430,12 +68529,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-15": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía dental, terceros molares",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -68999,12 +69100,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-24": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, parótidas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69590,12 +69693,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-65": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía lingual, papilas foliadas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69664,12 +69769,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-30": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía lingual, papilas fungiformes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69701,12 +69808,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-73": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía lingual, papilas caliciformes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69738,12 +69847,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-43": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía lingual, papilas foliadas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69775,12 +69886,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-12": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía lingual, papilas fungiformes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70155,12 +70268,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-16": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía dental, molares",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -71979,12 +72094,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-74": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía dental, dientes deciduos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76517,12 +76634,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-79": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, esfínteres",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76630,12 +76749,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-39": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía hepática, lóbulos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77880,12 +78001,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-62": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, glándulas accesorias",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77954,12 +78077,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-13": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía biliar, vesícula",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78762,12 +78887,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-33": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, órganos accesorios",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78914,12 +79041,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-3": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, órganos principales y accesorios",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79501,12 +79630,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-6": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, intestino delgado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79538,12 +79669,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-72": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, páncreas accesorio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80098,12 +80231,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-7": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía lingual, papilas caliciformes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86547,12 +86682,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-54": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Fisiología pancreática, insulina y glucagón",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86886,12 +87023,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-41": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía lingual, funciones",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -87994,12 +88133,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-46": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía lingual, papilas foliadas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92119,12 +92260,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-19": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, conductos de Rivinus",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92156,12 +92299,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-29": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, conducto de Stenon",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92267,12 +92412,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-78": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía biliar, colédoco",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92304,12 +92451,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-2": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, conductos de Rivinus",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92341,12 +92490,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-34": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, conducto de Stenon",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92378,12 +92529,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-22": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, conducto de Wharton",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107250,12 +107403,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-49": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía dental, dentición permanente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -109885,12 +110040,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-12-52": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "sourceDetail": "Anatomía digestiva, duodeno",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

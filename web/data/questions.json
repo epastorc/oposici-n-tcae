@@ -5371,10 +5371,10 @@
           "text": "Esfínter esofágico superior."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, esfínter esofágico superior",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-2",
@@ -5399,10 +5399,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, conductos de Rivinus",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-3",
@@ -5427,10 +5427,10 @@
           "text": "Cavidad bucal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, órganos principales y accesorios",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-4",
@@ -5455,10 +5455,10 @@
           "text": "Inferior."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía bucal, istmo de las fauces",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-5",
@@ -5483,10 +5483,10 @@
           "text": "Hipogastrio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía abdominal, colon ascendente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-6",
@@ -5511,10 +5511,10 @@
           "text": "Duodeno."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, intestino delgado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-7",
@@ -5539,10 +5539,10 @@
           "text": "Sabor salado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, papilas caliciformes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-8",
@@ -5567,10 +5567,10 @@
           "text": "La válvula ileocecal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, hiato esofágico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-9",
@@ -5595,10 +5595,10 @@
           "text": "16 metros."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, longitud del intestino delgado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-10",
@@ -5623,10 +5623,10 @@
           "text": "Pulpa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, corona",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-11",
@@ -5651,10 +5651,10 @@
           "text": "Fosa iliaca derecha."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía abdominal, ángulo hepático",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-12",
@@ -5679,10 +5679,10 @@
           "text": "Son las foliadas y captan el sabor salado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, papilas fungiformes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-13",
@@ -5707,10 +5707,10 @@
           "text": "El antro."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía biliar, vesícula",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-14",
@@ -5735,10 +5735,10 @@
           "text": "La arteria porta."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía hepática, vena porta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-15",
@@ -5763,10 +5763,10 @@
           "text": "Los incisivos y los molares."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, terceros molares",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-16",
@@ -5791,10 +5791,10 @@
           "text": "Cortan el alimento."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, molares",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-17",
@@ -5819,10 +5819,10 @@
           "text": "Páncreas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía pancreática",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-18",
@@ -5847,10 +5847,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, colon transverso",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-19",
@@ -5875,10 +5875,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, conductos de Rivinus",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-20",
@@ -5903,10 +5903,10 @@
           "text": "Ninguno de ellos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, apéndice y ciego",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-21",
@@ -5931,10 +5931,10 @@
           "text": "Son receptoras del sabor dulce."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, papilas fungiformes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-22",
@@ -5959,10 +5959,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, conducto de Wharton",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-23",
@@ -5987,10 +5987,10 @@
           "text": "36 dientes."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, dentición permanente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-24",
@@ -6015,10 +6015,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, parótidas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-25",
@@ -6043,10 +6043,10 @@
           "text": "800 ml."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, capacidad gástrica aproximada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-26",
@@ -6071,10 +6071,10 @@
           "text": "Esmalte."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, cemento",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-27",
@@ -6099,10 +6099,10 @@
           "text": "El cerebro."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía hepática, hígado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-28",
@@ -6127,10 +6127,10 @@
           "text": "La vena esplénica y la arteria hepática."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía hepática, vena porta y arteria hepática",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-29",
@@ -6155,10 +6155,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, conducto de Stenon",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-30",
@@ -6183,10 +6183,10 @@
           "text": "Sabor salado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, papilas fungiformes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-31",
@@ -6211,10 +6211,10 @@
           "text": "Inferior."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía bucal, bóveda palatina",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-32",
@@ -6239,10 +6239,10 @@
           "text": "Esfínter de oddi."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, esfínter de Oddi",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-33",
@@ -6267,10 +6267,10 @@
           "text": "Vesícula biliar."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, órganos accesorios",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-34",
@@ -6295,10 +6295,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, conducto de Stenon",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-35",
@@ -6323,10 +6323,10 @@
           "text": "Porción anterior."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía bucal, vestíbulo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-36",
@@ -6351,10 +6351,10 @@
           "text": "Ninguno de ellos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, apéndice y ciego",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-37",
@@ -6379,10 +6379,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía abdominal, ciego",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-38",
@@ -6407,10 +6407,10 @@
           "text": "1."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía gástrica, capas musculares",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-39",
@@ -6435,10 +6435,10 @@
           "text": "Todos corresponden a lóbulos del hígado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía hepática, lóbulos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-40",
@@ -6463,10 +6463,10 @@
           "text": "Detrusor."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, píloro",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-41",
@@ -6491,10 +6491,10 @@
           "text": "Colaborar en la deglución."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, funciones",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-42",
@@ -6519,10 +6519,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, intestino grueso",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-43",
@@ -6547,10 +6547,10 @@
           "text": "Son las foliadas y captan el sabor salado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, papilas foliadas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-44",
@@ -6603,10 +6603,10 @@
           "text": "Inferior."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía bucal, úvula",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-46",
@@ -6631,10 +6631,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, papilas foliadas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-47",
@@ -6659,10 +6659,10 @@
           "text": "Circular."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía gástrica, capas musculares",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-48",
@@ -6687,10 +6687,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía bucal, suelo y lengua",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-49",
@@ -6715,10 +6715,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, dentición permanente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-50",
@@ -6743,10 +6743,10 @@
           "text": "El ciego."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía biliar, conducto cístico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-51",
@@ -6771,10 +6771,10 @@
           "text": "El conducto hepático y el conducto pancreático."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía biliar, colédoco",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-52",
@@ -6799,10 +6799,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, duodeno",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-53",
@@ -6827,10 +6827,10 @@
           "text": "Laringe."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, boca",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-54",
@@ -6855,10 +6855,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología pancreática, insulina y glucagón",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-55",
@@ -6883,10 +6883,10 @@
           "text": "La sustancia dura, opaca, amarillenta que cubre la raíz del diente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, raíz",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-56",
@@ -6911,10 +6911,10 @@
           "text": "Páncreas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía biliar, vesícula",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-57",
@@ -6939,10 +6939,10 @@
           "text": "Inferior."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía bucal, paladar duro",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-58",
@@ -6967,10 +6967,10 @@
           "text": "Fosa iliaca derecha."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía abdominal, ángulo esplénico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-59",
@@ -6995,10 +6995,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía gástrica, fundus o fórnix",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-60",
@@ -7023,10 +7023,10 @@
           "text": "Detrusor."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, cardias",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-61",
@@ -7051,10 +7051,10 @@
           "text": "Epitelial."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, mucosa colónica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-62",
@@ -7079,10 +7079,10 @@
           "text": "Vesícula biliar."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, glándulas accesorias",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-63",
@@ -7107,10 +7107,10 @@
           "text": "El fondo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía gástrica, cuerpo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-64",
@@ -7135,10 +7135,10 @@
           "text": "Recto."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, recto",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-65",
@@ -7163,10 +7163,10 @@
           "text": "Sabor salado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, papilas foliadas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-66",
@@ -7191,10 +7191,10 @@
           "text": "El duodeno."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía pancreática, transcavidad de los epiplones",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-67",
@@ -7219,10 +7219,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, mucosa duodenal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-68",
@@ -7247,10 +7247,10 @@
           "text": "Cardias."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía respiratoria y digestiva, faringe",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-69",
@@ -7275,10 +7275,10 @@
           "text": "Parte lateral."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía hepática, lóbulo cuadrado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-70",
@@ -7303,10 +7303,10 @@
           "text": "Píloro."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía gástrica, fundus",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-71",
@@ -7331,10 +7331,10 @@
           "text": "Glándula endocrina y exocrina."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología pancreática, glándula mixta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-72",
@@ -7359,10 +7359,10 @@
           "text": "Laringe."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, páncreas accesorio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-73",
@@ -7387,10 +7387,10 @@
           "text": "Son las Foliadas y captan el sabor salado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía lingual, papilas caliciformes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-74",
@@ -7415,10 +7415,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, dientes deciduos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-75",
@@ -7443,10 +7443,10 @@
           "text": "6."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, molares permanentes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-76",
@@ -7471,10 +7471,10 @@
           "text": "Duodeno. RESERVA:"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Fisiología gástrica, ácido clorhídrico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-77",
@@ -7499,10 +7499,10 @@
           "text": "Cístico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía hepática, ligamento falciforme",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-78",
@@ -7527,10 +7527,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía biliar, colédoco",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-79",
@@ -7555,10 +7555,10 @@
           "text": "Oddi."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía digestiva, esfínteres",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-12-80",
@@ -7583,10 +7583,10 @@
           "text": "12."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002239.htm",
+      "answerSourceDetail": "Anatomía dental, incisivos permanentes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-13-1",

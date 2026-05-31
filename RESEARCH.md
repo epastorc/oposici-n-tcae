@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.721`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `141`.
+- Soluciones verificadas: `1.800`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `142`.
 
 ## Criterio
 
@@ -173,6 +173,10 @@ clasificaciones locales de consultorios.
 Se ha revisado íntegramente `TCAE_EXAMEN 34.pdf` contra el Decreto 189/2004, el
 Decreto 47/2023, la consolidación del Decreto 221/2008 y el Real Decreto 521/1987.
 El bloque queda completo con sus `69` respuestas verificadas.
+
+Se ha revisado `TCAE_EXAMEN 12.pdf` sobre anatomía digestiva. El bloque queda
+cerrado con `79` respuestas verificadas y una exclusión: la proyección anatómica
+del páncreas no aparece correctamente reflejada en ninguna de las opciones.
 
 ## Plantillas oficiales SES
 
