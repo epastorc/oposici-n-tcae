@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.382`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `360`.
+- Soluciones verificadas: `2.443`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `378`.
 
 ## Criterio
 
@@ -253,6 +253,13 @@ primaria, geriatría y cuidados básicos. Queda cerrado con `78` respuestas
 verificadas y `22` exclusiones. El núcleo jurídico se contrasta con la Ley 3/2005,
 la Ley 10/2001, la Ley 39/2006 y el Decreto 47/2023. Se excluyen escalas,
 dispositivos y maniobras dependientes de protocolo.
+
+Se ha revisado `TCAE_EXAMEN 8.pdf`, centrado en oxigenoterapia, movilización,
+higiene y lesiones por presión. Queda cerrado con `63` respuestas verificadas y
+`18` exclusiones. Las referencias principales son MedlinePlus para gasometría y
+pulsioximetría, GuíaSalud para prevención de lesiones por presión y la Ley
+55/2003 para clasificación estatutaria. Se excluyen dispositivos, frecuencias y
+técnicas dependientes del protocolo asistencial.
 
 ## Plantillas oficiales SES
 

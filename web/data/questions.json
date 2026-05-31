@@ -83155,10 +83155,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Movilidad articular, arco de movimiento",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-2",
@@ -83183,10 +83183,10 @@
           "text": "Es el intercambio de nutrientes que se lleva a cabo entre los alveolos pulmonares y los hematíes."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Fisiología respiratoria, hematosis alveolar",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-3",
@@ -83211,10 +83211,10 @@
           "text": "Agrandamiento irreversible con rotura de los espacios aéreos alveolares."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Fisiología respiratoria, enfisema",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-4",
@@ -83239,10 +83239,10 @@
           "text": "Conseguir un pH >3."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Cuidados urinarios, lavado vesical continuo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-5",
@@ -83267,10 +83267,10 @@
           "text": "Equilibrio y lesiones óseas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Valoración funcional, Tinetti valora marcha y equilibrio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-6",
@@ -83295,10 +83295,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Rehabilitación, cinesiterapia activa libre",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-7",
@@ -83463,10 +83463,10 @@
           "text": "Poliuria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Cuidados urinarios, poliuria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-13",
@@ -83491,10 +83491,10 @@
           "text": "La sonda nasal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Oxigenoterapia, mascarilla Venturi de alto flujo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-14",
@@ -83547,10 +83547,10 @@
           "text": "Rica en hidratos de carbono."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, aporte proteico en lesión por presión",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-16",
@@ -83575,10 +83575,10 @@
           "text": "Trocánter."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, trocánter en decúbito lateral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-17",
@@ -83603,10 +83603,10 @@
           "text": "La colostomía transversa se sitúa en la parte izquierda del abdomen siendo sus heces semilíquidas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Cuidados de ostomía, colostomía descendente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-18",
@@ -83631,10 +83631,10 @@
           "text": "Presión arterial no invasiva."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Fisiología cardiovascular, presión sistólica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-19",
@@ -83659,10 +83659,10 @@
           "text": "Colaborar con el equipo de Enfermería en la recogida de datos termométricos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Funciones TCAE, medicamentos por vía parenteral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-20",
@@ -83687,10 +83687,10 @@
           "text": "Ante un paciente con oclusión intestinal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Cuidados intestinales, enema de limpieza previo a medicamentoso o baritado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-21",
@@ -83715,10 +83715,10 @@
           "text": "En el varón se retraerá el prepucio para limpiar el glande."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Higiene genital, sentido desde genitales hacia región anal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-22",
@@ -83743,10 +83743,10 @@
           "text": "Se le bañará para eliminar el lanugo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Cuidados neonatales, no retirar lanugo mediante baño",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-23",
@@ -83799,10 +83799,10 @@
           "text": "Fowler."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Cuidados intestinales, Sims izquierda",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-25",
@@ -83827,10 +83827,10 @@
           "text": "La presión sanguínea venosa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Constantes vitales, esfigmomanómetro",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-26",
@@ -83855,10 +83855,10 @@
           "text": "En el artículo 11."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Ley 55/2003, artículo 6, personal estatutario sanitario de formación profesional",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-27",
@@ -83883,10 +83883,10 @@
           "text": "La sensación objetiva de sequedad de la boca."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Terminología clínica, xerostomía",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-28",
@@ -83939,10 +83939,10 @@
           "text": "Cánulas de traqueotomía."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, colchón neumático no causa lesión iatrogénica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-30",
@@ -83967,10 +83967,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Cuidados urinarios, colaboración en inserción de sonda vesical",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-31",
@@ -83995,10 +83995,10 @@
           "text": "Morestin o sims."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Oxigenoterapia, posición Fowler",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-32",
@@ -84023,10 +84023,10 @@
           "text": "Cualquiera de los tres."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Oxigenoterapia, indicación médica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-33",
@@ -84051,10 +84051,10 @@
           "text": "Se utilizan en los traslados de los pacientes y en lugares donde no hay."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Oxigenoterapia, botella precisa control de caudal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-34",
@@ -84135,10 +84135,10 @@
           "text": "30 - 70%"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Oxigenoterapia, mascarilla Venturi con concentración aproximada de 24 a 60 por ciento",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-37",
@@ -84191,10 +84191,10 @@
           "text": "Dispositivo que permite la salida de oxígeno graduado en litros/minuto."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Oxigenoterapia, caudalímetro graduado en litros por minuto",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-39",
@@ -84219,10 +84219,10 @@
           "text": "Centilitros/hora."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Oxigenoterapia, flujómetro graduado en litros por minuto",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-40",
@@ -84247,10 +84247,10 @@
           "text": "Todas las respuestas anteriores son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Pulsioximetría, saturación de oxígeno",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-41",
@@ -84275,10 +84275,10 @@
           "text": "Mide la leucocitosis y la anemia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-gasometria-arterial/",
+      "answerSourceDetail": "Gasometría arterial, no mide leucocitosis ni anemia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-42",
@@ -84303,10 +84303,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Funciones TCAE, bienestar e higiene",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-43",
@@ -84331,10 +84331,10 @@
           "text": "Proporciona una monitorización instantánea, continua y no invasiva."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Pulsioximetría, no informa frecuencia respiratoria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-44",
@@ -84359,10 +84359,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Pulsioximetría, evitar esmalte, frío y condiciones que alteran lectura",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-45",
@@ -84387,10 +84387,10 @@
           "text": "Mejora en la función respiratoria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Inmovilidad, atrofia y alteración circulatoria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-46",
@@ -84415,10 +84415,10 @@
           "text": "No es necesario movilizar al paciente para prevenir úlceras por presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, redistribución de presión con cojines y almohadas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-47",
@@ -84443,10 +84443,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Funciones TCAE en tocología",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-48",
@@ -84471,10 +84471,10 @@
           "text": "Hacer la transferencia por cuenta propia sin ayuda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Ergonomía, técnica de transferencia utilizando musculatura de piernas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-49",
@@ -84499,10 +84499,10 @@
           "text": "Evitar el contacto con el paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Rehabilitación, movilización pasiva previene atrofia y contracturas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-50",
@@ -84583,10 +84583,10 @@
           "text": "No es necesario considerar factores específicos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Movilidad, selección individualizada de silla de ruedas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-53",
@@ -84639,10 +84639,10 @@
           "text": "Ayudar al personal de enfermería en la inserción de una sonda vesical."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Funciones TCAE, no ejecutar intervención quirúrgica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-55",
@@ -84667,10 +84667,10 @@
           "text": "Reducción del riesgo de úlceras por presión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Inmovilidad prolongada, pérdida muscular y deformidad articular",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-56",
@@ -84695,10 +84695,10 @@
           "text": "Evitar la comunicación con el paciente durante la movilización."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Prevención de caídas, calzado antideslizante y suelo seco",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-57",
@@ -84723,10 +84723,10 @@
           "text": "No es necesario conocer el historial médico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Movilización, adaptación a necesidades y limitaciones",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-58",
@@ -84779,10 +84779,10 @@
           "text": "Evitar la movilización para prevenir lesiones."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Funciones TCAE, apoyo durante movilización",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-60",
@@ -84807,10 +84807,10 @@
           "text": "Disminuir la temperatura corporal en casos de hipertermia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Higiene, no modificar pH para evitar sudoración",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-61",
@@ -84835,10 +84835,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Instrumental, pinzas de Magill",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-62",
@@ -84863,10 +84863,10 @@
           "text": "Hacer las camas de los enfermos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Funciones TCAE, cura de heridas no atribuida de forma autónoma",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-63",
@@ -84891,10 +84891,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Higiene del paciente, privacidad y jabón neutro",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-64",
@@ -84975,10 +84975,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Higiene genital, de delante hacia atrás y secado de pliegues",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-67",
@@ -85003,10 +85003,10 @@
           "text": "Sin quitarle la dentadura postiza."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Higiene bucal del inconsciente, cabeza ladeada",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-68",
@@ -85059,10 +85059,10 @@
           "text": "Cuticulares y sebáceas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Dermatología, glándulas sudoríparas ecrinas y apocrinas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-70",
@@ -85087,10 +85087,10 @@
           "text": "Acumular secreciones favoreciendo la proliferación bacteriana."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Higiene, evitar acumulación de secreciones",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-71",
@@ -85115,10 +85115,10 @@
           "text": "Cistitis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Cuidados urinarios, pielonefritis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-72",
@@ -85143,10 +85143,10 @@
           "text": "Infección bacteriana en las uñas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Dermatología, onicomicosis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-73",
@@ -85171,10 +85171,10 @@
           "text": "Cubital."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Constantes vitales, pulso radial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-74",
@@ -85199,10 +85199,10 @@
           "text": "Hipodermis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Dermatología, vasos y nervios en dermis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-75",
@@ -85227,10 +85227,10 @@
           "text": "Inmovilidad y falta de cambios posturales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
+      "answerSourceDetail": "GuíaSalud, normonutrición no es factor de riesgo de lesión por presión",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-76",
@@ -85283,10 +85283,10 @@
           "text": "Páncreas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Anatomía digestiva, intestino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-78",
@@ -85311,10 +85311,10 @@
           "text": "Número, cantidad. PREGUNTAS DE RESERVA:"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Cuidados intestinales, número, cantidad, consistencia y color",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-79",
@@ -85367,10 +85367,10 @@
           "text": "Separa la aurícula derecha del ventrículo derecho."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Anatomía cardiovascular, válvula mitral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-8-81",
@@ -85395,10 +85395,10 @@
           "text": "Haz de Hiss."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Anatomía cardiovascular, válvulas no se localizan en miocardio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-9-1",
