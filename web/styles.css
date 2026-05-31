@@ -25,6 +25,13 @@ select { margin-left:10px; background:#edf4f1; color:#17332a; }
 nav { display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px; margin:16px 0; }
 nav button { width:100%; }
 #result-summary { line-height:1.7; margin-bottom:20px; }
+.result-block { margin:26px 0; padding-top:22px; border-top:1px solid #dce8e3; }
+.result-block h3 { margin:0 0 12px; font-size:1.2rem; }
+.result-block ol { margin:0; padding-left:24px; }
+.result-block li { margin:0 0 18px; padding:0 0 12px 4px; border-bottom:1px solid #edf4f1; }
+.result-block p { margin:6px 0; line-height:1.55; }
+.result-block a { color:#1e765b; font-weight:700; }
+.mistakes { padding:18px; border:1px solid #ead8b3; border-radius:12px; background:#fffaf0; }
 @media (max-width:600px) {
   header, main { padding:16px; }
   header { align-items:flex-start; }

@@ -4,6 +4,25 @@ const $ = (id) => document.getElementById(id);
 function shuffle(items) {
   return [...items].sort(() => Math.random() - 0.5);
 }
+function escapeHtml(value) {
+  return String(value).replace(/[&<>"']/g, character => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;"
+  })[character]);
+}
+function optionText(question, key) {
+  const option = question.options.find(item => item.key === key);
+  return option ? `${key.toUpperCase()}) ${option.text}` : "Sin responder";
+}
+function sourceLink(question) {
+  if (!question.answerSource) return "";
+  return ` <a href="${escapeHtml(question.answerSource)}" target="_blank" rel="noopener noreferrer">Consultar fuente</a>.`;
+}
+function explanation(question) {
+  const detail = question.answerSourceDetail
+    ? `La referencia verificada corresponde a: ${escapeHtml(question.answerSourceDetail)}.`
+    : "La respuesta se ha contrastado con una fuente oficial.";
+  return `${detail}${sourceLink(question)}`;
+}
 function show(section) {
   ["welcome", "quiz", "results"].forEach(id => $(id).hidden = id !== section);
 }
@@ -38,10 +57,35 @@ function finish() {
   const verified = state.test.filter(question => question.correctAnswer);
   const graded = verified.filter(question => state.answers[question.id]);
   const correct = graded.filter(question => state.answers[question.id] === question.correctAnswer);
-  const score = graded.length ? `${correct.length} de ${graded.length}` : "Todavía no hay respuestas verificadas en este test";
+  const mistakes = graded.filter(question => state.answers[question.id] !== question.correctAnswer);
+  const unverified = state.test.length - verified.length;
+  const grade = graded.length ? ((correct.length / graded.length) * 10).toFixed(2).replace(".", ",") : null;
+  const score = graded.length ? `${correct.length} de ${graded.length}` : "Todavía no hay respuestas verificadas contestadas en este test";
   $("result-summary").innerHTML = `<p><strong>${answered}</strong> respondidas · <strong>${pending}</strong> sin responder · <strong>${reviews}</strong> marcadas para repasar.</p>
     <p><strong>Resultado verificable:</strong> ${score}.</p>
-    <p>Este test contiene <strong>${verified.length}</strong> preguntas con solución investigada en fuentes oficiales. Las demás permanecen sin corregir hasta completar su revisión.</p>`;
+    <p><strong>Nota:</strong> ${grade === null ? "no disponible" : `${grade} / 10`}.</p>
+    <p>La nota se calcula sobre las <strong>${graded.length}</strong> preguntas verificadas que has contestado. Este test contiene <strong>${verified.length}</strong> preguntas con solución investigada en fuentes oficiales y <strong>${unverified}</strong> pendientes de revisión.</p>`;
+  $("mistakes").innerHTML = `<section class="result-block mistakes">
+    <h3>Preguntas falladas (${mistakes.length})</h3>
+    ${mistakes.length ? `<ol>${mistakes.map(question => `<li>
+      <p><strong>${escapeHtml(question.source)} · pregunta ${question.number}</strong></p>
+      <p>${escapeHtml(question.prompt)}</p>
+      <p><strong>Tu respuesta:</strong> ${escapeHtml(optionText(question, state.answers[question.id]))}</p>
+      <p><strong>Respuesta correcta:</strong> ${escapeHtml(optionText(question, question.correctAnswer))}</p>
+      <p><strong>Explicación:</strong> ${explanation(question)}</p>
+    </li>`).join("")}</ol>` : "<p>No has fallado ninguna de las preguntas corregibles.</p>"}
+  </section>`;
+  $("solutions").innerHTML = `<section class="result-block">
+    <h3>Resolución del cuestionario</h3>
+    <ol>${state.test.map(question => `<li>
+      <p><strong>${escapeHtml(question.source)} · pregunta ${question.number}</strong></p>
+      <p>${escapeHtml(question.prompt)}</p>
+      ${question.correctAnswer
+        ? `<p><strong>Respuesta correcta:</strong> ${escapeHtml(optionText(question, question.correctAnswer))}</p>
+          <p><strong>Explicación:</strong> ${explanation(question)}</p>`
+        : "<p><strong>Solución pendiente de revisión.</strong></p>"}
+    </li>`).join("")}</ol>
+  </section>`;
   show("results");
 }
 $("start-test").addEventListener("click", start);
