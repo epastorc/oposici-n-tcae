@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.320`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `338`.
+- Soluciones verificadas: `2.382`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `360`.
 
 ## Criterio
 
@@ -247,6 +247,12 @@ y `31` exclusiones. Las preguntas sobre cadena de frío se contrastan con CDC, l
 de lactancia con OMS, las de lesiones por presión con GuíaSalud y el acceso a
 atención especializada con la Ley 14/1986. Se excluyen fórmulas pediátricas,
 circuitos locales y maniobras dependientes de protocolo.
+
+Se ha revisado `TCAE_EXAMEN 20.pdf`, bloque mixto de historia clínica, atención
+primaria, geriatría y cuidados básicos. Queda cerrado con `78` respuestas
+verificadas y `22` exclusiones. El núcleo jurídico se contrasta con la Ley 3/2005,
+la Ley 10/2001, la Ley 39/2006 y el Decreto 47/2023. Se excluyen escalas,
+dispositivos y maniobras dependientes de protocolo.
 
 ## Plantillas oficiales SES
 

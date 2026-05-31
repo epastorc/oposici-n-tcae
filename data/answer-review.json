@@ -144,12 +144,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-36": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Teoría enfermera, Florence Nightingale",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -2431,12 +2433,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-47": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, centro de salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3280,12 +3284,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-33": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Cuidados, cuidador informal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4662,12 +4668,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-39": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Pediatría, reflejo de búsqueda",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4738,12 +4746,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-41": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Cuidados urinarios, incontinencia transitoria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4890,12 +4900,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-50": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Semiología, fiebre ondulante",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5444,12 +5456,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-86": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Pediatría, profilaxis ocular de Credé",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6371,12 +6385,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-6": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Terminología clínica, xerostomía",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7552,12 +7568,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-22": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Oxigenoterapia, cánula nasal de bajo flujo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -9210,12 +9228,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-5": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Hepatitis A, transmisión fecal-oral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -9581,12 +9601,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-8": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Funciones TCAE, participación comunitaria no corresponde a especializada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -9696,12 +9718,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-4": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2001/760o/760o.pdf",
+      "sourceDetail": "Ley 10/2001, creación del Servicio Extremeño de Salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10080,12 +10104,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-96": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Hematología, plasma no pertenece a fracción sólida",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13392,12 +13418,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-63": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Escala Norton, incontinencia urinaria y fecal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14614,12 +14642,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-58": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Movilidad, marcha antiálgica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -14651,12 +14681,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-77": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990",
+      "sourceDetail": "Ley 39/2006, grado II dependencia severa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15265,12 +15297,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-73": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Cuidados urinarios, poliuria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -19771,12 +19805,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-65": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Dietoterapia, dieta líquida tras dieta absoluta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20639,12 +20675,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-13": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, zona de salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21544,12 +21582,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-53": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Nutrición, lactosa",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23127,12 +23167,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-25": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Ley 41/2002, definición de historia clínica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -25343,12 +25385,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-64": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Cuidados intestinales, enema de flujo de vuelta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26270,12 +26314,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-67": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990",
+      "sourceDetail": "Ley 39/2006, definición de dependencia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27007,12 +27053,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-44": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Nutrición, glucógeno como carbohidrato",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -29793,12 +29841,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-91": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Semiología, fiebre continua",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32784,12 +32834,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-49": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, actividad del TCAE en zona de salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32934,12 +32986,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-12": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Movilidad articular, abducción",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33801,12 +33855,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-19": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Hipoglucemia leve, aporte oral de azúcar",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35250,12 +35306,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-18": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Pie diabético, Wagner grado cero sin lesión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -40142,12 +40200,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-88": "a",
+        "tcae_examen-7-76": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Rehabilitación, cinesiterapia activa asistida",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43611,12 +43672,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-54": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Nutrición, almidón no presente en todo tipo de frutas y verduras",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46429,12 +46492,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-7": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Comunicación no verbal, reguladores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51123,12 +51188,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-82": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Anatomía cardiovascular, válvula tricúspide",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51852,12 +51919,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-21": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990",
+      "sourceDetail": "Ley 39/2006, autonomía personal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -52243,11 +52312,12 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-1-1": "d"
+        "tcae_examen-1-1": "d",
+        "tcae_examen-20-94": "d"
       },
       "status": "verified",
       "confidence": "high",
-      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
       "sourceDetail": "Anatomía cardiovascular, circulación pulmonar",
       "reviewedAt": "2026-05-31",
       "notes": null
@@ -55302,12 +55372,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-43": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Fisiología respiratoria, disnea grado I",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -55493,12 +55565,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-27": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Geriatría, edad funcional",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -55686,12 +55760,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-9": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Reumatología, artritis reumatoide",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56398,12 +56474,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-79": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, zona de salud",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56745,12 +56823,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-98": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Anatomía respiratoria, divisiones de faringe",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -60126,12 +60206,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-93": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Neurología, bradicinesia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63146,12 +63228,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-81": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Anatomía respiratoria, dos hojas pleurales con líquido",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65817,12 +65901,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-23": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Fisiología respiratoria, respiración de Biot",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65854,12 +65940,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-85": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Fisiología respiratoria, Cheyne-Stokes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -66303,12 +66391,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-1": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Historia clínica, función jurídico-legal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67903,12 +67993,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-14": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Anatomía vascular, safena en miembro inferior",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -68018,12 +68110,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-28": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Vitaminas, vitamina A",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70539,12 +70633,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-89": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Dermatología, verrugas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -71153,12 +71249,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-29": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Fisiología respiratoria, Kussmaul",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -71958,12 +72056,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-78": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Semiología, fiebre intermitente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78408,12 +78508,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-92": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, salud pública no es función asistencial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80808,12 +80910,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-76": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Valoración geriátrica, Yesavage evalúa depresión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -82844,12 +82948,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-42": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Cuidados intestinales, estreñimiento con menos de tres deposiciones semanales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88359,12 +88465,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-10": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, reglamento de atención primaria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -95105,12 +95213,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-3": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Confidencialidad, respeto de información privilegiada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -96040,12 +96150,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-24": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/05010003.pdf",
+      "sourceDetail": "Ley 3/2005, artículo 31, archivo en cualquier soporte",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100143,12 +100255,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-99": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 25, funciones del TCAE en centro y domicilio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100625,12 +100739,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-80": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, seguridad del paciente no es función de registro y gestión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -102795,12 +102911,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-15": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/05010003.pdf",
+      "sourceDetail": "Ley 3/2005, conservación de historia clínica al menos quince años",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -103801,12 +103919,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-48": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990",
+      "sourceDetail": "Ley 39/2006, cuidados profesionales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -109332,12 +109452,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-57": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Hematología, trombocitopenia",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
