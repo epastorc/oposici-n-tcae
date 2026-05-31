@@ -13939,10 +13939,10 @@
           "text": "Tres, central, autonómico y las áreas de salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Ley 14/1986, organización general y áreas de salud",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-3",
@@ -13967,10 +13967,10 @@
           "text": "La ley de información sanitaria de Extremadura."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "OMS, definición de sistema de información sanitaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-4",
@@ -13995,10 +13995,10 @@
           "text": "El Consejo de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-5",
@@ -14051,10 +14051,10 @@
           "text": "Comparación de los datos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "OMS, componentes del sistema de información sanitaria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-7",
@@ -14079,10 +14079,10 @@
           "text": "A la comisión de dirección de las áreas de salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 6.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-8",
@@ -14135,10 +14135,10 @@
           "text": "Registro de unidades de servicio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Sistema de información sanitaria, clasificación de fuentes internas y externas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-10",
@@ -14191,10 +14191,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "answerSourceDetail": "Decreto 47/2023, estructura organizativa vigente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-12",
@@ -14219,10 +14219,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Historia clínica de atención primaria, área médica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-13",
@@ -14275,10 +14275,10 @@
           "text": "Ley Orgánica 3/2018, de 5 de diciembre."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-10715",
+      "answerSourceDetail": "Ley 16/2003, sistema de información sanitaria del SNS",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-15",
@@ -14387,10 +14387,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-19",
@@ -14471,10 +14471,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Decreto 189/2004, artículos 2 b) y 3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-22",
@@ -14527,10 +14527,10 @@
           "text": "Las Unidades de Radiología."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 6.3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-24",
@@ -14639,10 +14639,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Decreto 189/2004, artículos 2 b) y 3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-28",
@@ -14723,10 +14723,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 6",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-31",
@@ -14807,10 +14807,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-34",
@@ -14863,10 +14863,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 6",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-36",
@@ -14919,10 +14919,10 @@
           "text": "Datos educacionales del paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Historia clínica de atención primaria, área preventiva",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-38",
@@ -14947,10 +14947,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 a)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-39",
@@ -14975,10 +14975,10 @@
           "text": "Que su ámbito de actuación es la promoción de la salud y la prevención de la enfermedad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 7 b)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-40",
@@ -15003,10 +15003,10 @@
           "text": "Dos, preventiva y curativa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Historia clínica de atención primaria, áreas social, preventiva y médica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-41",
@@ -15031,10 +15031,10 @@
           "text": "Área de tratamiento."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Historia clínica de atención primaria, área preventiva",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-42",
@@ -15059,10 +15059,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 45.1",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-43",
@@ -15087,10 +15087,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Historia clínica de atención primaria, área médica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-44",
@@ -15143,10 +15143,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Clasificación funcional hospitalaria, larga estancia",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-46",
@@ -15255,10 +15255,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 a)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-50",
@@ -15311,10 +15311,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Ley 14/1986, artículo 65",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-52",
@@ -15423,10 +15423,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Clasificación funcional hospitalaria, hospital monográfico o especial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-16-56",
@@ -15479,10 +15479,10 @@
           "text": "Entre ellas encontramos a la salud bucodental."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2023/05/10/47/dof/spa/pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 6",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-1",
@@ -15927,10 +15927,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-17",
@@ -16571,10 +16571,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+      "answerSourceDetail": "Decreto 189/2004, artículos 2 b) y 3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-17-40",

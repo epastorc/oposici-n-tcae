@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.056`.
+- Soluciones verificadas: `1.086`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `24`.
 
 ## Criterio
@@ -76,6 +76,10 @@ Se ha iniciado `TCAE_EXAMEN 16.pdf` con una primera tanda de `29` respuestas
 literales contrastadas contra la Ley 14/1986, la Ley 41/2002, la Ley 10/2001 y el
 Decreto 47/2023. La siguiente tanda revisará la organización territorial de las
 áreas de salud contra el Decreto 189/2004.
+
+La segunda tanda cierra `TCAE_EXAMEN 16.pdf` con `57` respuestas verificadas. Se
+han incorporado la organización territorial del Decreto 189/2004 y las unidades de
+apoyo y órganos de la zona de salud regulados por el Decreto 47/2023.
 
 ## Plantillas oficiales SES
 
