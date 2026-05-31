@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.491`.
+- Soluciones verificadas: `1.553`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `108`.
 
 ## Criterio
@@ -143,6 +143,10 @@ final del bloque.
 La revisión final cierra `TCAE_EXAMEN 5.pdf` con `55` respuestas verificadas. Se
 excluyen `14` preguntas dependientes de protocolos clínicos, simbología de gráficas
 hospitalarias o equipamiento concreto.
+
+Se ha iniciado `TCAE_EXAMEN 6.pdf` con `50` respuestas verificadas sobre anatomía,
+movilidad, ostomías, sondaje y prevención de lesiones por presión. Las fuentes
+principales son GuíaSalud, CDC, Osakidetza y la Ley 3/2005 autonómica.
 
 ## Plantillas oficiales SES
 

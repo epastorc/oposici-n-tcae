@@ -2311,12 +2311,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-35": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía descriptiva, húmero en brazo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -2954,12 +2956,16 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-24": "a",
+        "tcae_examen-15-8": "a",
+        "tcae_examen-23-30": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Movilización, giro a decúbito prono",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3482,12 +3488,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-45": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía abdominal, bazo en hipocondrio izquierdo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -9619,12 +9627,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-11": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía descriptiva, distal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15070,12 +15080,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-37": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, respiración de Cheyne-Stokes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15522,12 +15534,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-44": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía vascular, capas arteriales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21546,12 +21560,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-2": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía abdominal, bazo en hipocondrio izquierdo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22199,12 +22215,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-63": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía abdominal, ciego y apéndice",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34412,12 +34430,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-34": "a",
+        "tcae_examen-15-53": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Cinesiterapia activa asistida",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34864,12 +34885,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-14": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Deambulación progresiva, evitar fatiga",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35039,12 +35062,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-54": "b",
+        "tcae_examen-27-66": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "GuíaSalud, localizaciones UPP en decúbito supino",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36895,12 +36921,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-57": "b",
+        "tcae_examen-27-67": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "GNEAUPP, escala EMINA, riesgo alto de 8 a 15",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38191,12 +38220,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-4": "c",
+        "tcae_examen-4-18": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Posición Fowler alta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43884,12 +43916,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-27": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "sourceDetail": "CDC, prevención CAUTI, sistema abierto e intermitente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -45258,12 +45292,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-30": "d",
+        "tcae_examen-7-47": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Mecánica corporal, principios ergonómicos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46843,12 +46880,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-52": "d",
+        "tcae_examen-6-53": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "GuíaSalud, prevención frente a tratamiento de lesión necrótica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -48324,12 +48364,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-5": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Manejo de vía aérea, posición de Roser",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49500,12 +49542,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-51": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía cardiovascular, coronaria de distribución",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49691,12 +49735,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-41": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía cardiovascular, arteria renal de distribución",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -52843,12 +52889,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-66": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Ayudas técnicas, contera",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54150,12 +54198,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-16": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, disuria y estranguria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56243,12 +56293,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-26": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, fiebre continua o en meseta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -57549,12 +57601,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-64": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "sourceDetail": "Osakidetza, guía ostomías, ileostomía de eliminación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61511,12 +61565,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-7": "c",
+        "tcae_examen-15-72": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "sourceDetail": "Ley 3/2005, información al paciente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61924,12 +61981,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-59": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía cardiovascular, cayado aórtico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -62189,12 +62248,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-12": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "sourceDetail": "Osakidetza, guía ostomías, higiene periestomal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63178,12 +63239,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-39": "d",
+        "tcae_examen-4-16": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Posición genupectoral o mahometana",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65055,12 +65119,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-18": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía funcional, eversión del pie",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -68502,12 +68568,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-65": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía cardiovascular, fibras de Purkinje subendocárdicas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69228,12 +69296,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-47": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Cinesiterapia activa, definición",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70282,12 +70352,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-21": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "GuíaSalud, clasificación UPP, estadio II",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70319,12 +70391,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-1": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "GuíaSalud, clasificación UPP, estadio III",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70693,12 +70767,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-10": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía descriptiva, caudal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -72892,12 +72968,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-29": "a",
+        "tcae_examen-7-43": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía funcional, flexión articular",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73192,12 +73271,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-40": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Prevención de aspiración, decúbito lateral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -75510,12 +75591,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-23": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, asma no alérgica por irritantes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -75931,12 +76014,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-43": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía descriptiva, región ventral de rodilla",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76165,12 +76250,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-19": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Higiene del paciente, elementos de protección",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80760,12 +80847,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-20": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Movilización, rotación corporal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -86399,12 +86488,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-13": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía abdominal, hipogastrio caudal a epigastrio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91646,12 +91737,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-58": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía respiratoria, trompa de Eustaquio y rinofaringe",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91720,12 +91813,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-69": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía respiratoria, orofaringe e istmo de las fauces",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93502,12 +93597,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-62": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Administración parenteral, suero por encima del paciente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -104201,12 +104298,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-25": "a",
+        "tcae_examen-15-9": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía descriptiva, ventral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105840,12 +105940,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-49": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Anatomía abdominal, hipocondrio craneal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -106637,12 +106739,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-32": "a",
+        "tcae_examen-15-73": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, incontinencia urinaria funcional",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107776,12 +107881,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-15": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "Movilidad, necesidad de ayuda parcial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108148,12 +108255,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-50": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "sourceDetail": "CDC, prevención CAUTI, sistema cerrado en sondaje prolongado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -112947,12 +113056,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-6-42": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, fiebre muy alta",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

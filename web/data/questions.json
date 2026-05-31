@@ -11867,10 +11867,10 @@
           "text": "Frenaremos la cama y colocaremos al paciente en la posición Sims si no existe contraindicación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Movilización, giro a decúbito prono",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-9",
@@ -11895,10 +11895,10 @@
           "text": "Los glúteos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía descriptiva, ventral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-10",
@@ -13127,10 +13127,10 @@
           "text": "Cinesiterapia activa con ayuda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cinesiterapia activa asistida",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-54",
@@ -13659,10 +13659,10 @@
           "text": "Ley 31/1995 de 8 de noviembre."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, información al paciente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-73",
@@ -13687,10 +13687,10 @@
           "text": "Una discapacidad mental puede llegar a provocarla."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, incontinencia urinaria funcional",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-15-74",
@@ -30627,10 +30627,10 @@
           "text": "Frenaremos la cama y colocaremos al paciente en la posición Sims si no existe contraindicación"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Movilización, giro a decúbito prono",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-23-31",
@@ -39783,10 +39783,10 @@
           "text": "Talón."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "GuíaSalud, localizaciones UPP en decúbito supino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-67",
@@ -39811,10 +39811,10 @@
           "text": "Sin riesgo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "GNEAUPP, escala EMINA, riesgo alto de 8 a 15",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-68",
@@ -74447,10 +74447,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posición genupectoral o mahometana",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-4-17",
@@ -74503,10 +74503,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posición Fowler alta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-4-19",
@@ -78759,10 +78759,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "GuíaSalud, clasificación UPP, estadio III",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-2",
@@ -78787,10 +78787,10 @@
           "text": "Hipocondrio izquierdo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía abdominal, bazo en hipocondrio izquierdo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-3",
@@ -78843,10 +78843,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posición Fowler alta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-5",
@@ -78871,10 +78871,10 @@
           "text": "Morestin."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Manejo de vía aérea, posición de Roser",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-6",
@@ -78927,10 +78927,10 @@
           "text": "Ley 31/1995 de 8 de noviembre."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2005/820o/820o.pdf",
+      "answerSourceDetail": "Ley 3/2005, información al paciente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-8",
@@ -79011,10 +79011,10 @@
           "text": "Pedio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía descriptiva, caudal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-11",
@@ -79039,10 +79039,10 @@
           "text": "La muñeca."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía descriptiva, distal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-12",
@@ -79067,10 +79067,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "answerSourceDetail": "Osakidetza, guía ostomías, higiene periestomal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-13",
@@ -79095,10 +79095,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía abdominal, hipogastrio caudal a epigastrio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-14",
@@ -79123,10 +79123,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Deambulación progresiva, evitar fatiga",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-15",
@@ -79151,10 +79151,10 @@
           "text": "Total."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Movilidad, necesidad de ayuda parcial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-16",
@@ -79179,10 +79179,10 @@
           "text": "El chorro en la micción."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, disuria y estranguria",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-17",
@@ -79235,10 +79235,10 @@
           "text": "Eversión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía funcional, eversión del pie",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-19",
@@ -79263,10 +79263,10 @@
           "text": "Manta de baño."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente, elementos de protección",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-20",
@@ -79291,10 +79291,10 @@
           "text": "Una circunducción."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Movilización, rotación corporal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-21",
@@ -79319,10 +79319,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "GuíaSalud, clasificación UPP, estadio II",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-22",
@@ -79375,10 +79375,10 @@
           "text": "Ocupacional."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, asma no alérgica por irritantes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-24",
@@ -79403,10 +79403,10 @@
           "text": "Frenaremos la cama y colocaremos al paciente en la posición Sims si no existe contraindicación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Movilización, giro a decúbito prono",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-25",
@@ -79431,10 +79431,10 @@
           "text": "Los glúteos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía descriptiva, ventral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-26",
@@ -79459,10 +79459,10 @@
           "text": "La diferencia entre la máxima y la mínima es mayor de 1ºC."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, fiebre continua o en meseta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-27",
@@ -79487,10 +79487,10 @@
           "text": "Permite la toma de muestras por sistema de grifo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "answerSourceDetail": "CDC, prevención CAUTI, sistema abierto e intermitente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-28",
@@ -79543,10 +79543,10 @@
           "text": "Descienden una parte del cuerpo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía funcional, flexión articular",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-30",
@@ -79571,10 +79571,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Mecánica corporal, principios ergonómicos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-31",
@@ -79627,10 +79627,10 @@
           "text": "El Alzheimer y las lesiones medulares pueden llegar a provocarla."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, incontinencia urinaria funcional",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-33",
@@ -79683,10 +79683,10 @@
           "text": "Cinesiterapia activa con ayuda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cinesiterapia activa asistida",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-35",
@@ -79711,10 +79711,10 @@
           "text": "La pierna derecha."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía descriptiva, húmero en brazo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-36",
@@ -79767,10 +79767,10 @@
           "text": "Respiración de Bouchut."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, respiración de Cheyne-Stokes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-38",
@@ -79823,10 +79823,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Posición genupectoral o mahometana",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-40",
@@ -79851,10 +79851,10 @@
           "text": "Trendelemburg."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Prevención de aspiración, decúbito lateral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-41",
@@ -79879,10 +79879,10 @@
           "text": "De distribución."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía cardiovascular, arteria renal de distribución",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-42",
@@ -79907,10 +79907,10 @@
           "text": "Fiebre ligera."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "MedlinePlus, fiebre muy alta",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-43",
@@ -79935,10 +79935,10 @@
           "text": "Hueco poplíteo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía descriptiva, región ventral de rodilla",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-44",
@@ -79963,10 +79963,10 @@
           "text": "2 o 3."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía vascular, capas arteriales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-45",
@@ -79991,10 +79991,10 @@
           "text": "Hipocondrio izquierdo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía abdominal, bazo en hipocondrio izquierdo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-46",
@@ -80047,10 +80047,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cinesiterapia activa, definición",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-48",
@@ -80103,10 +80103,10 @@
           "text": "Vacío derecho."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía abdominal, hipocondrio craneal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-50",
@@ -80131,10 +80131,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "answerSourceDetail": "CDC, prevención CAUTI, sistema cerrado en sondaje prolongado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-51",
@@ -80159,10 +80159,10 @@
           "text": "De intercambio."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía cardiovascular, coronaria de distribución",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-52",
@@ -80187,10 +80187,10 @@
           "text": "Inmovilidad"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "GuíaSalud, prevención frente a tratamiento de lesión necrótica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-53",
@@ -80215,10 +80215,10 @@
           "text": "Nutrición rica en proteínas y vitaminas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "GuíaSalud, prevención frente a tratamiento de lesión necrótica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-54",
@@ -80243,10 +80243,10 @@
           "text": "Talón."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "GuíaSalud, localizaciones UPP en decúbito supino",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-55",
@@ -80327,10 +80327,10 @@
           "text": "Sin riesgo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "GNEAUPP, escala EMINA, riesgo alto de 8 a 15",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-58",
@@ -80355,10 +80355,10 @@
           "text": "La laringofaringe."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía respiratoria, trompa de Eustaquio y rinofaringe",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-59",
@@ -80383,10 +80383,10 @@
           "text": "Rama abdominal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía cardiovascular, cayado aórtico",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-60",
@@ -80467,10 +80467,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Administración parenteral, suero por encima del paciente",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-63",
@@ -80495,10 +80495,10 @@
           "text": "Fosa iliaca derecha."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía abdominal, ciego y apéndice",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-64",
@@ -80523,10 +80523,10 @@
           "text": "Es un tramo del intestino delgado."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.osakidetza.euskadi.eus/contenidos/informacion/huc_informacionpacientes/es_hcru/adjuntos/Gu%C3%ADa%20educativa%20para%20personas%20ostomizadas.pdf",
+      "answerSourceDetail": "Osakidetza, guía ostomías, ileostomía de eliminación",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-65",
@@ -80551,10 +80551,10 @@
           "text": "Se encuentran a continuación del Haz de His."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía cardiovascular, fibras de Purkinje subendocárdicas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-66",
@@ -80579,10 +80579,10 @@
           "text": "Todas las respuestas son correctas. PREGUNTAS DE RESERVA:"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Ayudas técnicas, contera",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-6-67",
@@ -80663,10 +80663,10 @@
           "text": "Epiglotis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía respiratoria, orofaringe e istmo de las fauces",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-7-1",
@@ -81867,10 +81867,10 @@
           "text": "Descienden una parte del cuerpo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía funcional, flexión articular",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-7-44",
@@ -81979,10 +81979,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Mecánica corporal, principios ergonómicos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-7-48",
