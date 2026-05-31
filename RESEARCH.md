@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.023`.
+- Soluciones verificadas: `1.056`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `24`.
 
 ## Criterio
@@ -71,6 +71,11 @@ que regula la organización y funcionamiento de la atención primaria extremeña
 publican `49` de sus `50` respuestas. La pregunta restante se excluye porque el
 decreto fomenta el autocuidado, pero no lo atribuye a ninguna de las autoras
 ofrecidas como opción.
+
+Se ha iniciado `TCAE_EXAMEN 16.pdf` con una primera tanda de `29` respuestas
+literales contrastadas contra la Ley 14/1986, la Ley 41/2002, la Ley 10/2001 y el
+Decreto 47/2023. La siguiente tanda revisará la organización territorial de las
+áreas de salud contra el Decreto 189/2004.
 
 ## Plantillas oficiales SES
 
