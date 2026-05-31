@@ -1001,12 +1001,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-267": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 54",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3256,12 +3258,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-282": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 45.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5742,12 +5746,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-230": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 43.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6266,12 +6272,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-299": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 30.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6440,12 +6448,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-236": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 45.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13620,12 +13630,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-254": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13657,12 +13669,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-253": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20529,12 +20543,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-312": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 18.4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21978,12 +21994,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-288": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 24.2 reconoce juez ordinario predeterminado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -22375,12 +22393,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-279": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 25.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23676,12 +23696,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-262": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 13.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23713,12 +23735,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-287": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 28.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23789,12 +23813,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-310": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 21.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -24339,12 +24365,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-252": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -24376,12 +24404,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-250": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -26219,12 +26249,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-307": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 31.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27241,12 +27273,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-298": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 16.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30416,12 +30450,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-290": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 17.4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30790,12 +30826,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-257": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30827,12 +30865,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-256": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30864,12 +30904,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-226": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -30901,12 +30943,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-221": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 41",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33230,12 +33274,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-278": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 41",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33565,12 +33611,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-218": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 40.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33937,12 +33985,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-303": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 17.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39285,12 +39335,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-220": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 41",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39424,12 +39476,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-219": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 40.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39774,12 +39828,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-291": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 17",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -40951,12 +41007,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-284": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 16.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44620,12 +44678,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-268": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 55.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49256,12 +49316,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-222": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 41",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51838,12 +51900,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-264": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 54",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -52487,12 +52551,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-263": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 51.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54980,12 +55046,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-248": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 52",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -55824,12 +55892,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-272": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 55.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -58059,12 +58129,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-259": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 54",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -59365,12 +59437,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-214": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 39.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -59480,12 +59554,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-247": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 52",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61497,12 +61573,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-223": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 42",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -63925,12 +64003,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-251": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65080,12 +65160,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-306": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 55.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65117,12 +65199,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-273": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 55.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65154,12 +65238,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-292": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 55.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -65626,12 +65712,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-300": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -68803,12 +68891,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-285": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 25.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70030,12 +70120,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-238": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 46",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70671,12 +70763,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-302": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 17.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70784,12 +70878,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-249": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -72205,12 +72301,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-216": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 39.4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -72501,12 +72599,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-215": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 39.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -72792,12 +72892,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-213": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 39.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -72829,12 +72931,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-301": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 39.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -72966,7 +73070,8 @@
       ],
       "answer": null,
       "variantAnswers": {
-        "tcae_examen-35-174": "d"
+        "tcae_examen-35-174": "d",
+        "tcae_examen-35-308": "b"
       },
       "status": "verified",
       "confidence": "high",
@@ -73080,12 +73185,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-237": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 46",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73117,12 +73224,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-243": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 50",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73154,12 +73263,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-231": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 43.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73191,12 +73302,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-244": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 50",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73228,12 +73341,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-233": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 44.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73265,12 +73380,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-217": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 40.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73302,12 +73419,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-242": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 48",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73339,12 +73458,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-240": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 47",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73415,12 +73536,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-235": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 45.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73452,12 +73575,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-258": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78603,12 +78728,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-283": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 24.2 reconoce medios de prueba pertinentes, no cualquier medio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79296,12 +79423,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-266": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 54",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -82284,12 +82413,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-261": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 25.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -82321,12 +82452,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-297": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 18.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83571,12 +83704,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-294": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 43",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -83762,12 +83897,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-260": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 22.5",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -84023,12 +84160,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-311": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 16.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -84362,12 +84501,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-296": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 17.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -84599,12 +84740,16 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-269": "d",
+        "tcae_examen-35-270": "d",
+        "tcae_examen-35-271": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 55.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -87916,12 +88061,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-228": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 13.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89454,12 +89601,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-265": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 54",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90312,12 +90461,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-286": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 24.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91601,12 +91752,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-241": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 47",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91638,12 +91791,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-211": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 39.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91675,12 +91830,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-212": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 39.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91712,12 +91869,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-225": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 43.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91749,12 +91908,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-246": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 51.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91786,12 +91947,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-245": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 51.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91862,12 +92025,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-224": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 42",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92014,12 +92179,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-234": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 45.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92051,12 +92218,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-232": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 43.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -92425,12 +92594,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-275": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 13.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93077,12 +93248,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-255": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 53.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -95467,12 +95640,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-309": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 41",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107645,12 +107820,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-274": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 55.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -107951,12 +108128,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-229": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 22",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108516,12 +108695,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-239": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 47",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108638,12 +108819,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-227": "c",
+        "tcae_examen-35-313": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 55.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110517,12 +110701,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-281": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 43.3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110646,12 +110832,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-305": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 27",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110706,12 +110894,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-277": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 19",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -110743,12 +110933,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-293": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 39.1",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -111764,12 +111956,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-35-315": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "sourceDetail": "Artículo 20.4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
