@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `632`.
+- Soluciones verificadas: `737`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `12`.
 
 ## Criterio
@@ -46,8 +46,8 @@ y cinco exclusiones por formulación defectuosa o por tratarse de una pregunta
 histórica que no debe publicarse como solución estable.
 
 Se ha iniciado `TCAE_EXAMEN 35.pdf`, recopilatorio sobre la Constitución Española.
-La primera tanda contiene `105` respuestas literales verificadas contra el texto
-consolidado publicado en el BOE.
+Las dos primeras tandas contienen `210` respuestas literales verificadas contra el
+texto consolidado publicado en el BOE.
 
 ## Plantillas oficiales SES
 
