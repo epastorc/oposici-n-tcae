@@ -17299,10 +17299,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía musculoesquelética",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-2",
@@ -17327,10 +17327,10 @@
           "text": "2 o más."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, dos epífisis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-3",
@@ -17355,10 +17355,10 @@
           "text": "Epífisis y diáfisis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, epífisis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-4",
@@ -17383,10 +17383,10 @@
           "text": "8."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía torácica, siete pares de costillas verdaderas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-5",
@@ -17411,10 +17411,10 @@
           "text": "Pisiforme."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía, cuboides en pie",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-6",
@@ -17439,10 +17439,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía articular, sinartrosis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-7",
@@ -17467,10 +17467,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, esquelético voluntario",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-8",
@@ -17495,10 +17495,10 @@
           "text": "El codo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía, húmero en brazo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-9",
@@ -17523,10 +17523,10 @@
           "text": "Hueso pubis. Tcae SES OPOLIS"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía pélvica, íleon no es hueso",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-10",
@@ -17551,10 +17551,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía vertebral, 33 vértebras",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-11",
@@ -17579,10 +17579,10 @@
           "text": "16 huesos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía craneal, ocho huesos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-12",
@@ -17607,10 +17607,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía esternal, cuerpo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-13",
@@ -17635,10 +17635,10 @@
           "text": "Una sinartrosis y una diartrosis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía articular, sínfisis púbica anfiartrosis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-14",
@@ -17663,10 +17663,10 @@
           "text": "Abductores."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, rotadores",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-15",
@@ -17691,10 +17691,10 @@
           "text": "16 huesos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía facial, catorce huesos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-16",
@@ -17719,10 +17719,10 @@
           "text": "2."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía vertebral, cuatro vértebras coccígeas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-17",
@@ -17747,10 +17747,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía articular, anfiartrosis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-18",
@@ -17775,10 +17775,10 @@
           "text": "Costillas principales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía torácica, costillas verdaderas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-19",
@@ -17803,10 +17803,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía facial",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-20",
@@ -17831,10 +17831,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, antagonistas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-21",
@@ -17859,10 +17859,10 @@
           "text": "En los laterales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía pélvica, sínfisis anterior",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-22",
@@ -17887,10 +17887,10 @@
           "text": "Médula."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, metáfisis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-23",
@@ -17915,10 +17915,10 @@
           "text": "Largos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, costillas planas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-24",
@@ -17943,10 +17943,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Funciones musculoesqueléticas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-25",
@@ -17971,10 +17971,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, liso y cardiaco involuntarios",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-26",
@@ -17999,10 +17999,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Funciones óseas, hematopoyesis y minerales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-27",
@@ -18027,10 +18027,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, sacro irregular",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-28",
@@ -18055,10 +18055,10 @@
           "text": "4. Tcae SES OPOLIS"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía, índice con tres falanges",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-29",
@@ -18083,10 +18083,10 @@
           "text": "6."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía vertebral, siete cervicales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-30",
@@ -18111,10 +18111,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, diáfisis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-31",
@@ -18139,10 +18139,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, agonistas o movilizadores",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-32",
@@ -18167,10 +18167,10 @@
           "text": "16."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía torácica, doce pares de costillas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-33",
@@ -18195,10 +18195,10 @@
           "text": "Húmero y escápula."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía, radio y cúbito",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-34",
@@ -18223,10 +18223,10 @@
           "text": "Metáfisis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, metáfisis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-35",
@@ -18251,10 +18251,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía facial, huesos pares",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-36",
@@ -18279,10 +18279,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía articular, suturas craneofaciales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-37",
@@ -18307,10 +18307,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía articular, diartrosis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-38",
@@ -18335,10 +18335,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía craneal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-39",
@@ -18363,10 +18363,10 @@
           "text": "En los laterales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía pélvica, sacro posterior",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-40",
@@ -18391,10 +18391,10 @@
           "text": "Secundarios."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, agonistas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-41",
@@ -18419,10 +18419,10 @@
           "text": "106 huesos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía, 206 huesos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-42",
@@ -18447,10 +18447,10 @@
           "text": "Costillas principales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía torácica, costillas flotantes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-43",
@@ -18475,10 +18475,10 @@
           "text": "Pronadores."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, extensores",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-44",
@@ -18503,10 +18503,10 @@
           "text": "Largos, cortos, planos e irregulares."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, clasificación morfológica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-45",
@@ -18531,10 +18531,10 @@
           "text": "Voluminosos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, huesos largos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-46",
@@ -18559,10 +18559,10 @@
           "text": "Temporal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía craneal, temporal par",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-47",
@@ -18587,10 +18587,10 @@
           "text": "Aductores. Tcae SES OPOLIS"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, abductores no aductores",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-48",
@@ -18615,10 +18615,10 @@
           "text": "Dorsales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía vertebral, cervicales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-49",
@@ -18643,10 +18643,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, esquelético o estriado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-50",
@@ -18671,10 +18671,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía, pulgar con dos falanges",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-51",
@@ -18699,10 +18699,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, vértebras irregulares",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-52",
@@ -18727,10 +18727,10 @@
           "text": "Apófisis xifoides."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía esternal, apófisis xifoides",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-53",
@@ -18755,10 +18755,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía de mano",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-54",
@@ -18811,10 +18811,10 @@
           "text": "Pasivos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, antagonistas u oponentes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-56",
@@ -18839,10 +18839,10 @@
           "text": "Ninguna."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, dos metáfisis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-57",
@@ -18867,10 +18867,10 @@
           "text": "Tibia y peroné."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía, tibia y peroné",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-58",
@@ -18895,10 +18895,10 @@
           "text": "Cervical y sacra."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía vertebral, lordosis cervical y lumbar",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-59",
@@ -18923,10 +18923,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, cavidad medular en diáfisis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-60",
@@ -18951,10 +18951,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía craneal, frontal impar",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-61",
@@ -18979,10 +18979,10 @@
           "text": "Costillas principales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía torácica, costillas verdaderas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-62",
@@ -19007,10 +19007,10 @@
           "text": "En los laterales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía pélvica, acetábulo lateral",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-63",
@@ -19035,10 +19035,10 @@
           "text": "Una sinartrosis y una diartrosis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía articular, diartrosis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-64",
@@ -19063,10 +19063,10 @@
           "text": "Entre sus huesos destaca el esfenoides, que es un hueso impar."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía craneal, maxilar superior pertenece a cara",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-65",
@@ -19091,10 +19091,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía facial, huesos pares",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-66",
@@ -19119,10 +19119,10 @@
           "text": "20."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía vertebral, doce torácicas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-67",
@@ -19147,10 +19147,10 @@
           "text": "Parte superior."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía torácica, esternón anterior",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-68",
@@ -19175,10 +19175,10 @@
           "text": "Maléolo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía, fémur",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-69",
@@ -19203,10 +19203,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, esquelético estriado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-70",
@@ -19231,10 +19231,10 @@
           "text": "6."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía del pie, tres cuneiformes",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-71",
@@ -19259,10 +19259,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, cortos en carpo y tarso",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-72",
@@ -19287,10 +19287,10 @@
           "text": "El cuerpo es la porción más alta del esternón."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía facial, maxilar superior par",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-73",
@@ -19315,10 +19315,10 @@
           "text": "Pequeños."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, cortos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-74",
@@ -19343,10 +19343,10 @@
           "text": "12."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía de mano, ocho carpianos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-75",
@@ -19371,10 +19371,10 @@
           "text": "Cuneiforme. Tcae SES OPOLIS"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía de mano, trapezoide",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-76",
@@ -19399,10 +19399,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía articular, sínfisis púbica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-77",
@@ -19427,10 +19427,10 @@
           "text": "Pronadores."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, abductores",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-78",
@@ -19455,10 +19455,10 @@
           "text": "Húmero."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía, calcáneo no es hueso largo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-79",
@@ -19483,10 +19483,10 @@
           "text": "Sacro."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, irregulares no en mano",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-80",
@@ -19511,10 +19511,10 @@
           "text": "Cervical y sacra."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía vertebral, cifosis torácica y sacra",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-81",
@@ -19539,10 +19539,10 @@
           "text": "Costillas principales."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía torácica, costillas verdaderas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-82",
@@ -19567,10 +19567,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía pélvica, acetábulo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-83",
@@ -19595,10 +19595,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía esternal, manubrio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-84",
@@ -19623,10 +19623,10 @@
           "text": "Todas las respuestas son correctas. Tcae SES OPOLIS"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía torácica",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-85",
@@ -19651,10 +19651,10 @@
           "text": "Ninguna."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía ósea, una diáfisis",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-86",
@@ -19679,10 +19679,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía de mano",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-87",
@@ -19707,10 +19707,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, cardiaco estriado involuntario",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-88",
@@ -19735,10 +19735,10 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía craneal, huesos planos",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-89",
@@ -19763,10 +19763,10 @@
           "text": "Las articulaciones de los huesos de la cara."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía articular, suturas craneales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-90",
@@ -19791,10 +19791,10 @@
           "text": "Etmoides."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía craneal, etmoides",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-91",
@@ -19819,10 +19819,10 @@
           "text": "En el tórax."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía pélvica, hueso coxal",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-92",
@@ -19847,10 +19847,10 @@
           "text": "4 o más."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía vertebral, cinco sacras fusionadas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-93",
@@ -19875,10 +19875,10 @@
           "text": "Escafoides."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía del pie, calcáneo",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-94",
@@ -19903,10 +19903,10 @@
           "text": "Músculo visceral."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, visceral no es tipo principal separado",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-95",
@@ -19931,10 +19931,10 @@
           "text": "16 costillas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía torácica, veinticuatro costillas",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-96",
@@ -19959,10 +19959,10 @@
           "text": "Apófisis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía esternal, manubrio",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-97",
@@ -19987,10 +19987,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, estriado esquelético",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-98",
@@ -20015,10 +20015,10 @@
           "text": "La parte central del hueso largo se denomina diáfisis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía facial, maxilar superior par",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-99",
@@ -20043,10 +20043,10 @@
           "text": "La articulación de la rodilla."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía articular, suturas craneales",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-18-100",
@@ -20071,10 +20071,10 @@
           "text": "Flexores."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "answerSourceDetail": "Anatomía muscular, flexores",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-19-1",

@@ -1724,12 +1724,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-26": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Funciones óseas, hematopoyesis y minerales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3329,12 +3331,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-73": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, cortos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -3483,12 +3487,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-43": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, extensores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4448,12 +4454,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-68": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía, fémur",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4988,12 +4996,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-82": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía pélvica, acetábulo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5025,12 +5035,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-59": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, cavidad medular en diáfisis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5062,12 +5074,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-34": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, metáfisis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5099,12 +5113,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-52": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía esternal, apófisis xifoides",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5136,12 +5152,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-12": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía esternal, cuerpo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5173,12 +5191,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-22": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, metáfisis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5210,12 +5230,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-83": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía esternal, manubrio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5607,12 +5629,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-48": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía vertebral, cervicales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -5746,12 +5770,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-100": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, flexores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6362,12 +6388,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-96": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía esternal, manubrio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7230,12 +7258,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-7": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, esquelético voluntario",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -8792,12 +8822,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-89": "d",
+        "tcae_examen-18-99": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía articular, suturas craneales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10798,12 +10831,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-84": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía torácica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -10872,12 +10907,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-9": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía pélvica, íleon no es hueso",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11160,12 +11197,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-35": "c",
+        "tcae_examen-18-65": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía facial, huesos pares",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11197,12 +11237,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-5": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía, cuboides en pie",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11234,12 +11276,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-38": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía craneal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11271,12 +11315,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-86": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía de mano",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11308,12 +11354,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-90": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía craneal, etmoides",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11345,12 +11393,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-19": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía facial",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11382,12 +11432,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-75": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía de mano, trapezoide",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11419,12 +11471,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-46": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía craneal, temporal par",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11612,12 +11666,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-25": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, liso y cardiaco involuntarios",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -12894,12 +12950,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-41": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía, 206 huesos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -13970,12 +14028,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-53": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía de mano",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15590,12 +15650,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-17": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía articular, anfiartrosis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15883,12 +15945,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-4": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía torácica, siete pares de costillas verdaderas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15920,12 +15984,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-70": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía del pie, tres cuneiformes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15957,12 +16023,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-85": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, una diáfisis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16072,12 +16140,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-2": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, dos epífisis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16109,12 +16179,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-28": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía, índice con tres falanges",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16146,12 +16218,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-50": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía, pulgar con dos falanges",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16220,12 +16294,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-56": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, dos metáfisis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16487,12 +16563,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-29": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía vertebral, siete cervicales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16524,12 +16602,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-16": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía vertebral, cuatro vértebras coccígeas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16561,12 +16641,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-66": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía vertebral, doce torácicas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16598,12 +16680,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-92": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía vertebral, cinco sacras fusionadas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17199,12 +17283,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-74": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía de mano, ocho carpianos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17236,12 +17322,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-10": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía vertebral, 33 vértebras",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -17529,12 +17617,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-32": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía torácica, doce pares de costillas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27531,12 +27621,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-91": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía pélvica, hueso coxal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27568,12 +27660,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-93": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía del pie, calcáneo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27605,12 +27699,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-8": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía, húmero en brazo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28479,12 +28575,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-87": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, cardiaco estriado involuntario",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28709,12 +28807,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-95": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía torácica, veinticuatro costillas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28746,12 +28846,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-15": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía facial, catorce huesos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32423,12 +32525,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-1": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía musculoesquelética",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42962,12 +43066,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-67": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía torácica, esternón anterior",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -42999,12 +43105,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-62": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía pélvica, acetábulo lateral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43036,12 +43144,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-39": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía pélvica, sacro posterior",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43073,12 +43183,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-21": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía pélvica, sínfisis anterior",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43110,12 +43222,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-80": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía vertebral, cifosis torácica y sacra",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43147,12 +43261,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-58": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía vertebral, lordosis cervical y lumbar",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44128,12 +44244,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-64": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía craneal, maxilar superior pertenece a cara",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46853,12 +46971,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-76": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía articular, sínfisis púbica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -68713,12 +68833,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-6": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía articular, sinartrosis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -68750,12 +68872,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-37": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía articular, diartrosis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69236,12 +69360,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-42": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía torácica, costillas flotantes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69273,12 +69399,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-81": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía torácica, costillas verdaderas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69310,12 +69438,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-61": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía torácica, costillas verdaderas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -69347,12 +69477,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-18": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía torácica, costillas verdaderas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70872,12 +71004,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-30": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, diáfisis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70909,12 +71043,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-3": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, epífisis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73778,12 +73914,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-71": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, cortos en carpo y tarso",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73815,12 +73953,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-51": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, vértebras irregulares",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73852,12 +73992,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-33": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía, radio y cúbito",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73889,12 +74031,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-88": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía craneal, huesos planos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73926,12 +74070,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-45": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, huesos largos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -73963,12 +74109,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-79": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, irregulares no en mano",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74152,12 +74300,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-40": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, agonistas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74189,12 +74339,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-55": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, antagonistas u oponentes",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74289,12 +74441,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-14": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, rotadores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74326,12 +74480,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-77": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, abductores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74363,12 +74519,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-31": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, agonistas o movilizadores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -74400,12 +74558,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-20": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, antagonistas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76382,12 +76542,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-44": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, clasificación morfológica",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77676,12 +77838,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-78": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía, calcáneo no es hueso largo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -78112,12 +78276,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-94": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, visceral no es tipo principal separado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -80562,12 +80728,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-47": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, abductores no aductores",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88165,12 +88333,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-24": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Funciones musculoesqueléticas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88202,12 +88372,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-57": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía, tibia y peroné",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -88881,12 +89053,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-11": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía craneal, ocho huesos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89133,12 +89307,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-69": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, esquelético estriado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90257,12 +90433,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-63": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía articular, diartrosis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90294,12 +90472,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-13": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía articular, sínfisis púbica anfiartrosis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90331,12 +90511,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-36": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía articular, suturas craneofaciales",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90834,12 +91016,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-27": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, sacro irregular",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90871,12 +91055,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-23": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía ósea, costillas planas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90908,12 +91094,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-97": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, estriado esquelético",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90945,12 +91133,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-49": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía muscular, esquelético o estriado",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108096,12 +108286,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía craneal, frontal impar",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -108868,12 +109060,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-18-72": "d",
+        "tcae_examen-18-98": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002249.htm",
+      "sourceDetail": "Anatomía facial, maxilar superior par",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

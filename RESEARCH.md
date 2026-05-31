@@ -4,8 +4,9 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.529`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `471`.
+- Soluciones verificadas: `2.628`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `472`.
+- Preguntas pendientes de revisión: `0`.
 
 ## Criterio
 
@@ -272,6 +273,13 @@ Queda cerrado con `41` respuestas verificadas y `59` exclusiones. Se publican la
 equivalencias posturales inequívocas y se apartan las indicaciones clínicas
 absolutas, maniobras dependientes de protocolo y preguntas vinculadas a figuras
 que no forman parte del JSON textual extraído.
+
+Se ha revisado `TCAE_EXAMEN 18.pdf`, monográfico de anatomía musculoesquelética.
+Queda cerrado con `99` respuestas verificadas y una exclusión por un recuento de
+huesos de la caja torácica que no coincide con ninguna formulación anatómica
+habitual. Con este bloque final quedan clasificadas las `3.100` preguntas
+extraídas: las respuestas verificadas se publican y las ambiguas permanecen
+documentadas como exclusiones sin forzar una letra.
 
 ## Plantillas oficiales SES
 
