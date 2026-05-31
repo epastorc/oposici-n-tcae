@@ -711,12 +711,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-60": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, Gerencia del Área",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -939,12 +941,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-27": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 22",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -4439,12 +4443,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-20": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 20",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -6450,12 +6456,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-51": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículos 8 y 15",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7132,12 +7140,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-14": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículos 20 a 22",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7343,12 +7353,13 @@
       "variantAnswers": {
         "tcae_examen-21-8": "d",
         "tcae_examen-21-21": "d",
-        "tcae_examen-34-8": "d"
+        "tcae_examen-34-8": "d",
+        "tcae_examen-34-40": "d"
       },
       "status": "verified",
       "confidence": "high",
       "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
-      "sourceDetail": "Decreto 221/2008, artículo 3 a)",
+      "sourceDetail": "Decreto 221/2008, artículo 3",
       "reviewedAt": "2026-05-31",
       "notes": null
     },
@@ -8347,12 +8358,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-25": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículos 7 y 9",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -11443,12 +11456,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-42": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -15716,12 +15731,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-23": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 44",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -16125,12 +16142,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-46": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 12",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23152,12 +23171,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-29": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23189,12 +23210,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-45": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "sourceDetail": "Decreto 221/2008, artículo 3 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -23265,12 +23288,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-66": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "sourceDetail": "Decreto 221/2008, artículo 3 b)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28708,12 +28733,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-31": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 21",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -31748,12 +31775,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-38": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 8",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33299,12 +33328,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-17": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 45.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34098,12 +34129,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-50": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2 b)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34135,12 +34168,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-15": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35390,12 +35425,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-63": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "sourceDetail": "Decreto 221/2008, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -35877,12 +35914,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-6": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, Gerencia del Área",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39734,12 +39773,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-64": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -47754,12 +47795,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-33": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 16",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -48233,12 +48276,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-57": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 16",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51937,12 +51982,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-58": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 22",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -51974,12 +52021,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-12": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -52011,12 +52060,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-44": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54353,12 +54404,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-24": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "sourceDetail": "Decreto 221/2008, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54429,12 +54482,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-49": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "sourceDetail": "Decreto 221/2008, artículo 3",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54505,12 +54560,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-53": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 44",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -54542,12 +54599,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-37": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 44",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56854,12 +56913,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-32": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 44",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -59164,12 +59225,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-5": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 20",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61019,12 +61082,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-54": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "sourceDetail": "Decreto 221/2008, artículo 4",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61132,12 +61197,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-26": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 44",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67176,12 +67243,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-67": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 22",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -72909,12 +72978,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-68": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 21",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -75199,12 +75270,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-69": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 21",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76633,12 +76706,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-34": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículos 11 y 20 a 22",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76709,12 +76784,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-4": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículos 6 y 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90932,12 +91009,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-30": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 11",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90969,12 +91048,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-28": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, Gerencia del Área",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91045,12 +91126,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-43": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "sourceDetail": "Decreto 221/2008, órganos de dirección y gestión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91238,12 +91321,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-3": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 22",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -91314,12 +91399,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-19": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 20",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97803,12 +97890,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-10": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2 a)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97863,12 +97952,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-41": "b",
+        "tcae_examen-24-35": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2 b)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -97978,12 +98070,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-7": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98101,12 +98195,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-1": "c",
+        "tcae_examen-27-55": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "sourceDetail": "Decreto 189/2004, artículo 2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -98872,12 +98969,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-13": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 45.2",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100872,12 +100971,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-65": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 15",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100909,12 +101010,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-16": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 15",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100946,12 +101049,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-56": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 14",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -100983,12 +101088,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-34-47": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "sourceDetail": "Real Decreto 521/1987, artículo 8",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {

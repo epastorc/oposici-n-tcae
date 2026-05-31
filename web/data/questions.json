@@ -26597,7 +26597,7 @@
       ],
       "correctAnswer": "d",
       "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
-      "answerSourceDetail": "Decreto 221/2008, artículo 3 a)",
+      "answerSourceDetail": "Decreto 221/2008, artículo 3",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -26961,7 +26961,7 @@
       ],
       "correctAnswer": "d",
       "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
-      "answerSourceDetail": "Decreto 221/2008, artículo 3 a)",
+      "answerSourceDetail": "Decreto 221/2008, artículo 3",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -32727,10 +32727,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 b)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-24-36",
@@ -39475,10 +39475,10 @@
           "text": "El Consejo de Salud de Área."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-27-56",
@@ -52775,10 +52775,10 @@
           "text": "El Consejo de Salud de Área."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-2",
@@ -52831,10 +52831,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 22",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-4",
@@ -52859,10 +52859,10 @@
           "text": "La Dirección Médica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículos 6 y 11",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-5",
@@ -52887,10 +52887,10 @@
           "text": "No existe ningún órgano con esa denominación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 20",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-6",
@@ -52915,10 +52915,10 @@
           "text": "Comunidad Autónoma."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, Gerencia del Área",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-7",
@@ -52943,10 +52943,10 @@
           "text": "De Gestión y participación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-8",
@@ -52973,7 +52973,7 @@
       ],
       "correctAnswer": "d",
       "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
-      "answerSourceDetail": "Decreto 221/2008, artículo 3 a)",
+      "answerSourceDetail": "Decreto 221/2008, artículo 3",
       "answerReviewedAt": "2026-05-31"
     },
     {
@@ -53027,10 +53027,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 a)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-11",
@@ -53083,10 +53083,10 @@
           "text": "Es un órgano de dirección del SES."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 11",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-13",
@@ -53111,10 +53111,10 @@
           "text": "Un mínimo de tres."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 45.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-14",
@@ -53139,10 +53139,10 @@
           "text": "Dirección médica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículos 20 a 22",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-15",
@@ -53167,10 +53167,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 c)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-16",
@@ -53195,10 +53195,10 @@
           "text": "Todas las respuestas anteriores son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 15",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-17",
@@ -53223,10 +53223,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 45.2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-18",
@@ -53279,10 +53279,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 20",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-20",
@@ -53307,10 +53307,10 @@
           "text": "Comisión de Dirección."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 20",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-21",
@@ -53391,10 +53391,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 44",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-24",
@@ -53419,10 +53419,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "answerSourceDetail": "Decreto 221/2008, artículo 3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-25",
@@ -53447,10 +53447,10 @@
           "text": "La dirección, coordinación y supervisión de los servicios médicos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículos 7 y 9",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-26",
@@ -53475,10 +53475,10 @@
           "text": "El responsable del Área."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 44",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-27",
@@ -53503,10 +53503,10 @@
           "text": "Al director de gestión."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 22",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-28",
@@ -53531,10 +53531,10 @@
           "text": "El ministerio de sanidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, Gerencia del Área",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-29",
@@ -53559,10 +53559,10 @@
           "text": "Es un órgano de dirección del SES."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 a)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-30",
@@ -53587,10 +53587,10 @@
           "text": "El director de Gestión y Servicios Generales"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 11",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-31",
@@ -53615,10 +53615,10 @@
           "text": "Comisión de Dirección."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 21",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-32",
@@ -53643,10 +53643,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 44",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-33",
@@ -53671,10 +53671,10 @@
           "text": "Todas las respuestas anteriores son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 16",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-34",
@@ -53699,10 +53699,10 @@
           "text": "Comisión Central de Garantía de Calidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículos 11 y 20 a 22",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-35",
@@ -53783,10 +53783,10 @@
           "text": "El consejero con competencias en materia sanitaria"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 44",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-38",
@@ -53811,10 +53811,10 @@
           "text": "El director de Enfermería."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 8",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-39",
@@ -53867,10 +53867,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "answerSourceDetail": "Decreto 221/2008, artículo 3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-41",
@@ -53895,10 +53895,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 b)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-42",
@@ -53923,10 +53923,10 @@
           "text": "El Consejo de Salud de Área."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-43",
@@ -53951,10 +53951,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "answerSourceDetail": "Decreto 221/2008, órganos de dirección y gestión",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-44",
@@ -53979,10 +53979,10 @@
           "text": "Es un órgano colegiado de asesoramiento y participación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 11",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-45",
@@ -54007,10 +54007,10 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "answerSourceDetail": "Decreto 221/2008, artículo 3 c)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-46",
@@ -54035,10 +54035,10 @@
           "text": "Seis veces cada dos años."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 12",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-47",
@@ -54063,10 +54063,10 @@
           "text": "Admisión, recepción e información."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 8",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-48",
@@ -54119,10 +54119,10 @@
           "text": "Es un órgano de dirección del SES."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "answerSourceDetail": "Decreto 221/2008, artículo 3",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-50",
@@ -54147,10 +54147,10 @@
           "text": "De Gestión y participación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, artículo 2 b)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-51",
@@ -54175,10 +54175,10 @@
           "text": "Urgencias."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículos 8 y 15",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-52",
@@ -54231,10 +54231,10 @@
           "text": "Del presidente de la Junta de Extremadura."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/920o.pdf",
+      "answerSourceDetail": "Decreto 47/2023, artículo 44",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-54",
@@ -54259,10 +54259,10 @@
           "text": "El director gerente del área de salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "answerSourceDetail": "Decreto 221/2008, artículo 4",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-55",
@@ -54315,10 +54315,10 @@
           "text": "Gestión económica, presupuestaria y financiera."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 14",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-57",
@@ -54343,10 +54343,10 @@
           "text": "El director de enfermería."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 16",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-58",
@@ -54371,10 +54371,10 @@
           "text": "12."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 22",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-59",
@@ -54427,10 +54427,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2004/2400o/04040221.pdf",
+      "answerSourceDetail": "Decreto 189/2004, Gerencia del Área",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-61",
@@ -54511,10 +54511,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "answerSourceDetail": "Decreto 221/2008, artículo 11",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-64",
@@ -54539,10 +54539,10 @@
           "text": "Ninguna de las respuestas anteriores es correcta."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 11",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-65",
@@ -54567,10 +54567,10 @@
           "text": "Ninguna de las anteriores es correcta."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 15",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-66",
@@ -54595,10 +54595,10 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "answerSourceDetail": "Decreto 221/2008, artículo 3 b)",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-67",
@@ -54623,10 +54623,10 @@
           "text": "Ninguna de las respuestas anteriores es correcta."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 22",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-68",
@@ -54651,10 +54651,10 @@
           "text": "2 miembros."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 21",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-34-69",
@@ -54679,10 +54679,10 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null
+      "correctAnswer": "c",
+      "answerSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-1987-9351",
+      "answerSourceDetail": "Real Decreto 521/1987, artículo 21",
+      "answerReviewedAt": "2026-05-31"
     },
     {
       "id": "tcae_examen-35-1",
