@@ -4,8 +4,8 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.443`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `378`.
+- Soluciones verificadas: `2.493`.
+- Preguntas excluidas por redacción ambigua o desactualizada: `413`.
 
 ## Criterio
 
@@ -260,6 +260,12 @@ higiene y lesiones por presión. Queda cerrado con `63` respuestas verificadas y
 pulsioximetría, GuíaSalud para prevención de lesiones por presión y la Ley
 55/2003 para clasificación estatutaria. Se excluyen dispositivos, frecuencias y
 técnicas dependientes del protocolo asistencial.
+
+Se ha revisado `TCAE_EXAMEN 7.pdf`, centrado en movilización, deambulación,
+anatomía y cuidados urinarios. Queda cerrado con `53` respuestas verificadas y
+`35` exclusiones. Se publican los conceptos estables de anatomía y cuidados; se
+excluyen secuencias de marcha, medidas, maniobras y dispositivos que requieren
+entrenamiento práctico o protocolo asistencial.
 
 ## Plantillas oficiales SES
 
