@@ -4,7 +4,7 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `1.373`.
+- Soluciones verificadas: `1.422`.
 - Preguntas excluidas por redacción ambigua o desactualizada: `80`.
 
 ## Criterio
@@ -125,6 +125,11 @@ La segunda tanda cierra `TCAE_EXAMEN 3.pdf` con `43` respuestas verificadas. Onc
 preguntas adicionales quedan excluidas porque mezclan denominaciones históricas de
 fases con el estadiaje clínico vigente; no se fuerza una correspondencia que las
 guías actuales no sostienen.
+
+Se ha iniciado `TCAE_EXAMEN 2.pdf` con `47` respuestas verificadas sobre lesiones
+por presión, sondaje vesical y conceptos clínicos. Se han reutilizado las guías de
+GuíaSalud y las recomendaciones CDC para prevención de infección urinaria asociada
+a sonda.
 
 ## Plantillas oficiales SES
 

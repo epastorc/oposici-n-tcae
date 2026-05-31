@@ -3704,12 +3704,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-1": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Fisiología cardiovascular, gasto cardíaco = frecuencia por volumen sistólico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7955,12 +7957,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-52": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "sourceDetail": "CDC, prevención CAUTI, infección urinaria asociada a sonda",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -7992,12 +7996,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-23": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, prevención de UPP",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -8103,12 +8109,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-53": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Sondaje vesical, traumatismo uretral y hematuria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -12097,12 +12105,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-43": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, síntomas de infarto agudo de miocardio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -12473,12 +12483,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-60": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, composición de la orina",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -18833,12 +18845,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-2": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localizaciones frecuentes de UPP",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -20076,12 +20090,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-4": "c",
+        "tcae_examen-15-80": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localización de UPP en decúbito lateral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -21392,12 +21409,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-47": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Baño terapéutico de asiento, indicaciones",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27297,12 +27316,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-67": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localización de UPP en sedestación",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -27547,12 +27568,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-16": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localización de UPP en decúbito lateral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -28375,12 +28398,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-65": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localización de UPP en decúbito supino",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -32771,12 +32796,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-41": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localización de UPP en decúbito lateral",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33747,12 +33774,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-48": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localizaciones de UPP en decúbito prono",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -33784,12 +33813,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-66": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localizaciones de UPP en decúbito supino",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -34602,12 +34633,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-42": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, osteomielitis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -36153,12 +36186,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-9": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, diarrea y reposición de líquidos",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -37161,12 +37196,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-24": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Fisiología cardiovascular, capilares como vasos de intercambio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -38011,12 +38048,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-61": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localizaciones de UPP en posición Fowler",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -39133,12 +39172,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-59": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "sourceDetail": "CDC, prevención CAUTI, evitar cambios rutinarios de sonda",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -41560,12 +41601,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-29": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, ácidos grasos hiperoxigenados en estadio I",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43065,12 +43108,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-40": "c",
+        "tcae_examen-2-50": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, higiene de piel y lesiones por presión",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43139,12 +43185,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-38": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Cuidados del recién nacido, cambio de pañal",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -43821,12 +43869,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-15": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "sourceDetail": "CDC, prevención CAUTI, sistema cerrado y sondaje intermitente",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -44678,12 +44728,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-22": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, respiración de Kussmaul",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -46098,12 +46150,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-51": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "sourceDetail": "CDC, prevención CAUTI, complicaciones del sondaje",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -49411,12 +49465,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-20": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Anatomía cardiovascular, arterias de distribución",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -55254,12 +55310,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-31": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localización de UPP en decúbito supino",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -56257,12 +56315,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-32": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, desbridamiento cortante o quirúrgico",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -61925,12 +61985,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-58": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, localización de UPP en decúbito prono",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -64482,12 +64544,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-45": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, rectorragia y sangrado digestivo bajo",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -67165,12 +67229,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-18": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, incontinencia urinaria",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -70568,12 +70634,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-19": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html",
+      "sourceDetail": "CDC, prevención CAUTI, minimizar uso de sonda",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -71597,12 +71665,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-68": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, fricción y presión en cizalla",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -76598,12 +76668,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-3": "c",
+        "tcae_examen-15-79": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, alteraciones urinarias",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -77536,12 +77609,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-33": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, nutrición en UPP",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79257,12 +79332,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-25": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Anatomía respiratoria, trompa de Eustaquio",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79446,12 +79523,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-64": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, escalas de riesgo UPP",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -79520,12 +79599,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-63": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, escala Norton modificada",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -87540,12 +87621,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-26": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, escalas de riesgo UPP, actividad y movilidad",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -89202,12 +89285,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-17": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, estado nutricional y proteínas",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -90002,12 +90087,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-21": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, vitamina A o retinol",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -93779,12 +93866,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-6": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "Administración rectal, proctoclisis",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105092,12 +105181,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-7": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, escalas de riesgo UPP y escala FEDPALLA perilesional",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -105957,12 +106048,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-57": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://medlineplus.gov/spanish/",
+      "sourceDetail": "MedlinePlus, neutrófilos e infección",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
@@ -112054,12 +112147,14 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-11": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "sourceDetail": "GuíaSalud, escala Waterlow",
+      "reviewedAt": "2026-05-31",
       "notes": null
     },
     {
