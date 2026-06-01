@@ -1,0 +1,14 @@
+{
+  "source": "TCAE_EXAMEN 7.pdf",
+  "sourceUrl": "https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf",
+  "sourceUrls": {
+    "SERGAS": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "3": ["a", "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: en decúbito lateral se colocan almohadas bajo la cabeza, región dorso-lumbar, entre las rodillas y bajo el brazo superior"],
+    "12": ["c", "SACYL, manual de apoyo para cuidadores no profesionales: orden de lavado, manos, brazos y axilas antes de pecho y abdomen"],
+    "38": ["b", "SACYL, manual de apoyo para cuidadores no profesionales: tras incorporarse se dan unos segundos para asegurar la bipedestación antes de iniciar la marcha"],
+    "56": ["b", "SACYL, manual de apoyo para cuidadores no profesionales: en el apoyo frontal los antebrazos sirven de guía y control del paso"]
+  }
+}

@@ -4,11 +4,11 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones documentadas: `2.704`.
-- Soluciones contrastadas con fuentes institucionales: `2.671`.
+- Soluciones documentadas: `2.754`.
+- Soluciones contrastadas con fuentes institucionales: `2.714`.
 - Soluciones procedentes de plantillas de corrección publicadas por el autor: `23`.
-- Soluciones contrastadas con material docente público del autor: `10`.
-- Preguntas todavía sin solución publicable: `396`.
+- Soluciones contrastadas con material docente público del autor: `17`.
+- Preguntas todavía sin solución publicable: `346`.
 
 ## Criterio
 
@@ -57,6 +57,31 @@ tema 14 público de Academia Opolis:
 
 Las diez respuestas basadas en el tema público de Academia Opolis se etiquetan
 como `author-material`; las otras `40` se mantienen como `official`.
+
+## Lote incremental 02: 50 soluciones
+
+Se han resuelto otras `50` preguntas anteriormente apartadas. El lote incorpora
+normativa, guías institucionales de cuidados básicos, prevención de UPP,
+quirófano, salud mental, dolor, alimentación y siete preguntas respiratorias
+contrastadas con el tema 14 público de Academia Opolis:
+
+- DOE, Decreto 47/2023:
+  <https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf>
+- BOE, Estatuto histórico del personal auxiliar sanitario:
+  <https://www.boe.es/boe/dias/1973/04/28/pdfs/R08519-08627.pdf>
+- SERGAS, prevención y tratamiento de UPP:
+  <https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf>
+- SACYL, manual de apoyo para cuidadores no profesionales:
+  <https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf>
+- SACYL, normas higiénicas en área quirúrgica:
+  <https://www.saludcastillayleon.es/CAZamora/fr/comisiones-hospitalarias/comision-infeccion-hospitalaria-profilaxis-politica-antibio.fichiers/361950-Protocolo%20Normas%20Higi%C3%A9nicas%20en%20%C3%81rea%20Quir%C3%BArgica.pdf>
+- SERGAS, evaluación del dolor:
+  <https://escolasaude.sergas.es/Docs/EGSPC/pilula/02_evaluacion/index.html>
+- Academia Opolis, tema 14:
+  <https://www.opolis.online/sanidad/demo_tcae/prueba.pdf>
+
+Las siete respuestas basadas en el tema público de Academia Opolis se etiquetan
+como `author-material`; las otras `43` se mantienen como `official`.
 
 ## Primera tanda: Estatuto Marco
 

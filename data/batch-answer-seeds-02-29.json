@@ -1,0 +1,27 @@
+{
+  "source": "TCAE_EXAMEN 29.pdf",
+  "sourceUrl": "https://www.saludcastillayleon.es/CAZamora/fr/comisiones-hospitalarias/comision-infeccion-hospitalaria-profilaxis-politica-antibio.fichiers/361950-Protocolo%20Normas%20Higi%C3%A9nicas%20en%20%C3%81rea%20Quir%C3%BArgica.pdf",
+  "sourceUrls": {
+    "Academia Opolis": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf",
+    "Estatuto de 1973": "https://www.boe.es/boe/dias/1973/04/28/pdfs/R08519-08627.pdf",
+    "Ministerio de Sanidad, alimentación": "https://sipes.sanidad.gob.es/repositorio/de61f806-84a5-4e28-8987-0478b3e14028",
+    "Ministerio de Sanidad, UCI": "https://www.sanidad.gob.es/areas/calidadAsistencial/excelenciaClinica/docs/UCI.pdf",
+    "SACYL, cirugía menor": "https://www.saludcastillayleon.es/institucion/fr/programas-guias-clinicas/guias-practica-clinica/guias-clinicas.fichiers/136976-cirugia.pdf",
+    "SACYL, radiodiagnóstico": "https://www.saludcastillayleon.es/institucion/es/biblioteca/materiales-consejeria-sanidad/buscador/tecnicos-especialistas-radiodiagnostico-sacyl-temario-volumen-i.ficheros/2285790-T%C3%A9cnicos%20Especialistas%20en%20Radiodiagn%C3%B3stico%20del%20Servicio%20de%20Salud%20de%20Castilla%20y%20Le%C3%B3n%20%28SACYL%29.%20Temario%20volumen%20I.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "20": ["c", "Estatuto de 1973, artículo 85.6: en consultas externas queda prohibido a las auxiliares auxiliar directamente al médico"],
+    "21": ["b", "Ministerio de Sanidad, alimentación: grupo III, patatas, legumbres y frutos secos"],
+    "30": ["b", "Ministerio de Sanidad, alimentación: grupo II, carnes, pescados y huevos"],
+    "43": ["d", "Ministerio de Sanidad, UCI: la habitación dispone de iluminación general graduable, iluminación de lectura en el cabecero e iluminación para emergencias o tratamientos especiales"],
+    "45": ["a", "Academia Opolis, tema 14: para la intubación se colocará al paciente en Roser o Proetz, ambas con hiperextensión del cuello", "author-material"],
+    "52": ["a", "SACYL, radiodiagnóstico: la radiografía de abdomen en decúbito supino es la proyección radiológica inicial"],
+    "53": ["d", "SACYL, normas higiénicas en área quirúrgica: la limpieza del paciente reduce la contaminación microbiana, favorece la antisepsia y contribuye a prevenir la infección"],
+    "54": ["d", "SACYL, cirugía menor: Farabeuf figura entre los separadores; ninguna de las acciones propuestas corresponde a este instrumento"],
+    "56": ["d", "SACYL, normas higiénicas en área quirúrgica: la zona de transición contiene taquillas y vestuarios donde se cambia la indumentaria extraquirúrgica por la de uso exclusivo del área"],
+    "60": ["c", "SACYL, cirugía menor: Farabeuf figura entre los separadores, no entre el material de disección"],
+    "62": ["d", "SACYL, normas higiénicas en área quirúrgica: las áreas de descanso están incluidas dentro de la zona restringida y no constituyen una zona quirúrgica independiente"],
+    "80": ["b", "Ministerio de Sanidad, alimentación: grupo VII, grasas, aceite y mantequilla"]
+  }
+}

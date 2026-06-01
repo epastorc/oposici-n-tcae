@@ -2930,13 +2930,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-8-10": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf",
+      "sourceDetail": "SACYL, manual de apoyo para cuidadores no profesionales: la altura del bastón debe ser igual a la distancia entre la cadera y el suelo",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -12080,13 +12082,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-60": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/institucion/fr/programas-guias-clinicas/guias-practica-clinica/guias-clinicas.fichiers/136976-cirugia.pdf",
+      "sourceDetail": "SACYL, cirugía menor: Farabeuf figura entre los separadores, no entre el material de disección",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -12816,13 +12820,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-52": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf",
+      "sourceDetail": "Academia Opolis, tema 14: entre los sistemas de oxigenoterapia figura la campana de oxígeno",
+      "sourceKind": "author-material",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -13358,13 +13364,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-54": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/sustanciasPsicoactivas/fentanilo/home.htm",
+      "sourceDetail": "Ministerio de Sanidad: el fentanilo es un potente opioide sintético, similar a la morfina pero entre 50 y 100 veces más potente",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -13698,13 +13706,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-68": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://escolasaude.sergas.es/Docs/EGSPC/pilula/02_evaluacion/index.html",
+      "sourceDetail": "SERGAS, evaluación del dolor: la escala de puntuación verbal pide al paciente elegir el adjetivo que mejor describe la intensidad de su dolor",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -14846,13 +14856,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-72": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/HRHortega/es/informacion-paciente/recomendaciones-estancia-hospital",
+      "sourceDetail": "SACYL, recomendaciones durante la estancia hospitalaria: la higiene debe realizarse diariamente y siempre que lo necesite el paciente",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -16146,13 +16158,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-86": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf",
+      "sourceDetail": "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: en decúbito lateral se indican cuatro almohadas",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -29620,13 +29634,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-23-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 5.2: la estructura y dotación de recursos materiales y humanos del EAP dependerá de criterios de funcionalidad y de las necesidades sociales y sanitarias",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -33174,13 +33190,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-54": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/institucion/fr/programas-guias-clinicas/guias-practica-clinica/guias-clinicas.fichiers/136976-cirugia.pdf",
+      "sourceDetail": "SACYL, cirugía menor: Farabeuf figura entre los separadores; ninguna de las acciones propuestas corresponde a este instrumento",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -34883,13 +34901,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-17-63": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-2574",
+      "sourceDetail": "Real Decreto 137/1984, artículo 1.2: la zona básica de salud comprenderá entre 5.000 y 25.000 habitantes, salvo excepciones",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -35361,13 +35381,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-21": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf",
+      "sourceDetail": "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: en decúbito lateral las piernas quedarán en ligera flexión",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -36983,13 +37005,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-62": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/CAZamora/fr/comisiones-hospitalarias/comision-infeccion-hospitalaria-profilaxis-politica-antibio.fichiers/361950-Protocolo%20Normas%20Higi%C3%A9nicas%20en%20%C3%81rea%20Quir%C3%BArgica.pdf",
+      "sourceDetail": "SACYL, normas higiénicas en área quirúrgica: las áreas de descanso están incluidas dentro de la zona restringida y no constituyen una zona quirúrgica independiente",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -38561,13 +38585,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-25-12": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/saludcomunitaria/es/documentos-recursos/violencia-genero/documentos-m-s-organismos/protocolos-guias.ficheros/2805673-Guia%20de%20Pr%C3%A1ctica%20%20Cl%C3%ADnica%20para%20Actuacion%20en%20salud%20mental%20con%20mujeres%20maltratadas%20por%20su%20pareja.pdf",
+      "sourceDetail": "SACYL, Plutchik: la puntuación oscila entre 0 y 15, a mayor puntuación mayor riesgo y el punto de corte es mayor o igual que 6",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -38599,13 +38625,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-26-60": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://escolasaude.sergas.es/Docs/EGSPC/pilula/02_evaluacion/index.html",
+      "sourceDetail": "SERGAS, escala de puntuación verbal: el dolor severo corresponde a 3 puntos",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -39293,13 +39321,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-7-12": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf",
+      "sourceDetail": "SACYL, manual de apoyo para cuidadores no profesionales: orden de lavado, manos, brazos y axilas antes de pecho y abdomen",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -40591,13 +40621,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-87": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf",
+      "sourceDetail": "SACYL, manual de apoyo para cuidadores no profesionales: en el apoyo frontal los antebrazos sirven de guía y control del paso",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -41005,13 +41037,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-56": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/CAZamora/fr/comisiones-hospitalarias/comision-infeccion-hospitalaria-profilaxis-politica-antibio.fichiers/361950-Protocolo%20Normas%20Higi%C3%A9nicas%20en%20%C3%81rea%20Quir%C3%BArgica.pdf",
+      "sourceDetail": "SACYL, normas higiénicas en área quirúrgica: la zona de transición contiene taquillas y vestuarios donde se cambia la indumentaria extraquirúrgica por la de uso exclusivo del área",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -43819,13 +43853,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-30": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://sipes.sanidad.gob.es/repositorio/de61f806-84a5-4e28-8987-0478b3e14028",
+      "sourceDetail": "Ministerio de Sanidad, alimentación: grupo II, carnes, pescados y huevos",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -46217,13 +46253,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-25-14": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://enfamilia.aeped.es/edades-etapas/recien-nacido-piel",
+      "sourceDetail": "AEP, cuidados de la piel del recién nacido: si la piel está seca o descamada se puede usar aceite o crema hidratante",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -47047,13 +47085,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-7-56": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf",
+      "sourceDetail": "SACYL, manual de apoyo para cuidadores no profesionales: en el apoyo frontal los antebrazos sirven de guía y control del paso",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -48065,13 +48105,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-51": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/boe/dias/1973/04/28/pdfs/R08519-08627.pdf",
+      "sourceDetail": "Estatuto de 1973, artículo 75.4: corresponde a las auxiliares la limpieza de los carros de curas y su material",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -51711,13 +51753,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-11": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/CAZamora/fr/comisiones-hospitalarias/comision-infeccion-hospitalaria-profilaxis-politica-antibio.fichiers/361950-Protocolo%20Normas%20Higi%C3%A9nicas%20en%20%C3%81rea%20Quir%C3%BArgica.pdf",
+      "sourceDetail": "SACYL, normas higiénicas en área quirúrgica: la enfermera de planta comprobará la limpieza del paciente y aplicará el antiséptico",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -54177,13 +54221,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-28": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/boe/dias/1973/04/28/pdfs/R08519-08627.pdf",
+      "sourceDetail": "Estatuto de 1973, artículo 75.9: las auxiliares podrán aplicar enemas de limpieza salvo en enfermos graves",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -55628,13 +55674,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-7-38": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf",
+      "sourceDetail": "SACYL, manual de apoyo para cuidadores no profesionales: tras incorporarse se dan unos segundos para asegurar la bipedestación antes de iniciar la marcha",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -66790,13 +66838,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-8-11": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf",
+      "sourceDetail": "Academia Opolis, tema 14: la capacidad de una bala puede expresarse en litros, atmósferas de presión, mmHg o kg/cm3",
+      "sourceKind": "author-material",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -66891,13 +66941,16 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-11": "d",
+        "tcae_examen-22-66": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf",
+      "sourceDetail": "Academia Opolis, tema 14: la capacidad de una bala puede expresarse en litros, atmósferas de presión, mmHg o kg/cm3",
+      "sourceKind": "author-material",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -67509,13 +67562,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-52": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/institucion/es/biblioteca/materiales-consejeria-sanidad/buscador/tecnicos-especialistas-radiodiagnostico-sacyl-temario-volumen-i.ficheros/2285790-T%C3%A9cnicos%20Especialistas%20en%20Radiodiagn%C3%B3stico%20del%20Servicio%20de%20Salud%20de%20Castilla%20y%20Le%C3%B3n%20%28SACYL%29.%20Temario%20volumen%20I.pdf",
+      "sourceDetail": "SACYL, radiodiagnóstico: la radiografía de abdomen en decúbito supino es la proyección radiológica inicial",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -70440,13 +70495,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-7-3": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf",
+      "sourceDetail": "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: en decúbito lateral se colocan almohadas bajo la cabeza, región dorso-lumbar, entre las rodillas y bajo el brazo superior",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -72008,13 +72065,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-80": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://sipes.sanidad.gob.es/repositorio/de61f806-84a5-4e28-8987-0478b3e14028",
+      "sourceDetail": "Ministerio de Sanidad, alimentación: grupo VII, grasas, aceite y mantequilla",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -72046,13 +72105,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-43": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.sanidad.gob.es/areas/calidadAsistencial/excelenciaClinica/docs/UCI.pdf",
+      "sourceDetail": "Ministerio de Sanidad, UCI: la habitación dispone de iluminación general graduable, iluminación de lectura en el cabecero e iluminación para emergencias o tratamientos especiales",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -72266,13 +72327,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-21": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://sipes.sanidad.gob.es/repositorio/de61f806-84a5-4e28-8987-0478b3e14028",
+      "sourceDetail": "Ministerio de Sanidad, alimentación: grupo III, patatas, legumbres y frutos secos",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -74292,13 +74355,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-56": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf",
+      "sourceDetail": "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: cambios posturales cada 2-3 horas siguiendo una rotación programada e individualizada",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -74330,13 +74395,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-4": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf",
+      "sourceDetail": "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: cambios posturales cada 2-3 horas, equivalentes a 120-180 minutos",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -74766,13 +74833,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-31": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf",
+      "sourceDetail": "Academia Opolis, tema 14: cuidados del aparato respiratorio, movilización, ejercicios y aspiración de secreciones",
+      "sourceKind": "author-material",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -79110,13 +79179,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-20-46": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://ingesa.sanidad.gob.es/bibliotecaPublicaciones/publicaciones/internet/docs/Manual_EIR_Vol_1.pdf",
+      "sourceDetail": "INGESA, Manual EIR, jerarquía de Maslow: tras las necesidades fisiológicas se sitúan las necesidades de seguridad; entre las opciones ofrecidas es el nivel prioritario",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -83582,13 +83653,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-2-46": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf",
+      "sourceDetail": "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: en sedestación se fomentará que el paciente se reposicione utilizando sus brazos cada 15 minutos",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -83799,13 +83872,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-45": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf",
+      "sourceDetail": "Academia Opolis, tema 14: para la intubación se colocará al paciente en Roser o Proetz, ambas con hiperextensión del cuello",
+      "sourceKind": "author-material",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -84795,13 +84870,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-26": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf",
+      "sourceDetail": "SACYL, manual de apoyo para cuidadores no profesionales: marcha con muletas a cuatro puntos, adelantar una muleta y luego el pie opuesto",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -85921,13 +85998,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-22": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/institucion/es/biblioteca/materiales-consejeria-sanidad/buscador/guia-seguridad-atencion-personas-trastornos-mentales.ficheros/433854-Guia%20Seguridad%20en%20la%20Atenci%C3%B3n%20a%20personas%20con%20Ttnos%20Mentales%20.pdf",
+      "sourceDetail": "SACYL, guía de seguridad en la atención a personas con trastornos mentales: la prescripción de medidas físicas de contención debe tomarla el psiquiatra responsable del caso",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -86820,13 +86899,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-53": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/CAZamora/fr/comisiones-hospitalarias/comision-infeccion-hospitalaria-profilaxis-politica-antibio.fichiers/361950-Protocolo%20Normas%20Higi%C3%A9nicas%20en%20%C3%81rea%20Quir%C3%BArgica.pdf",
+      "sourceDetail": "SACYL, normas higiénicas en área quirúrgica: la limpieza del paciente reduce la contaminación microbiana, favorece la antisepsia y contribuye a prevenir la infección",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -90360,13 +90441,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-25-40": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf",
+      "sourceDetail": "SACYL, cuidadores: el aseo en cama termina con la zona genital",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -92148,13 +92231,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-63": "a"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf",
+      "sourceDetail": "Academia Opolis, tema 14: la conexión del paciente al respirador la efectúa el médico ayudado por enfermería experimentada",
+      "sourceKind": "author-material",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -101520,13 +101605,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-15-36": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "sourceDetail": "Decreto 47/2023, artículo 11: cada profesional tiene el derecho y el deber de participar en las actividades de formación continuada dentro de la jornada laboral",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -107956,13 +108043,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-29-20": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.boe.es/boe/dias/1973/04/28/pdfs/R08519-08627.pdf",
+      "sourceDetail": "Estatuto de 1973, artículo 85.6: en consultas externas queda prohibido a las auxiliares auxiliar directamente al médico",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -108392,13 +108481,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-28-10": "d"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://ingesa.sanidad.gob.es/bibliotecaPublicaciones/publicaciones/internet/docs/Manual_EIR_Vol_1.pdf",
+      "sourceDetail": "INGESA, Manual EIR, necesidades fisiológicas básicas de Maslow: incluyen alimentación e hidratación",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -109610,13 +109701,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-24-67": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/CAZamora/fr/comisiones-hospitalarias/comision-infeccion-hospitalaria-profilaxis-politica-antibio.fichiers/361950-Protocolo%20Normas%20Higi%C3%A9nicas%20en%20%C3%81rea%20Quir%C3%BArgica.pdf",
+      "sourceDetail": "SACYL, normas higiénicas en área quirúrgica: el gorro debe colocarse en primer lugar; la opción que propone colocar la mascarilla antes del gorro es falsa",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -114424,13 +114517,15 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-27-42": "b"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://www.saludcastillayleon.es/institucion/es/biblioteca/materiales-consejeria-sanidad/buscador/guia-seguridad-atencion-personas-trastornos-mentales.ficheros/433854-Guia%20Seguridad%20en%20la%20Atenci%C3%B3n%20a%20personas%20con%20Ttnos%20Mentales%20.pdf",
+      "sourceDetail": "SACYL, guía de seguridad en la atención a personas con trastornos mentales: se colocará al paciente semiincorporado en la cama",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {
@@ -115329,13 +115424,16 @@
         }
       ],
       "answer": null,
-      "variantAnswers": {},
-      "status": "pending",
-      "confidence": null,
-      "sourceUrl": null,
-      "sourceDetail": null,
-      "sourceKind": null,
-      "reviewedAt": null,
+      "variantAnswers": {
+        "tcae_examen-4-22": "c",
+        "tcae_examen-22-7": "c"
+      },
+      "status": "verified",
+      "confidence": "high",
+      "sourceUrl": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2603-es.pdf",
+      "sourceDetail": "SERGAS, prevención de aspiración: mantener la cabecera elevada 30-45 grados durante la alimentación y por lo menos una hora después",
+      "sourceKind": "official",
+      "reviewedAt": "2026-06-01",
       "notes": null
     },
     {

@@ -1,0 +1,12 @@
+{
+  "source": "TCAE_EXAMEN 22.pdf",
+  "sourceUrl": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2603-es.pdf",
+  "sourceUrls": {
+    "Academia Opolis": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "7": ["c", "SERGAS, prevención de aspiración: mantener la cabecera elevada 30-45 grados durante la alimentación y por lo menos una hora después"],
+    "66": ["d", "Academia Opolis, tema 14: la capacidad de una bala puede expresarse en litros, atmósferas de presión, mmHg o kg/cm3", "author-material"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "source": "TCAE_EXAMEN 4.pdf",
+  "sourceUrl": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf",
+  "sourceUrls": {
+    "SERGAS, prevención de aspiración": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2603-es.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "21": ["b", "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: en decúbito lateral las piernas quedarán en ligera flexión"],
+    "22": ["c", "SERGAS, prevención de aspiración: mantener la cabecera elevada 30-45 grados durante la alimentación y por lo menos una hora después"],
+    "86": ["c", "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: en decúbito lateral se indican cuatro almohadas"]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "TCAE_EXAMEN 15.pdf",
+  "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+  "sourceUrls": {
+    "Academia Opolis": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf",
+    "SACYL": "https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "26": ["a", "SACYL, manual de apoyo para cuidadores no profesionales: marcha con muletas a cuatro puntos, adelantar una muleta y luego el pie opuesto"],
+    "31": ["a", "Academia Opolis, tema 14: cuidados del aparato respiratorio, movilización, ejercicios y aspiración de secreciones", "author-material"],
+    "36": ["d", "Decreto 47/2023, artículo 11: cada profesional tiene el derecho y el deber de participar en las actividades de formación continuada dentro de la jornada laboral"],
+    "63": ["a", "Academia Opolis, tema 14: la conexión del paciente al respirador la efectúa el médico ayudado por enfermería experimentada", "author-material"]
+  }
+}

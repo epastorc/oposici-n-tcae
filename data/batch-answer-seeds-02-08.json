@@ -1,0 +1,12 @@
+{
+  "source": "TCAE_EXAMEN 8.pdf",
+  "sourceUrl": "https://www.saludcastillayleon.es/es/asistencia-sanitaria/asistencia-sanitaria-atencion-primaria.ficheros/246439-Manual%20de%20apoyo%20para%20cuidadores%20no%20profesionales%20%288%29.pdf",
+  "sourceUrls": {
+    "Academia Opolis": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "10": ["a", "SACYL, manual de apoyo para cuidadores no profesionales: la altura del bastón debe ser igual a la distancia entre la cadera y el suelo"],
+    "11": ["c", "Academia Opolis, tema 14: la capacidad de una bala puede expresarse en litros, atmósferas de presión, mmHg o kg/cm3", "author-material"]
+  }
+}

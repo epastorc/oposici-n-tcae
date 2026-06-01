@@ -1,0 +1,15 @@
+{
+  "source": "TCAE_EXAMEN 27.pdf",
+  "sourceUrl": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf",
+  "sourceUrls": {
+    "Estatuto de 1973": "https://www.boe.es/boe/dias/1973/04/28/pdfs/R08519-08627.pdf",
+    "SACYL": "https://www.saludcastillayleon.es/institucion/es/biblioteca/materiales-consejeria-sanidad/buscador/guia-seguridad-atencion-personas-trastornos-mentales.ficheros/433854-Guia%20Seguridad%20en%20la%20Atenci%C3%B3n%20a%20personas%20con%20Ttnos%20Mentales%20.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "4": ["c", "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: cambios posturales cada 2-3 horas, equivalentes a 120-180 minutos"],
+    "22": ["d", "SACYL, guía de seguridad en la atención a personas con trastornos mentales: la prescripción de medidas físicas de contención debe tomarla el psiquiatra responsable del caso"],
+    "28": ["c", "Estatuto de 1973, artículo 75.9: las auxiliares podrán aplicar enemas de limpieza salvo en enfermos graves"],
+    "42": ["b", "SACYL, guía de seguridad en la atención a personas con trastornos mentales: se colocará al paciente semiincorporado en la cama"]
+  }
+}

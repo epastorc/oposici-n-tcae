@@ -1,0 +1,15 @@
+{
+  "source": "TCAE_EXAMEN 26.pdf",
+  "sourceUrl": "https://escolasaude.sergas.es/Docs/EGSPC/pilula/02_evaluacion/index.html",
+  "sourceUrls": {
+    "Ministerio de Sanidad": "https://pnsd.sanidad.gob.es/ciudadanos/informacion/sustanciasPsicoactivas/fentanilo/home.htm",
+    "SACYL": "https://www.saludcastillayleon.es/HRHortega/es/informacion-paciente/recomendaciones-estancia-hospital"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "54": ["b", "Ministerio de Sanidad: el fentanilo es un potente opioide sintético, similar a la morfina pero entre 50 y 100 veces más potente"],
+    "60": ["b", "SERGAS, escala de puntuación verbal: el dolor severo corresponde a 3 puntos"],
+    "68": ["a", "SERGAS, evaluación del dolor: la escala de puntuación verbal pide al paciente elegir el adjetivo que mejor describe la intensidad de su dolor"],
+    "72": ["b", "SACYL, recomendaciones durante la estancia hospitalaria: la higiene debe realizarse diariamente y siempre que lo necesite el paciente"]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source": "TCAE_EXAMEN 24.pdf",
+  "sourceUrl": "https://www.saludcastillayleon.es/CAZamora/fr/comisiones-hospitalarias/comision-infeccion-hospitalaria-profilaxis-politica-antibio.fichiers/361950-Protocolo%20Normas%20Higi%C3%A9nicas%20en%20%C3%81rea%20Quir%C3%BArgica.pdf",
+  "sourceUrls": {
+    "SERGAS": "https://extranet.sergas.es/catpb/Docs/cas/Publicaciones/Docs/AtEspecializada/PDF-2601-es.pdf",
+    "Estatuto de 1973": "https://www.boe.es/boe/dias/1973/04/28/pdfs/R08519-08627.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "11": ["b", "SACYL, normas higiénicas en área quirúrgica: la enfermera de planta comprobará la limpieza del paciente y aplicará el antiséptico"],
+    "51": ["b", "Estatuto de 1973, artículo 75.4: corresponde a las auxiliares la limpieza de los carros de curas y su material"],
+    "56": ["b", "SERGAS, guía para la prevención y tratamiento de las úlceras por presión: cambios posturales cada 2-3 horas siguiendo una rotación programada e individualizada"],
+    "67": ["c", "SACYL, normas higiénicas en área quirúrgica: el gorro debe colocarse en primer lugar; la opción que propone colocar la mascarilla antes del gorro es falsa"]
+  }
+}
