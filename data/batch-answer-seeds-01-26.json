@@ -1,0 +1,17 @@
+{
+  "source": "TCAE_EXAMEN 26.pdf",
+  "sourceUrl": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-9351",
+  "sourceUrls": {
+    "Ley 14/1986": "https://www.boe.es/buscar/act.php?id=BOE-A-1986-10499",
+    "SES": "https://saludextremadura.ses.es/filescms/web/uploaded_files/CustomContentResources/Mapa%20Sanitario%20del%20%C3%81rea%20de%20Salud%20de%20C%C3%A1ceres.pdf",
+    "Ministerio de Sanidad": "https://www.sanidad.gob.es/profesionales/saludPublica/prevPromocion/docs/prevencionDependenciaMayores.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "2": ["d", "Real Decreto 521/1987, artículo 7.1"],
+    "11": ["b", "Ley 14/1986, artículo 57"],
+    "18": ["d", "SES, mapa sanitario del Área de Salud de Cáceres: Zorita"],
+    "25": ["a", "Ministerio de Sanidad, índice de Barthel: 20-40 puntos, dependencia grave"],
+    "29": ["b", "Ley 14/1986, artículo 56.5"]
+  }
+}

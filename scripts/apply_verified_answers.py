@@ -24,6 +24,7 @@ def main() -> None:
                 "answer": answer,
                 "sourceUrl": item["sourceUrl"],
                 "sourceDetail": item["sourceDetail"],
+                "sourceKind": item.get("sourceKind", "official"),
                 "reviewedAt": item["reviewedAt"],
             }
 
@@ -32,6 +33,7 @@ def main() -> None:
         question["correctAnswer"] = verified["answer"] if verified else None
         question["answerSource"] = verified["sourceUrl"] if verified else None
         question["answerSourceDetail"] = verified["sourceDetail"] if verified else None
+        question["answerSourceKind"] = verified["sourceKind"] if verified else None
         question["answerReviewedAt"] = verified["reviewedAt"] if verified else None
 
     bank_path.write_text(json.dumps(bank, ensure_ascii=False, indent=2), encoding="utf-8")

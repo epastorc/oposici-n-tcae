@@ -1,0 +1,13 @@
+{
+  "source": "TCAE_EXAMEN 29.pdf",
+  "sourceUrl": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf",
+  "sourceUrls": {
+    "SACYL": "https://www.saludcastillayleon.es/CAZamora/fr/comisiones-hospitalarias/comision-infeccion-hospitalaria-profilaxis-politica-antibio.fichiers/361950-Protocolo%20Normas%20Higi%C3%A9nicas%20en%20%C3%81rea%20Quir%C3%BArgica.pdf"
+  },
+  "sourceKind": "author-material",
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "25": ["c", "Academia Opolis, tema 14, aspiración de secreciones con conexiones en Y o en T"],
+    "55": ["c", "SACYL, normas higiénicas en área quirúrgica: retirar prótesis dentales", "official"]
+  }
+}

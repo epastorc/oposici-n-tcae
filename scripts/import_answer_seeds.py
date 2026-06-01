@@ -46,15 +46,20 @@ def main() -> None:
         Path("data/clinical-answer-seeds-04.json"),
         Path("data/clinical-answer-seeds-18.json"),
     ]
+    seed_files.extend(sorted(Path("data").glob("author-answer-seeds-*.json")))
+    seed_files.extend(sorted(Path("data").glob("batch-answer-seeds-*.json")))
     review = json.loads(review_path.read_text(encoding="utf-8"))
     updated = 0
     for seed_file in seed_files:
         seeds = json.loads(seed_file.read_text(encoding="utf-8"))
         answers = seeds["answers"]
+        excluded = seeds.get("excluded", {})
         for item in review["items"]:
             for variant in item["variants"]:
                 if variant["source"] != seeds["source"]:
                     continue
+                if str(variant["number"]) in excluded:
+                    item["variantAnswers"].pop(variant["id"], None)
                 seeded = answers.get(str(variant["number"]))
                 if not seeded:
                     continue
@@ -67,8 +72,18 @@ def main() -> None:
                         item["sourceUrl"] = source_url
                         break
                 item["sourceDetail"] = seeded[1]
+                item["sourceKind"] = seeded[2] if len(seeded) > 2 else seeds.get("sourceKind", "official")
                 item["reviewedAt"] = seeds["reviewedAt"]
                 updated += 1
+    for item in review["items"]:
+        if item.get("answer") or item["variantAnswers"]:
+            continue
+        item["status"] = "pending"
+        item["confidence"] = None
+        item["sourceUrl"] = None
+        item["sourceDetail"] = None
+        item["sourceKind"] = None
+        item["reviewedAt"] = None
     review_path.write_text(json.dumps(review, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Importadas {updated} respuestas jurídicas verificadas.")
 

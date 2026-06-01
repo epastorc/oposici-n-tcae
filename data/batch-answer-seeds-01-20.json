@@ -1,0 +1,18 @@
+{
+  "source": "TCAE_EXAMEN 20.pdf",
+  "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+  "sourceUrls": {
+    "Orden de 26 de abril de 1973": "https://www.boe.es/boe/dias/1973/04/28/pdfs/R08519-08627.pdf",
+    "SERGAS": "https://femora.sergas.es/Probas-diagnosticas/Procedemento-de-recollida-de-urina-de-24h?idioma=es",
+    "Academia Opolis": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "31": ["b", "Orden de 26 de abril de 1973, artículo 85.3"],
+    "34": ["c", "GuíaSalud, anexo 1.1, Norton modificada: ninguna incontinencia, 4 puntos"],
+    "35": ["c", "GuíaSalud, anexo 1.3, escala de Braden: máximo de 23 puntos"],
+    "61": ["a", "SERGAS, procedimiento de recogida de orina de 24 horas: inicio por la mañana"],
+    "62": ["b", "GuíaSalud, anexo 1.2, EMINA incluye nutrición"],
+    "97": ["a", "Academia Opolis, tema 14, respiradores volumétricos", "author-material"]
+  }
+}

@@ -4,21 +4,59 @@
 
 - Preguntas extraídas: `3.100`.
 - Enunciados únicos tras deduplicación: `2.816`.
-- Soluciones verificadas: `2.628`.
-- Preguntas excluidas por redacción ambigua o desactualizada: `472`.
-- Preguntas pendientes de revisión: `0`.
+- Soluciones documentadas: `2.704`.
+- Soluciones contrastadas con fuentes institucionales: `2.671`.
+- Soluciones procedentes de plantillas de corrección publicadas por el autor: `23`.
+- Soluciones contrastadas con material docente público del autor: `10`.
+- Preguntas todavía sin solución publicable: `396`.
 
 ## Criterio
 
-Una respuesta solo se publica como correcta cuando dispone de una fuente primaria:
+Una respuesta se publica como correcta cuando dispone de una fuente documentada.
+Se distinguen tres procedencias:
 
 - Diario Oficial de Extremadura (DOE).
 - Boletín Oficial del Estado (BOE).
 - Documentación institucional de la Junta de Extremadura o del SES.
 - Guías oficiales de organismos sanitarios públicos para el bloque clínico.
+- Plantillas de corrección publicadas por el autor del simulacro, identificadas
+  expresamente como tales cuando no constituyen una fuente institucional.
+- Material docente público del autor del simulacro, identificado expresamente como
+  apoyo docente y sin presentarlo como una fuente institucional.
 
-Cada respuesta conserva URL, artículo o apartado y fecha de revisión. Las respuestas
-no verificadas permanecen como `null`; no se completan mediante inferencias.
+Cada respuesta conserva URL, artículo, apartado o plantilla y fecha de revisión.
+Las respuestas sin una fuente documentada permanecen como `null`; no se completan
+mediante inferencias.
+
+## Plantilla pública de Academia Opolis
+
+La plantilla de corrección publicada para `TCAE_EXAMEN 1.pdf` permite completar
+sus `21` respuestas anteriormente apartadas y propagar `2` duplicados textuales
+presentes en otros simulacros:
+
+- Academia Opolis:
+  <https://www.opolis.online/sanidad/demo_tcae/exapruebaplan.pdf>
+
+Estas respuestas se etiquetan como `author-key` para diferenciarlas de las
+contrastadas con fuentes institucionales.
+
+## Lote incremental 01: 50 soluciones
+
+Se han resuelto `50` preguntas anteriormente apartadas. El lote combina normativa
+literal, guías institucionales y diez preguntas respiratorias contrastadas con el
+tema 14 público de Academia Opolis:
+
+- Academia Opolis, tema 14:
+  <https://www.opolis.online/sanidad/demo_tcae/prueba.pdf>
+- GuíaSalud, prevención y tratamiento de úlceras por presión:
+  <https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf>
+- BOE, Estatuto histórico del personal auxiliar sanitario:
+  <https://www.boe.es/boe/dias/1973/04/28/pdfs/R08519-08627.pdf>
+- DOE, Decreto 47/2023:
+  <https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf>
+
+Las diez respuestas basadas en el tema público de Academia Opolis se etiquetan
+como `author-material`; las otras `40` se mantienen como `official`.
 
 ## Primera tanda: Estatuto Marco
 

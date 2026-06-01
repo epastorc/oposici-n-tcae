@@ -1,0 +1,15 @@
+{
+  "source": "TCAE_EXAMEN 10.pdf",
+  "sourceUrl": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf",
+  "sourceKind": "author-material",
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "1": ["b", "Academia Opolis, tema 14, manómetro o manorreductor"],
+    "12": ["b", "Academia Opolis, tema 14, sistemas cerrados de alto flujo y campana de oxígeno"],
+    "18": ["c", "Academia Opolis, tema 14, desventajas de la sonda nasal"],
+    "19": ["a", "Academia Opolis, tema 14, cambio de sonda nasal cada 8-12 horas alternando fosa"],
+    "32": ["d", "Academia Opolis, tema 14, recursos materiales para aspiración de secreciones"],
+    "35": ["c", "Academia Opolis, tema 14, guantes estériles para aspiración de secreciones"],
+    "36": ["a", "Academia Opolis, tema 14, limpieza con cepillo y secado con gasas de cánula de traqueotomía"]
+  }
+}

@@ -44,10 +44,15 @@ function sourceLink(question) {
   return ` <a href="${escapeHtml(question.answerSource)}" target="_blank" rel="noopener noreferrer">Consultar fuente</a>.`;
 }
 function explanation(question) {
+  const sourceType = question.answerSourceKind === "author-key"
+    ? "La respuesta procede de la plantilla de corrección publicada por el autor."
+    : question.answerSourceKind === "author-material"
+      ? "La respuesta se ha contrastado con material docente público del autor."
+      : "La respuesta se ha contrastado con una fuente institucional.";
   const detail = question.answerSourceDetail
-    ? `La referencia verificada corresponde a: ${escapeHtml(question.answerSourceDetail)}.`
-    : "La respuesta se ha contrastado con una fuente oficial.";
-  return `${detail}${sourceLink(question)}`;
+    ? `La referencia documentada corresponde a: ${escapeHtml(question.answerSourceDetail)}.`
+    : "";
+  return `${sourceType} ${detail}${sourceLink(question)}`;
 }
 function setView(section) {
   ["welcome", "thematic-questions", "quiz", "results", "saved-tests", "wrong-questions"].forEach(id => $(id).hidden = id !== section);
@@ -174,10 +179,10 @@ function finish(save = true) {
   const oppositionSummary = isOppositionMode() ? `<p><strong>Puntuación de oposición:</strong> ${oppositionPoints.toFixed(2).replace(".", ",")} / ${OPPOSITION.scoredQuestions} puntos.</p>
     <p>Se descuentan <strong>${(mistakes.length / 3).toFixed(2).replace(".", ",")}</strong> puntos por ${mistakes.length} fallos. El reto incluye ${OPPOSITION.reserveQuestions} preguntas de reserva y la puntuación máxima se limita a ${OPPOSITION.scoredQuestions}.</p>` : "";
   $("result-summary").innerHTML = `<p><strong>${answered}</strong> respondidas · <strong>${pending}</strong> sin responder · <strong>${reviews}</strong> marcadas para repasar.</p>
-    <p><strong>Resultado verificable:</strong> ${score}.</p>
+    <p><strong>Resultado corregible:</strong> ${score}.</p>
     <p><strong>Nota:</strong> ${grade === null ? "no disponible" : `${grade} / 10`}.</p>
     ${oppositionSummary}
-    <p>La nota se calcula sobre las <strong>${graded.length}</strong> preguntas verificadas que has contestado. Este test contiene <strong>${verified.length}</strong> preguntas con solución investigada en fuentes oficiales y <strong>${unverified}</strong> pendientes de revisión.</p>`;
+    <p>La nota se calcula sobre las <strong>${graded.length}</strong> preguntas documentadas que has contestado. Este test contiene <strong>${verified.length}</strong> preguntas con solución publicada y <strong>${unverified}</strong> sin solución publicada.</p>`;
   $("correct-answers").innerHTML = `<section class="result-block correct-answers"><h3>Preguntas correctas (${correct.length})</h3>
     ${correct.length ? `<ol>${correct.map(question => resultItem(question, true)).join("")}</ol>` : "<p>No has acertado ninguna de las preguntas corregibles.</p>"}</section>`;
   $("mistakes").innerHTML = `<section class="result-block mistakes"><h3>Preguntas falladas (${mistakes.length})</h3>
@@ -256,7 +261,9 @@ document.addEventListener("click", event => {
 fetch("data/questions.json").then(response => response.json()).then(data => {
   state.bank = data.questions;
   const verified = state.bank.filter(question => question.correctAnswer).length;
-  $("catalog").textContent = `${state.bank.length} preguntas disponibles procedentes de ${data.sources.length} exámenes. ${verified} soluciones verificadas en fuentes oficiales.`;
+  const authorKeys = state.bank.filter(question => question.answerSourceKind === "author-key").length;
+  const authorMaterials = state.bank.filter(question => question.answerSourceKind === "author-material").length;
+  $("catalog").textContent = `${state.bank.length} preguntas disponibles procedentes de ${data.sources.length} exámenes. ${verified} soluciones documentadas (${authorKeys} tomadas de plantillas de corrección y ${authorMaterials} contrastadas con material docente público del autor).`;
 }).catch(() => $("catalog").textContent = "No se ha encontrado el banco de preguntas. Ejecuta el importador.");
 fetch("data/thematic-questions.json").then(response => response.json()).then(data => {
   state.thematicBank = data.questions;

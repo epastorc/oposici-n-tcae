@@ -1,0 +1,12 @@
+{
+  "source": "TCAE_EXAMEN 28.pdf",
+  "sourceUrl": "https://runa.sergas.es/xmlui/bitstream/handle/20.500.11940/19744/Gu%C3%ADa%20para%20la%20normalizaci%C3%B3n%20de%20los%20procesos%20en%20las%20centrales%20de%20esterilizaci%C3%B3n%20del%20Servicio%20Gallego%20de%20Salud.pdf?isAllowed=y&sequence=7",
+  "sourceUrls": {
+    "GuíaSalud Alzheimer": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_484_Alzheimer_AIAQS_resum.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "23": ["d", "SERGAS, guía de centrales de esterilización: material limpio y seco"],
+    "59": ["a", "GuíaSalud Alzheimer, escala de Zarit de 22 ítems"]
+  }
+}

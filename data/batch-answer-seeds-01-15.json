@@ -1,0 +1,12 @@
+{
+  "source": "TCAE_EXAMEN 15.pdf",
+  "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+  "sourceUrls": {
+    "Academia Opolis": "https://www.opolis.online/sanidad/demo_tcae/prueba.pdf"
+  },
+  "reviewedAt": "2026-06-01",
+  "answers": {
+    "35": ["a", "GuíaSalud, anexo 1.1, escala de Norton modificada por el Insalud"],
+    "43": ["b", "Academia Opolis, tema 14, humidificador con agua destilada estéril hasta nivel indicado, aproximadamente dos tercios", "author-material"]
+  }
+}

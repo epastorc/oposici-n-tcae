@@ -90,9 +90,11 @@ mismo formato que el banco principal y declara `topic` para indicar el bloque:
 
 ## Respuestas correctas
 
-Los PDF originales no contienen plantillas de soluciones. El formato JSON incluye
-el campo opcional `correctAnswer`. Las soluciones se investigan en fuentes oficiales
-y se auditan por separado en `data/answer-review.json`.
+La mayoría de los PDF originales no contienen plantillas de soluciones. El formato
+JSON incluye el campo opcional `correctAnswer`. Las soluciones se investigan en
+fuentes institucionales, se incorporan desde plantillas de corrección publicadas
+por el autor o se contrastan con su material docente público, indicando expresamente
+la procedencia. Todas se auditan por separado en `data/answer-review.json`.
 
 ```bash
 ./.venv/bin/python scripts/build_answer_review.py
@@ -101,5 +103,14 @@ y se auditan por separado en `data/answer-review.json`.
 ./.venv/bin/python scripts/apply_verified_answers.py
 ```
 
-Cada solución verificada conserva la URL oficial, el artículo o apartado consultado
-y la fecha de revisión.
+Cada solución documentada conserva la URL, el artículo, apartado o plantilla
+consultada y la fecha de revisión.
+
+Las plantillas de corrección de Academia Opolis se convierten en lotes importables
+con una validación textual de cada opción:
+
+```bash
+./.venv/bin/python scripts/import_opolis_answer_sheet.py \
+  "TCAE_EXAMEN 2.pdf" /ruta/a/plantilla-correccion-2.pdf \
+  --output data/author-answer-seeds-02.json
+```

@@ -1,0 +1,26 @@
+{
+  "source": "TCAE_EXAMEN 23.pdf",
+  "sourceUrl": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+  "sourceUrls": {
+    "SES": "https://saludextremadura.ses.es/filescms/saludteca/uploaded_files/Libros/ManualdeUrgenciasCardiovascularesdelaSCC%20%281%29.pdf",
+    "GuíaSalud ITU": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_483_ITU_poblacion_pediatrica_ICS_compl.pdf",
+    "Ley 41/2002": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-22188",
+    "Real Decreto 521/1987": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-9351",
+    "Real Decreto 137/1984": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-2574",
+    "SERGAS": "https://femora.sergas.es/Eliminacion/Materiais--Sondaxe-vesical?idioma=es"
+  },
+  "reviewedAt": "2026-06-01",
+  "excluded": {
+    "18": "La pregunta admite al menos Foley y Malecot como sondas vesicales; no se publica una respuesta única."
+  },
+  "answers": {
+    "3": ["b", "SES, Manual de urgencias cardiovasculares, tabla de dispositivos de suministro de oxígeno"],
+    "4": ["b", "GuíaSalud ITU, conservación refrigerada de muestras de orina entre 2 y 8 grados"],
+    "5": ["c", "Ley 41/2002, artículo 17.4"],
+    "16": ["b", "Real Decreto 521/1987, artículos 21 y 25: Junta Técnico-Asistencial como órgano asesor"],
+    "33": ["d", "Real Decreto 137/1984, artículo 2, definición y funciones del centro de salud"],
+    "35": ["a", "Ley 41/2002, artículo 2.6"],
+    "53": ["d", "Decreto 47/2023, artículo 7 b), unidades transversales"],
+    "59": ["d", "Real Decreto 137/1984, artículo 1.2"]
+  }
+}

@@ -5,7 +5,8 @@
     "Ley 55/2003": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
     "GuíaSalud": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_432_cuidados_UPP_compl.pdf",
     "Gasometría arterial": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/prueba-de-gasometria-arterial/",
-    "Pulsioximetría": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria"
+    "Pulsioximetría": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+    "SES, Manual de Urgencias Cardiovasculares": "https://saludextremadura.ses.es/filescms/saludteca/uploaded_files/Libros/ManualdeUrgenciasCardiovascularesdelaSCC%20%281%29.pdf"
   },
   "reviewedAt": "2026-05-31",
   "answers": {
@@ -34,6 +35,7 @@
     "31": ["c", "Oxigenoterapia, posición Fowler"],
     "32": ["a", "Oxigenoterapia, indicación médica"],
     "33": ["a", "Oxigenoterapia, botella precisa control de caudal"],
+    "34": ["d", "SES, Manual de Urgencias Cardiovasculares, tabla de dispositivos: la mascarilla Venturi es de alto flujo y no aparece entre las opciones"],
     "36": ["a", "Oxigenoterapia, mascarilla Venturi con concentración aproximada de 24 a 60 por ciento"],
     "38": ["d", "Oxigenoterapia, caudalímetro graduado en litros por minuto"],
     "39": ["c", "Oxigenoterapia, flujómetro graduado en litros por minuto"],
@@ -79,7 +81,6 @@
     "14": "La clasificación por fases ofrecida está desactualizada frente a categorías clínicas vigentes.",
     "23": "No debe introducirse bastoncillo en el conducto; las opciones no describen de forma inequívoca una higiene segura.",
     "28": "Los puntos de corte de NOVA 5 requieren precisar versión aplicada.",
-    "34": "Las opciones no incluyen la mascarilla Venturi, sistema de alto flujo de referencia.",
     "37": "La adaptación de oxigenoterapia durante alimentación debe individualizarse y seguir indicación clínica.",
     "50": "La posición de movilización debe individualizarse; las opciones no formulan una regla universal.",
     "51": "La limpieza de material de rehabilitación depende del reparto funcional del centro.",

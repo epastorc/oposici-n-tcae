@@ -85,6 +85,7 @@ def main() -> None:
                 item["confidence"] = "high"
                 item["sourceUrl"] = sheet["answerUrl"]
                 item["sourceDetail"] = sheet["sourceDetail"]
+                item["sourceKind"] = "official"
                 item["reviewedAt"] = sheet["reviewedAt"]
                 imported += 1
     propagated = propagate_equivalent_variants(review["items"])

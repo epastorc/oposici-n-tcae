@@ -54,6 +54,7 @@ def main() -> None:
                 "confidence": prior.get("confidence"),
                 "sourceUrl": prior.get("sourceUrl"),
                 "sourceDetail": prior.get("sourceDetail"),
+                "sourceKind": prior.get("sourceKind"),
                 "reviewedAt": prior.get("reviewedAt"),
                 "notes": prior.get("notes"),
             }
