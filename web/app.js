@@ -1,5 +1,6 @@
 const STORAGE = { tests: "tcae-saved-tests", wrong: "tcae-wrong-questions" };
 const state = { bank: [], test: [], testId: null, index: 0, answers: {}, review: {}, mode: "test" };
+const OPPOSITION = { mode: "opposition", totalQuestions: 85, scoredQuestions: 80, reserveQuestions: 5 };
 const $ = (id) => document.getElementById(id);
 
 window.setTimeout(() => {
@@ -18,6 +19,9 @@ function writeStorage(key, value) {
 }
 function savedTests() {
   return readStorage(STORAGE.tests, []);
+}
+function isOppositionMode() {
+  return state.mode === OPPOSITION.mode;
 }
 function questionById(id) {
   return state.bank.find(question => question.id === id);
@@ -48,7 +52,7 @@ function setView(section) {
   if (section === "wrong-questions") renderWrongQuestions();
 }
 function persistCurrentTest(completed = false) {
-  if (!state.testId || state.mode !== "test") return;
+  if (!state.testId) return;
   const tests = savedTests();
   const existing = tests.find(test => test.id === state.testId);
   if (!existing) return;
@@ -56,6 +60,7 @@ function persistCurrentTest(completed = false) {
     questionIds: state.test.map(question => question.id),
     answers: state.answers,
     review: state.review,
+    mode: state.mode,
     index: state.index,
     completed,
     updatedAt: new Date().toISOString()
@@ -76,13 +81,14 @@ function start() {
     return;
   }
   $("start-error").textContent = "";
-  const size = Math.min(Number($("test-size").value), state.bank.length);
+  const selectedMode = $("test-size").value;
+  const size = Math.min(selectedMode === OPPOSITION.mode ? OPPOSITION.totalQuestions : Number(selectedMode), state.bank.length);
   state.test = shuffle(state.bank).slice(0, size);
   state.testId = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
-  state.index = 0; state.answers = {}; state.review = {}; state.mode = "test";
+  state.index = 0; state.answers = {}; state.review = {}; state.mode = selectedMode === OPPOSITION.mode ? OPPOSITION.mode : "test";
   const now = new Date().toISOString();
   const tests = savedTests();
-  tests.unshift({ id: state.testId, name, questionIds: state.test.map(question => question.id), answers: {}, review: {}, index: 0, completed: false, createdAt: now, updatedAt: now });
+  tests.unshift({ id: state.testId, name, questionIds: state.test.map(question => question.id), answers: {}, review: {}, mode: state.mode, index: 0, completed: false, createdAt: now, updatedAt: now });
   writeStorage(STORAGE.tests, tests);
   setView("quiz"); render();
 }
@@ -91,7 +97,7 @@ function loadTest(id, reviewOnly = false) {
   if (!saved) return;
   state.test = saved.questionIds.map(questionById).filter(Boolean);
   state.testId = saved.id; state.index = saved.index || 0;
-  state.answers = saved.answers || {}; state.review = saved.review || {}; state.mode = "test";
+  state.answers = saved.answers || {}; state.review = saved.review || {}; state.mode = saved.mode || "test";
   if (reviewOnly) finish(false); else { setView("quiz"); render(); }
 }
 function render() {
@@ -129,13 +135,21 @@ function finish(save = true) {
   const correct = graded.filter(question => state.answers[question.id] === question.correctAnswer);
   const mistakes = graded.filter(question => state.answers[question.id] !== question.correctAnswer);
   const unverified = state.test.length - verified.length;
-  const grade = graded.length ? ((correct.length / graded.length) * 10).toFixed(2).replace(".", ",") : null;
+  const oppositionPoints = Math.max(0, Math.min(OPPOSITION.scoredQuestions, correct.length - (mistakes.length / 3)));
+  const grade = graded.length ? (isOppositionMode()
+    ? ((oppositionPoints / OPPOSITION.scoredQuestions) * 10)
+    : ((correct.length / graded.length) * 10)).toFixed(2).replace(".", ",") : null;
   const score = graded.length ? `${correct.length} de ${graded.length}` : "Todavía no hay respuestas verificadas contestadas en este test";
   if (save) { saveMistakes(mistakes); persistCurrentTest(true); }
+  const oppositionSummary = isOppositionMode() ? `<p><strong>Puntuación de oposición:</strong> ${oppositionPoints.toFixed(2).replace(".", ",")} / ${OPPOSITION.scoredQuestions} puntos.</p>
+    <p>Se descuentan <strong>${(mistakes.length / 3).toFixed(2).replace(".", ",")}</strong> puntos por ${mistakes.length} fallos. El reto incluye ${OPPOSITION.reserveQuestions} preguntas de reserva y la puntuación máxima se limita a ${OPPOSITION.scoredQuestions}.</p>` : "";
   $("result-summary").innerHTML = `<p><strong>${answered}</strong> respondidas · <strong>${pending}</strong> sin responder · <strong>${reviews}</strong> marcadas para repasar.</p>
     <p><strong>Resultado verificable:</strong> ${score}.</p>
     <p><strong>Nota:</strong> ${grade === null ? "no disponible" : `${grade} / 10`}.</p>
+    ${oppositionSummary}
     <p>La nota se calcula sobre las <strong>${graded.length}</strong> preguntas verificadas que has contestado. Este test contiene <strong>${verified.length}</strong> preguntas con solución investigada en fuentes oficiales y <strong>${unverified}</strong> pendientes de revisión.</p>`;
+  $("correct-answers").innerHTML = `<section class="result-block correct-answers"><h3>Preguntas correctas (${correct.length})</h3>
+    ${correct.length ? `<ol>${correct.map(question => resultItem(question, true)).join("")}</ol>` : "<p>No has acertado ninguna de las preguntas corregibles.</p>"}</section>`;
   $("mistakes").innerHTML = `<section class="result-block mistakes"><h3>Preguntas falladas (${mistakes.length})</h3>
     ${mistakes.length ? `<ol>${mistakes.map(question => resultItem(question, true)).join("")}</ol>` : "<p>No has fallado ninguna de las preguntas corregibles.</p>"}</section>`;
   $("solutions").innerHTML = `<section class="result-block"><h3>Resolución del cuestionario</h3>
@@ -160,7 +174,7 @@ function renderSavedTests() {
   $("saved-tests-list").innerHTML = tests.length ? tests.map(test => {
     const answered = Object.keys(test.answers || {}).length;
     return `<article class="saved-item"><div><h3>${escapeHtml(test.name)}</h3>
-      <p>${test.questionIds.length} preguntas · ${answered} respondidas · ${test.completed ? "Terminado" : "En progreso"}</p></div>
+      <p>${test.questionIds.length} preguntas${test.mode === OPPOSITION.mode ? " · modo oposición" : ""} · ${answered} respondidas · ${test.completed ? "Terminado" : "En progreso"}</p></div>
       <div class="item-actions">${test.completed ? `<button class="secondary" data-review-test="${test.id}">Revisar</button><button data-print-test="${test.id}">Imprimir PDF</button>` : `<button data-resume-test="${test.id}">Continuar</button>`}
       <button class="danger" data-delete-test="${test.id}">Eliminar</button></div></article>`;
   }).join("") : '<p class="empty-state">Todavía no has guardado ningún reto.</p>';

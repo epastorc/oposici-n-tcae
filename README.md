@@ -9,6 +9,8 @@ importador reproducible para regenerarlo cuando se añadan nuevos exámenes.
 ## Funcionalidades
 
 - Tests aleatorios de `100`, `50` o `25` preguntas.
+- Modo oposición de `85` preguntas: `80` puntuables y `5` de reserva, con penalización
+  de un acierto por cada tres fallos.
 - Navegación entre preguntas conservando las respuestas.
 - Marcado de preguntas para repasar.
 - Resumen final de preguntas respondidas y pendientes.
