@@ -62,9 +62,15 @@ exactamente cuatro opciones, se excluye y queda registrado en el campo `warnings
 - `web/data/thematic-questions.json`: banco independiente de preguntas nuevas según temario.
 - `web/`: aplicación estática.
 
-Las preguntas nuevas según temario se añaden manualmente a
-`web/data/thematic-questions.json`. Cada entrada usa el mismo formato que el banco
-principal y puede declarar `topic` para indicar el bloque del temario:
+Las preguntas nuevas según temario se generan exclusivamente para TCAE a partir de
+soluciones verificadas del banco principal:
+
+```bash
+python3 scripts/generate_tcae_thematic_questions.py
+```
+
+El resultado se guarda en `web/data/thematic-questions.json`. Cada entrada usa el
+mismo formato que el banco principal y declara `topic` para indicar el bloque:
 
 ```json
 {
