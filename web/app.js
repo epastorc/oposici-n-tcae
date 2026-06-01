@@ -1,6 +1,7 @@
 const STORAGE = { tests: "tcae-saved-tests", wrong: "tcae-wrong-questions" };
-const state = { bank: [], test: [], testId: null, index: 0, answers: {}, review: {}, mode: "test" };
+const state = { bank: [], thematicBank: [], test: [], testId: null, index: 0, answers: {}, review: {}, mode: "test" };
 const OPPOSITION = { mode: "opposition", totalQuestions: 85, scoredQuestions: 80, reserveQuestions: 5 };
+const THEMATIC_MODE = "thematic";
 const $ = (id) => document.getElementById(id);
 
 window.setTimeout(() => {
@@ -24,7 +25,7 @@ function isOppositionMode() {
   return state.mode === OPPOSITION.mode;
 }
 function questionById(id) {
-  return state.bank.find(question => question.id === id);
+  return [...state.bank, ...state.thematicBank].find(question => question.id === id);
 }
 function escapeHtml(value) {
   return String(value).replace(/[&<>"']/g, character => ({
@@ -34,6 +35,9 @@ function escapeHtml(value) {
 function optionText(question, key) {
   const option = question.options.find(item => item.key === key);
   return option ? `${key.toUpperCase()}) ${option.text}` : "Sin responder";
+}
+function questionLabel(question) {
+  return question.topic || question.source;
 }
 function sourceLink(question) {
   if (!question.answerSource) return "";
@@ -46,7 +50,7 @@ function explanation(question) {
   return `${detail}${sourceLink(question)}`;
 }
 function setView(section) {
-  ["welcome", "quiz", "results", "saved-tests", "wrong-questions"].forEach(id => $(id).hidden = id !== section);
+  ["welcome", "thematic-questions", "quiz", "results", "saved-tests", "wrong-questions"].forEach(id => $(id).hidden = id !== section);
   document.querySelectorAll(".nav-link").forEach(button => button.classList.toggle("active", button.dataset.view === section));
   if (section === "saved-tests") renderSavedTests();
   if (section === "wrong-questions") renderWrongQuestions();
@@ -92,6 +96,32 @@ function start() {
   writeStorage(STORAGE.tests, tests);
   setView("quiz"); render();
 }
+function startThematic() {
+  const name = $("thematic-test-name").value.trim();
+  if (!name) {
+    $("thematic-start-error").textContent = "Pon un nombre al reto para poder recuperarlo después.";
+    return;
+  }
+  if (!uniqueName(name)) {
+    $("thematic-start-error").textContent = "Ya existe un reto con ese nombre. Elige otro distinto.";
+    return;
+  }
+  if (!state.thematicBank.length) {
+    $("thematic-start-error").textContent = "Todavía no hay preguntas nuevas cargadas en el banco por temario.";
+    return;
+  }
+  $("thematic-start-error").textContent = "";
+  const selectedSize = $("thematic-test-size").value;
+  const size = selectedSize === "all" ? state.thematicBank.length : Math.min(Number(selectedSize), state.thematicBank.length);
+  state.test = shuffle(state.thematicBank).slice(0, size);
+  state.testId = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+  state.index = 0; state.answers = {}; state.review = {}; state.mode = THEMATIC_MODE;
+  const now = new Date().toISOString();
+  const tests = savedTests();
+  tests.unshift({ id: state.testId, name, questionIds: state.test.map(question => question.id), answers: {}, review: {}, mode: state.mode, index: 0, completed: false, createdAt: now, updatedAt: now });
+  writeStorage(STORAGE.tests, tests);
+  setView("quiz"); render();
+}
 function loadTest(id, reviewOnly = false) {
   const saved = savedTests().find(test => test.id === id);
   if (!saved) return;
@@ -106,7 +136,7 @@ function render() {
   $("progress").textContent = `Pregunta ${state.index + 1} de ${state.test.length}`;
   $("answered").textContent = `${Object.keys(state.answers).length} respondidas`;
   $("progress-fill").style.width = `${((state.index + 1) / state.test.length) * 100}%`;
-  $("source").textContent = `${question.source} · pregunta ${question.number}`;
+  $("source").textContent = `${questionLabel(question)} · pregunta ${question.number}`;
   $("prompt").textContent = question.prompt;
   $("options").innerHTML = question.options.map(option => `
     <label class="option"><input type="radio" name="answer" value="${option.key}"
@@ -122,7 +152,7 @@ function render() {
 function saveMistakes(mistakes) {
   const wrong = readStorage(STORAGE.wrong, {});
   mistakes.forEach(question => {
-    wrong[question.id] = { questionId: question.id, lastAnswer: state.answers[question.id], updatedAt: new Date().toISOString() };
+    wrong[question.id] = { questionId: question.id, lastAnswer: state.answers[question.id], mode: state.mode, updatedAt: new Date().toISOString() };
   });
   writeStorage(STORAGE.wrong, wrong);
 }
@@ -162,7 +192,7 @@ function printCurrentResults() {
   window.setTimeout(() => document.body.classList.remove("is-printing-results"), 500);
 }
 function resultItem(question, showUserAnswer) {
-  return `<li><p><strong>${escapeHtml(question.source)} · pregunta ${question.number}</strong></p>
+  return `<li><p><strong>${escapeHtml(questionLabel(question))} · pregunta ${question.number}</strong></p>
     <p>${escapeHtml(question.prompt)}</p>
     ${showUserAnswer ? `<p><strong>Tu respuesta:</strong> ${escapeHtml(optionText(question, state.answers[question.id]))}</p>` : ""}
     ${question.correctAnswer
@@ -174,13 +204,13 @@ function renderSavedTests() {
   $("saved-tests-list").innerHTML = tests.length ? tests.map(test => {
     const answered = Object.keys(test.answers || {}).length;
     return `<article class="saved-item"><div><h3>${escapeHtml(test.name)}</h3>
-      <p>${test.questionIds.length} preguntas${test.mode === OPPOSITION.mode ? " · modo oposición" : ""} · ${answered} respondidas · ${test.completed ? "Terminado" : "En progreso"}</p></div>
+      <p>${test.questionIds.length} preguntas${test.mode === OPPOSITION.mode ? " · modo oposición" : ""}${test.mode === THEMATIC_MODE ? " · según temario" : ""} · ${answered} respondidas · ${test.completed ? "Terminado" : "En progreso"}</p></div>
       <div class="item-actions">${test.completed ? `<button class="secondary" data-review-test="${test.id}">Revisar</button><button data-print-test="${test.id}">Imprimir PDF</button>` : `<button data-resume-test="${test.id}">Continuar</button>`}
       <button class="danger" data-delete-test="${test.id}">Eliminar</button></div></article>`;
   }).join("") : '<p class="empty-state">Todavía no has guardado ningún reto.</p>';
 }
 function renderWrongQuestions() {
-  const wrong = Object.values(readStorage(STORAGE.wrong, {}));
+  const wrong = Object.values(readStorage(STORAGE.wrong, {})).filter(item => item.mode !== THEMATIC_MODE);
   $("retry-wrong").disabled = !wrong.length;
   $("wrong-questions-list").innerHTML = wrong.length ? `<ol class="wrong-list">${wrong.map(item => {
     const question = questionById(item.questionId);
@@ -188,7 +218,7 @@ function renderWrongQuestions() {
   }).join("")}</ol>` : '<p class="empty-state">No hay preguntas incorrectas guardadas.</p>';
 }
 function retryWrong() {
-  const ids = Object.keys(readStorage(STORAGE.wrong, {}));
+  const ids = Object.values(readStorage(STORAGE.wrong, {})).filter(item => item.mode !== THEMATIC_MODE).map(item => item.questionId);
   state.test = ids.map(questionById).filter(Boolean);
   if (!state.test.length) return;
   state.testId = null; state.index = 0; state.answers = {}; state.review = {}; state.mode = "wrong";
@@ -196,6 +226,7 @@ function retryWrong() {
 }
 
 $("start-test").addEventListener("click", start);
+$("start-thematic-test").addEventListener("click", startThematic);
 $("new-test").addEventListener("click", () => setView("welcome"));
 $("restart").addEventListener("click", () => setView("welcome"));
 $("previous").addEventListener("click", () => { state.index--; persistCurrentTest(); render(); });
@@ -227,6 +258,10 @@ fetch("data/questions.json").then(response => response.json()).then(data => {
   const verified = state.bank.filter(question => question.correctAnswer).length;
   $("catalog").textContent = `${state.bank.length} preguntas disponibles procedentes de ${data.sources.length} exámenes. ${verified} soluciones verificadas en fuentes oficiales.`;
 }).catch(() => $("catalog").textContent = "No se ha encontrado el banco de preguntas. Ejecuta el importador.");
+fetch("data/thematic-questions.json").then(response => response.json()).then(data => {
+  state.thematicBank = data.questions;
+  $("thematic-catalog").textContent = `${state.thematicBank.length} preguntas nuevas disponibles según temario.`;
+}).catch(() => $("thematic-catalog").textContent = "No se ha encontrado el banco de preguntas nuevas según temario.");
 fetch("version.json", { cache: "no-store" }).then(response => response.json()).then(version => {
   $("version").textContent = `Versión ${version.commit} · ${version.deployedAt}`;
 }).catch(() => {});

@@ -25,6 +25,7 @@
     <div class="navbar-wrap">
       <nav class="navbar" aria-label="Navegación principal">
         <button class="nav-link active" data-view="welcome">Inicio</button>
+        <button class="nav-link" data-view="thematic-questions">Preguntas nuevas según temario</button>
         <button class="nav-link" data-view="saved-tests">Tests guardados</button>
         <button class="nav-link" data-view="wrong-questions">Preguntas incorrectas</button>
       </nav>
@@ -48,6 +49,25 @@
         </label>
         <p id="start-error" class="form-error" role="alert"></p>
         <button id="start-test">Comenzar aventura</button>
+      </section>
+      <section id="thematic-questions" class="card" hidden>
+        <p class="badge">Repaso por temario</p>
+        <h2>Preguntas nuevas según temario</h2>
+        <p>Estas preguntas se gestionan en un banco independiente y no se mezclan con las preguntas extraídas de exámenes.</p>
+        <p id="thematic-catalog">Cargando preguntas nuevas...</p>
+        <label>Nombre único del reto
+          <input id="thematic-test-name" type="text" maxlength="60" placeholder="Ejemplo: Temario anatomía 1">
+        </label>
+        <label>Número de preguntas
+          <select id="thematic-test-size">
+            <option value="all">Todas las preguntas disponibles</option>
+            <option value="50">50 preguntas</option>
+            <option value="25">25 preguntas</option>
+            <option value="10">10 preguntas</option>
+          </select>
+        </label>
+        <p id="thematic-start-error" class="form-error" role="alert"></p>
+        <button id="start-thematic-test">Comenzar repaso por temario</button>
       </section>
       <section id="saved-tests" class="card" hidden>
         <p class="badge">Historial de aventuras</p>

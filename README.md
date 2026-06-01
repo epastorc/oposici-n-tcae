@@ -16,6 +16,7 @@ importador reproducible para regenerarlo cuando se añadan nuevos exámenes.
 - Resumen final de preguntas respondidas y pendientes.
 - Diseño adaptado a escritorio, tablet y móvil.
 - Extracción automática de preguntas desde PDF.
+- Banco independiente para preguntas nuevas según temario.
 
 ## Ejecutar la web
 
@@ -58,7 +59,28 @@ exactamente cuatro opciones, se excluye y queda registrado en el campo `warnings
 - `scripts/import_pdfs.sh`: importador reproducible.
 - `scripts/serve.sh`: servidor web local.
 - `web/data/questions.json`: banco de preguntas.
+- `web/data/thematic-questions.json`: banco independiente de preguntas nuevas según temario.
 - `web/`: aplicación estática.
+
+Las preguntas nuevas según temario se añaden manualmente a
+`web/data/thematic-questions.json`. Cada entrada usa el mismo formato que el banco
+principal y puede declarar `topic` para indicar el bloque del temario:
+
+```json
+{
+  "id": "temario-anatomia-1",
+  "topic": "Anatomía",
+  "number": 1,
+  "prompt": "Texto de la pregunta",
+  "options": [
+    { "key": "a", "text": "Primera opción" },
+    { "key": "b", "text": "Segunda opción" },
+    { "key": "c", "text": "Tercera opción" },
+    { "key": "d", "text": "Cuarta opción" }
+  ],
+  "correctAnswer": "a"
+}
+```
 
 ## Respuestas correctas
 
