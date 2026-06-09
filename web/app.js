@@ -2,6 +2,8 @@ const STORAGE = { tests: "tcae-saved-tests", wrong: "tcae-wrong-questions" };
 const state = { bank: [], thematicBank: [], test: [], testId: null, index: 0, answers: {}, review: {}, mode: "test" };
 const OPPOSITION = { mode: "opposition", totalQuestions: 85, scoredQuestions: 80, reserveQuestions: 5 };
 const THEMATIC_MODE = "thematic";
+const OFFICIAL_2013_SOURCE = "Examen Turno Libre 2013.pdf";
+const OFFICIAL_2013_MODE = "official-2013";
 const $ = (id) => document.getElementById(id);
 
 window.setTimeout(() => {
@@ -55,7 +57,7 @@ function explanation(question) {
   return `${sourceType} ${detail}${sourceLink(question)}`;
 }
 function setView(section) {
-  ["welcome", "thematic-questions", "quiz", "results", "saved-tests", "wrong-questions"].forEach(id => $(id).hidden = id !== section);
+  ["welcome", "official-2013", "thematic-questions", "quiz", "results", "saved-tests", "wrong-questions"].forEach(id => $(id).hidden = id !== section);
   document.querySelectorAll(".nav-link").forEach(button => button.classList.toggle("active", button.dataset.view === section));
   if (section === "saved-tests") renderSavedTests();
   if (section === "wrong-questions") renderWrongQuestions();
@@ -121,6 +123,33 @@ function startThematic() {
   state.test = shuffle(state.thematicBank).slice(0, size);
   state.testId = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
   state.index = 0; state.answers = {}; state.review = {}; state.mode = THEMATIC_MODE;
+  const now = new Date().toISOString();
+  const tests = savedTests();
+  tests.unshift({ id: state.testId, name, questionIds: state.test.map(question => question.id), answers: {}, review: {}, mode: state.mode, index: 0, completed: false, createdAt: now, updatedAt: now });
+  writeStorage(STORAGE.tests, tests);
+  setView("quiz"); render();
+}
+function startOfficial2013() {
+  const name = $("official-2013-test-name").value.trim();
+  if (!name) {
+    $("official-2013-start-error").textContent = "Pon un nombre al examen para poder recuperarlo después.";
+    return;
+  }
+  if (!uniqueName(name)) {
+    $("official-2013-start-error").textContent = "Ya existe un reto con ese nombre. Elige otro distinto.";
+    return;
+  }
+  const questions = state.bank
+    .filter(question => question.source === OFFICIAL_2013_SOURCE)
+    .sort((left, right) => left.number - right.number);
+  if (!questions.length) {
+    $("official-2013-start-error").textContent = "Todavía no está cargado el examen Turno Libre 2013.";
+    return;
+  }
+  $("official-2013-start-error").textContent = "";
+  state.test = questions;
+  state.testId = `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+  state.index = 0; state.answers = {}; state.review = {}; state.mode = OFFICIAL_2013_MODE;
   const now = new Date().toISOString();
   const tests = savedTests();
   tests.unshift({ id: state.testId, name, questionIds: state.test.map(question => question.id), answers: {}, review: {}, mode: state.mode, index: 0, completed: false, createdAt: now, updatedAt: now });
@@ -209,7 +238,7 @@ function renderSavedTests() {
   $("saved-tests-list").innerHTML = tests.length ? tests.map(test => {
     const answered = Object.keys(test.answers || {}).length;
     return `<article class="saved-item"><div><h3>${escapeHtml(test.name)}</h3>
-      <p>${test.questionIds.length} preguntas${test.mode === OPPOSITION.mode ? " · modo oposición" : ""}${test.mode === THEMATIC_MODE ? " · según temario" : ""} · ${answered} respondidas · ${test.completed ? "Terminado" : "En progreso"}</p></div>
+      <p>${test.questionIds.length} preguntas${test.mode === OPPOSITION.mode ? " · modo oposición" : ""}${test.mode === THEMATIC_MODE ? " · según temario" : ""}${test.mode === OFFICIAL_2013_MODE ? " · Turno Libre 2013" : ""} · ${answered} respondidas · ${test.completed ? "Terminado" : "En progreso"}</p></div>
       <div class="item-actions">${test.completed ? `<button class="secondary" data-review-test="${test.id}">Revisar</button><button data-print-test="${test.id}">Imprimir PDF</button>` : `<button data-resume-test="${test.id}">Continuar</button>`}
       <button class="danger" data-delete-test="${test.id}">Eliminar</button></div></article>`;
   }).join("") : '<p class="empty-state">Todavía no has guardado ningún reto.</p>';
@@ -231,6 +260,7 @@ function retryWrong() {
 }
 
 $("start-test").addEventListener("click", start);
+$("start-official-2013-test").addEventListener("click", startOfficial2013);
 $("start-thematic-test").addEventListener("click", startThematic);
 $("new-test").addEventListener("click", () => setView("welcome"));
 $("restart").addEventListener("click", () => setView("welcome"));
@@ -263,8 +293,14 @@ fetch("data/questions.json").then(response => response.json()).then(data => {
   const verified = state.bank.filter(question => question.correctAnswer).length;
   const authorKeys = state.bank.filter(question => question.answerSourceKind === "author-key").length;
   const authorMaterials = state.bank.filter(question => question.answerSourceKind === "author-material").length;
+  const official2013 = state.bank.filter(question => question.source === OFFICIAL_2013_SOURCE);
+  const official2013Verified = official2013.filter(question => question.correctAnswer).length;
   $("catalog").textContent = `${state.bank.length} preguntas disponibles procedentes de ${data.sources.length} exámenes. ${verified} soluciones documentadas (${authorKeys} tomadas de plantillas de corrección y ${authorMaterials} contrastadas con material docente público del autor).`;
-}).catch(() => $("catalog").textContent = "No se ha encontrado el banco de preguntas. Ejecuta el importador.");
+  $("official-2013-catalog").textContent = `${official2013.length} preguntas cargadas. ${official2013Verified} respuestas guardadas desde la plantilla oficial.`;
+}).catch(() => {
+  $("catalog").textContent = "No se ha encontrado el banco de preguntas. Ejecuta el importador.";
+  $("official-2013-catalog").textContent = "No se ha encontrado el examen Turno Libre 2013.";
+});
 fetch("data/thematic-questions.json").then(response => response.json()).then(data => {
   state.thematicBank = data.questions;
   $("thematic-catalog").textContent = `${state.thematicBank.length} preguntas nuevas disponibles según temario.`;

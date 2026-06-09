@@ -25,6 +25,7 @@
     <div class="navbar-wrap">
       <nav class="navbar" aria-label="Navegación principal">
         <button class="nav-link active" data-view="welcome">Inicio</button>
+        <button class="nav-link" data-view="official-2013">Turno Libre 2013</button>
         <button class="nav-link" data-view="thematic-questions">Preguntas nuevas según temario</button>
         <button class="nav-link" data-view="saved-tests">Tests guardados</button>
         <button class="nav-link" data-view="wrong-questions">Preguntas incorrectas</button>
@@ -49,6 +50,17 @@
         </label>
         <p id="start-error" class="form-error" role="alert"></p>
         <button id="start-test">Comenzar aventura</button>
+      </section>
+      <section id="official-2013" class="card" hidden>
+        <p class="badge">Examen oficial</p>
+        <h2>Turno Libre 2013</h2>
+        <p>Realiza el primer ejercicio completo de Auxiliar de Enfermería de la Junta de Extremadura, convocatoria de 27 de diciembre de 2013.</p>
+        <p id="official-2013-catalog">Cargando examen...</p>
+        <label>Nombre único del reto
+          <input id="official-2013-test-name" type="text" maxlength="60" placeholder="Ejemplo: Turno Libre 2013">
+        </label>
+        <p id="official-2013-start-error" class="form-error" role="alert"></p>
+        <button id="start-official-2013-test">Comenzar Turno Libre 2013</button>
       </section>
       <section id="thematic-questions" class="card" hidden>
         <p class="badge">Repaso por temario</p>

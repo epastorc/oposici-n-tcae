@@ -2198,11 +2198,11 @@
           "text": "Morestin."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Toracocentesis, convención docente: paciente sentado/inclinado u ortopneico; respuesta forzada por variación del procedimiento",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-10-10",
@@ -2633,11 +2633,11 @@
           "text": "Según su forma y tamaño y según su capacidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Colectores de orina, convención docente: clasificación por facilidad de contaminación y por tipo de sonda/sistema; respuesta forzada por taxonomía docente",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-10-25",
@@ -2807,11 +2807,11 @@
           "text": "A los 2 o 3 días de vida."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cuidados del recién nacido, convención docente: primer corte de uñas a los 7-10 días si es necesario; respuesta forzada por recomendación variable",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-10-31",
@@ -3416,11 +3416,11 @@
           "text": "2-3 minutos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Pie diabético, convención docente: aseo breve de unos 5 minutos; respuesta forzada por evitar maceración y por variación de guías",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-10-52",
@@ -3735,11 +3735,11 @@
           "text": "500 a 1600 ml/24 horas, generalmente 800 ml/24 horas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Eliminación urinaria, convención docente: diuresis adulta habitual de 1000-1600 ml/24 h, alrededor de 1400 ml",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-10-63",
@@ -4373,11 +4373,11 @@
           "text": "71 años."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Estatuto Marco, artículo 26.3: respuesta forzada por la edad ordinaria histórica de 65 años entre las opciones; el texto vigente remite a la legislación de Seguridad Social",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-11-estatuto-18",
@@ -6809,11 +6809,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pancreaticcancer.html",
+      "answerSourceDetail": "Anatomía abdominal: el páncreas se localiza principalmente en epigastrio e hipocondrio izquierdo; ninguna opción regional ofrecida lo expresa como cuadrante correcto",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-12-45",
@@ -8810,11 +8810,11 @@
           "text": "Nunca más de 4 tomas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.who.int/news-room/questions-and-answers/item/breastfeeding",
+      "answerSourceDetail": "Alimentación artificial del lactante, convención docente: alrededor de 1 mes se pautan de forma orientativa 6-8 tomas; respuesta forzada porque la alimentación debe individualizarse",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-13-34",
@@ -12493,11 +12493,11 @@
           "text": "Fiebre ligera, en la parte media o zona cuadriculada."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Temperatura corporal, convención docente: 38,3 ºC se registra como fiebre ligera en la zona cuadriculada/media de la gráfica; respuesta forzada por depender del modelo de gráfica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-15-16",
@@ -13537,11 +13537,11 @@
           "text": "Dos o más."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Sondaje urinario, convención docente: la sonda Mercier puede presentarse con una o dos luces según modelo; respuesta forzada por variación comercial",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-15-52",
@@ -13711,11 +13711,11 @@
           "text": "Metabolismo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+      "answerSourceDetail": "Sistema digestivo, convención docente: absorción, excreción y defensa inmunitaria intestinal son funciones digestivas; metabolismo sistémico es la opción menos propia",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-15-58",
@@ -14204,11 +14204,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Traslado postoperatorio con anestesia general, convención docente: lateralizar cabeza, traslado suave y vigilancia del paciente; respuesta forzada por dependencia del estado clínico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-15-75",
@@ -17133,11 +17133,11 @@
           "text": "90 puntos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Escala de Zarit, versión docente de 22 ítems puntuados 1-5: puntuación máxima 110; respuesta forzada porque existen versiones con otras puntuaciones",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-17-39",
@@ -17568,11 +17568,11 @@
           "text": "Demostrarle al paciente que ha entendido y comprendido su mensaje, con un gesto, una palmada, un movimiento afirmativo, una sonrisa, etc."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Escucha activa, convención docente: no corresponde responder estrictamente solo cuando sea preciso, frente a silencio, reformulación y comunicación no verbal de comprensión",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-17-54",
@@ -17829,11 +17829,11 @@
           "text": "2500."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Consultorio local, convención normativa/docente histórica: umbral de 500 habitantes; respuesta forzada porque la regulación vigente no fija un mínimo general",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-17-63",
@@ -19453,11 +19453,11 @@
           "text": "61 huesos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/esp_imagepages/1120.htm",
+      "answerSourceDetail": "Anatomía de caja torácica: el cálculo anatómico estricto suele dar 37 huesos; se fuerza la opción más próxima disponible, 41 huesos",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-18-55",
@@ -21570,11 +21570,11 @@
           "text": "3."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.sanidad.gob.es/areas/calidadAsistencial/excelenciaClinica/docs/BQ.pdf",
+      "answerSourceDetail": "Posicionamiento quirúrgico en decúbito lateral, convención docente: se emplean al menos tres apoyos/soportes laterales para fijación básica; respuesta forzada porque depende de mesa y procedimiento",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-19-28",
@@ -22672,11 +22672,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Gráfica hospitalaria, convención docente: la filiación recoge nombre, dirección y teléfonos/datos identificativos; respuesta forzada por variación del modelo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-9",
@@ -22788,11 +22788,11 @@
           "text": "Piel: el sudor representa una pérdida de 300 cc/día aproximadamente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Balance hídrico, convención docente: la pérdida por sudor/piel de 300 cc/día es la relación menos ajustada entre las opciones; respuesta forzada por variabilidad fisiológica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-13",
@@ -22817,11 +22817,11 @@
           "text": "Tratamiento que recibe el paciente (terapéutica)."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Gráfica hospitalaria, convención docente: el tratamiento o terapéutica no se registra en el encabezamiento de filiación; respuesta forzada por depender del modelo de gráfica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-14",
@@ -22846,11 +22846,11 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sistema Murphy o gota a gota, convención docente TCAE: puede emplearse para enemas medicamentosos y alimenticios; respuesta forzada por tratarse de una práctica/protocolo histórico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-15",
@@ -23223,11 +23223,11 @@
           "text": "La temperatura que tiene el paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Gráfica hospitalaria, convención docente: la temperatura se registra en la zona gráfica/media, no en la parte inferior; respuesta forzada por depender del modelo documental",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-28",
@@ -23426,11 +23426,11 @@
           "text": "Anotaremos su temperatura mediante líneas dentadas en la parte central de la gráfica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Temperatura timpánica pediátrica: tirar hacia arriba y atrás no es regla para todos los pacientes pediátricos; respuesta forzada por edad y técnica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-35",
@@ -23455,11 +23455,11 @@
           "text": "Una jeringa de 5 a 10 ml según la sonda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Lavado vesical continuo, convención docente: se requiere sonda de tres luces, suero fisiológico y jeringa para balón; el escabel no forma parte específica del carro de sondaje/lavado",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-36",
@@ -23484,11 +23484,11 @@
           "text": "No sobrepasar nunca los 5 gramos al día."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Estreñimiento, convención docente: suplemento de salvado de trigo de 10-20 g diarios; respuesta forzada por tolerancia individual",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-37",
@@ -23571,11 +23571,11 @@
           "text": "Presencia de moco o por sedimentos de la orina."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sondaje vesical, convención docente: entre las opciones, la punta apoyada en pared vesical es la causa menos típica de obstrucción frente a acodamiento, coágulos o sedimento",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-40",
@@ -23861,11 +23861,11 @@
           "text": "Bicarbonato sódico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Baño terapéutico de asiento, convención docente: centeno no figura entre sustancias habituales como avena, almidón o bicarbonato",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-50",
@@ -24006,11 +24006,11 @@
           "text": "Fase necrótica y estadio II."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Úlceras por presión, taxonomía docente histórica: esfacelos se asocian a fase necrótica/estadio IV; respuesta forzada frente a clasificación vigente",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-55",
@@ -24035,11 +24035,11 @@
           "text": "Hay osteomielitis."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Úlceras por presión, taxonomía docente histórica: la fase necrótica no se denomina fase de rotura de piel; respuesta forzada frente a clasificación vigente",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-56",
@@ -24238,11 +24238,11 @@
           "text": "Detrás de las orejas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cuidados del recién nacido, convención docente: el vérnix caseoso se acumula en pliegues, espalda y detrás de las orejas; las cuencas de los ojos son la opción falsa",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-2-63",
@@ -29545,11 +29545,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente encamado, convención docente del test: se inicia por el miembro inferior derecho; respuesta forzada porque la lateralidad no es regla clínica universal",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-22-26",
@@ -30444,11 +30444,11 @@
           "text": "Empezaremos por el izquierdo, desde el pie al muslo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente encamado, convención docente: se lava desde zona distal a proximal para favorecer retorno venoso; respuesta forzada porque el lado inicial depende del protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-22-57",
@@ -31082,11 +31082,11 @@
           "text": "Todo paciente que ingrese en el Hospital."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cambios posturales, convención docente: están especialmente indicados en pacientes comatosos o inmovilizados; respuesta forzada porque también pueden aplicarse en otros contextos",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-23-9",
@@ -31198,11 +31198,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Deambulación en hemiplejia, convención docente: técnica de soporte lateral",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-23-13",
@@ -31372,11 +31372,11 @@
           "text": "Sonda de Foley."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sondaje vesical, convención docente: Foley es la sonda vesical prototípica; respuesta forzada porque Malecot también puede usarse en contexto urológico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-23-19",
@@ -31633,11 +31633,11 @@
           "text": "La dieta basal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Dietas hospitalarias, convención docente: la dieta líquida es transición inicial tras dieta absoluta antes de progresar a semiblanda; respuesta forzada por variación según protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-23-28",
@@ -32126,11 +32126,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enemas: para lubricar mucosa y reblandecer heces se emplea enema oleoso/emoliente, no representado en las opciones; respuesta por descarte",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-23-45",
@@ -32213,11 +32213,11 @@
           "text": "El consumo de varios medicamentos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Hiperglucemia en paciente diabético, convención docente: causa frecuente es olvido/error en administración de insulina; respuesta forzada porque infección y dieta también influyen",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-23-48",
@@ -32242,11 +32242,11 @@
           "text": "Saldrá primero el enfermo en la camilla, con el Celador empujando por el lugar donde el enfermo tenga la cabeza."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Traslado en camilla en espacio reducido, convención docente: sale primero el celador tirando desde la zona de los pies; respuesta forzada por maniobra y espacio",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-23-49",
@@ -32822,11 +32822,11 @@
           "text": "Lateral derecho o izquierdo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sondaje vesical masculino con prostatitis/hipertrofia prostática, convención docente: decúbito supino modificado; respuesta forzada por protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-23-69",
@@ -35867,11 +35867,11 @@
           "text": "La disminución del vaciamiento gástrico."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/constipation.html",
+      "answerSourceDetail": "Estreñimiento en ancianos, convención docente: el sedentarismo o falta de ejercicio se toma como causa principal entre las opciones; respuesta forzada porque el estreñimiento geriátrico es multifactorial",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-25-33",
@@ -36824,11 +36824,11 @@
           "text": "Negociación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/constipation.html",
+      "answerSourceDetail": "Duelo, modelo clásico de Kübler-Ross: la negación figura como fase del duelo; respuesta forzada porque ira y negociación también aparecen en el mismo modelo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-25-66",
@@ -37578,11 +37578,11 @@
           "text": "Cuatro, que son visual, gestual, acústico y táctil."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Comunicación no lingüística, convención docente: códigos visual, gestual y acústico; respuesta forzada por taxonomía",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-26-20",
@@ -37781,11 +37781,11 @@
           "text": "La expresión de la cara."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Comunicación no verbal, convención docente: la apariencia física es el primer elemento apreciable del paciente; respuesta forzada por depender del marco teórico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-26-27",
@@ -38071,11 +38071,11 @@
           "text": "Polifagia."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Diabetes mellitus, convención docente: polifagia es el síntoma cardinal de menor incidencia entre las opciones frente a poliuria y polidipsia",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-26-37",
@@ -38274,11 +38274,11 @@
           "text": "5, del 0 al 5."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Índice/Escala de Cruz Roja de Madrid, convención docente: seis grados, del 0 al 5; respuesta forzada por versión de escala",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-26-44",
@@ -38419,11 +38419,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Traslado postoperatorio con anestesia general, convención docente: lateralizar cabeza, traslado suave y vigilancia del paciente; respuesta forzada por dependencia del estado clínico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-26-49",
@@ -38825,11 +38825,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Anatomía palpebral: las glándulas de Moll son sudoríparas apocrinas en los párpados",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-26-63",
@@ -38941,11 +38941,11 @@
           "text": "Axila izquierda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente encamado, convención docente del test: se inicia por la mano derecha; respuesta forzada porque la lateralidad no es regla clínica universal",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-26-67",
@@ -39057,11 +39057,11 @@
           "text": "La segunda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "PIDEX, convención docente autonómica: la parte segunda se orienta a demencias degenerativas como Alzheimer; respuesta forzada por versión del programa",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-26-71",
@@ -39260,11 +39260,11 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Dolor irradiado, convención docente: se asocia principalmente a dolor visceral nociceptivo; respuesta forzada porque puede solaparse con dolor somático referido",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-26-78",
@@ -39289,11 +39289,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cuidados post mortem, convención docente: retirar almohadas salvo la de la cabeza para evitar estancamiento de sangre; respuesta forzada por protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-27-1",
@@ -39376,11 +39376,11 @@
           "text": "Una vez incorporado lo mantendremos de pie unos momentos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Movilización desde silla o sillón, convención docente: no se debe traccionar situando nuestras manos en los hombros del paciente; respuesta forzada por depender de capacidad funcional y ayudas",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-27-4",
@@ -44306,11 +44306,11 @@
           "text": "Impreso de citación."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Documentación clínica en Atención Primaria, convención docente: el impreso de citación es administrativo, no documento clínico asistencial; respuesta forzada por depender del sistema de información",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-29-25",
@@ -44654,11 +44654,11 @@
           "text": "El esófago."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Fisiología digestiva, convención docente: el cardias se abre por regulación nerviosa/autonómica; respuesta forzada por formulación imprecisa del enunciado",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-29-37",
@@ -45263,11 +45263,11 @@
           "text": "La pinza de Duval-Collin."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Instrumental quirúrgico, clasificación docente: Kocher se clasifica principalmente como hemostática, no de aprehensión; respuesta forzada porque algunas pinzas tienen usos múltiples",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-29-58",
@@ -45321,11 +45321,11 @@
           "text": "El celador."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Preparación prequirúrgica, convención docente histórica: el rasurado, cuando se indicaba, podía realizarlo el auxiliar de enfermería; respuesta forzada porque las guías actuales evitan rasurado rutinario",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-29-60",
@@ -47380,11 +47380,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "Úlceras por presión, taxonomía docente histórica: la fase de rotura de la piel se corresponde con la fase escoriativa; respuesta forzada frente a clasificaciones vigentes por categorías",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-3-41",
@@ -47873,11 +47873,11 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+      "answerSourceDetail": "Úlceras por presión, taxonomía docente histórica: la fase de edema vascular se corresponde con la fase eritematosa; respuesta forzada frente a clasificaciones vigentes por categorías",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-3-58",
@@ -64751,11 +64751,11 @@
           "text": "Promoverán las condiciones favorables para el progreso individual de las personas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Constitución Española, artículo 40.1: opción más próxima a la distribución más equitativa de la renta regional y personal; respuesta forzada porque el artículo también exige progreso social/económico y estabilidad económica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-35-281",
@@ -65186,11 +65186,11 @@
           "text": "No podrá ser prohibido ni aún en ese caso, debiendo, eso sí, ser dotado el acto de un intenso servicio de seguridad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
+      "answerSourceDetail": "Constitución Española, artículo 21.2: opción más próxima a la prohibición por razones fundadas de alteración del orden público; respuesta forzada porque la opción omite el peligro para personas o bienes",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-35-296",
@@ -68289,11 +68289,11 @@
           "text": "Sanidad alimentaria."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "answerSourceDetail": "Estatuto de Autonomía de Extremadura, artículo 9.1.27: acción social figura expresamente entre las competencias exclusivas; respuesta forzada porque el artículo 9 contiene otras materias parcialmente compatibles con las opciones",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-36-35",
@@ -70435,11 +70435,11 @@
           "text": "Los 72 años de edad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Estatuto Marco, artículo 26.3: la jubilación voluntaria se produce a solicitud del interesado y conforme a la legislación de Seguridad Social; opción forzada por la edad ordinaria histórica de 65 años entre las opciones ofrecidas",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-37-9",
@@ -70725,11 +70725,11 @@
           "text": "Las vacaciones anuales reglamentarias."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Estatuto Marco, artículo 17.1 h): el artículo reconoce vacaciones periódicas retribuidas; respuesta forzada porque todas las opciones son derechos individuales y esta es la menos literal respecto al texto legal",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-37-19",
@@ -71479,11 +71479,11 @@
           "text": "Las vacaciones anuales reglamentarias."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23101",
+      "answerSourceDetail": "Estatuto Marco, artículo 17.1 h): el artículo reconoce vacaciones periódicas retribuidas; respuesta forzada porque todas las opciones son derechos individuales y esta es la menos literal respecto al texto legal",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-37-45",
@@ -72581,11 +72581,11 @@
           "text": "El secretario general del Servicio Extremeño de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "answerSourceDetail": "Decreto 221/2008, artículo 5 c): la Secretaría General gestionaba la selección y nombramiento del personal estatutario interino y eventual; respuesta forzada frente a denominación orgánica modificada en textos consolidados posteriores",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-38-23",
@@ -72900,11 +72900,11 @@
           "text": "El secretario general del Servicio Extremeño de Salud."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf",
+      "answerSourceDetail": "Decreto 221/2008, artículo 5 c): la Secretaría General tenía atribuida la constitución de las bolsas de trabajo del personal estatutario temporal; respuesta forzada frente a denominación orgánica modificada en textos consolidados posteriores",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-38-34",
@@ -74292,11 +74292,11 @@
           "text": "Sólo los reconocidos por Leyes, Tratados o Convenios con España, y en todo caso, la atención de urgencia y emergencias."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+      "answerSourceDetail": "Ley 10/2001, artículo 10.1 d) y 10.2: los nacionales extracomunitarios tienen los derechos reconocidos por leyes, tratados y convenios y se garantiza a todas las personas la atención de urgencias y emergencias",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-38-82",
@@ -75626,11 +75626,11 @@
           "text": "A las entidades que integran la Administración Local, sus organismos autónomos, consorcios, fundaciones y demás entidades con personalidad jurídica propia en los que sea mayoritaria la representación directa de dichas entidades."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "answerSourceDetail": "Ley 8/2011, artículo 2.3 a): opción que reproduce el ámbito de la Administración autonómica y entidades dependientes; respuesta forzada porque la opción d también está incluida en el artículo 2.3",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-39-39",
@@ -75655,11 +75655,11 @@
           "text": "A la Universidad de Extremadura."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2011/590o/11010008.pdf",
+      "answerSourceDetail": "Ley 8/2011, artículo 2.3 a): opción que reproduce el ámbito de la Administración autonómica y entidades dependientes; respuesta forzada porque las opciones a y d también están incluidas en el artículo 2.3",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-39-40",
@@ -76902,11 +76902,11 @@
           "text": "Prono."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Actuación clásica ante síncope en paciente encamado: posición de Trendelenburg o elevación de miembros inferiores; respuesta forzada porque las recomendaciones actuales individualizan la posición",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-10",
@@ -79570,11 +79570,11 @@
           "text": "Salino."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enemas, convención docente: el enema de aceite de oliva puro se clasifica como oleoso/emoliente, no como enema de limpieza; respuesta forzada por taxonomía docente",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-2",
@@ -79657,11 +79657,11 @@
           "text": "Con un símbolo y un color que indica la cantidad de nutrientes de su composición."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Gráfica hospitalaria, convención docente: la dieta se anota mediante número o símbolo según el modelo de gráfica; respuesta forzada por dependencia del modelo documental",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-5",
@@ -80034,11 +80034,11 @@
           "text": "Cabeza-tronco-pelvis y extremidades inferiores."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cama articulada de tres segmentos, convención docente: cabeza, tronco-pelvis y extremidades inferiores; respuesta forzada por variación según modelo de cama",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-18",
@@ -80266,11 +80266,11 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Gráfica UCRI, convención docente: las cruces se usan para registrar expectoraciones; respuesta forzada por dependencia del modelo documental",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-26",
@@ -80295,11 +80295,11 @@
           "text": "3,15 metros de largo por 2,5 metros de ancho."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Lencería hospitalaria, convención docente: sábana de 3,15 m por 2 m; respuesta forzada por variación de equipamiento",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-27",
@@ -80440,11 +80440,11 @@
           "text": "Antes o después."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Fecaloma y enema de limpieza, convención docente: puede indicarse antes y después de la extracción; respuesta forzada porque depende de valoración clínica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-32",
@@ -80527,11 +80527,11 @@
           "text": "Nombre y apellidos del paciente. Si coincide con otro paciente anotaremos también número de habitación y cama."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Gráfica hospitalaria, convención docente: nombre y apellidos son datos de filiación, no de terapéutica; respuesta forzada por dependencia del modelo documental",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-35",
@@ -80614,11 +80614,11 @@
           "text": "Sims."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Procedimientos con trocar, convención docente: la posición fetal se asocia a punciones como la lumbar; respuesta forzada porque el trocar depende del procedimiento concreto",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-38",
@@ -80730,11 +80730,11 @@
           "text": "2 a 5 minutos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enema de limpieza, convención docente: retención aproximada de 5 a 10 minutos; respuesta forzada por variación según preparado y protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-42",
@@ -81020,11 +81020,11 @@
           "text": "Como mínimo 30 minutos, entre 15 y 30 minutos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enema de retención, convención docente: debe retenerse al menos 30 minutos, con rango orientativo 15-30 minutos; respuesta forzada por variación según tipo de enema",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-52",
@@ -81107,11 +81107,11 @@
           "text": "Sujetar con una mano el hombro más cercano del paciente y con la otra mano sujetará sus piernas, colocando el brazo por debajo de sus rodillas, a continuación, elevará y rotará su cuerpo 90º en un solo movimiento hasta sentarlo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Movilización al borde de cama, convención docente: sujeción de hombro lejano y piernas con rotación de 90 grados; respuesta forzada por depender de capacidad funcional",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-55",
@@ -81165,11 +81165,11 @@
           "text": "Entre 22 y 24 ºC."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enema laxante, convención docente: administración templada entre 37 y 40 ºC; respuesta forzada por variación según preparado",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-57",
@@ -81513,11 +81513,11 @@
           "text": "De Foster."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Camas ortopédicas, convención docente: la férula de Böhler se asocia a cama de Judet; respuesta forzada por variación de equipamiento",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-5-69",
@@ -81542,11 +81542,11 @@
           "text": "Aunque hoy en día apenas si se utiliza, estaba indicado antes de utilizar la vía intravenosa, para reponer líquidos cuando no se podía usar la vía oral."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sistema Murphy, convención docente: la afirmación de pequeños volúmenes se toma como falsa frente a la proctoclisis lenta de soluciones; respuesta forzada por descripción histórica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-1",
@@ -81629,11 +81629,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enemas, convención docente TCAE: el irrigador se sitúa aproximadamente a 30-50 cm sobre la zona rectal; respuesta forzada por variación según protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-4",
@@ -81716,11 +81716,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Movilización de Fowler a sentado, convención docente: puede realizarla una persona si el paciente colabora; respuesta forzada por depender de capacidad funcional",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-7",
@@ -81774,11 +81774,11 @@
           "text": "6 o más veces al día."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Eliminación urinaria, convención docente: frecuencia miccional normal orientativa de cinco o más veces al día; respuesta forzada por variación con hidratación y contexto",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-9",
@@ -82180,11 +82180,11 @@
           "text": "Cambiar el adhesivo siempre que exista el mínimo signo de filtración del efluente entre la piel y el dispositivo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Ostomías, convención docente: cambiar el disco cada 7-14 días es excesivo como pauta general; respuesta forzada por depender del sistema y de la piel",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-23",
@@ -82354,11 +82354,11 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Camas ortopédicas, convención docente: clavo de Steinmann y agujas de Kirschner pueden asociarse a cama de Judet y electrocircular; respuesta forzada por variación de equipamiento",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-29",
@@ -82441,11 +82441,11 @@
           "text": "180ºC."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Movilización de Fowler a sentado, convención docente: giro de 90 grados para sentar al borde de cama; respuesta forzada por depender de técnica y entorno",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-32",
@@ -82499,11 +82499,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Traslado postoperatorio con anestesia general, convención docente: lateralizar cabeza, traslado suave y vigilancia del paciente; respuesta forzada por dependencia del estado clínico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-34",
@@ -82586,11 +82586,11 @@
           "text": "Meter las manos del paciente en un recipiente con agua caliente, para facilitar la limpieza y el cortado de las uñas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Aseo de miembros superiores, convención docente: 'siempre empezaremos por el miembro superior derecho' es la afirmación falsa por su carácter absoluto; respuesta forzada por variación de protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-37",
@@ -82644,11 +82644,11 @@
           "text": "Curva, roma, acodada y en forma de pico de pato."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sondas vesicales, convención docente: la sonda Robinson se describe con punta curva o roma; respuesta forzada por variación de catálogo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-39",
@@ -82934,11 +82934,11 @@
           "text": "Dementes."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Decúbito prono, convención docente: entre las opciones, demencia no se toma como contraindicación general de posición ventral; respuesta forzada por valoración individual",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-49",
@@ -83282,11 +83282,11 @@
           "text": "Una vez incorporado lo mantendremos de pie unos momentos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Movilización desde silla o sillón, convención docente: no se debe traccionar situando nuestras manos en los hombros del paciente; respuesta forzada por depender de capacidad funcional y ayudas",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-61",
@@ -83311,11 +83311,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Transferencia cama-camilla, convención docente: si colabora puede realizarla un técnico, camilla paralela y ambas frenadas; respuesta forzada por valoración funcional",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-62",
@@ -83514,11 +83514,11 @@
           "text": "Los 15 minutos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene del paciente, convención docente: la ducha no debe sobrepasar aproximadamente 10 minutos; respuesta forzada por dependencia del protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-6-69",
@@ -83659,11 +83659,11 @@
           "text": "De capacidad."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Clasificación funcional de vasos sanguíneos, convención docente: conducción, volumen/capacitancia son términos usados; 'de retorno' es la denominación menos aceptada",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-5",
@@ -83717,11 +83717,11 @@
           "text": "Sujetaremos a el paciente por su cintura."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Soporte lateral en deambulación, convención docente: es falsa la colocación del técnico al lado sano; debe protegerse el lado afectado/pléjico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-7",
@@ -83775,11 +83775,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Marcha de tres puntos con muletas, convención docente: se usa cuando debe evitarse cargar peso en la pierna afectada",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-9",
@@ -83920,11 +83920,11 @@
           "text": "Grave."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Graduación docente de inmovilidad: desplazamiento en silla de ruedas se clasifica como inmovilidad moderada; respuesta forzada por depender de escala",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-14",
@@ -83949,11 +83949,11 @@
           "text": "Porque no asegura un buen equilibrio , ya que la fuerza que ejerce la persona sobre la empuñadura no recaerá sobre la caña, sino fuera de ella."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Bastón, convención docente: la empuñadura curva puede desplazar la línea de fuerza fuera de la caña y comprometer equilibrio; respuesta forzada por adaptación individual",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-15",
@@ -83978,11 +83978,11 @@
           "text": "Que el peciente necesite elementos mecánicos para deambular."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Deambulación asistida, convención docente: antes de iniciar la marcha se comprueba que el paciente tolera permanecer sentado; respuesta forzada porque la valoración completa incluye más parámetros",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-16",
@@ -84036,11 +84036,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Muletas, convención docente: los artefactos o elementos de apoyo aumentan la estabilidad al deambular o apoyarse; respuesta forzada por terminología imprecisa",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-18",
@@ -84123,11 +84123,11 @@
           "text": "Prestar ayuda técnica al paciente mediante nuestra presencia o la utilización de algún elemento (muletas, bastones, andadores, etc.)."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Inicio de deambulación, convención docente: fijar siempre un máximo de 10-15 minutos no corresponde como actividad universal; respuesta forzada por tolerancia individual",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-21",
@@ -84152,11 +84152,11 @@
           "text": "Muleta derecha e izquierda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Marcha de cuatro puntos, convención docente: en la secuencia derecha-izquierda, tras adelantar el pie izquierdo se adelanta la muleta izquierda; respuesta forzada por patrón iniciado",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-22",
@@ -84239,11 +84239,11 @@
           "text": "1500 ml."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Lavado vesical continuo, convención docente: bolsa de suero fisiológico de 3000 ml; respuesta forzada por variación del sistema utilizado",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-25",
@@ -84268,11 +84268,11 @@
           "text": "Los 20-30 días."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Sonda Foley de silicona, convención docente: permanencia máxima orientativa de 90 días; respuesta forzada por depender de indicación y protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-26",
@@ -84529,11 +84529,11 @@
           "text": "Puede utilizarse la marcha de los 3, 4 y 5 puntos o tiempos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Muletas, convención docente: no se reconoce una marcha de cinco puntos como patrón estándar con muletas; respuesta forzada por mezcla de conceptos",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-35",
@@ -84587,11 +84587,11 @@
           "text": "Muleta derecha."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Marcha de cuatro puntos, convención docente: se inicia con la muleta derecha en la secuencia clásica enseñada; respuesta forzada por patrón entrenado",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-37",
@@ -84732,11 +84732,11 @@
           "text": "Indistintamente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cambio a decúbito lateral, convención docente: colocar previamente al paciente hacia un lateral de la cama facilita el giro; respuesta forzada por depender de dirección y técnica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-42",
@@ -85080,11 +85080,11 @@
           "text": "90º."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Fowler a sentado al borde de cama, convención docente: giro de 90 grados; respuesta forzada por técnica y colaboración",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-54",
@@ -85109,11 +85109,11 @@
           "text": "Soporte asistido."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Deambulación con inseguridad leve, convención docente: técnica de soporte lateral; respuesta forzada por nivel funcional",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-55",
@@ -85138,11 +85138,11 @@
           "text": "Dorsal, semiprono, trendelenburg, litotomía y Fowler."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Equivalencias posturales: supino/dorsal, Sims/semiprono, Morestin/antitrendelenburg, ginecológica/litotomía, mahometana/genupectoral",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-56",
@@ -85196,11 +85196,11 @@
           "text": "Muy leve."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Graduación docente de inmovilidad: lesión unilateral o pérdida de equilibrio se clasifica como inmovilidad moderada; respuesta forzada por depender de escala",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-58",
@@ -85225,11 +85225,11 @@
           "text": "Pinzar drenaje."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Pinza de Barr, uso obstétrico: se relaciona con pinzamiento del cordón umbilical; respuesta forzada por denominación de instrumental",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-59",
@@ -85370,11 +85370,11 @@
           "text": "Medio-transversal y medio-frontal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Planos anatómicos, respuesta por descarte: el plano sagital se relaciona con medial/lateral aunque el enunciado está mal formulado; respuesta forzada",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-64",
@@ -85428,11 +85428,11 @@
           "text": "Los pies del profesional deben estar separados y las rodillas ligeramente flexionadas"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Cambio postural con paciente no colaborador, convención docente: es incorrecto pedirle que haga fuerza si no colabora; respuesta forzada por seguridad ergonómica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-66",
@@ -85457,11 +85457,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Muletas y bastones, convención docente: la contera/regatón tiene superficie de apoyo cóncava; respuesta forzada por variación del fabricante",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-67",
@@ -85486,11 +85486,11 @@
           "text": "6 a 8 cm."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Ajuste de muletas axilares, convención docente: distancia aproximada de 2-3 cm respecto a la axila; respuesta forzada por adaptación individual",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-68",
@@ -85544,11 +85544,11 @@
           "text": "Sí, en pacientes postquirúrgicos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Transferencia cama-camilla, convención docente: puede colocarse en paralelo si el paciente colabora; respuesta forzada por espacio y técnica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-70",
@@ -85573,11 +85573,11 @@
           "text": "28 puntos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Escala de Tinetti: la subescala de equilibrio tiene puntuación máxima de 16 puntos",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-71",
@@ -85602,11 +85602,11 @@
           "text": "Síndrome postcaídas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Escala/síndrome de Kennedy, convención docente de caídas: se relaciona con síndrome postcaídas; respuesta forzada por necesidad de versión concreta",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-72",
@@ -85863,11 +85863,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Marcha parkinsoniana: el braceo disminuye o desaparece según estadio; respuesta forzada frente a opciones absolutas",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-81",
@@ -85950,11 +85950,11 @@
           "text": "El pie izquierdo y la muleta derecha."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Marcha de dos puntos, convención docente: se adelantan simultáneamente pie derecho y muleta izquierda; respuesta forzada por patrón iniciado",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-84",
@@ -85979,11 +85979,11 @@
           "text": "Si, en la región genital."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Higiene/antisepsia, convención docente: clorhexidina puede utilizarse en región genital en preparación de técnicas como sondaje; respuesta forzada por indicación y producto",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-85",
@@ -86008,11 +86008,11 @@
           "text": "36 a 37ºC. PREGUNTAS DE RESERVA:"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Enema alimenticio, convención docente histórica: temperatura de 37-40 ºC; respuesta forzada por práctica desactualizada",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-86",
@@ -86037,11 +86037,11 @@
           "text": "De 50 a 100 ml."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/",
+      "answerSourceDetail": "Fisiología cardiovascular: volumen sistólico aproximado habitual de 60-70 ml por contracción; respuesta forzada por variabilidad fisiológica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-7-87",
@@ -86298,11 +86298,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Anatomía urinaria: la apertura y cierre de la uretra corresponde al esfínter uretral, que no aparece literalmente entre las opciones; respuesta forzada por descarte",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-8",
@@ -86356,11 +86356,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Marcha de cuatro puntos, convención docente: la muleta izquierda va precedida por el pie izquierdo en la secuencia enseñada; respuesta forzada por patrón iniciado",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-10",
@@ -86501,11 +86501,11 @@
           "text": "Piel descamada, vesículas, eritema y rotura de la piel."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Úlceras por presión, taxonomía docente histórica: eritema, edema vascular y rotura de piel; respuesta forzada frente a la clasificación vigente por categorías",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-15",
@@ -86762,11 +86762,11 @@
           "text": "Todas las respuestas anteriores son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Higiene de oídos: el bastoncillo se limita al pabellón auricular externo, no a extraer cera ni introducirse en el oído interno",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-24",
@@ -86907,11 +86907,11 @@
           "text": "< 12 Puntos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Escala NOVA 5, convención docente: bajo riesgo de 1 a 4 puntos; respuesta forzada por versión de escala",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-29",
@@ -87168,11 +87168,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Oxigenoterapia durante la alimentación, convención docente: sustituir temporalmente la mascarilla por cánula/catéter nasal permite comer manteniendo aporte de oxígeno; respuesta forzada porque requiere indicación clínica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-38",
@@ -87545,11 +87545,11 @@
           "text": "Flexión de la columna vertebral."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Movilización del paciente encamado, convención docente: mantener extensión/alineación evita flexiones o rotaciones que aumenten compresión; respuesta forzada por formulación de opciones",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-51",
@@ -87632,11 +87632,11 @@
           "text": "Evitando cualquier forma de movimiento para reducir la fatiga."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Movilización del paciente encamado, convención docente: ejercicios pasivos/asistidos de extremidades ayudan a mantener movilidad; respuesta forzada por individualización clínica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-54",
@@ -87951,11 +87951,11 @@
           "text": "La ducha durará de 10 a 15 minutos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Higiene del paciente, convención docente: la ducha se considera estimulante y el baño relajante; por tanto es incorrecto atribuir efecto relajante a la ducha",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-65",
@@ -88067,11 +88067,11 @@
           "text": "Ninguna respuesta es correcta"
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Gráfica hospitalaria, convención docente: la anamnesis/filiación inicial recoge datos personales, unidad, habitación y cama; respuesta forzada por terminología documental",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-69",
@@ -88299,11 +88299,11 @@
           "text": "Realizaremos la higiene de cintura hacia abajo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+      "answerSourceDetail": "Higiene tras deposición en pañal, convención docente: limpiar desde región anal hacia espalda, evitando arrastrar suciedad hacia genitales",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-8-77",
@@ -89865,11 +89865,11 @@
           "text": "El modelo de autocuidado de Virginia Henderson."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://doe.juntaex.es/pdfs/doe/2023/920o/23040089.pdf",
+      "answerSourceDetail": "Decreto 47/2023 y modelo de autocuidado en atención primaria: referencia docente al modelo de Dorothea Orem",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-official"
     },
     {
       "id": "tcae_examen-9-50",
@@ -89899,6 +89899,2500 @@
       "answerSourceDetail": "Decreto 47/2023, funciones del equipo de atención primaria",
       "answerReviewedAt": "2026-05-31",
       "answerSourceKind": "official"
+    },
+    {
+      "id": "examen-turno-libre-2013-1",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 1,
+      "prompt": "En el concepto dinámico de la SALUD, se observa cómo la salud y la enfermedad forman \"un continuo\", siendo la parte central:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El óptimo de salud."
+        },
+        {
+          "key": "b",
+          "text": "La muerte prematura."
+        },
+        {
+          "key": "c",
+          "text": "La zona neutra."
+        },
+        {
+          "key": "d",
+          "text": "La salud positiva."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-2",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 2,
+      "prompt": "El período patogénico en el curso de la enfermedad, corresponde a:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Al inicio de la enfermedad, aún antes de que se presenten los síntomas."
+        },
+        {
+          "key": "b",
+          "text": "A un estado de enfermedad, con síntomas muy claros."
+        },
+        {
+          "key": "c",
+          "text": "A un estado avanzado de enfermedad."
+        },
+        {
+          "key": "d",
+          "text": "A una enfermedad bien diagnosticada."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-3",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 3,
+      "prompt": "Dentro de los niveles de prevención de la enfermedad, ¿Qué acción se puede identificar con la prevención secundaria?",
+      "options": [
+        {
+          "key": "a",
+          "text": "La rehabilitación."
+        },
+        {
+          "key": "b",
+          "text": "La vacunación."
+        },
+        {
+          "key": "c",
+          "text": "La cloración de aguas."
+        },
+        {
+          "key": "d",
+          "text": "Realizar la prueba de Mantoux a personal sanitario que trabaje en zonas de riesgo."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-4",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 4,
+      "prompt": "Según Lalonde, de los determinantes de salud, ¿Cuál de ellos es apenas modificable?",
+      "options": [
+        {
+          "key": "a",
+          "text": "La biología humana."
+        },
+        {
+          "key": "b",
+          "text": "Los estilos de vida."
+        },
+        {
+          "key": "c",
+          "text": "El Sistema Sanitario."
+        },
+        {
+          "key": "d",
+          "text": "El Medio Ambiente."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-5",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 5,
+      "prompt": "Es una característica de los métodos directos de la educación para la salud:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Existe distancia entre el educador y el educando."
+        },
+        {
+          "key": "b",
+          "text": "No se produce intercambio de información."
+        },
+        {
+          "key": "c",
+          "text": "Mayor efectividad."
+        },
+        {
+          "key": "d",
+          "text": "Alcanza a mayor número de personas."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-6",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 6,
+      "prompt": "Es un método de Educación para la Salud, directo:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La radio."
+        },
+        {
+          "key": "b",
+          "text": "La televisión."
+        },
+        {
+          "key": "c",
+          "text": "Los folletos divulgativos."
+        },
+        {
+          "key": "d",
+          "text": "La charla."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-7",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 7,
+      "prompt": "Según el \"Círculo de Sinner\", si aumentas el tiempo del proceso limpieza-descontaminación, ¿Qué parámetro disminuirías?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Temperatura."
+        },
+        {
+          "key": "b",
+          "text": "Presión."
+        },
+        {
+          "key": "c",
+          "text": "Vapor de agua."
+        },
+        {
+          "key": "d",
+          "text": "Voltaje."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-8",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 8,
+      "prompt": "La estimación del promedio de años que vivirá una persona al nacer, se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Edad cronológica."
+        },
+        {
+          "key": "b",
+          "text": "Edad biológica."
+        },
+        {
+          "key": "c",
+          "text": "Edad funcional."
+        },
+        {
+          "key": "d",
+          "text": "Esperanza de vida."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-9",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 9,
+      "prompt": "El concepto de gerontología es:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El arte de la mejora de las condiciones de vida de los mayores."
+        },
+        {
+          "key": "b",
+          "text": "La disciplina que se ocupa del estudio de las enfermedades de la vejez y su tratamiento."
+        },
+        {
+          "key": "c",
+          "text": "La ciencia que trata del estudio de la vejez y los fenómenos que la caracterizan."
+        },
+        {
+          "key": "d",
+          "text": "La disciplina que estudia demográficamente a la vejez."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-10",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 10,
+      "prompt": "El Mini-Mental State Examination de Folstein, tiene una particularidad a aplicar:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nunca debe llegar a los 24 puntos."
+        },
+        {
+          "key": "b",
+          "text": "Siempre debe llegar a los 10 puntos."
+        },
+        {
+          "key": "c",
+          "text": "Hay que adaptarlo a la edad del mayor y a los años que estuvo escolarizado."
+        },
+        {
+          "key": "d",
+          "text": "Sólo es útil para mayores con dependencia funcional."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-11",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 11,
+      "prompt": "En la escala de Barthel, cuál sería la máxima puntuación:",
+      "options": [
+        {
+          "key": "a",
+          "text": "De O a 20 puntos."
+        },
+        {
+          "key": "b",
+          "text": "\"H\"."
+        },
+        {
+          "key": "c",
+          "text": "100 puntos."
+        },
+        {
+          "key": "d",
+          "text": "\"G\"."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-12",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 12,
+      "prompt": "La escala de Lawton y Brody, ¿Cuántos ítems utiliza para realizar la evaluación del anciano?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Seis."
+        },
+        {
+          "key": "b",
+          "text": "Diez."
+        },
+        {
+          "key": "c",
+          "text": "Siete."
+        },
+        {
+          "key": "d",
+          "text": "Ocho."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-13",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 13,
+      "prompt": "Cuando hablamos de los cambios en el sistema tegumentario, nos referimos a:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Gusto y olfato."
+        },
+        {
+          "key": "b",
+          "text": "Tacto y gusto."
+        },
+        {
+          "key": "c",
+          "text": "Piel, pelo, uñas y glándulas cutáneas."
+        },
+        {
+          "key": "d",
+          "text": "Vista y oído."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-14",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 14,
+      "prompt": "Dentro de los cambios del aparato digestivo, producidos por el envejecimiento, no se encontraría:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El aumento de la motilidad intestinal."
+        },
+        {
+          "key": "b",
+          "text": "La disminución de ácido gástrico."
+        },
+        {
+          "key": "c",
+          "text": "La sequedad bucal."
+        },
+        {
+          "key": "d",
+          "text": "La retracción de las encías."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-15",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 15,
+      "prompt": "Las estancias temporales en Centros Residenciales de la Junta de Extremadura, con carácter general, no podrán superar el período de:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dos meses."
+        },
+        {
+          "key": "b",
+          "text": "Dos meses y medio."
+        },
+        {
+          "key": "c",
+          "text": "Tres meses."
+        },
+        {
+          "key": "d",
+          "text": "Tres meses y medio."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-16",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 16,
+      "prompt": "Todos son principios rectores del Sistema Público de Servicios Sociales, contemplados en la Ley 14/2015, de 9 de abril, de Servicios Sociales de Extremadura, excepto:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La responsabilidad pública."
+        },
+        {
+          "key": "b",
+          "text": "La atención personalizada e integral."
+        },
+        {
+          "key": "c",
+          "text": "La jurisprudencia."
+        },
+        {
+          "key": "d",
+          "text": "La universalidad."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-17",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 17,
+      "prompt": "La prestación de cuidados sanitarios continuados, no curativos ni intensos, a personas altamente dependientes, con inadecuación o inexistencia de una red social de apoyo, que poseen un bajo nivel de autonomía y necesitan cuidados o supervisión prolongados dentro de un entorno residencial, pertenecen al tipo:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tipo 3 (T3)"
+        },
+        {
+          "key": "b",
+          "text": "Tipo 1 (T1)"
+        },
+        {
+          "key": "c",
+          "text": "Tipo 2 (T2)"
+        },
+        {
+          "key": "d",
+          "text": "Tipo 4 (T4)"
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-18",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 18,
+      "prompt": "La asertividad, en el contexto de las relaciones interpersonales, implica:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La capacidad de ponerse en el lugar del otro."
+        },
+        {
+          "key": "b",
+          "text": "La capacidad para defender las ideas propias, respetando las ideas de los demás."
+        },
+        {
+          "key": "c",
+          "text": "Establecer la proximidad afectiva entre el auxiliar y el paciente."
+        },
+        {
+          "key": "d",
+          "text": "La capacidad de no expresar las ideas propias."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-19",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 19,
+      "prompt": "A la eliminación física de material extraño en superficies y objetos inanimados se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Esterilización."
+        },
+        {
+          "key": "b",
+          "text": "Antisepsia."
+        },
+        {
+          "key": "c",
+          "text": "Desinfección."
+        },
+        {
+          "key": "d",
+          "text": "Limpieza."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-20",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 20,
+      "prompt": "¿Qué método elegirías para esterilizar material termosensible?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Autoclave de vapor de agua."
+        },
+        {
+          "key": "b",
+          "text": "Calor seco en horno de Pasteur."
+        },
+        {
+          "key": "c",
+          "text": "Óxido de etileno."
+        },
+        {
+          "key": "d",
+          "text": "Ebullición."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-21",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 21,
+      "prompt": "Es un portador sano:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La persona que elimina microorganismos durante la fase de convalecencia."
+        },
+        {
+          "key": "b",
+          "text": "La persona que elimina microorganismos antes de que aparezcan los signos y síntomas de la enfermedad."
+        },
+        {
+          "key": "c",
+          "text": "Una persona sana sólo puede ser portadora en el periodo de incubación."
+        },
+        {
+          "key": "d",
+          "text": "La persona que sin haber presentado la enfermedad, elimina microorganismos; se debe a la colonización o a una infección inaparentemente mínima."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-22",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 22,
+      "prompt": "No es contagioso aquel paciente sometido a un aislamiento:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Asilamiento entérico"
+        },
+        {
+          "key": "b",
+          "text": "Aislamiento respiratorio"
+        },
+        {
+          "key": "c",
+          "text": "Aislamiento estricto."
+        },
+        {
+          "key": "d",
+          "text": "Aislamiento protector."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-23",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 23,
+      "prompt": "La inducción de un sueño profundo en un enfermo terminal cuya muerte es inminente y el sufrimiento intenso, se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Distanasia."
+        },
+        {
+          "key": "b",
+          "text": "Encarnizamiento terapéutico."
+        },
+        {
+          "key": "c",
+          "text": "Sedación terminal."
+        },
+        {
+          "key": "d",
+          "text": "Eutanasia activa."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-24",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 24,
+      "prompt": "¿Qué principio bioético permite que el paciente informado decida lo que es bueno para sí mismo?",
+      "options": [
+        {
+          "key": "a",
+          "text": "El principio de beneficencia."
+        },
+        {
+          "key": "b",
+          "text": "El principio de autonomía."
+        },
+        {
+          "key": "c",
+          "text": "El principio de justicia."
+        },
+        {
+          "key": "d",
+          "text": "El principio de no maleficencia."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-25",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 25,
+      "prompt": "El cuadrante medio del abdomen, se divide en:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Epigastrio-mesogastrio-flanco izquierdo."
+        },
+        {
+          "key": "b",
+          "text": "Flanco derecho-mesogastrio-flanco izquierdo."
+        },
+        {
+          "key": "c",
+          "text": "Hipocondrio derecho-mesogastrio-hipocondrio izquierdo."
+        },
+        {
+          "key": "d",
+          "text": "Fosa ilíaca derecha- mesogastrio-fosa ilíaca izquierda."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-26",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 26,
+      "prompt": "La posición de Kraske, es una variante de:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Decúbito Prono."
+        },
+        {
+          "key": "b",
+          "text": "Decúbito Supino."
+        },
+        {
+          "key": "c",
+          "text": "Decúbito lateral."
+        },
+        {
+          "key": "d",
+          "text": "Fowler."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-27",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 27,
+      "prompt": "La posición de Morestin se utiliza en:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pacientes con mala circulación en extremidades inferiores."
+        },
+        {
+          "key": "b",
+          "text": "Pacientes con edemas en miembros inferiores."
+        },
+        {
+          "key": "c",
+          "text": "Pacientes con hernia hiatal."
+        },
+        {
+          "key": "d",
+          "text": "Es la indicada para la administración de medicamentos por vía rectal."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-28",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 28,
+      "prompt": "Al menos que se indique otra cosa, la muleta debe colocarse en:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El brazo contrario de la pierna lesionada."
+        },
+        {
+          "key": "b",
+          "text": "En el mismo brazo de la pierna lesionada."
+        },
+        {
+          "key": "c",
+          "text": "Es indiferente la colocación."
+        },
+        {
+          "key": "d",
+          "text": "Debe extenderse desde la cintura hasta el suelo."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-29",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 29,
+      "prompt": "Todas las respuestas son barreras en la comunicación, excepto:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tiempo disponible."
+        },
+        {
+          "key": "b",
+          "text": "Personalidad y actitud."
+        },
+        {
+          "key": "c",
+          "text": "Prejuicios."
+        },
+        {
+          "key": "d",
+          "text": "Empatía."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-30",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 30,
+      "prompt": "Indique qué elemento no forma parte de la comunicación:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Emisor."
+        },
+        {
+          "key": "b",
+          "text": "Código."
+        },
+        {
+          "key": "c",
+          "text": "Canal."
+        },
+        {
+          "key": "d",
+          "text": "Ruido."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-31",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 31,
+      "prompt": "Es un error del auxiliar de enfermería que cuida al mayor dependiente:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Estimular al mayor para que se sienta motivado."
+        },
+        {
+          "key": "b",
+          "text": "Supervisar al mayor en sus actividades básicas de la vida diaria."
+        },
+        {
+          "key": "c",
+          "text": "Hacer las tareas que el mayor pueda realizar, para así terminar antes."
+        },
+        {
+          "key": "d",
+          "text": "Ayudar al usuario en la realización de sus tareas."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-32",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 32,
+      "prompt": "Antes de administrar un fármaco, el auxiliar de enfermería deberá asegurase de \"la regla de los cinco correctos\". Indique cuáles son:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Fármaco, dosis, vía, hora y paciente correcto."
+        },
+        {
+          "key": "b",
+          "text": "Fármaco, dosis, vía, caducidad y paciente correcto."
+        },
+        {
+          "key": "c",
+          "text": "Prescripción, fármaco, dosis, vía y paciente correcto."
+        },
+        {
+          "key": "d",
+          "text": "Prescripción, fármaco, dosis, alergia medicamentosa y paciente correcto."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-33",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 33,
+      "prompt": "Es un efecto de la crioterapia aplicada sobre una determinada parte del cuerpo:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hiperemia."
+        },
+        {
+          "key": "b",
+          "text": "Anestésico local."
+        },
+        {
+          "key": "c",
+          "text": "Relajación muscular."
+        },
+        {
+          "key": "d",
+          "text": "Mejor actividad metabólica de la zona."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-34",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 34,
+      "prompt": "¿Cuál de los siguientes síntomas referidos a la depresión en el anciano, no se considera de tipo físico o somático?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dolores de cabeza."
+        },
+        {
+          "key": "b",
+          "text": "Ideas autolíticas."
+        },
+        {
+          "key": "c",
+          "text": "Pesadez en brazos y piernas."
+        },
+        {
+          "key": "d",
+          "text": "Palpitaciones."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-35",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 35,
+      "prompt": "La Terapia Ocupacional se define como la:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Intervención dirigida hacia la reeducación del paciente para la realización independiente de las actividades básicas, instrumentales y avanzadas, de la vida diaría, adaptación del entorno y el hogar y realización personalizada de ortesis y ayudas técnicas."
+        },
+        {
+          "key": "b",
+          "text": "Intervención dirigida hacia la consecución de la autonomía física del paciente."
+        },
+        {
+          "key": "c",
+          "text": "Intervención dirigida hacia la consecución de la autonomía sensorial del paciente."
+        },
+        {
+          "key": "d",
+          "text": "Intervención interdisciplinar de todos los elementos rehabilitadores para la consecución de la autonomía total del paciente."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-36",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 36,
+      "prompt": "La escala de Zarit valora:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La situación social y el medio en que reside el enfermo de Alzheimer."
+        },
+        {
+          "key": "b",
+          "text": "La evolución del deterioro cognitivo en el enfermo de Alzheimer."
+        },
+        {
+          "key": "c",
+          "text": "La claudicación del cuidador principal."
+        },
+        {
+          "key": "d",
+          "text": "El riesgo de caídas en el anciano institucionalizado."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-37",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 37,
+      "prompt": "Indique un factor extrínseco de riesgo en las caídas de los ancianos:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hipotensión."
+        },
+        {
+          "key": "b",
+          "text": "Lavabos y retretes muy bajos."
+        },
+        {
+          "key": "c",
+          "text": "Alteraciones visuales."
+        },
+        {
+          "key": "d",
+          "text": "Los fármacos al interactuar en el organismo anciano."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-38",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 38,
+      "prompt": "El sondaje con sonda nasogástrica de Segtaken-Blackemore, se utiliza para:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El drenaje y recogida de muestras de contenido gástrico."
+        },
+        {
+          "key": "b",
+          "text": "Pacientes con estenosis esofágica."
+        },
+        {
+          "key": "c",
+          "text": "Comprimir las varices esofágicas y gástricas."
+        },
+        {
+          "key": "d",
+          "text": "Administración de un enema de limpieza."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-39",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 39,
+      "prompt": "No es un problema de conducta en el enfermo de Alzheimer:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La agnosia."
+        },
+        {
+          "key": "b",
+          "text": "Las actuaciones sexuales inadecuadas."
+        },
+        {
+          "key": "c",
+          "text": "El vagabundeo."
+        },
+        {
+          "key": "d",
+          "text": "La coprofagia."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-40",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 40,
+      "prompt": "El índice de masa corporal o índice de Quetelet es:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El peso en kilogramos dividido por la talla en metros cuadrados."
+        },
+        {
+          "key": "b",
+          "text": "La talla en metros dividida por el peso en kilogramos."
+        },
+        {
+          "key": "c",
+          "text": "El peso en kilogramos dividido por la talla en centímetros."
+        },
+        {
+          "key": "d",
+          "text": "El peso en kilogramos dividido por la talla en metros."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-41",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 41,
+      "prompt": "Las necesidades proteicas en el anciano:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Están disminuidas al igual que las necesidades energéticas."
+        },
+        {
+          "key": "b",
+          "text": "Deben suponer entre el 55%-60% del valor calórico total."
+        },
+        {
+          "key": "c",
+          "text": "Deben ser aumentadas en situaciones como infecciones, cirugía y úlceras por presión."
+        },
+        {
+          "key": "d",
+          "text": "Deberían ser mayores en situaciones de insuficiencia hepática o renal."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-42",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 42,
+      "prompt": "Una medida destinada a aumentar la resistencia del huésped en las enfermedades transmisibles, sería:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El uso de guantes."
+        },
+        {
+          "key": "b",
+          "text": "El lavado de manos."
+        },
+        {
+          "key": "c",
+          "text": "La vacunación."
+        },
+        {
+          "key": "d",
+          "text": "La desinfección del material."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-43",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 43,
+      "prompt": "La incapacidad para recordar el nombre de objetos conocidos y usuales, típica de la fases iniciales de la demencia, se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Apraxia."
+        },
+        {
+          "key": "b",
+          "text": "Afasia."
+        },
+        {
+          "key": "c",
+          "text": "Anomia."
+        },
+        {
+          "key": "d",
+          "text": "Ecolalia."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-44",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 44,
+      "prompt": "Dentro de una ficha de diario miccional anotaremos los siguientes datos, excepto:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Intervalo miccional."
+        },
+        {
+          "key": "b",
+          "text": "Densidad de la orina."
+        },
+        {
+          "key": "c",
+          "text": "Micción."
+        },
+        {
+          "key": "d",
+          "text": "Volumen."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-45",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 45,
+      "prompt": "En el tratamiento de la incontinencia urinaria se deberá:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aumentar la ingesta de líquidos después de la tarde."
+        },
+        {
+          "key": "b",
+          "text": "Tratar el estreñimiento y evitar fecalomas."
+        },
+        {
+          "key": "c",
+          "text": "Aumentar los irritantes vesicales."
+        },
+        {
+          "key": "d",
+          "text": "Realizar ejercicios que fortalezcan la musculatura abdominal."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-46",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 46,
+      "prompt": "¿Cuál de las siguientes sondas uretrales es de dos vías?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sonda Malecot."
+        },
+        {
+          "key": "b",
+          "text": "Sonda de Foley."
+        },
+        {
+          "key": "c",
+          "text": "Sonda de Pezzer."
+        },
+        {
+          "key": "d",
+          "text": "Sonda de Robinson."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-47",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 47,
+      "prompt": "Debe colocar al paciente en la posición de Fowler si cuando va a realizar el cambio postural del mismo, se encuentra en:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Estado eupneico."
+        },
+        {
+          "key": "b",
+          "text": "Está roncando."
+        },
+        {
+          "key": "c",
+          "text": "Respira profundamente."
+        },
+        {
+          "key": "d",
+          "text": "Presenta ahogo o dificultad respiratoria."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-48",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 48,
+      "prompt": "Es un test de valoración cognitiva:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Escala de Yesavage."
+        },
+        {
+          "key": "b",
+          "text": "Cuestionario de Baber."
+        },
+        {
+          "key": "c",
+          "text": "Cuestionario de Pfeiffer."
+        },
+        {
+          "key": "d",
+          "text": "Escala de Plutchik."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-49",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 49,
+      "prompt": "Ante la discrepancia o rechazo de una sujeción física en personas incapacitadas legalmente, por parte de sus familiares:",
+      "options": [
+        {
+          "key": "a",
+          "text": "No se llevará a cabo tal sujeción."
+        },
+        {
+          "key": "b",
+          "text": "Se comunicará obligatoriamente la situación al juzgado."
+        },
+        {
+          "key": "c",
+          "text": "Prevalecerá la prescripción médica, tratándose éste de un acto terapéutico."
+        },
+        {
+          "key": "d",
+          "text": "Se dejará constancia por escrito de la incidencia, aplicándose el protocolo del centro."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-50",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 50,
+      "prompt": "Respecto a las sujeciones físicas:",
+      "options": [
+        {
+          "key": "a",
+          "text": "En caso de riesgo vital urgente, pueden ser prescritas por el facultativo que asista al paciente, sin tener que ser ratificada posteriormente por su médico residencial."
+        },
+        {
+          "key": "b",
+          "text": "Debe existir un consentimiento informado, firmado por el paciente, o en su defecto, por su familiar o representante legal y su médico."
+        },
+        {
+          "key": "c",
+          "text": "Una vez firmado el consentimiento y justificada la necesidad de la sujeción física no pueden ser revocados por su familiar o representante legal."
+        },
+        {
+          "key": "d",
+          "text": "La autorización se hará extensiva a cualquier medida de sujeción que considere oportuna el auxiliar de enfermería."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-51",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 51,
+      "prompt": "El uso de psicofármacos con el objeto de limitar o restringir los movimientos y las actividades de la vida diaria, así como el funcionamiento mental con el objetivo de controlar una conducta inadecuada o molesta, se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sujeción mecánica."
+        },
+        {
+          "key": "b",
+          "text": "Sujeción química."
+        },
+        {
+          "key": "c",
+          "text": "Tratamiento psiquiátrico."
+        },
+        {
+          "key": "d",
+          "text": "Encarnizamiento terapéutico."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-52",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 52,
+      "prompt": "Para proteger los ligamentos y articulaciones de la zona lumbar al realizar un esfuerzo, los músculos abdominales y glúteos se deben:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Estabilizar."
+        },
+        {
+          "key": "b",
+          "text": "Reforzar."
+        },
+        {
+          "key": "c",
+          "text": "Contraer."
+        },
+        {
+          "key": "d",
+          "text": "Relajar."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-53",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 53,
+      "prompt": "Es una úlcera por presión de grado II:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Eritema que no palidece con la piel intacta."
+        },
+        {
+          "key": "b",
+          "text": "Eritema que palidece al aplicar presión sobre la zona."
+        },
+        {
+          "key": "c",
+          "text": "Flictena o úlcera superficial que afecta a la dermis y/o la epidermis."
+        },
+        {
+          "key": "d",
+          "text": "Pérdida total del espesor de la piel hasta tejido muscular."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-54",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 54,
+      "prompt": "En la escala de Norton modificada, se valoran los siguientes ítems:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nutrición, estado mental, movilidad, incontinencia y actividad."
+        },
+        {
+          "key": "b",
+          "text": "Estado físico, estado mental, movilidad, incontinencia y actividad."
+        },
+        {
+          "key": "c",
+          "text": "Estado físico, estado mental, movilidad, sensibilidad al roce y actividad."
+        },
+        {
+          "key": "d",
+          "text": "Nutrición, estado mental, movilidad, sensibilidad al roce y actividad."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-55",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 55,
+      "prompt": "El desbridamiento autolítico en las úlceras por presión consiste en:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aplicación de productos enzimáticos tipo colagenasa (iruxol)."
+        },
+        {
+          "key": "b",
+          "text": "Retirada de forma selectiva de tejido desvitalizado con un equipo (bisturí y pinzas) estéril y una técnica aséptica."
+        },
+        {
+          "key": "c",
+          "text": "Aplicación de apósitos capaces de producir condiciones de cura húmeda, que favorezcan la acción de las propias enzimas."
+        },
+        {
+          "key": "d",
+          "text": "Corresponde al desbridamiento quirúrgico."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-56",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 56,
+      "prompt": "Los actos del Rey serán refrendados por:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El Presidente del Congreso."
+        },
+        {
+          "key": "b",
+          "text": "El Presidente del Senado."
+        },
+        {
+          "key": "c",
+          "text": "El Presidente del Gobierno y, en su caso, por los Ministros competentes."
+        },
+        {
+          "key": "d",
+          "text": "El Presidente de la Cámara permanente."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-57",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 57,
+      "prompt": "Los proyectos de reforma constitucional, deberán ser aprobados:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Por una mayoría simple del Senado."
+        },
+        {
+          "key": "b",
+          "text": "Por una mayoría simple del Congreso."
+        },
+        {
+          "key": "c",
+          "text": "Por mayoría absoluta del Senado."
+        },
+        {
+          "key": "d",
+          "text": "Por una mayoría de tres quintos de cada cámara."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-58",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 58,
+      "prompt": "Entre los signos y síntomas principales de la diabetes mellitus, ¿cuáles corresponden a las 4 \"p\" clásicas?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Poliuria, polifagia, polidipsia y pie diabético."
+        },
+        {
+          "key": "b",
+          "text": "Poliuria, polifagia, polidipsia y pérdida de peso."
+        },
+        {
+          "key": "c",
+          "text": "Poliuria, polifagia, polidipsia y pérdida de apetito."
+        },
+        {
+          "key": "d",
+          "text": "Poliuria, polifagia, polidipsia y pelagra."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-59",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 59,
+      "prompt": "Entre los signos y síntomas de hipoglucemia en un paciente diabético se encuentran todos excepto:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Disminución de glucosa en sangre."
+        },
+        {
+          "key": "b",
+          "text": "Sudoración."
+        },
+        {
+          "key": "c",
+          "text": "Poliuria."
+        },
+        {
+          "key": "d",
+          "text": "Temblor."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-60",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 60,
+      "prompt": "¿Cuál sería una actividad de prevención primaria en la diabetes mellitus tipo II?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Detección de glucemia capilar basal."
+        },
+        {
+          "key": "b",
+          "text": "Ejercicio físico."
+        },
+        {
+          "key": "c",
+          "text": "Tratamiento farmacológico con antidiabéticos orales e insulina."
+        },
+        {
+          "key": "d",
+          "text": "Cura del pie diabético."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-61",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 61,
+      "prompt": "El derecho a la protección de la salud, reconocido por la Constitución se encuentra regulado dentro:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Los derechos fundamentales y las libertades públicas."
+        },
+        {
+          "key": "b",
+          "text": "Los derechos y deberes de los ciudadanos."
+        },
+        {
+          "key": "c",
+          "text": "Los principios rectores de la política social y económica."
+        },
+        {
+          "key": "d",
+          "text": "Los deberes de los ciudadanos."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-62",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 62,
+      "prompt": "¿Cómo debe ser la dieta de un paciente diabético con obesidad?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dieta hipocalórica con restricción de hidratos de carbono simples."
+        },
+        {
+          "key": "b",
+          "text": "Dieta hipercalórica con mayor consumo de hidratos de carbono simples."
+        },
+        {
+          "key": "c",
+          "text": "Dieta hipocalórica con restricción de hidratos de carbono complejos."
+        },
+        {
+          "key": "d",
+          "text": "Dieta hipercalórica con restricción de hidratos de carbono simples."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-63",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 63,
+      "prompt": "Según el V Convenio Colectivo del Personal Laboral de la Junta de Extremadura, para que pueda considerarse la Comisión Paritaria constituída y para la válida adopción de los acuerdos establecidos, deberán estar presente, al menos:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dos representantes sindicales y un representante de la Administración."
+        },
+        {
+          "key": "b",
+          "text": "Tres representantes sindicales y tres representantes de la Administración."
+        },
+        {
+          "key": "c",
+          "text": "Cuatro representantes sindicales y tres representantes de la Administración."
+        },
+        {
+          "key": "d",
+          "text": "Cuatro representantes sindicales y dos representantes de la Administración."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-64",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 64,
+      "prompt": "¿Cuál de las siguientes situaciones patológicas es una complicación aguda de la diabetes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Cetoacidosis diabética."
+        },
+        {
+          "key": "b",
+          "text": "Retinopatía diabética."
+        },
+        {
+          "key": "c",
+          "text": "Nefrología diabética."
+        },
+        {
+          "key": "d",
+          "text": "Arteriopatía diabética."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-65",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 65,
+      "prompt": "Para evitar problemas en los pies, en un paciente diabético, es aconsejable:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Usar zapatillas mejor que zapatos."
+        },
+        {
+          "key": "b",
+          "text": "Usar zapatos mejor que zapatillas."
+        },
+        {
+          "key": "c",
+          "text": "Andar descalzos por la playa."
+        },
+        {
+          "key": "d",
+          "text": "Sentarse con las piernas cruzadas."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-66",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 66,
+      "prompt": "Según la OMS, la salud laboral tiene encomendada una función esencialmente:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Curativa."
+        },
+        {
+          "key": "b",
+          "text": "Formativa."
+        },
+        {
+          "key": "c",
+          "text": "Preventiva."
+        },
+        {
+          "key": "d",
+          "text": "Estadística."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-67",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 67,
+      "prompt": "Identifique dos riesgos químicos condicionantes del trabajo:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hongos y humos."
+        },
+        {
+          "key": "b",
+          "text": "Calor y vapores."
+        },
+        {
+          "key": "c",
+          "text": "Humos y vapores."
+        },
+        {
+          "key": "d",
+          "text": "Virus y bacterias."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-68",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 68,
+      "prompt": "Desde el punto de vista preventivo, según el Servicio de Salud y Prevención de Riesgos Laborales de la Junta de Extremadura, los accidentes biológicos nunca son:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Fortuitos."
+        },
+        {
+          "key": "b",
+          "text": "Controlables."
+        },
+        {
+          "key": "c",
+          "text": "Previsibles."
+        },
+        {
+          "key": "d",
+          "text": "Evitables."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-69",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 69,
+      "prompt": "Indique una medida universal dictaminada por el Servicio de Salud y Prevención de Riesgos Laborales de la Junta de Extremadura, en la prevención de accidentes con riesgo biológico:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Encapuchar las agujas después de usarlas."
+        },
+        {
+          "key": "b",
+          "text": "Utilizar contenedores flexibles."
+        },
+        {
+          "key": "c",
+          "text": "Esterilización de instrumental."
+        },
+        {
+          "key": "d",
+          "text": "Vacunación contra Hepatitis B u otras enfermedades, según riesgo."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-70",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 70,
+      "prompt": "En relación al estreñimiento, es falso:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La fibra insoluble es más recomendable que la soluble."
+        },
+        {
+          "key": "b",
+          "text": "La fibra soluble produce mayor flatulencia."
+        },
+        {
+          "key": "c",
+          "text": "La fibra insoluble capta mayor cantidad de agua, aumentando la masa fecal."
+        },
+        {
+          "key": "d",
+          "text": "Se recomienda ingerir de 1'5 a 2 litros de agua con la fibra insoluble."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-71",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 71,
+      "prompt": "Los trabajadores de la Junta de Extremadura que se encuentren en situación de excedencia por cuidado de un familiar:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tendrán derecho a la reserva del puesto de trabajo."
+        },
+        {
+          "key": "b",
+          "text": "No tendrán derecho al cómputo de tiempo que hayan permanecido en la misma a efectos de antigüedad."
+        },
+        {
+          "key": "c",
+          "text": "No tendrán derecho a la reserva del puesto de trabajo."
+        },
+        {
+          "key": "d",
+          "text": "El período de excedencia en caso de cuidado a un disminuido psíquico es ilimitado."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-72",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 72,
+      "prompt": "En caso de enfermedad grave de un familiar en primer grado de consanguinidad o afinidad, en la misma localidad de residencia del trabajador, el V Convenio Colectivo establece derecho a un permiso de:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dos días."
+        },
+        {
+          "key": "b",
+          "text": "Tres días"
+        },
+        {
+          "key": "c",
+          "text": "Cuatro días."
+        },
+        {
+          "key": "d",
+          "text": "Cinco días."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-73",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 73,
+      "prompt": "La ley Orgánica 1/2011 de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura, entró en vigor :",
+      "options": [
+        {
+          "key": "a",
+          "text": "El 31 de enero de 2011."
+        },
+        {
+          "key": "b",
+          "text": "El 30 de enero de 2011."
+        },
+        {
+          "key": "c",
+          "text": "El 28 de enero de 2011."
+        },
+        {
+          "key": "d",
+          "text": "El 29 de enero de 2011."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-74",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 74,
+      "prompt": "La Comunidad Autónoma de Extremadura tiene competencias exclusivas en las siguientes materias, excepto:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ordenación de la Hacienda de la Comunidad Autónoma."
+        },
+        {
+          "key": "b",
+          "text": "Administración de justicia, de conformidad con lo previsto en el Título III de su Estatuto."
+        },
+        {
+          "key": "c",
+          "text": "Estadística para fines de interés de la Comunidad Autónoma."
+        },
+        {
+          "key": "d",
+          "text": "Ordenación del crédito, banca, seguros, mutualidades de previsión social, entidades gestoras de planes y fondos de pensiones."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-75",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 75,
+      "prompt": "La Comunidad Autónoma ejercerá sus poderes a través de:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La Asamblea, el Presidente y el Consejo Consultivo."
+        },
+        {
+          "key": "b",
+          "text": "La Asamblea, la Junta de Extremadura y el Consejo Económico y Social."
+        },
+        {
+          "key": "c",
+          "text": "El Presidente, la Junta de Extremadura y el Consejo de Cuentas."
+        },
+        {
+          "key": "d",
+          "text": "La Asamblea, el Presidente y la Junta de Extremadura."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-76",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 76,
+      "prompt": "La representación equilibrada supone garantizar la presencia de mujeres y hombres de forma que en el conjunto de personas a que se refiere cada sexo:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ni supere el 60% ni sea inferior al 20%."
+        },
+        {
+          "key": "b",
+          "text": "Ni sea inferior al 30% ni superior al 50%."
+        },
+        {
+          "key": "c",
+          "text": "Paridad al 50%."
+        },
+        {
+          "key": "d",
+          "text": "Ni supere el 60% ni sea menos del 40%."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-77",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 77,
+      "prompt": "El índice de envejecimiento de una población, según el I.N.E, se define como:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El cociente (en tanto por ciento) entre la población de mayores de 64 años y la población menor de 16 años."
+        },
+        {
+          "key": "b",
+          "text": "Es el número de personas mayores de 64 años."
+        },
+        {
+          "key": "c",
+          "text": "El cociente (en tanto por ciento) entre la población de mayores de 64 años y la población menor de 16 a 64 años."
+        },
+        {
+          "key": "d",
+          "text": "El cociente (en tanto por ciento) entre la población de mayores de 64 años y la población total."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-78",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 78,
+      "prompt": "Al porcentaje de individuos que presentan una enfermedad en un determinado momento, y en una población concreta, se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Incidencia acumulada."
+        },
+        {
+          "key": "b",
+          "text": "Prevalencia puntual."
+        },
+        {
+          "key": "c",
+          "text": "Prevalencia de período."
+        },
+        {
+          "key": "d",
+          "text": "Tasa de incidencia."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-79",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 79,
+      "prompt": "¿Qué filósofo definió la vejez como una etapa natural del proceso de la vida misma, un fenómeno puramente natural e irreversible?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Galeano"
+        },
+        {
+          "key": "b",
+          "text": "Hipócrates"
+        },
+        {
+          "key": "c",
+          "text": "Pitágoras"
+        },
+        {
+          "key": "d",
+          "text": "Ortega y Gasset."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-80",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 80,
+      "prompt": "El Síndrome confusional agudo, se diferencia de una demencia tipo Alzheimer en que:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Su inicio es insidioso."
+        },
+        {
+          "key": "b",
+          "text": "El nivel de conciencia fluctúa."
+        },
+        {
+          "key": "c",
+          "text": "Ambos síndromes son reversibles."
+        },
+        {
+          "key": "d",
+          "text": "El síndrome confusional agudo es una consecuencia de la demencia."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-81",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 81,
+      "prompt": "¿Quién fue la pionera de los cuidados paliativos dando comienzo en la \"década de los 60\" al \"Movimiento Hospice\"?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Florencia Nightingale."
+        },
+        {
+          "key": "b",
+          "text": "Virginia Henderson."
+        },
+        {
+          "key": "c",
+          "text": "Cicely Saunders."
+        },
+        {
+          "key": "d",
+          "text": "Kübbler Ross."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-82",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 82,
+      "prompt": "¿Qué valores de glucemia indicarían que un paciente es diabético según la Asociación Americana de Diabetes (ADA)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Valores de glucosa inferiores a 110mg/dl antes del desayuno."
+        },
+        {
+          "key": "b",
+          "text": "Valores de glucosa inferiores a 200 mg/dl en varias determinaciones a lo largo del día."
+        },
+        {
+          "key": "c",
+          "text": "Valores de glucosa superiores a 200 mg/dl en varias determinaciones a lo largo del día."
+        },
+        {
+          "key": "d",
+          "text": "Valor de 135 mg/dl a las 18:00 horas."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-83",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 83,
+      "prompt": "La pérdida involuntaria de orina que se produce tras un ataque de tos, se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Incontinencia urinaria de esfuerzo."
+        },
+        {
+          "key": "b",
+          "text": "Incontinencia urinaria por rebosamiento."
+        },
+        {
+          "key": "c",
+          "text": "Incontinencia urinaria funcional."
+        },
+        {
+          "key": "d",
+          "text": "Incontinencia urinaria de urgencia."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-84",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 84,
+      "prompt": "¿Qué es el rigor mortis?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Los ruidos producidos por acumulación de secreciones y mocos."
+        },
+        {
+          "key": "b",
+          "text": "Coloración rojiza amoratada en las partes declives del cuerpo."
+        },
+        {
+          "key": "c",
+          "text": "Bajada de temperatura corporal tras la muerte."
+        },
+        {
+          "key": "d",
+          "text": "Rigidez del cuerpo y las extremidades, después de la muerte."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-85",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 85,
+      "prompt": "La valoración funcional en un paciente terminal, comprende:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La valoración de la contingencia de enfermedad del paciente."
+        },
+        {
+          "key": "b",
+          "text": "El diagnóstico de la enfermedad a través del DSMV."
+        },
+        {
+          "key": "c",
+          "text": "Las capacidades para llevar a cabo las actividades básicas de la vida diaria."
+        },
+        {
+          "key": "d",
+          "text": "Las condiciones psicológicas que tienen que ver con el mantenimiento de la función para su independencia."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
+    },
+    {
+      "id": "examen-turno-libre-2013-86",
+      "source": "Examen Turno Libre 2013.pdf",
+      "number": 86,
+      "prompt": "En el proceso de atención de enfermería, dentro del equipo multidisciplinar, tras la fase de planificación de cuidados viene:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Valoración."
+        },
+        {
+          "key": "b",
+          "text": "Diagnóstico de Enfermería."
+        },
+        {
+          "key": "c",
+          "text": "Ejecución."
+        },
+        {
+          "key": "d",
+          "text": "Evaluación."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "",
+      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "author-key"
     }
   ],
   "sources": [
@@ -90053,6 +92547,10 @@
     {
       "file": "TCAE_EXAMEN 9.pdf",
       "questions": 50
+    },
+    {
+      "file": "Examen Turno Libre 2013.pdf",
+      "questions": 86
     }
   ],
   "warnings": []
