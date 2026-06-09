@@ -1,0 +1,20 @@
+{
+  "source": "TCAE_EXAMEN 2.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "13": ["d", "Gráfica hospitalaria, convención docente: el tratamiento o terapéutica no se registra en el encabezamiento de filiación; respuesta forzada por depender del modelo de gráfica", "forced-clinical"],
+    "14": ["d", "Sistema Murphy o gota a gota, convención docente TCAE: puede emplearse para enemas medicamentosos y alimenticios; respuesta forzada por tratarse de una práctica/protocolo histórico", "forced-clinical"],
+    "27": ["d", "Gráfica hospitalaria, convención docente: la temperatura se registra en la zona gráfica/media, no en la parte inferior; respuesta forzada por depender del modelo documental", "forced-clinical"],
+    "8": ["d", "Gráfica hospitalaria, convención docente: la filiación recoge nombre, dirección y teléfonos/datos identificativos; respuesta forzada por variación del modelo", "forced-clinical"],
+    "12": ["d", "Balance hídrico, convención docente: la pérdida por sudor/piel de 300 cc/día es la relación menos ajustada entre las opciones; respuesta forzada por variabilidad fisiológica", "forced-clinical"],
+    "34": ["b", "Temperatura timpánica pediátrica: tirar hacia arriba y atrás no es regla para todos los pacientes pediátricos; respuesta forzada por edad y técnica", "forced-clinical"],
+    "35": ["b", "Lavado vesical continuo, convención docente: se requiere sonda de tres luces, suero fisiológico y jeringa para balón; el escabel no forma parte específica del carro de sondaje/lavado", "forced-clinical"],
+    "36": ["b", "Estreñimiento, convención docente: suplemento de salvado de trigo de 10-20 g diarios; respuesta forzada por tolerancia individual", "forced-clinical"],
+    "39": ["c", "Sondaje vesical, convención docente: entre las opciones, la punta apoyada en pared vesical es la causa menos típica de obstrucción frente a acodamiento, coágulos o sedimento", "forced-clinical"],
+    "49": ["c", "Baño terapéutico de asiento, convención docente: centeno no figura entre sustancias habituales como avena, almidón o bicarbonato", "forced-clinical"],
+    "54": ["c", "Úlceras por presión, taxonomía docente histórica: esfacelos se asocian a fase necrótica/estadio IV; respuesta forzada frente a clasificación vigente", "forced-clinical"],
+    "55": ["a", "Úlceras por presión, taxonomía docente histórica: la fase necrótica no se denomina fase de rotura de piel; respuesta forzada frente a clasificación vigente", "forced-clinical"],
+    "62": ["c", "Cuidados del recién nacido, convención docente: el vérnix caseoso se acumula en pliegues, espalda y detrás de las orejas; las cuencas de los ojos son la opción falsa", "forced-clinical"]
+  }
+}

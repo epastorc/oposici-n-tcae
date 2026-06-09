@@ -1,0 +1,10 @@
+{
+  "source": "TCAE_EXAMEN 15.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/ency/article/002399.htm",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "15": ["d", "Temperatura corporal, convención docente: 38,3 ºC se registra como fiebre ligera en la zona cuadriculada/media de la gráfica; respuesta forzada por depender del modelo de gráfica", "forced-clinical"],
+    "51": ["c", "Sondaje urinario, convención docente: la sonda Mercier puede presentarse con una o dos luces según modelo; respuesta forzada por variación comercial", "forced-clinical"],
+    "57": ["d", "Sistema digestivo, convención docente: absorción, excreción y defensa inmunitaria intestinal son funciones digestivas; metabolismo sistémico es la opción menos propia", "forced-clinical"]
+  }
+}

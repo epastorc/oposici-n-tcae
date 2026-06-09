@@ -1,0 +1,8 @@
+{
+  "source": "TCAE_EXAMEN 19.pdf",
+  "sourceUrl": "https://www.sanidad.gob.es/areas/calidadAsistencial/excelenciaClinica/docs/BQ.pdf",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "27": ["d", "Posicionamiento quirúrgico en decúbito lateral, convención docente: se emplean al menos tres apoyos/soportes laterales para fijación básica; respuesta forzada porque depende de mesa y procedimiento", "forced-clinical"]
+  }
+}

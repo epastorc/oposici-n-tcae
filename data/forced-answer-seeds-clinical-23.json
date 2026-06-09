@@ -1,0 +1,15 @@
+{
+  "source": "TCAE_EXAMEN 23.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "18": ["d", "Sondaje vesical, convención docente: Foley es la sonda vesical prototípica; respuesta forzada porque Malecot también puede usarse en contexto urológico", "forced-clinical"],
+    "27": ["a", "Dietas hospitalarias, convención docente: la dieta líquida es transición inicial tras dieta absoluta antes de progresar a semiblanda; respuesta forzada por variación según protocolo", "forced-clinical"],
+    "8": ["b", "Cambios posturales, convención docente: están especialmente indicados en pacientes comatosos o inmovilizados; respuesta forzada porque también pueden aplicarse en otros contextos", "forced-clinical"],
+    "12": ["c", "Deambulación en hemiplejia, convención docente: técnica de soporte lateral", "forced-clinical"],
+    "44": ["d", "Enemas: para lubricar mucosa y reblandecer heces se emplea enema oleoso/emoliente, no representado en las opciones; respuesta por descarte", "forced-clinical"],
+    "47": ["a", "Hiperglucemia en paciente diabético, convención docente: causa frecuente es olvido/error en administración de insulina; respuesta forzada porque infección y dieta también influyen", "forced-clinical"],
+    "48": ["a", "Traslado en camilla en espacio reducido, convención docente: sale primero el celador tirando desde la zona de los pies; respuesta forzada por maniobra y espacio", "forced-clinical"],
+    "68": ["b", "Sondaje vesical masculino con prostatitis/hipertrofia prostática, convención docente: decúbito supino modificado; respuesta forzada por protocolo", "forced-clinical"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "source": "TCAE_EXAMEN 38.pdf",
+  "sourceUrl": "https://doe.juntaex.es/ultimosdoe/mostrardoe.php?fecha=20010703",
+  "sourceUrls": {
+    "Decreto 221/2008": "https://doe.juntaex.es/eli/es-ex/d/2008/10/24/221/con/20230916/spa/pdf"
+  },
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "22": ["d", "Decreto 221/2008, artículo 5 c): la Secretaría General gestionaba la selección y nombramiento del personal estatutario interino y eventual; respuesta forzada frente a denominación orgánica modificada en textos consolidados posteriores", "forced-official"],
+    "33": ["d", "Decreto 221/2008, artículo 5 c): la Secretaría General tenía atribuida la constitución de las bolsas de trabajo del personal estatutario temporal; respuesta forzada frente a denominación orgánica modificada en textos consolidados posteriores", "forced-official"],
+    "81": ["d", "Ley 10/2001, artículo 10.1 d) y 10.2: los nacionales extracomunitarios tienen los derechos reconocidos por leyes, tratados y convenios y se garantiza a todas las personas la atención de urgencias y emergencias", "forced-official"]
+  }
+}

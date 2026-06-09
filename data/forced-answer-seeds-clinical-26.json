@@ -1,0 +1,16 @@
+{
+  "source": "TCAE_EXAMEN 26.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "26": ["c", "Comunicación no verbal, convención docente: la apariencia física es el primer elemento apreciable del paciente; respuesta forzada por depender del marco teórico", "forced-clinical"],
+    "36": ["d", "Diabetes mellitus, convención docente: polifagia es el síntoma cardinal de menor incidencia entre las opciones frente a poliuria y polidipsia", "forced-clinical"],
+    "43": ["a", "Índice/Escala de Cruz Roja de Madrid, convención docente: seis grados, del 0 al 5; respuesta forzada por versión de escala", "forced-clinical"],
+    "62": ["a", "Anatomía palpebral: las glándulas de Moll son sudoríparas apocrinas en los párpados", "forced-clinical"],
+    "66": ["a", "Higiene del paciente encamado, convención docente del test: se inicia por la mano derecha; respuesta forzada porque la lateralidad no es regla clínica universal", "forced-clinical"],
+    "70": ["d", "PIDEX, convención docente autonómica: la parte segunda se orienta a demencias degenerativas como Alzheimer; respuesta forzada por versión del programa", "forced-clinical"],
+    "77": ["a", "Dolor irradiado, convención docente: se asocia principalmente a dolor visceral nociceptivo; respuesta forzada porque puede solaparse con dolor somático referido", "forced-clinical"],
+    "78": ["b", "Cuidados post mortem, convención docente: retirar almohadas salvo la de la cabeza para evitar estancamiento de sangre; respuesta forzada por protocolo", "forced-clinical"],
+    "19": ["c", "Comunicación no lingüística, convención docente: códigos visual, gestual y acústico; respuesta forzada por taxonomía", "forced-clinical"]
+  }
+}

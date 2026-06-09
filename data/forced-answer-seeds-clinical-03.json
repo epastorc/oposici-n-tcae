@@ -1,0 +1,9 @@
+{
+  "source": "TCAE_EXAMEN 3.pdf",
+  "sourceUrl": "https://portal.guiasalud.es/wp-content/uploads/2018/12/GPC_425.pdf",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "40": ["b", "Úlceras por presión, taxonomía docente histórica: la fase de rotura de la piel se corresponde con la fase escoriativa; respuesta forzada frente a clasificaciones vigentes por categorías", "forced-clinical"],
+    "57": ["a", "Úlceras por presión, taxonomía docente histórica: la fase de edema vascular se corresponde con la fase eritematosa; respuesta forzada frente a clasificaciones vigentes por categorías", "forced-clinical"]
+  }
+}

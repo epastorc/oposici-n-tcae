@@ -1,0 +1,21 @@
+{
+  "source": "TCAE_EXAMEN 5.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "1": ["b", "Enemas, convención docente: el enema de aceite de oliva puro se clasifica como oleoso/emoliente, no como enema de limpieza; respuesta forzada por taxonomía docente", "forced-clinical"],
+    "4": ["a", "Gráfica hospitalaria, convención docente: la dieta se anota mediante número o símbolo según el modelo de gráfica; respuesta forzada por dependencia del modelo documental", "forced-clinical"],
+    "17": ["c", "Cama articulada de tres segmentos, convención docente: cabeza, tronco-pelvis y extremidades inferiores; respuesta forzada por variación según modelo de cama", "forced-clinical"],
+    "25": ["b", "Gráfica UCRI, convención docente: las cruces se usan para registrar expectoraciones; respuesta forzada por dependencia del modelo documental", "forced-clinical"],
+    "26": ["a", "Lencería hospitalaria, convención docente: sábana de 3,15 m por 2 m; respuesta forzada por variación de equipamiento", "forced-clinical"],
+    "31": ["c", "Fecaloma y enema de limpieza, convención docente: puede indicarse antes y después de la extracción; respuesta forzada porque depende de valoración clínica", "forced-clinical"],
+    "34": ["d", "Gráfica hospitalaria, convención docente: nombre y apellidos son datos de filiación, no de terapéutica; respuesta forzada por dependencia del modelo documental", "forced-clinical"],
+    "37": ["c", "Procedimientos con trocar, convención docente: la posición fetal se asocia a punciones como la lumbar; respuesta forzada porque el trocar depende del procedimiento concreto", "forced-clinical"],
+    "41": ["a", "Enema de limpieza, convención docente: retención aproximada de 5 a 10 minutos; respuesta forzada por variación según preparado y protocolo", "forced-clinical"],
+    "51": ["d", "Enema de retención, convención docente: debe retenerse al menos 30 minutos, con rango orientativo 15-30 minutos; respuesta forzada por variación según tipo de enema", "forced-clinical"],
+    "54": ["c", "Movilización al borde de cama, convención docente: sujeción de hombro lejano y piernas con rotación de 90 grados; respuesta forzada por depender de capacidad funcional", "forced-clinical"],
+    "56": ["a", "Enema laxante, convención docente: administración templada entre 37 y 40 ºC; respuesta forzada por variación según preparado", "forced-clinical"],
+    "68": ["a", "Camas ortopédicas, convención docente: la férula de Böhler se asocia a cama de Judet; respuesta forzada por variación de equipamiento", "forced-clinical"],
+    "69": ["b", "Sistema Murphy, convención docente: la afirmación de pequeños volúmenes se toma como falsa frente a la proctoclisis lenta de soluciones; respuesta forzada por descripción histórica", "forced-clinical"]
+  }
+}

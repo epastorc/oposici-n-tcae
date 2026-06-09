@@ -1,0 +1,8 @@
+{
+  "source": "TCAE_EXAMEN 12.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/pancreaticcancer.html",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "44": ["d", "Anatomía abdominal: el páncreas se localiza principalmente en epigastrio e hipocondrio izquierdo; ninguna opción regional ofrecida lo expresa como cuadrante correcto", "forced-clinical"]
+  }
+}

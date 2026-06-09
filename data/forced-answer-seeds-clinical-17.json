@@ -1,0 +1,10 @@
+{
+  "source": "TCAE_EXAMEN 17.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "38": ["b", "Escala de Zarit, versión docente de 22 ítems puntuados 1-5: puntuación máxima 110; respuesta forzada porque existen versiones con otras puntuaciones", "forced-clinical"],
+    "53": ["b", "Escucha activa, convención docente: no corresponde responder estrictamente solo cuando sea preciso, frente a silencio, reformulación y comunicación no verbal de comprensión", "forced-clinical"],
+    "62": ["b", "Consultorio local, convención normativa/docente histórica: umbral de 500 habitantes; respuesta forzada porque la regulación vigente no fija un mínimo general", "forced-official"]
+  }
+}

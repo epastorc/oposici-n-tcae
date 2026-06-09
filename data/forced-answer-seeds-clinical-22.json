@@ -1,0 +1,9 @@
+{
+  "source": "TCAE_EXAMEN 22.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "25": ["a", "Higiene del paciente encamado, convención docente del test: se inicia por el miembro inferior derecho; respuesta forzada porque la lateralidad no es regla clínica universal", "forced-clinical"],
+    "56": ["c", "Higiene del paciente encamado, convención docente: se lava desde zona distal a proximal para favorecer retorno venoso; respuesta forzada porque el lado inicial depende del protocolo", "forced-clinical"]
+  }
+}

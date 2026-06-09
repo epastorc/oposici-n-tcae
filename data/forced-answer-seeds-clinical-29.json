@@ -1,0 +1,11 @@
+{
+  "source": "TCAE_EXAMEN 29.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "24": ["d", "Documentación clínica en Atención Primaria, convención docente: el impreso de citación es administrativo, no documento clínico asistencial; respuesta forzada por depender del sistema de información", "forced-clinical"],
+    "36": ["b", "Fisiología digestiva, convención docente: el cardias se abre por regulación nerviosa/autonómica; respuesta forzada por formulación imprecisa del enunciado", "forced-clinical"],
+    "57": ["b", "Instrumental quirúrgico, clasificación docente: Kocher se clasifica principalmente como hemostática, no de aprehensión; respuesta forzada porque algunas pinzas tienen usos múltiples", "forced-clinical"],
+    "59": ["b", "Preparación prequirúrgica, convención docente histórica: el rasurado, cuando se indicaba, podía realizarlo el auxiliar de enfermería; respuesta forzada porque las guías actuales evitan rasurado rutinario", "forced-clinical"]
+  }
+}

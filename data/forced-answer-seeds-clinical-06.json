@@ -1,0 +1,20 @@
+{
+  "source": "TCAE_EXAMEN 6.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "3": ["a", "Enemas, convención docente TCAE: el irrigador se sitúa aproximadamente a 30-50 cm sobre la zona rectal; respuesta forzada por variación según protocolo", "forced-clinical"],
+    "6": ["b", "Movilización de Fowler a sentado, convención docente: puede realizarla una persona si el paciente colabora; respuesta forzada por depender de capacidad funcional", "forced-clinical"],
+    "8": ["b", "Eliminación urinaria, convención docente: frecuencia miccional normal orientativa de cinco o más veces al día; respuesta forzada por variación con hidratación y contexto", "forced-clinical"],
+    "22": ["b", "Ostomías, convención docente: cambiar el disco cada 7-14 días es excesivo como pauta general; respuesta forzada por depender del sistema y de la piel", "forced-clinical"],
+    "28": ["d", "Camas ortopédicas, convención docente: clavo de Steinmann y agujas de Kirschner pueden asociarse a cama de Judet y electrocircular; respuesta forzada por variación de equipamiento", "forced-clinical"],
+    "31": ["b", "Movilización de Fowler a sentado, convención docente: giro de 90 grados para sentar al borde de cama; respuesta forzada por depender de técnica y entorno", "forced-clinical"],
+    "33": ["d", "Traslado postoperatorio con anestesia general, convención docente: lateralizar cabeza, traslado suave y vigilancia del paciente; respuesta forzada por dependencia del estado clínico", "forced-clinical"],
+    "36": ["b", "Aseo de miembros superiores, convención docente: 'siempre empezaremos por el miembro superior derecho' es la afirmación falsa por su carácter absoluto; respuesta forzada por variación de protocolo", "forced-clinical"],
+    "38": ["b", "Sondas vesicales, convención docente: la sonda Robinson se describe con punta curva o roma; respuesta forzada por variación de catálogo", "forced-clinical"],
+    "48": ["d", "Decúbito prono, convención docente: entre las opciones, demencia no se toma como contraindicación general de posición ventral; respuesta forzada por valoración individual", "forced-clinical"],
+    "60": ["a", "Movilización desde silla o sillón, convención docente: no se debe traccionar situando nuestras manos en los hombros del paciente; respuesta forzada por depender de capacidad funcional y ayudas", "forced-clinical"],
+    "61": ["d", "Transferencia cama-camilla, convención docente: si colabora puede realizarla un técnico, camilla paralela y ambas frenadas; respuesta forzada por valoración funcional", "forced-clinical"],
+    "68": ["c", "Higiene del paciente, convención docente: la ducha no debe sobrepasar aproximadamente 10 minutos; respuesta forzada por dependencia del protocolo", "forced-clinical"]
+  }
+}

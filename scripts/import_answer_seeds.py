@@ -48,6 +48,7 @@ def main() -> None:
     ]
     seed_files.extend(sorted(Path("data").glob("author-answer-seeds-*.json")))
     seed_files.extend(sorted(Path("data").glob("batch-answer-seeds-*.json")))
+    seed_files.extend(sorted(Path("data").glob("forced-answer-seeds-*.json")))
     review = json.loads(review_path.read_text(encoding="utf-8"))
     updated = 0
     for seed_file in seed_files:
@@ -55,11 +56,13 @@ def main() -> None:
         answers = seeds["answers"]
         excluded = seeds.get("excluded", {})
         for item in review["items"]:
+            excluded_details = []
             for variant in item["variants"]:
                 if variant["source"] != seeds["source"]:
                     continue
                 if str(variant["number"]) in excluded:
                     item["variantAnswers"].pop(variant["id"], None)
+                    excluded_details.append(f"{variant['source']} #{variant['number']}: {excluded[str(variant['number'])]}")
                 seeded = answers.get(str(variant["number"]))
                 if not seeded:
                     continue
@@ -74,8 +77,19 @@ def main() -> None:
                 item["sourceDetail"] = seeded[1]
                 item["sourceKind"] = seeded[2] if len(seeded) > 2 else seeds.get("sourceKind", "official")
                 item["reviewedAt"] = seeds["reviewedAt"]
+                item["notes"] = None
                 updated += 1
+            if excluded_details and not item.get("answer") and not item["variantAnswers"]:
+                item["status"] = "excluded"
+                item["confidence"] = None
+                item["sourceUrl"] = seeds["sourceUrl"]
+                item["sourceDetail"] = "; ".join(excluded_details)
+                item["sourceKind"] = "review-exclusion"
+                item["reviewedAt"] = seeds["reviewedAt"]
+                item["notes"] = "Excluida tras revisión: " + "; ".join(excluded_details)
     for item in review["items"]:
+        if item.get("status") == "excluded":
+            continue
         if item.get("answer") or item["variantAnswers"]:
             continue
         item["status"] = "pending"

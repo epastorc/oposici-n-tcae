@@ -13624,11 +13624,11 @@
           "text": "Morestin."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Platipnea: empeora en sedestación/upright; se fuerza Fowler como posición contraindicada entre las opciones",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-15-55",
@@ -29632,11 +29632,11 @@
           "text": "Fowler."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Neumotórax, convención docente: Fowler facilita la respiración; respuesta forzada por depender del estado clínico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-22-29",
@@ -29748,11 +29748,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Paso de prono a Sims, convención docente: giro aproximado de 45 grados; respuesta forzada por definición postural",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-22-33",
@@ -29893,11 +29893,11 @@
           "text": "Inglesa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Exploración de zona renal, convención docente: decúbito ventral; respuesta forzada por maniobra",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-22-38",
@@ -76815,11 +76815,11 @@
           "text": "Semi-Fowler."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Posiciones postoperatorias, convención docente: tras cirugía de zona ventral puede indicarse semi-Fowler para reducir tensión abdominal; respuesta forzada por depender del procedimiento",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-7",
@@ -76989,11 +76989,11 @@
           "text": "Roser a Proetz."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Analogía de posiciones: supino/prono son opuestas igual que Trendelenburg/Morestin; respuesta forzada por analogía docente",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-13",
@@ -77192,11 +77192,11 @@
           "text": "Fowler."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Postoperatorio de zona dorsal, convención docente: decúbito prono para evitar apoyo sobre la espalda intervenida; respuesta forzada por criterio clínico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-20",
@@ -77337,11 +77337,11 @@
           "text": "Proetz."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Irrigación rectal, convención docente: decúbito lateral derecho o izquierdo en paciente encamado; respuesta forzada por protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-25",
@@ -77366,11 +77366,11 @@
           "text": "Semiprono."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Shock hipovolémico, convención docente histórica: Trendelenburg; respuesta forzada porque las recomendaciones actuales individualizan la posición",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-26",
@@ -77395,11 +77395,11 @@
           "text": "Decúbito supino."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Bronquitis crónica/EPOC, convención docente: Fowler facilita la ventilación",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-27",
@@ -77511,11 +77511,11 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Posición raquídea, convención docente: guarda similitud con decúbito lateral/fetal usado en punción lumbar; respuesta forzada por variantes",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-31",
@@ -77540,11 +77540,11 @@
           "text": "Bajo los muslos."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Decúbito supino modificado, convención docente: almohada bajo huecos poplíteos para ligera flexión; respuesta forzada por objetivo clínico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-32",
@@ -77569,11 +77569,11 @@
           "text": "Proetz."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Endoscopia en paciente colaborador, convención docente del test: Sims/lateral; respuesta forzada porque depende del tipo de endoscopia",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-33",
@@ -77627,11 +77627,11 @@
           "text": "Fowler."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Neumotórax, convención docente: Fowler facilita la respiración; respuesta forzada por depender del estado clínico",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-35",
@@ -77685,11 +77685,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Decúbito lateral derecho: no es similar a Fowler, se usa en cambios posturales y no se define como posición quirúrgica en el sentido de la opción; respuesta por descarte",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-37",
@@ -77714,11 +77714,11 @@
           "text": "Supino."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Morestin o anti-Trendelenburg comparte indicaciones de elevación cefálica cuando no se puede sentar al paciente como en Fowler; respuesta forzada",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-38",
@@ -77772,11 +77772,11 @@
           "text": "Morestin."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Platipnea: empeora en sedestación/upright; se fuerza Fowler como posición contraindicada entre las opciones",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-40",
@@ -77830,11 +77830,11 @@
           "text": "Proetz."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Hipoxia tisular cerebral, convención docente histórica: Trendelenburg para favorecer retorno/perfusión cerebral; respuesta forzada por simplificación clínica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-42",
@@ -77888,11 +77888,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Hemiplejia, convención docente del test: se evitan supino y prono mantenidos; respuesta forzada por necesidad de cambios posturales individualizados",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-44",
@@ -77917,11 +77917,11 @@
           "text": "Decúbito lateral."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Trepopnea: disnea relacionada con decúbito lateral; se fuerza decúbito lateral como posición contraindicada genérica",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-45",
@@ -77975,11 +77975,11 @@
           "text": "Trendelemburg."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 1 inferida por emparejamiento con la pregunta 61: decúbito prono para cirugía de tórax, operados de zona dorsal y exploraciones ventrales",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-47",
@@ -78004,11 +78004,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 2 inferida por emparejamiento con la pregunta 62: decúbito lateral usado en enfermos inconscientes",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-48",
@@ -78033,11 +78033,11 @@
           "text": "Ortopneica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 3 inferida por emparejamiento con la pregunta 63: ortopneica, asociada a fisioterapia respiratoria",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-49",
@@ -78062,11 +78062,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 4 inferida por emparejamiento con la pregunta 64: semi-Fowler en problemas cardiacos",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-50",
@@ -78091,11 +78091,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 5 inferida por emparejamiento con la pregunta 65: Fowler para fisioterapia respiratoria",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-51",
@@ -78120,11 +78120,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 6 inferida por emparejamiento con la pregunta 66: Fowler alto para dar de comer con cubiertos",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-52",
@@ -78149,11 +78149,11 @@
           "text": "Ortopneica."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 7 inferida por emparejamiento con la pregunta 67: dorsal para pacientes operados de zona ventral",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-53",
@@ -78178,11 +78178,11 @@
           "text": "Lateral derecho."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 8 inferida por emparejamiento con la pregunta 68: Roser/Proetz para intubación",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-54",
@@ -78207,11 +78207,11 @@
           "text": "Decúbito prono."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 9 inferida por emparejamiento con la pregunta 69: Inglesa/Sims para cambios posturales",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-55",
@@ -78236,11 +78236,11 @@
           "text": "Proetz."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 10 inferida por emparejamiento con la pregunta 70: Trendelenburg ante lipotimia, síncope y hemorragia grave",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-56",
@@ -78294,11 +78294,11 @@
           "text": "Inglesa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 12 inferida por emparejamiento con la pregunta 72: Sims, también semiprono/inglesa, para vómitos, cambios posturales y enemas",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-58",
@@ -78323,11 +78323,11 @@
           "text": "Ventral."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 13 inferida por emparejamiento con la pregunta 73: litotomía/ginecológica para exploración genital femenina y parto",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-59",
@@ -78352,11 +78352,11 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 14 inferida por emparejamiento con la pregunta 74: Morestin o anti-Trendelenburg; ambas denominaciones son equivalentes en el test",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-60",
@@ -78381,11 +78381,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Figura 15 inferida por emparejamiento con la pregunta 75: supino/dorsal para sondaje vesical",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-61",
@@ -78410,11 +78410,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 1 inferido junto a la pregunta 46: decúbito prono sirve para las tres indicaciones ofrecidas en el marco docente del test",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-62",
@@ -78439,11 +78439,11 @@
           "text": "Para intubar a pacientes."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 2 inferido junto a la pregunta 47: decúbito lateral en enfermos inconscientes",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-63",
@@ -78468,11 +78468,11 @@
           "text": "Para intervenciones quirúrgicas de la espalda."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 3 inferido junto a la pregunta 48: ortopneica para fisioterapia respiratoria",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-64",
@@ -78497,11 +78497,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 4 inferido junto a la pregunta 49: semi-Fowler ante problemas cardiacos",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-65",
@@ -78526,11 +78526,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 5 inferido junto a la pregunta 50: Fowler para fisioterapia respiratoria",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-66",
@@ -78555,11 +78555,11 @@
           "text": "Para intervenciones quirúrgicas del tórax."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 6 inferido junto a la pregunta 51: Fowler alto para dar de comer con cubiertos",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-67",
@@ -78584,11 +78584,11 @@
           "text": "En pacientes con problemas respiratorios graves."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 7 inferido junto a la pregunta 52: dorsal en pacientes operados de zona ventral",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-68",
@@ -78613,11 +78613,11 @@
           "text": "Para intervenciones quirúrgicas de la zona dorsal."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 8 inferido junto a la pregunta 53: Roser para intubar a un paciente",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-69",
@@ -78642,11 +78642,11 @@
           "text": "Las respuestas a y b son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 9 inferido junto a la pregunta 54: Inglesa/Sims en cambios posturales",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-70",
@@ -78671,11 +78671,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 10 inferido junto a la pregunta 55: Trendelenburg ante lipotimia, síncope y hemorragias graves",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-71",
@@ -78729,11 +78729,11 @@
           "text": "Todas las respuestas son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 12 inferido junto a la pregunta 57: Sims para vómitos, cambios posturales y enemas",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-73",
@@ -78787,11 +78787,11 @@
           "text": "En hemorragias abundantes y graves."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 14 inferido junto a la pregunta 59: Morestin/anti-Trendelenburg en intervenciones quirúrgicas del tórax según convención docente",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-75",
@@ -78816,11 +78816,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Uso de figura 15 inferido junto a la pregunta 60: supino/dorsal para insertar una sonda vesical",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-figure"
     },
     {
       "id": "tcae_examen-4-76",
@@ -78874,11 +78874,11 @@
           "text": "Sims."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "d",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Clapping o fisioterapia respiratoria, convención docente: Sims; respuesta forzada porque la posición depende del segmento pulmonar",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-78",
@@ -78903,11 +78903,11 @@
           "text": "Las respuestas b y c son correctas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Cirugía torácica, convención docente del test: Morestin; respuesta forzada por depender del abordaje",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-79",
@@ -78961,11 +78961,11 @@
           "text": "Lateral derecho o izquierdo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Catéter subclavio, convención docente del test: Proetz/Roser por hiperextensión cervical; respuesta forzada porque la técnica actual suele usar Trendelenburg",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-81",
@@ -79106,11 +79106,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Paso de prono a Sims, convención docente: giro aproximado de 45 grados; respuesta forzada por definición postural",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-86",
@@ -79164,11 +79164,11 @@
           "text": "Elevaremos ligeramente la cabeza del paciente."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Medición de PVC, convención docente: retirar almohada para colocar al paciente en plano horizontal; respuesta forzada por protocolo de medición",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-88",
@@ -79193,11 +79193,11 @@
           "text": "Ventral."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Traslado en camilla por escaleras, convención docente: Morestin para mantener cabeza elevada; respuesta forzada por protocolo de seguridad",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-89",
@@ -79280,11 +79280,11 @@
           "text": "Todas las respuestas son falsas."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Roser o Proetz, convención docente: broncoscopia en paciente encamado y no colaborador; respuesta forzada por depender del procedimiento",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-92",
@@ -79309,11 +79309,11 @@
           "text": "Lateral derecho."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Constantes vitales en paciente encamado, convención docente: supino; respuesta forzada porque depende de la constante y del estado del paciente",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-93",
@@ -79367,11 +79367,11 @@
           "text": "Lateral izquierdo."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "a",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Tras punción lumbar, convención docente: decúbito dorsal/supino; respuesta forzada por protocolo",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-95",
@@ -79425,11 +79425,11 @@
           "text": "Ante un síncope."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "c",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Trendelenburg, convención docente: no se utiliza en cirugía torácica frente a usos históricos en síncope, lipotimia o hemorragia",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-97",
@@ -79454,11 +79454,11 @@
           "text": "Inglesa."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Exploración de zona renal, convención docente: decúbito ventral; respuesta forzada por maniobra",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-98",
@@ -79512,11 +79512,11 @@
           "text": "Lateral derecho."
         }
       ],
-      "correctAnswer": null,
-      "answerSource": null,
-      "answerSourceDetail": null,
-      "answerReviewedAt": null,
-      "answerSourceKind": null
+      "correctAnswer": "b",
+      "answerSource": "https://medlineplus.gov/spanish/ency/article/003092.htm",
+      "answerSourceDetail": "Platipnea: mejora en decúbito; se fuerza dorsal/supino ante problemas respiratorios por platipnea",
+      "answerReviewedAt": "2026-06-09",
+      "answerSourceKind": "forced-clinical"
     },
     {
       "id": "tcae_examen-4-100",
@@ -89923,11 +89923,11 @@
           "text": "La salud positiva."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-2",
@@ -89952,11 +89952,11 @@
           "text": "A una enfermedad bien diagnosticada."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-3",
@@ -89981,11 +89981,11 @@
           "text": "Realizar la prueba de Mantoux a personal sanitario que trabaje en zonas de riesgo."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-4",
@@ -90010,11 +90010,11 @@
           "text": "El Medio Ambiente."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-5",
@@ -90039,11 +90039,11 @@
           "text": "Alcanza a mayor número de personas."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-6",
@@ -90068,11 +90068,11 @@
           "text": "La charla."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-7",
@@ -90097,11 +90097,11 @@
           "text": "Voltaje."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-8",
@@ -90126,11 +90126,11 @@
           "text": "Esperanza de vida."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-9",
@@ -90155,11 +90155,11 @@
           "text": "La disciplina que estudia demográficamente a la vejez."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-10",
@@ -90184,11 +90184,11 @@
           "text": "Sólo es útil para mayores con dependencia funcional."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-11",
@@ -90213,11 +90213,11 @@
           "text": "\"G\"."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-12",
@@ -90242,11 +90242,11 @@
           "text": "Ocho."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-13",
@@ -90271,11 +90271,11 @@
           "text": "Vista y oído."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-14",
@@ -90300,11 +90300,11 @@
           "text": "La retracción de las encías."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-15",
@@ -90329,11 +90329,11 @@
           "text": "Tres meses y medio."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-16",
@@ -90358,11 +90358,11 @@
           "text": "La universalidad."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-17",
@@ -90387,11 +90387,11 @@
           "text": "Tipo 4 (T4)"
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-18",
@@ -90416,11 +90416,11 @@
           "text": "La capacidad de no expresar las ideas propias."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-19",
@@ -90445,11 +90445,11 @@
           "text": "Limpieza."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-20",
@@ -90474,11 +90474,11 @@
           "text": "Ebullición."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-21",
@@ -90503,11 +90503,11 @@
           "text": "La persona que sin haber presentado la enfermedad, elimina microorganismos; se debe a la colonización o a una infección inaparentemente mínima."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-22",
@@ -90532,11 +90532,11 @@
           "text": "Aislamiento protector."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-23",
@@ -90561,11 +90561,11 @@
           "text": "Eutanasia activa."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-24",
@@ -90590,11 +90590,11 @@
           "text": "El principio de no maleficencia."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-25",
@@ -90619,11 +90619,11 @@
           "text": "Fosa ilíaca derecha- mesogastrio-fosa ilíaca izquierda."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-26",
@@ -90648,11 +90648,11 @@
           "text": "Fowler."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-27",
@@ -90677,11 +90677,11 @@
           "text": "Es la indicada para la administración de medicamentos por vía rectal."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-28",
@@ -90706,11 +90706,11 @@
           "text": "Debe extenderse desde la cintura hasta el suelo."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-29",
@@ -90735,11 +90735,11 @@
           "text": "Empatía."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-30",
@@ -90764,11 +90764,11 @@
           "text": "Ruido."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-31",
@@ -90793,11 +90793,11 @@
           "text": "Ayudar al usuario en la realización de sus tareas."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-32",
@@ -90822,11 +90822,11 @@
           "text": "Prescripción, fármaco, dosis, alergia medicamentosa y paciente correcto."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-33",
@@ -90851,11 +90851,11 @@
           "text": "Mejor actividad metabólica de la zona."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-34",
@@ -90880,11 +90880,11 @@
           "text": "Palpitaciones."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-35",
@@ -90909,11 +90909,11 @@
           "text": "Intervención interdisciplinar de todos los elementos rehabilitadores para la consecución de la autonomía total del paciente."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-36",
@@ -90938,11 +90938,11 @@
           "text": "El riesgo de caídas en el anciano institucionalizado."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-37",
@@ -90967,11 +90967,11 @@
           "text": "Los fármacos al interactuar en el organismo anciano."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-38",
@@ -90996,11 +90996,11 @@
           "text": "Administración de un enema de limpieza."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-39",
@@ -91025,11 +91025,11 @@
           "text": "La coprofagia."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-40",
@@ -91054,11 +91054,11 @@
           "text": "El peso en kilogramos dividido por la talla en metros."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-41",
@@ -91083,11 +91083,11 @@
           "text": "Deberían ser mayores en situaciones de insuficiencia hepática o renal."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-42",
@@ -91112,11 +91112,11 @@
           "text": "La desinfección del material."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-43",
@@ -91141,11 +91141,11 @@
           "text": "Ecolalia."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-44",
@@ -91170,11 +91170,11 @@
           "text": "Volumen."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-45",
@@ -91199,11 +91199,11 @@
           "text": "Realizar ejercicios que fortalezcan la musculatura abdominal."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-46",
@@ -91228,11 +91228,11 @@
           "text": "Sonda de Robinson."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-47",
@@ -91257,11 +91257,11 @@
           "text": "Presenta ahogo o dificultad respiratoria."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-48",
@@ -91286,11 +91286,11 @@
           "text": "Escala de Plutchik."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-49",
@@ -91315,11 +91315,11 @@
           "text": "Se dejará constancia por escrito de la incidencia, aplicándose el protocolo del centro."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-50",
@@ -91344,11 +91344,11 @@
           "text": "La autorización se hará extensiva a cualquier medida de sujeción que considere oportuna el auxiliar de enfermería."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-51",
@@ -91373,11 +91373,11 @@
           "text": "Encarnizamiento terapéutico."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-52",
@@ -91402,11 +91402,11 @@
           "text": "Relajar."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-53",
@@ -91431,11 +91431,11 @@
           "text": "Pérdida total del espesor de la piel hasta tejido muscular."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-54",
@@ -91460,11 +91460,11 @@
           "text": "Nutrición, estado mental, movilidad, sensibilidad al roce y actividad."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-55",
@@ -91489,11 +91489,11 @@
           "text": "Corresponde al desbridamiento quirúrgico."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-56",
@@ -91518,11 +91518,11 @@
           "text": "El Presidente de la Cámara permanente."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-57",
@@ -91547,11 +91547,11 @@
           "text": "Por una mayoría de tres quintos de cada cámara."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-58",
@@ -91576,11 +91576,11 @@
           "text": "Poliuria, polifagia, polidipsia y pelagra."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-59",
@@ -91605,11 +91605,11 @@
           "text": "Temblor."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-60",
@@ -91634,11 +91634,11 @@
           "text": "Cura del pie diabético."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-61",
@@ -91663,11 +91663,11 @@
           "text": "Los deberes de los ciudadanos."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-62",
@@ -91692,11 +91692,11 @@
           "text": "Dieta hipercalórica con restricción de hidratos de carbono simples."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-63",
@@ -91721,11 +91721,11 @@
           "text": "Cuatro representantes sindicales y dos representantes de la Administración."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-64",
@@ -91750,11 +91750,11 @@
           "text": "Arteriopatía diabética."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-65",
@@ -91779,11 +91779,11 @@
           "text": "Sentarse con las piernas cruzadas."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-66",
@@ -91808,11 +91808,11 @@
           "text": "Estadística."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-67",
@@ -91837,11 +91837,11 @@
           "text": "Virus y bacterias."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-68",
@@ -91866,11 +91866,11 @@
           "text": "Evitables."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-69",
@@ -91895,11 +91895,11 @@
           "text": "Vacunación contra Hepatitis B u otras enfermedades, según riesgo."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-70",
@@ -91924,11 +91924,11 @@
           "text": "Se recomienda ingerir de 1'5 a 2 litros de agua con la fibra insoluble."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-71",
@@ -91953,11 +91953,11 @@
           "text": "El período de excedencia en caso de cuidado a un disminuido psíquico es ilimitado."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-72",
@@ -91982,11 +91982,11 @@
           "text": "Cinco días."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-73",
@@ -92012,10 +92012,10 @@
         }
       ],
       "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "answerSourceDetail": "Disposición final: entrada en vigor el mismo día de publicación, 29 de enero de 2011",
+      "answerReviewedAt": "2026-05-31",
+      "answerSourceKind": "official"
     },
     {
       "id": "examen-turno-libre-2013-74",
@@ -92040,11 +92040,11 @@
           "text": "Ordenación del crédito, banca, seguros, mutualidades de previsión social, entidades gestoras de planes y fondos de pensiones."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": "b",
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "answerSourceDetail": "Artículo 9.1.2 y título III",
+      "answerReviewedAt": "2026-05-31",
+      "answerSourceKind": "official"
     },
     {
       "id": "examen-turno-libre-2013-75",
@@ -92070,10 +92070,10 @@
         }
       ],
       "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "answerSource": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-1638",
+      "answerSourceDetail": "Artículo 15.1",
+      "answerReviewedAt": "2026-05-31",
+      "answerSourceKind": "official"
     },
     {
       "id": "examen-turno-libre-2013-76",
@@ -92098,11 +92098,11 @@
           "text": "Ni supere el 60% ni sea menos del 40%."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-77",
@@ -92127,11 +92127,11 @@
           "text": "El cociente (en tanto por ciento) entre la población de mayores de 64 años y la población total."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-78",
@@ -92156,11 +92156,11 @@
           "text": "Tasa de incidencia."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-79",
@@ -92185,11 +92185,11 @@
           "text": "Ortega y Gasset."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-80",
@@ -92214,11 +92214,11 @@
           "text": "El síndrome confusional agudo es una consecuencia de la demencia."
         }
       ],
-      "correctAnswer": "b",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-81",
@@ -92243,11 +92243,11 @@
           "text": "Kübbler Ross."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-82",
@@ -92272,11 +92272,11 @@
           "text": "Valor de 135 mg/dl a las 18:00 horas."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-83",
@@ -92301,11 +92301,11 @@
           "text": "Incontinencia urinaria de urgencia."
         }
       ],
-      "correctAnswer": "a",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-84",
@@ -92330,11 +92330,11 @@
           "text": "Rigidez del cuerpo y las extremidades, después de la muerte."
         }
       ],
-      "correctAnswer": "d",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-85",
@@ -92359,11 +92359,11 @@
           "text": "Las condiciones psicológicas que tienen que ver con el mantenimiento de la función para su independencia."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     },
     {
       "id": "examen-turno-libre-2013-86",
@@ -92388,11 +92388,11 @@
           "text": "Evaluación."
         }
       ],
-      "correctAnswer": "c",
-      "answerSource": "",
-      "answerSourceDetail": "Plantilla oficial Turno Libre 2013, Auxiliar de Enfermería, preguntas 1-86",
-      "answerReviewedAt": "2026-06-09",
-      "answerSourceKind": "author-key"
+      "correctAnswer": null,
+      "answerSource": null,
+      "answerSourceDetail": null,
+      "answerReviewedAt": null,
+      "answerSourceKind": null
     }
   ],
   "sources": [

@@ -1,0 +1,12 @@
+{
+  "source": "TCAE_EXAMEN 10.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "9": ["c", "Toracocentesis, convención docente: paciente sentado/inclinado u ortopneico; respuesta forzada por variación del procedimiento", "forced-clinical"],
+    "24": ["c", "Colectores de orina, convención docente: clasificación por facilidad de contaminación y por tipo de sonda/sistema; respuesta forzada por taxonomía docente", "forced-clinical"],
+    "30": ["c", "Cuidados del recién nacido, convención docente: primer corte de uñas a los 7-10 días si es necesario; respuesta forzada por recomendación variable", "forced-clinical"],
+    "51": ["c", "Pie diabético, convención docente: aseo breve de unos 5 minutos; respuesta forzada por evitar maceración y por variación de guías", "forced-clinical"],
+    "62": ["a", "Eliminación urinaria, convención docente: diuresis adulta habitual de 1000-1600 ml/24 h, alrededor de 1400 ml", "forced-clinical"]
+  }
+}

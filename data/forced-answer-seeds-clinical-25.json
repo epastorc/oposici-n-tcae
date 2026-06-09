@@ -1,0 +1,9 @@
+{
+  "source": "TCAE_EXAMEN 25.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/constipation.html",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "32": ["b", "Estreñimiento en ancianos, convención docente: el sedentarismo o falta de ejercicio se toma como causa principal entre las opciones; respuesta forzada porque el estreñimiento geriátrico es multifactorial", "forced-clinical"],
+    "65": ["a", "Duelo, modelo clásico de Kübler-Ross: la negación figura como fase del duelo; respuesta forzada porque ira y negociación también aparecen en el mismo modelo", "forced-clinical"]
+  }
+}

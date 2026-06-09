@@ -1,0 +1,18 @@
+{
+  "source": "TCAE_EXAMEN 8.pdf",
+  "sourceUrl": "https://medlineplus.gov/spanish/pruebas-de-laboratorio/pulsioximetria",
+  "reviewedAt": "2026-06-09",
+  "answers": {
+    "7": ["d", "Anatomía urinaria: la apertura y cierre de la uretra corresponde al esfínter uretral, que no aparece literalmente entre las opciones; respuesta forzada por descarte", "forced-clinical"],
+    "9": ["a", "Marcha de cuatro puntos, convención docente: la muleta izquierda va precedida por el pie izquierdo en la secuencia enseñada; respuesta forzada por patrón iniciado", "forced-clinical"],
+    "14": ["a", "Úlceras por presión, taxonomía docente histórica: eritema, edema vascular y rotura de piel; respuesta forzada frente a la clasificación vigente por categorías", "forced-clinical"],
+    "23": ["a", "Higiene de oídos: el bastoncillo se limita al pabellón auricular externo, no a extraer cera ni introducirse en el oído interno", "forced-clinical"],
+    "28": ["a", "Escala NOVA 5, convención docente: bajo riesgo de 1 a 4 puntos; respuesta forzada por versión de escala", "forced-clinical"],
+    "37": ["b", "Oxigenoterapia durante la alimentación, convención docente: sustituir temporalmente la mascarilla por cánula/catéter nasal permite comer manteniendo aporte de oxígeno; respuesta forzada porque requiere indicación clínica", "forced-clinical"],
+    "50": ["b", "Movilización del paciente encamado, convención docente: mantener extensión/alineación evita flexiones o rotaciones que aumenten compresión; respuesta forzada por formulación de opciones", "forced-clinical"],
+    "53": ["b", "Movilización del paciente encamado, convención docente: ejercicios pasivos/asistidos de extremidades ayudan a mantener movilidad; respuesta forzada por individualización clínica", "forced-clinical"]
+    ,"64": ["b", "Higiene del paciente, convención docente: la ducha se considera estimulante y el baño relajante; por tanto es incorrecto atribuir efecto relajante a la ducha", "forced-clinical"],
+    "68": ["c", "Gráfica hospitalaria, convención docente: la anamnesis/filiación inicial recoge datos personales, unidad, habitación y cama; respuesta forzada por terminología documental", "forced-clinical"],
+    "76": ["a", "Higiene tras deposición en pañal, convención docente: limpiar desde región anal hacia espalda, evitando arrastrar suciedad hacia genitales", "forced-clinical"]
+  }
+}
