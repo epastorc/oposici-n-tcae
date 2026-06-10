@@ -1,0 +1,14 @@
+{
+  "main": {
+    "id": "main",
+    "type": "markdown",
+    "title": "Inicio",
+    "state": {
+      "file": "Inicio.md",
+      "mode": "source"
+    }
+  },
+  "left": { "id": "left", "type": "empty", "state": { "visible": false } },
+  "right": { "id": "right", "type": "empty", "state": { "visible": false } },
+  "active": "main"
+}

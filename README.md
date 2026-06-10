@@ -3,7 +3,7 @@
 Web estática y responsive para practicar tests de oposición de Técnico en Cuidados
 Auxiliares de Enfermería (TCAE).
 
-El repositorio incluye un banco de `3.100` preguntas extraídas de `38` PDF y un
+El repositorio incluye un banco de `3.186` preguntas extraídas de `39` fuentes y un
 importador reproducible para regenerarlo cuando se añadan nuevos exámenes.
 
 ## Funcionalidades
@@ -17,6 +17,7 @@ importador reproducible para regenerarlo cuando se añadan nuevos exámenes.
 - Diseño adaptado a escritorio, tablet y móvil.
 - Extracción automática de preguntas desde PDF.
 - Banco independiente para preguntas nuevas según temario.
+- Pruebas E2E con Playwright antes del despliegue en GitHub Pages.
 
 ## Ejecutar la web
 
@@ -34,6 +35,21 @@ La rama `develop` se publica automáticamente mediante GitHub Pages:
 
 Cada despliegue genera `web/version.json` con el commit publicado y la fecha UTC.
 La versión se muestra en el pie de página para comprobar qué subida está activa.
+
+Antes de publicar, GitHub Actions ejecuta la suite E2E de Playwright. Si los casos
+principales de uso fallan, el despliegue se detiene.
+
+## Pruebas
+
+Instala dependencias y ejecuta la suite E2E:
+
+```bash
+npm ci
+npm run test:e2e
+```
+
+Los tests arrancan un servidor estático sobre `web/` y cubren la carga de bancos,
+creación de tests, guardado/reanudación, examen oficial, temario y repaso de fallos.
 
 ## Recursos visuales
 
@@ -58,9 +74,11 @@ exactamente cuatro opciones, se excluye y queda registrado en el campo `warnings
 - `scripts/extract_questions.py`: parser de preguntas.
 - `scripts/import_pdfs.sh`: importador reproducible.
 - `scripts/serve.sh`: servidor web local.
+- `tests/e2e/app.spec.js`: casos de uso principales con Playwright.
 - `web/data/questions.json`: banco de preguntas.
 - `web/data/thematic-questions.json`: banco independiente de preguntas nuevas según temario.
 - `web/`: aplicación estática.
+- `obsidian-vault/`: bóveda de documentación operativa del proyecto.
 
 Las preguntas nuevas según temario se generan exclusivamente para TCAE a partir de
 soluciones verificadas del banco principal:
@@ -104,7 +122,8 @@ la procedencia. Todas se auditan por separado en `data/answer-review.json`.
 ```
 
 Cada solución documentada conserva la URL, el artículo, apartado o plantilla
-consultada y la fecha de revisión.
+consultada y la fecha de revisión. Actualmente hay `2.957` preguntas con respuesta
+aplicada al banco principal.
 
 Las plantillas de corrección de Academia Opolis se convierten en lotes importables
 con una validación textual de cada opción:
