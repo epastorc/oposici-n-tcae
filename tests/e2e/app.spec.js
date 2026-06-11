@@ -34,8 +34,8 @@ test.beforeEach(async ({ page }) => {
 test("loads the question catalogs and validates the start form", async ({ page }) => {
   await openApp(page);
 
-  await expect(page.locator("#catalog")).toContainText("3306 preguntas disponibles");
-  await expect(page.locator("#catalog")).toContainText("3076 soluciones documentadas");
+  await expect(page.locator("#catalog")).toContainText("3376 preguntas disponibles");
+  await expect(page.locator("#catalog")).toContainText("3146 soluciones documentadas");
 
   await page.getByRole("button", { name: "Comenzar aventura" }).click();
   await expect(page.locator("#start-error")).toContainText("Pon un nombre al reto");
@@ -124,6 +124,19 @@ test("runs the postponed official 2022 exam in source order", async ({ page }) =
 
   await expect(page.locator("#progress")).toContainText("Pregunta 1 de 60");
   await expect(page.locator("#source")).toContainText("Examen Turno Libre Aplazado 2022.pdf · pregunta 1");
+});
+
+test("runs the official 2023 exam in source order", async ({ page }) => {
+  await openApp(page);
+  await page.getByRole("button", { name: "Examen 2023", exact: true }).click();
+  await expect(page.locator("#official-2023-catalog")).toContainText("70 preguntas cargadas");
+  await expect(page.locator("#official-2023-catalog")).toContainText("70 respuestas");
+
+  await page.locator("#official-2023-test-name").fill("Oficial 2023 e2e");
+  await page.getByRole("button", { name: "Comenzar Examen 2023", exact: true }).click();
+
+  await expect(page.locator("#progress")).toContainText("Pregunta 1 de 70");
+  await expect(page.locator("#source")).toContainText("Examen 2023.pdf · pregunta 1");
 });
 
 test("runs a thematic test with the selected size", async ({ page }) => {

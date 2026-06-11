@@ -95873,6 +95873,2036 @@
       "answerSourceDetail": "Plantilla Junta de Extremadura, cuestionario 2, ejercicio aplazado, Orden de 23 de diciembre de 2022",
       "answerSourceKind": "official",
       "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-1",
+      "source": "Examen 2023.pdf",
+      "number": 1,
+      "prompt": "La alteración o desviación del estado fisiológico en una o varias partes del cuerpo, por causas en general conocidas, manifestada por síntomas y signos característicos, y cuya evolución es más o menos previsible, define a:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La senectud."
+        },
+        {
+          "key": "b",
+          "text": "La salud pública."
+        },
+        {
+          "key": "c",
+          "text": "La salud."
+        },
+        {
+          "key": "d",
+          "text": "La enfermedad."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-2",
+      "source": "Examen 2023.pdf",
+      "number": 2,
+      "prompt": "¿En qué nivel de prevención situaría la promoción de la salud?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Prevención primaria."
+        },
+        {
+          "key": "b",
+          "text": "Prevención secundaria."
+        },
+        {
+          "key": "c",
+          "text": "Prevención terciaria."
+        },
+        {
+          "key": "d",
+          "text": "Prevención cuaternaria."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-3",
+      "source": "Examen 2023.pdf",
+      "number": 3,
+      "prompt": "Según la Organización Mundial de la Salud (O.M.S.), la parte de la atención de la salud que se ocupa de promover un comportamiento sano es la:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Atención especializada."
+        },
+        {
+          "key": "b",
+          "text": "Atención Primaria."
+        },
+        {
+          "key": "c",
+          "text": "Educación sanitaria."
+        },
+        {
+          "key": "d",
+          "text": "Formación académica."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-4",
+      "source": "Examen 2023.pdf",
+      "number": 4,
+      "prompt": "La discriminación por razón de edad es el:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sexismo."
+        },
+        {
+          "key": "b",
+          "text": "Clasismo."
+        },
+        {
+          "key": "c",
+          "text": "Capacitismo."
+        },
+        {
+          "key": "d",
+          "text": "Edadismo."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-5",
+      "source": "Examen 2023.pdf",
+      "number": 5,
+      "prompt": "La Asamblea General de Naciones Unidas declaró el período 2021-2030 como:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La década prodigiosa."
+        },
+        {
+          "key": "b",
+          "text": "La década del envejecimiento activo."
+        },
+        {
+          "key": "c",
+          "text": "La década del envejecimiento saludable."
+        },
+        {
+          "key": "d",
+          "text": "La década de las personas mayores."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-6",
+      "source": "Examen 2023.pdf",
+      "number": 6,
+      "prompt": "Indique cuál de las siguientes es una de las escalas utilizadas para evaluar las actividades básicas de la vida diaria (ABVD):",
+      "options": [
+        {
+          "key": "a",
+          "text": "Índice de Barthel."
+        },
+        {
+          "key": "b",
+          "text": "Escala de Cornell."
+        },
+        {
+          "key": "c",
+          "text": "Inventario de Beck."
+        },
+        {
+          "key": "d",
+          "text": "Test de Yesavage."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-7",
+      "source": "Examen 2023.pdf",
+      "number": 7,
+      "prompt": "¿Cuál de los siguientes síntomas indica la posible existencia de un deterioro sensorial auditivo asociado a la edad?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dar respuestas coherentes a las preguntas formuladas."
+        },
+        {
+          "key": "b",
+          "text": "Mantener constante el volumen del habla."
+        },
+        {
+          "key": "c",
+          "text": "Mirar de forma reiterada a la persona que habla."
+        },
+        {
+          "key": "d",
+          "text": "Manifestar dificultad a la hora de medir distancias."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-8",
+      "source": "Examen 2023.pdf",
+      "number": 8,
+      "prompt": "La enfermedad diverticular es considerada como una enfermedad:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Del aparato digestivo."
+        },
+        {
+          "key": "b",
+          "text": "Del aparato genitourinario."
+        },
+        {
+          "key": "c",
+          "text": "Del sistema endocrino."
+        },
+        {
+          "key": "d",
+          "text": "Del sistema cardiovascular."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-9",
+      "source": "Examen 2023.pdf",
+      "number": 9,
+      "prompt": "En el proceso de comunicación, la interferencia que tiene el mensaje para llegar al destino se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Canal."
+        },
+        {
+          "key": "b",
+          "text": "Emisor."
+        },
+        {
+          "key": "c",
+          "text": "Fuente."
+        },
+        {
+          "key": "d",
+          "text": "Ruido."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-10",
+      "source": "Examen 2023.pdf",
+      "number": 10,
+      "prompt": "La principal causa de mortalidad de la población anciana española de más de 80 años, deriva de enfermedades:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Digestivas."
+        },
+        {
+          "key": "b",
+          "text": "Pulmonares."
+        },
+        {
+          "key": "c",
+          "text": "Cardiocirculatorias."
+        },
+        {
+          "key": "d",
+          "text": "Óseas."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-11",
+      "source": "Examen 2023.pdf",
+      "number": 11,
+      "prompt": "En la ancianidad lo habitual es que se presenten varias enfermedades conjuntamente, ya que la existencia de una enfermedad predispone o facilita la presencia de otras. Esta conjunción de enfermedades se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Enfermedades múltiples hereditarias."
+        },
+        {
+          "key": "b",
+          "text": "Pluripatología."
+        },
+        {
+          "key": "c",
+          "text": "Enfermedades conexas individualizadas."
+        },
+        {
+          "key": "d",
+          "text": "Patologías leves únicas."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-12",
+      "source": "Examen 2023.pdf",
+      "number": 12,
+      "prompt": "En la intervención desarrollada dentro de la prestación básica de Ayuda a Domicilio, es una ayuda de carácter personal:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La realización de tareas relacionadas con la limpieza de la vivienda."
+        },
+        {
+          "key": "b",
+          "text": "El acompañamiento fuera del hogar para la realización de gestiones."
+        },
+        {
+          "key": "c",
+          "text": "La atención inmediata a través de la teleasistencia."
+        },
+        {
+          "key": "d",
+          "text": "El apoyo a la unidad de convivencia sobre administración y economía familiar."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-13",
+      "source": "Examen 2023.pdf",
+      "number": 13,
+      "prompt": "¿Cómo debe ser el entorno para el reposo y sueño del paciente terminal?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Lo más relajado y cómodo posible."
+        },
+        {
+          "key": "b",
+          "text": "Ruidoso."
+        },
+        {
+          "key": "c",
+          "text": "En la habitación no es importante el control de la temperatura ambiental."
+        },
+        {
+          "key": "d",
+          "text": "Se debe evitar siempre la luz natural."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-14",
+      "source": "Examen 2023.pdf",
+      "number": 14,
+      "prompt": "¿Cómo se denomina la disminución de las ganas de comer en el paciente terminal?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bulimia."
+        },
+        {
+          "key": "b",
+          "text": "Ataxia."
+        },
+        {
+          "key": "c",
+          "text": "Parestesia."
+        },
+        {
+          "key": "d",
+          "text": "Anorexia."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-15",
+      "source": "Examen 2023.pdf",
+      "number": 15,
+      "prompt": "Señale la respuesta CORRECTA con respecto a los cuidados de las prótesis dentales:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Debe mantenerse colocada la prótesis durante la noche."
+        },
+        {
+          "key": "b",
+          "text": "No será necesario limpiar la prótesis dental después de las comidas."
+        },
+        {
+          "key": "c",
+          "text": "Se enseñará al paciente a colocarse la prótesis dental."
+        },
+        {
+          "key": "d",
+          "text": "Es importante que el paciente tome alimentos duros y de difícil masticación."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-16",
+      "source": "Examen 2023.pdf",
+      "number": 16,
+      "prompt": "La forma correcta de cortar las uñas de los pies es:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ovalada."
+        },
+        {
+          "key": "b",
+          "text": "Almendrada."
+        },
+        {
+          "key": "c",
+          "text": "En punta."
+        },
+        {
+          "key": "d",
+          "text": "En forma de línea recta."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-17",
+      "source": "Examen 2023.pdf",
+      "number": 17,
+      "prompt": "Con carácter general, para prevenir el estreñimiento en el anciano, se recomienda una ingesta de líquido diario de:",
+      "options": [
+        {
+          "key": "a",
+          "text": "De 5 a 6 litros diarios."
+        },
+        {
+          "key": "b",
+          "text": "De 4 a 5 litros diarios."
+        },
+        {
+          "key": "c",
+          "text": "De 2 a 3 litros diarios."
+        },
+        {
+          "key": "d",
+          "text": "De 6 a 8 litros diarios."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-18",
+      "source": "Examen 2023.pdf",
+      "number": 18,
+      "prompt": "Cuando se produce una invasión y entrada en el organismo humano de parásitos , hablamos de:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Inflamación."
+        },
+        {
+          "key": "b",
+          "text": "Insectación."
+        },
+        {
+          "key": "c",
+          "text": "Infestación."
+        },
+        {
+          "key": "d",
+          "text": "Micosis."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-19",
+      "source": "Examen 2023.pdf",
+      "number": 19,
+      "prompt": "Decimos que un producto es bacteriostático cuando:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aumenta el crecimiento de los microorganismos."
+        },
+        {
+          "key": "b",
+          "text": "Mata los microorganismos."
+        },
+        {
+          "key": "c",
+          "text": "Inhibe el crecimiento de los microorganismos."
+        },
+        {
+          "key": "d",
+          "text": "Aumenta las defensas."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-20",
+      "source": "Examen 2023.pdf",
+      "number": 20,
+      "prompt": "NO es un principio de la bioética en cuidados paliativos:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Justicia."
+        },
+        {
+          "key": "b",
+          "text": "Beneficencia."
+        },
+        {
+          "key": "c",
+          "text": "Autonomía."
+        },
+        {
+          "key": "d",
+          "text": "Maleficencia."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-21",
+      "source": "Examen 2023.pdf",
+      "number": 21,
+      "prompt": "Es una característica de los cuidados paliativos:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Apresurar la muerte."
+        },
+        {
+          "key": "b",
+          "text": "Proporcionar alivio del dolor y otros síntomas angustiantes."
+        },
+        {
+          "key": "c",
+          "text": "Posponer la muerte."
+        },
+        {
+          "key": "d",
+          "text": "Lograr la curación completa del paciente."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-22",
+      "source": "Examen 2023.pdf",
+      "number": 22,
+      "prompt": "Según el modelo de Kübler -Ross un paciente terminal que expresa rabia, hostilidad, resentimiento…, se encontraría en la siguiente etapa del duelo:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ira."
+        },
+        {
+          "key": "b",
+          "text": "Aceptación."
+        },
+        {
+          "key": "c",
+          "text": "Depresión."
+        },
+        {
+          "key": "d",
+          "text": "Embotamiento."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-23",
+      "source": "Examen 2023.pdf",
+      "number": 23,
+      "prompt": "Señale la posición indicada para realizar la higiene del cabello en un paciente encamado:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Posición genupectoral."
+        },
+        {
+          "key": "b",
+          "text": "Posición de ginecología."
+        },
+        {
+          "key": "c",
+          "text": "Posición de Roser."
+        },
+        {
+          "key": "d",
+          "text": "Posición de Sims."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-24",
+      "source": "Examen 2023.pdf",
+      "number": 24,
+      "prompt": "Para quitar el camisón sucio a un paciente encamado con un sistema de suero intravenoso en un brazo:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Se sacaría primero la manga del brazo que tiene el sistema."
+        },
+        {
+          "key": "b",
+          "text": "Se sacaría primero la manga del brazo que está libre."
+        },
+        {
+          "key": "c",
+          "text": "Es importante que el bote de suero esté por debajo de la zona de inserción del catéter."
+        },
+        {
+          "key": "d",
+          "text": "No se puede quitar el camisón sin quitar antes todo el sistema de suero."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-25",
+      "source": "Examen 2023.pdf",
+      "number": 25,
+      "prompt": "Cuando se detiene o se produce una disminución del flujo sanguíneo al encéfalo y meninges, nos referimos a:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Un accidente cerebrovascular."
+        },
+        {
+          "key": "b",
+          "text": "Una insuficiencia pulmonar."
+        },
+        {
+          "key": "c",
+          "text": "La hipertensión arterial."
+        },
+        {
+          "key": "d",
+          "text": "Un infarto agudo de miocardio."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-26",
+      "source": "Examen 2023.pdf",
+      "number": 26,
+      "prompt": "La incapacidad de una persona para realizar movimientos coordinados sin que exista causa de origen físico, se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Agnosia."
+        },
+        {
+          "key": "b",
+          "text": "Afasia."
+        },
+        {
+          "key": "c",
+          "text": "Anomia."
+        },
+        {
+          "key": "d",
+          "text": "Apraxia."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-27",
+      "source": "Examen 2023.pdf",
+      "number": 27,
+      "prompt": "¿Cuál de las siguientes patologías se asocia a la falta de producción de dopamina en el organismo?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La enfermedad de Parkinson."
+        },
+        {
+          "key": "b",
+          "text": "La enfermedad de Alzheimer."
+        },
+        {
+          "key": "c",
+          "text": "La demencia frontotemporal."
+        },
+        {
+          "key": "d",
+          "text": "La dermatitis."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-28",
+      "source": "Examen 2023.pdf",
+      "number": 28,
+      "prompt": "Los fármacos lipófilos sufren su biotransformación principalmente en:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Los riñones."
+        },
+        {
+          "key": "b",
+          "text": "El estómago."
+        },
+        {
+          "key": "c",
+          "text": "El hígado."
+        },
+        {
+          "key": "d",
+          "text": "El esófago."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-29",
+      "source": "Examen 2023.pdf",
+      "number": 29,
+      "prompt": "Según la Organización Mundial de la Salud (O.M.S.), ¿c uál es el límite de caducidad máximo, con carácter general, de los medicamentos?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "10 años."
+        },
+        {
+          "key": "b",
+          "text": "9 años."
+        },
+        {
+          "key": "c",
+          "text": "5 años."
+        },
+        {
+          "key": "d",
+          "text": "7 años."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-30",
+      "source": "Examen 2023.pdf",
+      "number": 30,
+      "prompt": "Señale la respuesta CORRECTA con respecto al uso del bastón:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Está indicado cuando hay afectación bilateral."
+        },
+        {
+          "key": "b",
+          "text": "Es importante que, en el extremo que apoya en el suelo, tenga un taco de goma, caucho o similar, para evitar que resbale."
+        },
+        {
+          "key": "c",
+          "text": "Su uso no proporciona seguridad al caminar."
+        },
+        {
+          "key": "d",
+          "text": "La longitud del bastón es independiente de la talla del paciente."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-31",
+      "source": "Examen 2023.pdf",
+      "number": 31,
+      "prompt": "En el traslado de un paciente en silla de ruedas:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Al entrar en un ascensor, el paciente entra primero y después el Auxiliar de Enfermería."
+        },
+        {
+          "key": "b",
+          "text": "Al entrar en un ascensor, se vuelve la silla y el Auxiliar de Enfermería entra antes que el paciente, tirando de la silla y caminando hacia atrás."
+        },
+        {
+          "key": "c",
+          "text": "Al bajar una rampa, el Auxiliar de Enfermería se situará detrás y el paciente irá por delante."
+        },
+        {
+          "key": "d",
+          "text": "El paciente dejará caer los brazos sueltos por fuera de la silla."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-32",
+      "source": "Examen 2023.pdf",
+      "number": 32,
+      "prompt": "De los siguientes tipos de demencia, ¿cuál es de carácter cortical?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Enfermedad de Alzheimer."
+        },
+        {
+          "key": "b",
+          "text": "Corea de Huntington."
+        },
+        {
+          "key": "c",
+          "text": "Enfermedad de Parkinson."
+        },
+        {
+          "key": "d",
+          "text": "Enfermedad Fisular."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-33",
+      "source": "Examen 2023.pdf",
+      "number": 33,
+      "prompt": "¿Qué NO debe hacer el Auxiliar de Enfermería que cuida al paciente con demencia?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Estimular al paciente para que se sienta motivado."
+        },
+        {
+          "key": "b",
+          "text": "Hacer las tareas que el paciente puede hacer por sí mismo."
+        },
+        {
+          "key": "c",
+          "text": "Dirigir al paciente en sus funciones de la vida diaria."
+        },
+        {
+          "key": "d",
+          "text": "Ayudar al paciente a realizar tareas complicadas para él."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-34",
+      "source": "Examen 2023.pdf",
+      "number": 34,
+      "prompt": "¿En qué grado de la enfermedad de Alzheimer suele aparecer la depre sión y la ansiedad?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "En el segundo grado."
+        },
+        {
+          "key": "b",
+          "text": "En el tercer grado."
+        },
+        {
+          "key": "c",
+          "text": "En el primer grado."
+        },
+        {
+          "key": "d",
+          "text": "En el cuarto grado."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-35",
+      "source": "Examen 2023.pdf",
+      "number": 35,
+      "prompt": "Señale la respuesta INCORRECTA en relación con las funciones de un Auxiliar de Enfermería en consulta:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Debe reponer la ropa de camilla necesaria."
+        },
+        {
+          "key": "b",
+          "text": "Debe reponer el material gastado."
+        },
+        {
+          "key": "c",
+          "text": "Debe administrar medicamentos por vía parenteral."
+        },
+        {
+          "key": "d",
+          "text": "Debe preparar el material fungible adecuado al tipo de consulta que se pueda necesitar."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-36",
+      "source": "Examen 2023.pdf",
+      "number": 36,
+      "prompt": "Aquella maniobra realizada para observar síntomas q ue orienten un diagnóstico médico, consistente en golpear con los dedos distintas partes del cuerpo, se denomina:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Percusión."
+        },
+        {
+          "key": "b",
+          "text": "Auscultación."
+        },
+        {
+          "key": "c",
+          "text": "Palpación."
+        },
+        {
+          "key": "d",
+          "text": "Inspección."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-37",
+      "source": "Examen 2023.pdf",
+      "number": 37,
+      "prompt": "En un procedimiento diagnóstico, a que nos referimos con el término anamnesis:",
+      "options": [
+        {
+          "key": "a",
+          "text": "A la evolución clínica del paciente, ordenada de forma cronológica."
+        },
+        {
+          "key": "b",
+          "text": "Al gráfico que recoge las constantes del paciente."
+        },
+        {
+          "key": "c",
+          "text": "Al conjunto de exploraciones complementarias solicitadas por los familiares del paciente."
+        },
+        {
+          "key": "d",
+          "text": "Al interrogatorio que permite identificar personalmente al paciente, sus dolencias, así como otros aspectos relevantes que afectan al mismo."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-38",
+      "source": "Examen 2023.pdf",
+      "number": 38,
+      "prompt": "Es una función del Terapeuta Ocupacional en los programas de terapia con ancianos:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Adaptación del entorno."
+        },
+        {
+          "key": "b",
+          "text": "Administración de medicación."
+        },
+        {
+          "key": "c",
+          "text": "Realización de cambios posturales."
+        },
+        {
+          "key": "d",
+          "text": "Ayudas técnicas en los cuidados de úlceras por presión."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-39",
+      "source": "Examen 2023.pdf",
+      "number": 39,
+      "prompt": "La alimentación enteral por sonda nasogástrica se conoce también como:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Alimentación voluntaria."
+        },
+        {
+          "key": "b",
+          "text": "Alimentación percutora."
+        },
+        {
+          "key": "c",
+          "text": "Alimentación gastronómica."
+        },
+        {
+          "key": "d",
+          "text": "Alimentación forzada."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-40",
+      "source": "Examen 2023.pdf",
+      "number": 40,
+      "prompt": "¿Cuál será la actuación CORRECTA de l Auxiliar de Enfermería si observa mos que se ha desplazado la sonda nasogástrica a un paciente?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mover la sonda de izquierda a derecha para colocarla en su lugar."
+        },
+        {
+          "key": "b",
+          "text": "Mover la sonda de derecha a izquierda para colocarla en su lugar."
+        },
+        {
+          "key": "c",
+          "text": "Comunicarlo al personal de enfermería."
+        },
+        {
+          "key": "d",
+          "text": "No hacer nada ya que la sonda volverá a su lugar sola."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-41",
+      "source": "Examen 2023.pdf",
+      "number": 41,
+      "prompt": "Referente a la nutrición parenteral, ¿en cuánto tiempo deberá utilizarse la mezc la preparada para la alimentación del paciente una vez abierta?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Durante las 72 horas siguientes a su preparación."
+        },
+        {
+          "key": "b",
+          "text": "Durante las 48 horas siguientes a su preparación."
+        },
+        {
+          "key": "c",
+          "text": "Durante las 24 horas siguientes a su preparación."
+        },
+        {
+          "key": "d",
+          "text": "Durante las 30 horas siguientes a su preparación."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-42",
+      "source": "Examen 2023.pdf",
+      "number": 42,
+      "prompt": "¿Cuál de los siguientes es un factor de riesgo intrínseco en las caídas de ancianos?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Barreras arquitectónicas."
+        },
+        {
+          "key": "b",
+          "text": "Consumo de psicotrópicos."
+        },
+        {
+          "key": "c",
+          "text": "Iluminación insuficiente."
+        },
+        {
+          "key": "d",
+          "text": "Baño sin suelo antideslizante."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-43",
+      "source": "Examen 2023.pdf",
+      "number": 43,
+      "prompt": "En relación con las caídas en el anciano, señale la respuesta CORRECTA:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Todas son inevitables."
+        },
+        {
+          "key": "b",
+          "text": "Solo tienen repercusiones personales."
+        },
+        {
+          "key": "c",
+          "text": "Hay múltiples factores de riesgo."
+        },
+        {
+          "key": "d",
+          "text": "La muerte no es una de sus consecuencias."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-44",
+      "source": "Examen 2023.pdf",
+      "number": 44,
+      "prompt": "El síndrome post caída en el anciano se caracteriza por:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aumento de la actividad física y social."
+        },
+        {
+          "key": "b",
+          "text": "Mejora del estado de ánimo."
+        },
+        {
+          "key": "c",
+          "text": "Miedo a una nueva caída y aislamiento social."
+        },
+        {
+          "key": "d",
+          "text": "Aumento de la independencia."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-45",
+      "source": "Examen 2023.pdf",
+      "number": 45,
+      "prompt": "La incontinencia urinaria que implica pequeñas pérdidas de orina al reír, toser, estornudar o con la actividad física, recibe el nombre de:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Incontinencia de urgencia."
+        },
+        {
+          "key": "b",
+          "text": "Incontinencia de rebosamiento."
+        },
+        {
+          "key": "c",
+          "text": "Incontinencia de estrés o esfuerzo."
+        },
+        {
+          "key": "d",
+          "text": "Incontinencia funcional."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-46",
+      "source": "Examen 2023.pdf",
+      "number": 46,
+      "prompt": "Los dispositivos absorbentes que se utilizarán en caso de incontinencia urinaria:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Deben ser utilizados como primera medida."
+        },
+        {
+          "key": "b",
+          "text": "No causan irritaciones o lesiones en la piel."
+        },
+        {
+          "key": "c",
+          "text": "No suponen una ventaja frente al uso de sondas."
+        },
+        {
+          "key": "d",
+          "text": "Deben permitir la movilidad y preservar la dignidad."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-47",
+      "source": "Examen 2023.pdf",
+      "number": 47,
+      "prompt": "La sonda de Foley es un tipo de sonda:",
+      "options": [
+        {
+          "key": "a",
+          "text": "De alimentación."
+        },
+        {
+          "key": "b",
+          "text": "Vesical."
+        },
+        {
+          "key": "c",
+          "text": "Rectal."
+        },
+        {
+          "key": "d",
+          "text": "De aspiración de secreciones."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-48",
+      "source": "Examen 2023.pdf",
+      "number": 48,
+      "prompt": "La localización más frecuente de las lesiones por úlceras por presión se produce en:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Los talones."
+        },
+        {
+          "key": "b",
+          "text": "La garganta."
+        },
+        {
+          "key": "c",
+          "text": "La columna."
+        },
+        {
+          "key": "d",
+          "text": "Los maléolos."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-49",
+      "source": "Examen 2023.pdf",
+      "number": 49,
+      "prompt": "Es un factor extrínseco que predispone o induce la aparición de úlceras por presión:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La disminución de la percepción por la degradación de la conciencia."
+        },
+        {
+          "key": "b",
+          "text": "La hipoproteinemia."
+        },
+        {
+          "key": "c",
+          "text": "La humedad."
+        },
+        {
+          "key": "d",
+          "text": "La eficiente oxigenación de los tejidos."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-50",
+      "source": "Examen 2023.pdf",
+      "number": 50,
+      "prompt": "El uso rutinario de sujeciones físicas puede provocar efectos negativos en los ancianos. Señale cuál de los siguientes es uno de esos efectos negativos:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aumento del apetito"
+        },
+        {
+          "key": "b",
+          "text": "Úlceras por presión."
+        },
+        {
+          "key": "c",
+          "text": "Aumento del tono muscular."
+        },
+        {
+          "key": "d",
+          "text": "Mayor docilidad."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-51",
+      "source": "Examen 2023.pdf",
+      "number": 51,
+      "prompt": "Es una prueba para diagnosticar la diabetes gestacional:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Prueba del talón."
+        },
+        {
+          "key": "b",
+          "text": "Prueba de Papanicolau."
+        },
+        {
+          "key": "c",
+          "text": "Maniobras de Leopold."
+        },
+        {
+          "key": "d",
+          "text": "Test de O ‘Sullivan."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-52",
+      "source": "Examen 2023.pdf",
+      "number": 52,
+      "prompt": "La agrupación de los síntomas denominados “3P” (Po liuria, Polidipsia, Polifagia) aparece en:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La artrosis."
+        },
+        {
+          "key": "b",
+          "text": "Las migrañas."
+        },
+        {
+          "key": "c",
+          "text": "La diabetes Mellitus."
+        },
+        {
+          "key": "d",
+          "text": "La dermatitis seborreica."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-53",
+      "source": "Examen 2023.pdf",
+      "number": 53,
+      "prompt": "En una hipoglucemia grave en la que el paciente está inconsciente:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Le daremos alimentos ricos en hidratos de carbono por vía oral."
+        },
+        {
+          "key": "b",
+          "text": "Está indicada la administración de glucagón."
+        },
+        {
+          "key": "c",
+          "text": "No constituye una urgencia."
+        },
+        {
+          "key": "d",
+          "text": "El paciente puede resolver por sí mismo la hipoglucemia, no necesita ayuda."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-54",
+      "source": "Examen 2023.pdf",
+      "number": 54,
+      "prompt": "La insulina se produce en:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El páncreas."
+        },
+        {
+          "key": "b",
+          "text": "El corazón."
+        },
+        {
+          "key": "c",
+          "text": "El cerebro."
+        },
+        {
+          "key": "d",
+          "text": "Los riñones."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-55",
+      "source": "Examen 2023.pdf",
+      "number": 55,
+      "prompt": "Para prevenir el estreñimiento es aconsejable:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Abuso de laxantes."
+        },
+        {
+          "key": "b",
+          "text": "Hábitos sedentarios."
+        },
+        {
+          "key": "c",
+          "text": "Dieta pobre en fibra."
+        },
+        {
+          "key": "d",
+          "text": "Ingesta adecuada de líquidos y aumento del consumo de frutas y vegetales."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-56",
+      "source": "Examen 2023.pdf",
+      "number": 56,
+      "prompt": "La posición en la que se debe colocar al anciano para aplicarle un enema es:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Posición de Fowler."
+        },
+        {
+          "key": "b",
+          "text": "Posición de Sims."
+        },
+        {
+          "key": "c",
+          "text": "Posición de Trendelenburg."
+        },
+        {
+          "key": "d",
+          "text": "Decúbito prono."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-57",
+      "source": "Examen 2023.pdf",
+      "number": 57,
+      "prompt": "En relación con los accesorios de la cama de un enfermo, el estribo es aquel que:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Permite colgar las soluciones que se van a perfundir."
+        },
+        {
+          "key": "b",
+          "text": "Mantiene el peso de las ropas de la cama, evitando que rocen y ejerzan presión sobre el paciente."
+        },
+        {
+          "key": "c",
+          "text": "Permite al paciente realizar pequeños desplazamientos corporales dentro de la cama, para incorporarse, cambiar de posición, etc."
+        },
+        {
+          "key": "d",
+          "text": "Mantiene la estabilidad del paciente o de algún segmento del cuerpo."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-58",
+      "source": "Examen 2023.pdf",
+      "number": 58,
+      "prompt": "Si el material necesario para el arreglo de una cama está correctamente apilado sobre una mesa auxiliar para su utilización, ¿cuál de las siguientes piezas encontraremos más arriba?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sábana encimera."
+        },
+        {
+          "key": "b",
+          "text": "Empapador."
+        },
+        {
+          "key": "c",
+          "text": "Colcha."
+        },
+        {
+          "key": "d",
+          "text": "Manta."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-59",
+      "source": "Examen 2023.pdf",
+      "number": 59,
+      "prompt": "Cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud, así como cualquier complemento o accesorio destinado a tal fin, define a:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La ropa de trabajo corriente."
+        },
+        {
+          "key": "b",
+          "text": "Los equipos de los servicios de socorro y salvamento."
+        },
+        {
+          "key": "c",
+          "text": "El material de deporte."
+        },
+        {
+          "key": "d",
+          "text": "Los equipos de protección individual."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-60",
+      "source": "Examen 2023.pdf",
+      "number": 60,
+      "prompt": "A la capacidad de mantenerse erguido sobre las extremidades inferiores se le llama:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Encamamiento."
+        },
+        {
+          "key": "b",
+          "text": "Deambulación."
+        },
+        {
+          "key": "c",
+          "text": "Sedestación."
+        },
+        {
+          "key": "d",
+          "text": "Bipedestación."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-61",
+      "source": "Examen 2023.pdf",
+      "number": 61,
+      "prompt": "En el modelo “participativo” de Educación para la Salud, el objetivo fundamental es:",
+      "options": [
+        {
+          "key": "a",
+          "text": "El conocimiento."
+        },
+        {
+          "key": "b",
+          "text": "La difusión."
+        },
+        {
+          "key": "c",
+          "text": "El empoderamiento."
+        },
+        {
+          "key": "d",
+          "text": "La evaluación."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-62",
+      "source": "Examen 2023.pdf",
+      "number": 62,
+      "prompt": "Una de las actuaciones a realizar dentro de la prestación básica de la animación comunitaria es:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Facilitar información sobre los derechos y recursos existentes en el ámbito de los servicios sociales."
+        },
+        {
+          "key": "b",
+          "text": "Elaboración de los estudios de necesidad de las zonas objeto de intervención y su relación con los recursos existentes."
+        },
+        {
+          "key": "c",
+          "text": "Promoción de actividades con personas en situación de riesgo o marginación social."
+        },
+        {
+          "key": "d",
+          "text": "Dirigir las demandas recibidas a las unidades de servicios sociales, cuando ello sea necesario."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-63",
+      "source": "Examen 2023.pdf",
+      "number": 63,
+      "prompt": "El proceso dirigido a recoger información sobre la capacidad del anciano para realizar su actividad habitual y mantener su independencia en el medio en que se encuentra, es:",
+      "options": [
+        {
+          "key": "a",
+          "text": "La exploración física."
+        },
+        {
+          "key": "b",
+          "text": "La valoración de la esfera funcional."
+        },
+        {
+          "key": "c",
+          "text": "El diagnóstico."
+        },
+        {
+          "key": "d",
+          "text": "La anamnesis."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-64",
+      "source": "Examen 2023.pdf",
+      "number": 64,
+      "prompt": "La utilidad del funcionamiento del trabajo en equipo puede aportar beneficios que pueden constatarse en:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Un aumento de la carga de trabajo."
+        },
+        {
+          "key": "b",
+          "text": "La disminución de la calidad de los resultados."
+        },
+        {
+          "key": "c",
+          "text": "La optimización de recursos materiales y humanos."
+        },
+        {
+          "key": "d",
+          "text": "La disminución de la motivación de los profesionales."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-65",
+      "source": "Examen 2023.pdf",
+      "number": 65,
+      "prompt": "Cuando hablamos de una actividad multidisciplinaria que promueve y protege la salud de los trabajadores, y que busca controlar los accidentes y las enfermedades mediante la reducción de las condiciones de riesgo, nos referimos a la:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ergonomía."
+        },
+        {
+          "key": "b",
+          "text": "Higiene industrial."
+        },
+        {
+          "key": "c",
+          "text": "Salud pública."
+        },
+        {
+          "key": "d",
+          "text": "Salud laboral."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-66",
+      "source": "Examen 2023.pdf",
+      "number": 66,
+      "prompt": "En referencia a la higiene del paciente terminal, se deberá tener en cuenta:",
+      "options": [
+        {
+          "key": "a",
+          "text": "No se dará opción para que el paciente elija su ropa."
+        },
+        {
+          "key": "b",
+          "text": "No se permitirá que el paciente se maquille o perfume."
+        },
+        {
+          "key": "c",
+          "text": "Se permitirá y realizará la higiene al paciente cuando esté más fuerte y animado, respetando su autonomía."
+        },
+        {
+          "key": "d",
+          "text": "La higiene se realizará de manera descuidada y rápida."
+        }
+      ],
+      "correctAnswer": "c",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-67",
+      "source": "Examen 2023.pdf",
+      "number": 67,
+      "prompt": "El instrumental de diéresis se utiliza para:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Cortar o seccionar los tejidos."
+        },
+        {
+          "key": "b",
+          "text": "Suturar los tejidos."
+        },
+        {
+          "key": "c",
+          "text": "Producir la hemostasia en los tejidos."
+        },
+        {
+          "key": "d",
+          "text": "La exploración de los tejidos."
+        }
+      ],
+      "correctAnswer": "a",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-68",
+      "source": "Examen 2023.pdf",
+      "number": 68,
+      "prompt": "Señale la respuesta CORRECTA con respecto a la higiene de los genitales de un paciente encamado:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Se realizará al principio del baño."
+        },
+        {
+          "key": "b",
+          "text": "Se realizará en dirección de genitales a región anal siempre."
+        },
+        {
+          "key": "c",
+          "text": "No es necesario secar los pliegues."
+        },
+        {
+          "key": "d",
+          "text": "Se aseará primero la región perianal."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-69",
+      "source": "Examen 2023.pdf",
+      "number": 69,
+      "prompt": "¿A qué denominamos fórmula magistral en un medicamento?:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Medicamentos destinados a una transformación industrial por un fabricante autorizado."
+        },
+        {
+          "key": "b",
+          "text": "Medicamentos destinados a un paciente individualizado preparado por un farmacéutico."
+        },
+        {
+          "key": "c",
+          "text": "Toda materia, cualquiera que sea su origen: humano, animal, vegetal, químico o de otro tipo."
+        },
+        {
+          "key": "d",
+          "text": "Toda sustancia activa o inactiva empleada en la fabricación de un medicamento."
+        }
+      ],
+      "correctAnswer": "b",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
+    },
+    {
+      "id": "examen-2023-70",
+      "source": "Examen 2023.pdf",
+      "number": 70,
+      "prompt": "A la hora de levantar a un paciente encamado que NO COLABORA , el Auxiliar de Enfermería:",
+      "options": [
+        {
+          "key": "a",
+          "text": "No pedirá nunca ayuda."
+        },
+        {
+          "key": "b",
+          "text": "En ningún caso hará uso de la grúa."
+        },
+        {
+          "key": "c",
+          "text": "Tendrá siempre los pies juntos y no flexionará las rodillas."
+        },
+        {
+          "key": "d",
+          "text": "Utilizará ayudas mecánicas, siempre que sea posible, y pedirá a sus compañeros que cooperen con él."
+        }
+      ],
+      "correctAnswer": "d",
+      "answerSource": "https://www.juntaex.es/documents/77055/2146881/PLANTILLA%2BRESPUESTAS%2BCUESTIONARIO%2B1.pdf",
+      "answerSourceDetail": "Plantilla Junta de Extremadura, lista de espera auxiliar de enfermería, cuestionario 1, Orden de 22 de marzo de 2023",
+      "answerSourceKind": "official",
+      "answerReviewedAt": "2026-06-11"
     }
   ],
   "sources": [
@@ -96039,6 +98069,10 @@
     {
       "file": "Examen Turno Libre Aplazado 2022.pdf",
       "questions": 60
+    },
+    {
+      "file": "Examen 2023.pdf",
+      "questions": 70
     }
   ],
   "warnings": []

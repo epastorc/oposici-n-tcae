@@ -23,6 +23,13 @@ const OFFICIAL_EXAMS = [
     source: "Examen Turno Libre Aplazado 2022.pdf",
     title: "Turno Libre 2022 aplazado",
     missing: "Todavía no está cargado el examen Turno Libre 2022 aplazado."
+  },
+  {
+    id: "official-2023",
+    mode: "official-2023",
+    source: "Examen 2023.pdf",
+    title: "Examen 2023",
+    missing: "Todavía no está cargado el examen 2023."
   }
 ];
 const $ = (id) => document.getElementById(id);
