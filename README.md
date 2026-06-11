@@ -3,7 +3,7 @@
 Web estática y responsive para practicar tests de oposición de Técnico en Cuidados
 Auxiliares de Enfermería (TCAE).
 
-El repositorio incluye un banco de `3.186` preguntas extraídas de `39` fuentes y un
+El repositorio incluye un banco de `3.306` preguntas extraídas de `41` fuentes y un
 importador reproducible para regenerarlo cuando se añadan nuevos exámenes.
 
 ## Funcionalidades
@@ -122,7 +122,7 @@ la procedencia. Todas se auditan por separado en `data/answer-review.json`.
 ```
 
 Cada solución documentada conserva la URL, el artículo, apartado o plantilla
-consultada y la fecha de revisión. Actualmente hay `2.957` preguntas con respuesta
+consultada y la fecha de revisión. Actualmente hay `3.076` preguntas con respuesta
 aplicada al banco principal.
 
 Las plantillas de corrección de Academia Opolis se convierten en lotes importables

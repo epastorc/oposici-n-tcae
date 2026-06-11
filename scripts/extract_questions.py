@@ -19,6 +19,16 @@ HEADER_RE = re.compile(
 
 
 def clean(text: str) -> str:
+    text = re.sub(
+        r"\s*TRIBUNAL DE SELECCIÓN Nº 3\s*-?\s*AUXILIAR DE ENFERMERÍA\s+"
+        r"ORDEN DE 23 DE DICIEMBRE DE 2022.*?"
+        r"P\s*á\s*g\s*i\s*n\s*a\s+\d+\s*\|\s*\d+",
+        " ",
+        text,
+        flags=re.IGNORECASE | re.DOTALL,
+    )
+    text = re.sub(r"\bPREGUNTAS ADICIONALES\s*(?:\(RESERVA\))?", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"\bPARTE\s+(?:TEÓRICA|TEORICA|PRÁCTICA|PRACTICA)\b", " ", text, flags=re.IGNORECASE)
     text = HEADER_RE.sub("", text)
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r" *\n *", "\n", text)

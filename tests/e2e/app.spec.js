@@ -34,8 +34,8 @@ test.beforeEach(async ({ page }) => {
 test("loads the question catalogs and validates the start form", async ({ page }) => {
   await openApp(page);
 
-  await expect(page.locator("#catalog")).toContainText("3186 preguntas disponibles");
-  await expect(page.locator("#catalog")).toContainText("2957 soluciones documentadas");
+  await expect(page.locator("#catalog")).toContainText("3306 preguntas disponibles");
+  await expect(page.locator("#catalog")).toContainText("3076 soluciones documentadas");
 
   await page.getByRole("button", { name: "Comenzar aventura" }).click();
   await expect(page.locator("#start-error")).toContainText("Pon un nombre al reto");
@@ -98,6 +98,32 @@ test("runs the official 2013 exam in source order", async ({ page }) => {
 
   await expect(page.locator("#progress")).toContainText("Pregunta 1 de 86");
   await expect(page.locator("#source")).toContainText("Examen Turno Libre 2013.pdf · pregunta 1");
+});
+
+test("runs the official 2022 exam in source order", async ({ page }) => {
+  await openApp(page);
+  await page.getByRole("button", { name: "Turno Libre 2022", exact: true }).click();
+  await expect(page.locator("#official-2022-catalog")).toContainText("60 preguntas cargadas");
+  await expect(page.locator("#official-2022-catalog")).toContainText("59 respuestas");
+
+  await page.locator("#official-2022-test-name").fill("Oficial 2022 e2e");
+  await page.getByRole("button", { name: "Comenzar Turno Libre 2022", exact: true }).click();
+
+  await expect(page.locator("#progress")).toContainText("Pregunta 1 de 60");
+  await expect(page.locator("#source")).toContainText("Examen Turno Libre 2022.pdf · pregunta 1");
+});
+
+test("runs the postponed official 2022 exam in source order", async ({ page }) => {
+  await openApp(page);
+  await page.getByRole("button", { name: "Turno Libre 2022 aplazado" }).click();
+  await expect(page.locator("#official-2022-aplazado-catalog")).toContainText("60 preguntas cargadas");
+  await expect(page.locator("#official-2022-aplazado-catalog")).toContainText("60 respuestas");
+
+  await page.locator("#official-2022-aplazado-test-name").fill("Oficial 2022 aplazado e2e");
+  await page.getByRole("button", { name: "Comenzar Turno Libre 2022 aplazado" }).click();
+
+  await expect(page.locator("#progress")).toContainText("Pregunta 1 de 60");
+  await expect(page.locator("#source")).toContainText("Examen Turno Libre Aplazado 2022.pdf · pregunta 1");
 });
 
 test("runs a thematic test with the selected size", async ({ page }) => {

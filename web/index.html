@@ -26,6 +26,8 @@
       <nav class="navbar" aria-label="Navegación principal">
         <button class="nav-link active" data-view="welcome">Inicio</button>
         <button class="nav-link" data-view="official-2013">Turno Libre 2013</button>
+        <button class="nav-link" data-view="official-2022">Turno Libre 2022</button>
+        <button class="nav-link" data-view="official-2022-aplazado">Turno Libre 2022 aplazado</button>
         <button class="nav-link" data-view="thematic-questions">Preguntas nuevas según temario</button>
         <button class="nav-link" data-view="saved-tests">Tests guardados</button>
         <button class="nav-link" data-view="wrong-questions">Preguntas incorrectas</button>
@@ -61,6 +63,28 @@
         </label>
         <p id="official-2013-start-error" class="form-error" role="alert"></p>
         <button id="start-official-2013-test">Comenzar Turno Libre 2013</button>
+      </section>
+      <section id="official-2022" class="card" hidden>
+        <p class="badge">Examen oficial</p>
+        <h2>Turno Libre 2022</h2>
+        <p>Realiza el ejercicio ordinario completo de Auxiliar de Enfermería de la Junta de Extremadura, convocatoria de 23 de diciembre de 2022.</p>
+        <p id="official-2022-catalog">Cargando examen...</p>
+        <label>Nombre único del reto
+          <input id="official-2022-test-name" type="text" maxlength="60" placeholder="Ejemplo: Turno Libre 2022">
+        </label>
+        <p id="official-2022-start-error" class="form-error" role="alert"></p>
+        <button id="start-official-2022-test">Comenzar Turno Libre 2022</button>
+      </section>
+      <section id="official-2022-aplazado" class="card" hidden>
+        <p class="badge">Examen oficial</p>
+        <h2>Turno Libre 2022 aplazado</h2>
+        <p>Realiza el ejercicio aplazado completo de Auxiliar de Enfermería de la Junta de Extremadura, convocatoria de 23 de diciembre de 2022.</p>
+        <p id="official-2022-aplazado-catalog">Cargando examen...</p>
+        <label>Nombre único del reto
+          <input id="official-2022-aplazado-test-name" type="text" maxlength="60" placeholder="Ejemplo: Turno Libre 2022 aplazado">
+        </label>
+        <p id="official-2022-aplazado-start-error" class="form-error" role="alert"></p>
+        <button id="start-official-2022-aplazado-test">Comenzar Turno Libre 2022 aplazado</button>
       </section>
       <section id="thematic-questions" class="card" hidden>
         <p class="badge">Repaso por temario</p>

@@ -49,6 +49,7 @@ def main() -> None:
     seed_files.extend(sorted(Path("data").glob("author-answer-seeds-*.json")))
     seed_files.extend(sorted(Path("data").glob("batch-answer-seeds-*.json")))
     seed_files.extend(sorted(Path("data").glob("forced-answer-seeds-*.json")))
+    seed_files.extend(sorted(Path("data").glob("official-answer-seeds-*.json")))
     review = json.loads(review_path.read_text(encoding="utf-8"))
     updated = 0
     for seed_file in seed_files:
