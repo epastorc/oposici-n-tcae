@@ -102,7 +102,7 @@ test("runs the official 2013 exam in source order", async ({ page }) => {
 
 test("runs the official 2022 exam in source order", async ({ page }) => {
   await openApp(page);
-  await page.getByRole("button", { name: "Turno Libre 2022", exact: true }).click();
+  await page.getByRole("button", { name: "Examen 2022", exact: true }).click();
   await expect(page.locator("#official-2022-catalog")).toContainText("60 preguntas cargadas");
   await expect(page.locator("#official-2022-catalog")).toContainText("59 respuestas");
 
@@ -115,7 +115,7 @@ test("runs the official 2022 exam in source order", async ({ page }) => {
 
 test("runs the postponed official 2022 exam in source order", async ({ page }) => {
   await openApp(page);
-  await page.getByRole("button", { name: "Turno Libre 2022 aplazado" }).click();
+  await page.getByRole("button", { name: "2022 aplazado", exact: true }).click();
   await expect(page.locator("#official-2022-aplazado-catalog")).toContainText("60 preguntas cargadas");
   await expect(page.locator("#official-2022-aplazado-catalog")).toContainText("60 respuestas");
 
